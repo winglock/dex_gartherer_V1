@@ -1,0 +1,89 @@
+﻿cargo :     Checking 
+dex-gatherer v0.1.0 (
+C:\Users\ehdrjs10w\De
+sktop\wlr\dex-gathere
+r)
+위치 줄:1 문자:1
++ cargo check 2>&1 | 
+Out-File check_errors
+.txt -Encoding UTF8; 
+Get-Cont ...
++ ~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (    Che   
+ cking de...r\dex    
+-gatherer):Strin    g
+) [], RemoteExc    ep
+tion
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+warning: unused varia
+ble: `cex_prices`
+   --> src\main.rs:20
+3:21
+    |
+203 |                
+ let cex_prices = sta
+te.upbit.get_all_pric
+es();
+    |                
+     ^^^^^^^^^^ help:
+ if this is intention
+al, prefix it with an
+ underscore: `_cex_pr
+ices`
+    |
+    = note: `#[warn(u
+nused_variables)]` on
+ by default
+
+error: implementation
+ of `FnOnce` is not g
+eneral enough
+  --> src\main.rs:69:
+5
+   |
+69 | /     tokio::spa
+wn(async move {
+70 | |         loop {
+71 | |             le
+t result = collector_
+clone.collect_progres
+sive(&symbols_clone).
+await;
+72 | |             tr
+acing::info!(
+...  |
+80 | |     });
+   | |______^ impleme
+ntation of `FnOnce` i
+s not general enough
+   |
+   = note: closure wi
+th signature `fn(&'0 
+std::string::String) 
+-> {async block@src\s
+ervices\collector.rs:
+109:17: 109:27}` must
+ implement `FnOnce<(&
+'1 std::string::Strin
+g,)>`, for any two li
+fetimes `'0` and `'1`
+...
+   = note: ...but it 
+actually implements `
+FnOnce<(&std::string:
+:String,)>`
+
+warning: `dex-gathere
+r` (bin "dex-gatherer
+") generated 1 warnin
+g
+error: could not comp
+ile `dex-gatherer` (b
+in "dex-gatherer") du
+e to 1 previous error
+; 1 warning emitted

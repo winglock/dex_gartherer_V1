@@ -116,7 +116,7 @@ impl PoolSource for DexGuruSource {
         let mut pools = Vec::new();
 
         // 여러 체인에서 0x 가격 조회
-        for (chain_id, chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon")] {
+        for (chain_id, _chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon")] {
             if let Ok(chain_pools) = self.fetch_0x(chain_id, symbol, symbol).await {
                 pools.extend(chain_pools);
             }

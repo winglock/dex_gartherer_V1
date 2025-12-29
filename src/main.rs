@@ -2,12 +2,15 @@ mod config;
 mod models;
 mod sources;
 mod services;
-mod api;
 
 use std::sync::Arc;
-use axum::{Router, routing::get, extract::State};
-use axum::extract::ws::{WebSocket, WebSocketUpgrade, Message};
-use axum::response::IntoResponse;
+use std::sync::atomic::Ordering;
+use axum::{
+    Router, 
+    routing::get,
+    extract::{State, ws::{WebSocket, WebSocketUpgrade, Message}},
+    response::IntoResponse,
+};
 use tower_http::cors::CorsLayer;
 use tracing_subscriber::{layer::SubscriberExt, util::SubscriberInitExt};
 use tokio::time::{interval, Duration};
@@ -25,41 +28,68 @@ pub struct AppState {
     pub symbols: Vec<String>,
 }
 
-#[tokio::main]
+#[tokio::main(worker_threads = 4)]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    // 로깅 초기화
+    // Initialize logging
     tracing_subscriber::registry()
-        .with(tracing_subscriber::EnvFilter::new(
-            std::env::var("RUST_LOG").unwrap_or_else(|_| "info".into()),
-        ))
+        .with(
+            tracing_subscriber::EnvFilter::try_from_default_env()
+                .unwrap_or_else(|_| "info,dex_gatherer=debug".into()),
+        )
         .with(tracing_subscriber::fmt::layer())
         .init();
 
-    // 설정 로드
-    let config = Config::load().expect("Failed to load config.toml");
-    tracing::info!("Config loaded: threshold={}%, update={}s", 
-        config.arbitrage.threshold * 100.0,
-        config.arbitrage.update_interval);
+    println!("\n🚀 DEX Pool Monitor Starting...\n");
 
-    // 업비트에서 KRW 코인 목록 가져오기
+    // Load configuration
+    let config = Config::load()?;
+    tracing::info!("✓ Configuration loaded");
+
+    // Initialize Upbit client
+    println!("📡 Connecting to Upbit...");
     let upbit = Arc::new(UpbitClient::new());
-    let symbols = upbit.fetch_krw_coins().await.unwrap_or_else(|e| {
-        tracing::error!("Failed to fetch Upbit coins: {}", e);
-        vec!["BTC".to_string(), "ETH".to_string()]
-    });
-    tracing::info!("Loaded {} symbols from Upbit", symbols.len());
+    let symbols = upbit.fetch_krw_coins().await?;
+    tracing::info!("✓ Loaded {} KRW pairs", symbols.len());
 
-    // 업비트 WebSocket 시작
-    if let Err(e) = upbit.start_websocket(symbols.clone()).await {
-        tracing::warn!("Upbit WebSocket failed: {}", e);
-    }
+    // Start Upbit WebSocket
+    upbit.start_websocket(symbols.clone()).await?;
+    tokio::time::sleep(Duration::from_secs(2)).await;
+    tracing::info!("✓ Upbit WebSocket connected");
 
-    // 서비스 초기화
-    let cache = Arc::new(PoolCache::new(config.arbitrage.update_interval));
+    // Initialize services
+    let cache = Arc::new(PoolCache::new(120));
     let filter = PoolFilter::new(&config.filter);
     let collector = Arc::new(PoolCollector::new(cache.clone(), filter));
     let detector = Arc::new(ArbitrageDetector::new(config.arbitrage.threshold));
 
+    // Background: Initial progressive collection
+    println!("\n📥 Starting pool collection...\n");
+    let collector_clone = collector.clone();
+    let symbols_clone = symbols.clone();
+    tokio::spawn(async move {
+        loop {
+            let result = collector_clone.collect_progressive(&symbols_clone).await;
+            tracing::info!(
+                "✓ Cycle complete: {} pools | {}/{} requests",
+                result.total,
+                result.successful,
+                result.successful + result.failed
+            );
+            tokio::time::sleep(Duration::from_secs(300)).await; // 5 min
+        }
+    });
+
+    // Background: Cache cleanup
+    let cache_clone = cache.clone();
+    tokio::spawn(async move {
+        let mut ticker = interval(Duration::from_secs(60));
+        loop {
+            ticker.tick().await;
+            cache_clone.cleanup_if_needed();
+        }
+    });
+
+    // Application state
     let state = Arc::new(AppState {
         collector,
         detector,
@@ -68,21 +98,18 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         symbols,
     });
 
-    // 초기 수집은 백그라운드에서 (서버 빠른 시작)
-    tracing::info!("Server starting, pool collection will happen on first request");
-
-    // 라우터  
+    // Router
     let app = Router::new()
-        .route("/pools", get(get_pools))
         .route("/pools/cached", get(get_cached_pools))
         .route("/arbitrage", get(get_arbitrage))
         .route("/health", get(health))
+        .route("/stats", get(get_stats))
         .route("/ws", get(ws_handler))
         .layer(CorsLayer::permissive())
         .with_state(state);
 
     let addr = format!("{}:{}", config.server.host, config.server.port);
-    tracing::info!("Starting server on {}", addr);
+    println!("\n✓ Server ready on http://{}\n", addr);
 
     let listener = tokio::net::TcpListener::bind(&addr).await?;
     axum::serve(listener, app).await?;
@@ -90,29 +117,51 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     Ok(())
 }
 
-// REST handlers
-async fn get_pools(State(state): State<Arc<AppState>>) -> axum::Json<Vec<models::PoolData>> {
-    let pools = state.collector.collect_all(&state.symbols).await;
+// REST Handlers
+async fn get_cached_pools(
+    State(state): State<Arc<AppState>>
+) -> axum::Json<Vec<models::PoolData>> {
+    // Arc를 벗겨서 PoolData 직접 반환
+    let pools: Vec<models::PoolData> = state.cache.get_all()
+        .into_iter()
+        .map(|arc_pool| (*arc_pool).clone())
+        .collect();
     axum::Json(pools)
 }
 
-async fn get_cached_pools(State(state): State<Arc<AppState>>) -> axum::Json<Vec<models::PoolData>> {
-    axum::Json(state.cache.get_all())
-}
-
-async fn get_arbitrage(State(state): State<Arc<AppState>>) -> axum::Json<Vec<models::ArbitrageAlert>> {
+async fn get_arbitrage(
+    State(state): State<Arc<AppState>>
+) -> axum::Json<Vec<models::ArbitrageAlert>> {
     let pools = state.cache.get_all();
     let cex_prices = state.upbit.get_all_prices();
+    
     let mut alerts = state.detector.detect_dex_dex(&pools);
     alerts.extend(state.detector.detect_dex_cex(&pools, &cex_prices));
+    
     axum::Json(alerts)
+}
+
+async fn get_stats(
+    State(state): State<Arc<AppState>>
+) -> axum::Json<serde_json::Value> {
+    let stats = state.collector.get_stats();
+    
+    axum::Json(serde_json::json!({
+        "cache_pools": state.cache.len(),
+        "symbols": state.symbols.len(),
+        "total_requests": stats.total_requests.load(Ordering::Relaxed),
+        "successful": stats.successful.load(Ordering::Relaxed),
+        "failed": stats.failed.load(Ordering::Relaxed),
+        "pools_collected": stats.pools_collected.load(Ordering::Relaxed),
+        "upbit_prices": state.upbit.get_all_prices().len(),
+    }))
 }
 
 async fn health() -> &'static str {
     "OK"
 }
 
-// WebSocket handler
+// WebSocket Handler
 async fn ws_handler(
     ws: WebSocketUpgrade,
     State(state): State<Arc<AppState>>,
@@ -122,47 +171,57 @@ async fn ws_handler(
 
 async fn handle_socket(socket: WebSocket, state: Arc<AppState>) {
     let (mut sender, mut receiver) = socket.split();
-    let mut ticker = interval(Duration::from_secs(30));
+    let mut update_ticker = interval(Duration::from_secs(30));
+    let mut heartbeat_ticker = interval(Duration::from_secs(10));
 
     loop {
         tokio::select! {
-            _ = ticker.tick() => {
-                let pools = state.collector.collect_all(&state.symbols).await;
-                let cex_prices = state.upbit.get_all_prices();
-                let mut alerts = state.detector.detect_dex_dex(&pools);
-                alerts.extend(state.detector.detect_dex_cex(&pools, &cex_prices));
-
-                let pool_msg = serde_json::json!({
-                    "type": "pool_update",
-                    "count": pools.len(),
-                    "data": pools,
-                });
-                if sender.send(Message::Text(pool_msg.to_string())).await.is_err() {
-                    break;
+            _ = update_ticker.tick() => {
+                let pools = state.cache.get_all();
+                
+                // Send in chunks - convert Arc to references for serialization
+                for chunk in pools.chunks(50) {
+                    let chunk_data: Vec<&models::PoolData> = chunk.iter()
+                        .map(|arc| arc.as_ref())
+                        .collect();
+                    
+                    let msg = serde_json::json!({
+                        "type": "pool_update",
+                        "data": chunk_data,
+                    });
+                    
+                    match tokio::time::timeout(
+                        Duration::from_secs(5),
+                        sender.send(Message::Text(msg.to_string()))
+                    ).await {
+                        Ok(Ok(_)) => {},
+                        _ => return,
+                    }
                 }
 
+                // Arbitrage alerts
+                let cex_prices = state.upbit.get_all_prices();
+                let alerts = state.detector.detect_dex_dex(&pools);
+                
                 if !alerts.is_empty() {
-                    let alert_msg = serde_json::json!({
+                    let msg = serde_json::json!({
                         "type": "arb_alert",
-                        "count": alerts.len(),
                         "data": alerts,
                     });
-                    if sender.send(Message::Text(alert_msg.to_string())).await.is_err() {
-                        break;
-                    }
+                    let _ = sender.send(Message::Text(msg.to_string())).await;
+                }
+            }
+
+            _ = heartbeat_ticker.tick() => {
+                if sender.send(Message::Ping(vec![])).await.is_err() {
+                    return;
                 }
             }
 
             msg = receiver.next() => {
                 match msg {
-                    Some(Ok(Message::Text(text))) => {
-                        if let Ok(cmd) = serde_json::from_str::<serde_json::Value>(&text) {
-                            if cmd["type"] == "ping" {
-                                let _ = sender.send(Message::Text(r#"{"type":"pong"}"#.to_string())).await;
-                            }
-                        }
-                    }
-                    Some(Ok(Message::Close(_))) | None => break,
+                    Some(Ok(Message::Close(_))) | None => return,
+                    Some(Ok(Message::Pong(_))) => {},
                     _ => {}
                 }
             }

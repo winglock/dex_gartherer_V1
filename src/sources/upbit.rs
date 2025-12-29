@@ -41,7 +41,7 @@ impl UpbitClient {
         self.prices.iter().map(|p| p.value().clone()).collect()
     }
 
-    pub async fn start_websocket(&self, symbols: Vec<String>) -> Result<(), Box<dyn std::error::Error + Send + Sync>> {
+    pub async fn start_websocket(&self, symbols: Vec<String>) -> Result<(), Box<dyn std::error::Error>> {
         let url = "wss://api.upbit.com/websocket/v1";
         let (ws_stream, _) = connect_async(url).await?;
         let (mut write, mut read) = ws_stream.split();

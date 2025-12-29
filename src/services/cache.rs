@@ -1,57 +1,71 @@
-use dashmap::DashMap;
+use parking_lot::RwLock;
+use std::sync::Arc;
+use std::collections::HashMap;
 use std::time::{Duration, Instant};
 use crate::models::PoolData;
 
 pub struct PoolCache {
-    cache: DashMap<String, CacheEntry>,
+    cache: Arc<RwLock<HashMap<String, Arc<PoolData>>>>,
     ttl: Duration,
-}
-
-struct CacheEntry {
-    data: PoolData,
-    inserted_at: Instant,
+    last_cleanup: Arc<RwLock<Instant>>,
 }
 
 impl PoolCache {
     pub fn new(ttl_seconds: u64) -> Self {
         Self {
-            cache: DashMap::new(),
+            cache: Arc::new(RwLock::new(HashMap::new())),
             ttl: Duration::from_secs(ttl_seconds),
+            last_cleanup: Arc::new(RwLock::new(Instant::now())),
         }
     }
 
-    pub fn get(&self, key: &str) -> Option<PoolData> {
-        if let Some(entry) = self.cache.get(key) {
-            if entry.inserted_at.elapsed() < self.ttl {
-                return Some(entry.data.clone());
-            }
-            drop(entry);
-            self.cache.remove(key);
-        }
-        None
+    /// Zero-copy retrieval - returns Arc clone (pointer only)
+    pub fn get(&self, key: &str) -> Option<Arc<PoolData>> {
+        let cache = self.cache.read();
+        cache.get(key).cloned()
     }
 
-    pub fn set(&self, key: &str, data: PoolData) {
-        self.cache.insert(key.to_string(), CacheEntry {
-            data,
-            inserted_at: Instant::now(),
+    /// Single insertion
+    pub fn insert(&self, key: String, pool: PoolData) {
+        let mut cache = self.cache.write();
+        cache.insert(key, Arc::new(pool));
+    }
+
+    /// Zero-copy all pools
+    pub fn get_all(&self) -> Vec<Arc<PoolData>> {
+        let cache = self.cache.read();
+        cache.values().cloned().collect()
+    }
+
+    /// Smart cleanup (only when needed)
+    pub fn cleanup_if_needed(&self) {
+        let mut last_cleanup = self.last_cleanup.write();
+        if last_cleanup.elapsed() < Duration::from_secs(60) {
+            return;
+        }
+
+        let now = Instant::now();
+        let mut cache = self.cache.write();
+        let before = cache.len();
+
+        cache.retain(|_, pool| {
+            let age = now.duration_since(
+                Instant::now() - Duration::from_secs(
+                    now.elapsed().as_secs().saturating_sub(pool.timestamp as u64)
+                )
+            );
+            age < self.ttl
         });
-    }
 
-    pub fn get_all(&self) -> Vec<PoolData> {
-        let now = Instant::now();
-        self.cache.iter()
-            .filter(|e| now.duration_since(e.inserted_at) < self.ttl)
-            .map(|e| e.data.clone())
-            .collect()
-    }
+        let removed = before - cache.len();
+        if removed > 0 {
+            tracing::info!("🧹 Cleaned {} expired pools", removed);
+        }
 
-    pub fn cleanup(&self) {
-        let now = Instant::now();
-        self.cache.retain(|_, entry| now.duration_since(entry.inserted_at) < self.ttl);
+        *last_cleanup = now;
     }
 
     pub fn len(&self) -> usize {
-        self.cache.len()
+        self.cache.read().len()
     }
 }

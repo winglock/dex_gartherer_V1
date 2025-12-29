@@ -1,6 +1,7 @@
 use crate::models::PoolData;
 use crate::config::FilterConfig;
 
+#[derive(Clone)]
 pub struct PoolFilter {
     min_lp: f64,
     min_volume: f64,

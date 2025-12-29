@@ -15,12 +15,15 @@ dashmap = "6"
 chrono = { version = "0.4", features = ["serde"] }
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
-futures = "0.3"
+futures = { version = "0.3", features = ["std"] }
 tower-http = { version = "0.5", features = ["cors"] }
 async-trait = "0.1"
+indicatif = "0.17"
+parking_lot = "0.12"
 
 [profile.release]
-lto = true
-codegen-units = 1
+lto = "thin"
+codegen-units = 4
+opt-level = 2
 panic = "abort"
 strip = true

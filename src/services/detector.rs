@@ -1,9 +1,10 @@
 use crate::models::{PoolData, ArbitrageAlert, alert::ArbType};
 use crate::sources::upbit::CexPrice;
 use std::collections::HashMap;
+use std::sync::Arc;
 
 pub struct ArbitrageDetector {
-    threshold: f64, // 기본 1% = 0.01
+    threshold: f64,
 }
 
 impl ArbitrageDetector {
@@ -11,23 +12,20 @@ impl ArbitrageDetector {
         Self { threshold }
     }
 
-    /// DEX-DEX 아비트라지 탐지
-    pub fn detect_dex_dex(&self, pools: &[PoolData]) -> Vec<ArbitrageAlert> {
+    /// DEX-DEX arbitrage detection (Arc optimized)
+    pub fn detect_dex_dex(&self, pools: &[Arc<PoolData>]) -> Vec<ArbitrageAlert> {
         let mut alerts = Vec::new();
 
-        // 심볼별 그룹화
         let mut by_symbol: HashMap<&str, Vec<&PoolData>> = HashMap::new();
         for pool in pools {
-            by_symbol.entry(&pool.symbol).or_default().push(pool);
+            by_symbol.entry(&pool.symbol).or_default().push(pool.as_ref());
         }
 
-        // 각 심볼별로 가격 비교
         for (_symbol, symbol_pools) in by_symbol {
             if symbol_pools.len() < 2 {
                 continue;
             }
 
-            // 최저가, 최고가 찾기
             let mut min_pool = symbol_pools[0];
             let mut max_pool = symbol_pools[0];
 
@@ -54,11 +52,10 @@ impl ArbitrageDetector {
         alerts
     }
 
-    /// DEX-CEX 아비트라지 탐지
-    pub fn detect_dex_cex(&self, pools: &[PoolData], cex_prices: &[CexPrice]) -> Vec<ArbitrageAlert> {
+    /// DEX-CEX arbitrage detection (Arc optimized)
+    pub fn detect_dex_cex(&self, pools: &[Arc<PoolData>], cex_prices: &[CexPrice]) -> Vec<ArbitrageAlert> {
         let mut alerts = Vec::new();
 
-        // CEX 가격 맵
         let cex_map: HashMap<&str, &CexPrice> = cex_prices.iter()
             .map(|p| (p.symbol.as_str(), p))
             .collect();
@@ -99,6 +96,7 @@ impl ArbitrageDetector {
         alerts
     }
 
+    #[allow(dead_code)]
     pub fn set_threshold(&mut self, threshold: f64) {
         self.threshold = threshold;
     }

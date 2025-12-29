@@ -1,0 +1,626 @@
+﻿cargo :     Checking 
+dex-gatherer v0.1.0 (
+C:\Users\ehdrjs10w\De
+sktop\wlr\dex-gathere
+r)
+위치 줄:1 문자:1
++ cargo check 2>&1 | 
+Out-File -FilePath er
+rors_utf8.txt -Encodi
+ng UTF8; ...
++ ~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpeci
+fied: (    C    hecki
+ng de...r\dex-gath   
+ erer):String) [], Re
+mot    eException
+    + FullyQualifiedE
+rrorId     : NativeCo
+mmandError
+ 
+warning: unused impor
+t: `rest::create_rest
+_router`
+ --> src\api\mod.rs:4
+:9
+  |
+4 | pub use rest::cre
+ate_rest_router;
+  |         ^^^^^^^^^
+^^^^^^^^^^^^^^^
+  |
+  = note: `#[warn(unu
+sed_imports)]` on by 
+default
+
+warning: unused impor
+t: `websocket::ws_han
+dler`
+ --> src\api\mod.rs:5
+:9
+  |
+5 | pub use websocket
+::ws_handler;
+  |         ^^^^^^^^^
+^^^^^^^^^^^^
+
+error[E0277]: the tra
+it bound `Arc<PoolDat
+a>: serde::Serialize`
+ is not satisfied
+   --> src\main.rs:18
+0:31
+    |
+180 |                
+       let msg = serd
+e_json::json!({
+    |  ______________
+_________________^
+181 | |              
+           "type": "p
+ool_update",
+182 | |              
+           "data": ch
+unk,
+183 | |              
+       });
+    | |              
+        ^
+    | |              
+        |
+    | |______________
+________the trait `Se
+rialize` is not imple
+mented for `Arc<PoolD
+ata>`
+    |                
+        required by a
+ bound introduced by 
+this call
+    |
+    = note: for local
+ types consider addin
+g `#[derive(serde::Se
+rialize)]` to your `A
+rc<PoolData>` type
+    = note: for types
+ from other crates ch
+eck whether the crate
+ offers a `serde` fea
+ture flag
+    = help: the follo
+wing other types impl
+ement trait `Serializ
+e`:
+              &'a T
+              &'a mut
+ T
+              ()
+              (T,)
+              (T0, T1
+)
+              (T0, T1
+, T2)
+              (T0, T1
+, T2, T3)
+              (T0, T1
+, T2, T3, T4)
+            and 149 o
+thers
+    = note: required 
+for `[Arc<PoolData>]`
+ to implement `Serial
+ize`
+    = note: 2 redunda
+nt requirements hidde
+n
+    = note: required 
+for `&&[Arc<PoolData>
+]` to implement `Seri
+alize`
+note: required by a b
+ound in `to_value`
+   --> C:\Users\ehdrj
+s10w\.cargo\registry\
+src\index.crates.io-1
+949cf8c6b5b557f\serde
+_json-1.0.148\src\val
+ue\mod.rs:997:8
+    |
+995 | pub fn to_value
+<T>(value: T) -> Resu
+lt<Value, Error>
+    |        --------
+ required by a bound 
+in this function
+996 | where
+997 |     T: Serializ
+e,
+    |        ^^^^^^^^
+^ required by this bo
+und in `to_value`
+    = note: this erro
+r originates in the m
+acro `$crate::json_in
+ternal` which comes f
+rom the expansion of 
+the macro `serde_json
+::json` (in Nightly b
+uilds, run with -Z ma
+cro-backtrace for mor
+e info)
+
+error[E0599]: no meth
+od named `collect_all
+` found for struct `A
+rc<PoolCollector>` in
+ the current scope
+  --> src\api\rest.rs
+:22:33
+   |
+22 |     let pools = 
+state.collector.colle
+ct_all(&state.symbols
+).await;
+   |                 
+                ^^^^^
+^^^^^^ method not fou
+nd in `Arc<PoolCollec
+tor>`
+
+error[E0308]: mismatc
+hed types
+  --> src\api\rest.rs
+:28:10
+   |
+28 |     Json(state.c
+ache.get_all())
+   |     ---- ^^^^^^^
+^^^^^^^^^^^^^^ expect
+ed `Vec<PoolData>`, f
+ound `Vec<Arc<PoolDat
+a>>`
+   |     |
+   |     arguments to
+ this struct are inco
+rrect
+   |
+   = note: expected s
+truct `Vec<PoolData>`
+              found s
+truct `Vec<Arc<PoolDa
+ta>>`
+help: the type constr
+ucted contains `Vec<A
+rc<PoolData>>` due to
+ the type of the argu
+ment passed
+  --> src\api\rest.rs
+:28:5
+   |
+28 |     Json(state.c
+ache.get_all())
+   |     ^^^^^-------
+--------------^
+   |          |
+   |          this ar
+gument influences the
+ type of `Json`
+note: tuple struct de
+fined here
+  --> C:\Users\ehdrjs
+10w\.cargo\registry\s
+rc\index.crates.io-19
+49cf8c6b5b557f\axum-0
+.7.9\src\json.rs:97:1
+2
+   |
+97 | pub struct Json<
+T>(pub T);
+   |            ^^^^
+
+error[E0599]: no meth
+od named `collect_all
+` found for struct `A
+rc<PoolCollector>` in
+ the current scope
+  --> src\api\websock
+et.rs:29:45
+   |
+29 |                 
+let pools = state.col
+lector.collect_all(&s
+tate.symbols).await;
+   |                 
+                     
+       ^^^^^^^^^^^ me
+thod not found in `Ar
+c<PoolCollector>`
+
+error[E0277]: the siz
+e for values of type 
+`[Arc<PoolData>]` can
+not be known at compi
+lation time
+  --> src\api\websock
+et.rs:29:21
+   |
+29 |                 
+let pools = state.col
+lector.collect_all(&s
+tate.symbols).await;
+   |                 
+    ^^^^^ doesn't hav
+e a size known at com
+pile-time
+   |
+   = help: the trait 
+`Sized` is not implem
+ented for `[Arc<PoolD
+ata>]`
+   = note: all local 
+variables must have a
+ statically known siz
+e
+   = help: unsized lo
+cals are gated as an 
+unstable feature
+
+error[E0277]: the siz
+e for values of type 
+`[Arc<PoolData>]` can
+not be known at compi
+lation time
+  --> src\api\websock
+et.rs:29:29
+   |
+29 |                 
+let pools = state.col
+lector.collect_all(&s
+tate.symbols).await;
+   |                 
+            ^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^ d
+oesn't have a size kn
+own at compile-time
+   |
+   = help: the trait 
+`Sized` is not implem
+ented for `[Arc<PoolD
+ata>]`
+   = note: all local 
+variables must have a
+ statically known siz
+e
+   = help: unsized lo
+cals are gated as an 
+unstable feature
+
+error[E0277]: the siz
+e for values of type 
+`[Arc<PoolData>]` can
+not be known at compi
+lation time
+  --> src\api\websock
+et.rs:29:73
+   |
+29 |                 
+let pools = state.col
+lector.collect_all(&s
+tate.symbols).await;
+   |                 
+                     
+                     
+              ^^^^^ d
+oesn't have a size kn
+own at compile-time
+   |
+   = help: the trait 
+`Sized` is not implem
+ented for `[Arc<PoolD
+ata>]`
+note: required by a b
+ound in `std::task::P
+oll::Ready`
+  --> C:\Users\ehdrjs
+10w\.rustup\toolchain
+s\stable-x86_64-pc-wi
+ndows-msvc\lib/rustli
+b/src/rust\library\co
+re\src\task\poll.rs:1
+4:15
+   |
+14 | pub enum Poll<T>
+ {
+   |               ^ 
+required by this boun
+d in `Poll::Ready`
+...
+18 |     Ready(#[stab
+le(feature = "futures
+_api", since = "1.36.
+0")] T),
+   |     ----- requir
+ed by a bound in this
+ variant
+
+error[E0277]: the tra
+it bound `Arc<PoolDat
+a>: serde::Serialize`
+ is not satisfied
+   --> src\api\websoc
+ket.rs:37:32
+    |
+37  |                
+   let pool_msg = ser
+de_json::json!({
+    |  ______________
+__________________^
+38  | |              
+       "type": "pool_
+update",
+39  | |              
+       "count": pools
+.len(),
+40  | |              
+       "data": pools,
+41  | |              
+   });
+    | |              
+    ^
+    | |              
+    |
+    | |______________
+____the trait `Serial
+ize` is not implement
+ed for `Arc<PoolData>
+`
+    |                
+    required by a bou
+nd introduced by this
+ call
+    |
+    = note: for local
+ types consider addin
+g `#[derive(serde::Se
+rialize)]` to your `A
+rc<PoolData>` type
+    = note: for types
+ from other crates ch
+eck whether the crate
+ offers a `serde` fea
+ture flag
+    = help: the follo
+wing other types impl
+ement trait `Serializ
+e`:
+              &'a T
+              &'a mut
+ T
+              ()
+              (T,)
+              (T0, T1
+)
+              (T0, T1
+, T2)
+              (T0, T1
+, T2, T3)
+              (T0, T1
+, T2, T3, T4)
+            and 149 o
+thers
+    = note: required 
+for `[Arc<PoolData>]`
+ to implement `Serial
+ize`
+    = note: 1 redunda
+nt requirement hidden
+    = note: required 
+for `&[Arc<PoolData>]
+` to implement `Seria
+lize`
+note: required by a b
+ound in `to_value`
+   --> C:\Users\ehdrj
+s10w\.cargo\registry\
+src\index.crates.io-1
+949cf8c6b5b557f\serde
+_json-1.0.148\src\val
+ue\mod.rs:997:8
+    |
+995 | pub fn to_value
+<T>(value: T) -> Resu
+lt<Value, Error>
+    |        --------
+ required by a bound 
+in this function
+996 | where
+997 |     T: Serializ
+e,
+    |        ^^^^^^^^
+^ required by this bo
+und in `to_value`
+    = note: this erro
+r originates in the m
+acro `$crate::json_in
+ternal` which comes f
+rom the expansion of 
+the macro `serde_json
+::json` (in Nightly b
+uilds, run with -Z ma
+cro-backtrace for mor
+e info)
+
+error[E0277]: the tra
+it bound `fn(State<Ar
+c<AppState>>) -> ... 
+{get_cached_pools}: H
+andler<_, _>` is not 
+satisfied
+   --> src\main.rs:10
+4:37
+    |
+104 |         .route(
+"/pools/cached", get(
+get_cached_pools))
+    |                
+                 --- 
+^^^^^^^^^^^^^^^^ the 
+trait `Handler<_, _>`
+ is not implemented f
+or fn item `fn(State<
+Arc<AppState>>) -> ..
+. {get_cached_pools}`
+    |                
+                 |
+    |                
+                 requ
+ired by a bound intro
+duced by this call
+    |
+    = note: Consider 
+using `#[axum::debug_
+handler]` to improve 
+the error message
+    = help: the follo
+wing other types impl
+ement trait `Handler<
+T, S>`:
+              `Method
+Router<S>` implements
+ `Handler<(), S>`
+              `axum::
+handler::Layered<L, H
+, T, S>` implements `
+Handler<T, S>`
+note: required by a b
+ound in `axum::routin
+g::get`
+   --> C:\Users\ehdrj
+s10w\.cargo\registry\
+src\index.crates.io-1
+949cf8c6b5b557f\axum-
+0.7.9\src\routing\met
+hod_routing.rs:439:1
+    |
+439 | top_level_handl
+er_fn!(get, GET);
+    | ^^^^^^^^^^^^^^^
+^^^^^^^---^^^^^^
+    | |              
+       |
+    | |              
+       required by a 
+bound in this functio
+n
+    | required by thi
+s bound in `get`
+    = note: the full 
+name for the type has
+ been written to 'C:\
+Users\ehdrjs10w\Deskt
+op\wlr\dex-gatherer\t
+arget\debug\deps\dex_
+gatherer-44dec49de4e6
+e958.long-type-136783
+25238407938804.txt'
+    = note: consider 
+using `--verbose` to 
+print the full type n
+ame to the console
+    = note: this erro
+r originates in the m
+acro `top_level_handl
+er_fn` (in Nightly bu
+ilds, run with -Z mac
+ro-backtrace for more
+ info)
+
+error[E0277]: the siz
+e for values of type 
+`dyn StdError + std::
+marker::Send + Sync` 
+cannot be known at co
+mpilation time
+  --> src\main.rs:56:
+49
+   |
+56 |     upbit.start_
+websocket(symbols.clo
+ne()).await?;
+   |                 
+                     
+           ^ doesn't 
+have a size known at 
+compile-time
+   |
+   = help: the trait 
+`Sized` is not implem
+ented for `dyn StdErr
+or + std::marker::Sen
+d + Sync`
+   = help: the trait 
+`FromResidual<Result<
+Infallible, E>>` is i
+mplemented for `Resul
+t<T, F>`
+   = note: required f
+or `Box<dyn StdError 
++ std::marker::Send +
+ Sync>` to implement 
+`StdError`
+   = note: required f
+or `Box<dyn StdError>
+` to implement `From<
+Box<dyn StdError + st
+d::marker::Send + Syn
+c>>`
+   = note: required f
+or `Result<(), Box<dy
+n StdError>>` to impl
+ement `FromResidual<R
+esult<Infallible, Box
+<dyn StdError + std::
+marker::Send + Sync>>
+>`
+
+warning: unused varia
+ble: `chain_name`
+   --> src\sources\de
+xguru.rs:119:24
+    |
+119 |         for (ch
+ain_id, chain_name) i
+n [(1u32, "ethereum")
+, (56, "bsc"), (137, 
+"polygon")] {
+    |                
+        ^^^^^^^^^^ he
+lp: if this is intent
+ional, prefix it with
+ an underscore: `_cha
+in_name`
+    |
+    = note: `#[warn(u
+nused_variables)]` on
+ by default
+
+Some errors have deta
+iled explanations: E0
+277, E0308, E0599.
+For more information 
+about an error, try `
+rustc --explain E0277
+`.
+warning: `dex-gathere
+r` (bin "dex-gatherer
+") generated 3 warnin
+gs
+error: could not comp
+ile `dex-gatherer` (b
+in "dex-gatherer") du
+e to 10 previous erro
+rs; 3 warnings emitte
+d
