@@ -260,6 +260,7 @@ dependencies = [
  "dashmap",
  "futures",
  "indicatif",
+ "lazy_static",
  "parking_lot",
  "reqwest",
  "serde",

@@ -9,7 +9,7 @@ use crate::sources::{
     PoolSource, 
     gecko::GeckoTerminal, 
     aggregators::{DexScreenerSource, MatchaSource},
-    meta_agg::MetaAggSource,
+    meta_agg::{KyberSwapDirectSource, OpenOceanDirectSource, ParaSwapDirectSource},
 };
 use super::{PoolCache, PoolFilter};
 
@@ -40,12 +40,14 @@ pub struct PoolCollector {
 impl PoolCollector {
     pub fn new(cache: Arc<PoolCache>, filter: PoolFilter) -> Self {
         Self {
-            // All active sources (4 APIs)
+            // All 6 active sources (no external server needed!)
             sources: vec![
-                Arc::new(GeckoTerminal::new()),      // Pool data with LP/volume
-                Arc::new(DexScreenerSource::new()), // Reliable DEX data
-                Arc::new(MatchaSource::new()),      // Token search (16 chains)
-                Arc::new(MetaAggSource::new("http://localhost:8000")), // 1inch, ParaSwap, KyberSwap, OpenOcean
+                Arc::new(GeckoTerminal::new()),          // Pool data + LP/volume
+                Arc::new(DexScreenerSource::new()),     // DEX pairs
+                Arc::new(MatchaSource::new()),          // Token search (16 chains)
+                Arc::new(KyberSwapDirectSource::new()), // KyberSwap direct API
+                Arc::new(OpenOceanDirectSource::new()), // OpenOcean direct API
+                Arc::new(ParaSwapDirectSource::new()),  // ParaSwap direct API
             ],
             cache,
             filter,
