@@ -1,0 +1,12 @@
+[arbitrage]
+threshold = 0.01       # 1% 가격 차이 시 알림
+update_interval = 30   # 초
+
+[filter]
+min_lp = 1000          # 최소 LP (USD)
+min_volume = 100       # 최소 24h 거래량 (USD)
+min_tx_count = 5       # 최소 거래 건수
+
+[server]
+host = "0.0.0.0"
+port = 3000
