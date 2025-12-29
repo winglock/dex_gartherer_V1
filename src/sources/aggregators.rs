@@ -5,401 +5,150 @@ use std::time::Duration;
 use crate::models::PoolData;
 use super::{PoolSource, SourceError};
 
-/// 1inch Aggregator - extracts pool addresses from route
-pub struct OneInchSource {
+// L1 tokens that need W-prefix search for wrapped versions
+const L1_TOKENS: &[&str] = &[
+    "BTC", "ETH", "SOL", "ADA", "XRP", "DOGE", "DOT", "AVAX", "ATOM", "NEAR",
+    "ALGO", "FIL", "HBAR", "VET", "FLOW", "XLM", "THETA", "EGLD", "NEO", "QTUM",
+    "WAVES", "IOTA", "CKB", "KAVA", "ARK", "LSK", "ASTR", "BCH", "ETC", "TRX",
+    "SUI", "APT", "SEI", "CELO", "CRO", "RVN", "TT", "OM", "AKT", "G"
+];
+
+/// Check if symbol is L1 token
+pub fn is_l1_token(symbol: &str) -> bool {
+    L1_TOKENS.contains(&symbol.to_uppercase().as_str())
+}
+
+/// Get wrapped symbol variants
+pub fn get_search_variants(symbol: &str) -> Vec<String> {
+    let upper = symbol.to_uppercase();
+    if is_l1_token(&upper) {
+        vec![
+            upper.clone(),
+            format!("W{}", upper),  // WBTC, WETH, etc.
+        ]
+    } else {
+        vec![upper]
+    }
+}
+
+/// DexScreener - Most reliable DEX data API
+pub struct DexScreenerSource {
     client: Client,
 }
 
-impl OneInchSource {
+impl DexScreenerSource {
     pub fn new() -> Self {
         Self {
             client: Client::builder()
-                .timeout(Duration::from_secs(8))
-                .build()
-                .unwrap(),
-        }
-    }
-
-    async fn fetch_chain(&self, chain_id: u32, symbol: &str) -> Vec<PoolData> {
-        let chain_name = match chain_id {
-            1 => "ethereum",
-            56 => "bsc",
-            137 => "polygon",
-            42161 => "arbitrum",
-            10 => "optimism",
-            8453 => "base",
-            _ => return vec![],
-        };
-
-        // 1inch Quote API with protocols info
-        let url = format!(
-            "https://api.1inch.dev/swap/v6.0/{}/quote?src=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&dst=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&amount=1000000000000000000&includeProtocols=true",
-            chain_id
-        );
-
-        match self.client.get(&url)
-            .header("Authorization", "Bearer ")
-            .send()
-            .await
-        {
-            Ok(resp) if resp.status().is_success() => {
-                if let Ok(data) = resp.json::<serde_json::Value>().await {
-                    let mut pools = Vec::new();
-                    
-                    // Extract pool addresses from protocols
-                    if let Some(protocols) = data["protocols"].as_array() {
-                        for protocol_group in protocols {
-                            if let Some(steps) = protocol_group.as_array() {
-                                for step in steps {
-                                    if let Some(swaps) = step.as_array() {
-                                        for swap in swaps {
-                                            let pool_addr = swap["name"].as_str()
-                                                .map(|n| n.to_string())
-                                                .unwrap_or_default();
-                                            let dex_name = swap["part"].as_u64()
-                                                .map(|_| "1inch-route".to_string())
-                                                .unwrap_or_else(|| "1inch".to_string());
-                                            
-                                            if !pool_addr.is_empty() {
-                                                let price = data["dstAmount"].as_str()
-                                                    .and_then(|s| s.parse::<f64>().ok())
-                                                    .map(|a| a / 1e6)
-                                                    .unwrap_or(0.0);
-                                                
-                                                pools.push(PoolData::new(
-                                                    symbol.to_string(),
-                                                    chain_name.to_string(),
-                                                    dex_name,
-                                                    format!("1inch:{}:{}", chain_id, pool_addr),
-                                                    format!("{}/USDC", symbol),
-                                                    price,
-                                                    0.0,
-                                                    0.0,
-                                                    "1inch".to_string(),
-                                                ));
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                    
-                    // Fallback if no protocols found
-                    if pools.is_empty() {
-                        if let Some(dst_amount) = data["dstAmount"].as_str() {
-                            if let Ok(amount) = dst_amount.parse::<f64>() {
-                                pools.push(PoolData::new(
-                                    symbol.to_string(),
-                                    chain_name.to_string(),
-                                    "1inch".to_string(),
-                                    format!("1inch:{}:aggregated", chain_id),
-                                    format!("{}/USDC", symbol),
-                                    amount / 1e6,
-                                    0.0,
-                                    0.0,
-                                    "1inch".to_string(),
-                                ));
-                            }
-                        }
-                    }
-                    return pools;
-                }
-            }
-            _ => {}
-        }
-        vec![]
-    }
-}
-
-#[async_trait]
-impl PoolSource for OneInchSource {
-    fn name(&self) -> &'static str { "1inch" }
-
-    async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let mut pools = Vec::new();
-        for chain_id in [1, 56, 137, 42161, 10] {
-            pools.extend(self.fetch_chain(chain_id, symbol).await);
-        }
-        Ok(pools)
-    }
-}
-
-/// ParaSwap Aggregator - extracts pool from bestRoute
-pub struct ParaSwapSource {
-    client: Client,
-}
-
-impl ParaSwapSource {
-    pub fn new() -> Self {
-        Self {
-            client: Client::builder()
-                .timeout(Duration::from_secs(8))
+                .timeout(Duration::from_secs(10))
                 .build()
                 .unwrap(),
         }
     }
 }
 
+#[derive(Debug, Deserialize)]
+struct DexScreenerResponse {
+    pairs: Option<Vec<DexScreenerPair>>,
+}
+
+#[derive(Debug, Deserialize)]
+struct DexScreenerPair {
+    #[serde(rename = "chainId")]
+    chain_id: Option<String>,
+    #[serde(rename = "dexId")]
+    dex_id: Option<String>,
+    #[serde(rename = "pairAddress")]
+    pair_address: Option<String>,
+    #[serde(rename = "baseToken")]
+    base_token: Option<DexScreenerToken>,
+    #[serde(rename = "priceUsd")]
+    price_usd: Option<String>,
+    liquidity: Option<DexScreenerLiquidity>,
+    volume: Option<DexScreenerVolume>,
+}
+
+#[derive(Debug, Deserialize)]
+struct DexScreenerToken {
+    symbol: Option<String>,
+    name: Option<String>,
+}
+
+#[derive(Debug, Deserialize)]
+struct DexScreenerLiquidity {
+    usd: Option<f64>,
+}
+
+#[derive(Debug, Deserialize)]
+struct DexScreenerVolume {
+    h24: Option<f64>,
+}
+
 #[async_trait]
-impl PoolSource for ParaSwapSource {
-    fn name(&self) -> &'static str { "ParaSwap" }
+impl PoolSource for DexScreenerSource {
+    fn name(&self) -> &'static str { "DexScreener" }
 
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let mut pools = Vec::new();
+        let mut all_pools = Vec::new();
         
-        for (chain_id, chain_name) in [(1, "ethereum"), (56, "bsc"), (137, "polygon")] {
+        // Search both original and W-prefixed
+        for variant in get_search_variants(symbol) {
             let url = format!(
-                "https://apiv5.paraswap.io/prices?srcToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&destToken=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&amount=1000000000000000000&srcDecimals=18&destDecimals=6&network={}",
-                chain_id
+                "https://api.dexscreener.com/latest/dex/search?q={}",
+                variant
             );
 
-            if let Ok(resp) = self.client.get(&url).send().await {
-                if resp.status().is_success() {
-                    if let Ok(data) = resp.json::<serde_json::Value>().await {
-                        // Extract from bestRoute
-                        if let Some(route) = data["priceRoute"]["bestRoute"].as_array() {
-                            for step in route {
-                                if let Some(swaps) = step["swaps"].as_array() {
-                                    for swap in swaps {
-                                        if let Some(exchanges) = swap["swapExchanges"].as_array() {
-                                            for exchange in exchanges {
-                                                let pool_addr = exchange["poolAddresses"].as_array()
-                                                    .and_then(|arr| arr.first())
-                                                    .and_then(|v| v.as_str())
-                                                    .unwrap_or("");
-                                                let dex = exchange["exchange"].as_str().unwrap_or("paraswap");
-                                                
-                                                if !pool_addr.is_empty() {
-                                                    let price = data["priceRoute"]["destAmount"].as_str()
-                                                        .and_then(|s| s.parse::<f64>().ok())
-                                                        .map(|a| a / 1e6)
-                                                        .unwrap_or(0.0);
-                                                    
-                                                    pools.push(PoolData::new(
-                                                        symbol.to_string(),
-                                                        chain_name.to_string(),
-                                                        dex.to_string(),
-                                                        pool_addr.to_string(),
-                                                        format!("{}/USDC", symbol),
-                                                        price,
-                                                        0.0,
-                                                        0.0,
-                                                        "paraswap".to_string(),
-                                                    ));
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                        
-                        // Fallback
-                        if pools.is_empty() {
-                            if let Some(amount) = data["priceRoute"]["destAmount"].as_str() {
-                                if let Ok(val) = amount.parse::<f64>() {
-                                    pools.push(PoolData::new(
-                                        symbol.to_string(),
-                                        chain_name.to_string(),
-                                        "paraswap".to_string(),
-                                        format!("paraswap:{}:aggregated", chain_id),
-                                        format!("{}/USDC", symbol),
-                                        val / 1e6,
-                                        0.0,
-                                        0.0,
-                                        "paraswap".to_string(),
+            match self.client.get(&url).send().await {
+                Ok(resp) if resp.status().is_success() => {
+                    if let Ok(data) = resp.json::<DexScreenerResponse>().await {
+                        if let Some(pairs) = data.pairs {
+                            for pair in pairs.into_iter().take(10) {
+                                let pool_addr = pair.pair_address.unwrap_or_default();
+                                let chain = pair.chain_id.unwrap_or_else(|| "unknown".to_string());
+                                let dex = pair.dex_id.unwrap_or_else(|| "unknown".to_string());
+                                let token_symbol = pair.base_token
+                                    .as_ref()
+                                    .and_then(|t| t.symbol.clone())
+                                    .unwrap_or_else(|| variant.clone());
+                                let price = pair.price_usd
+                                    .as_ref()
+                                    .and_then(|p| p.parse::<f64>().ok())
+                                    .unwrap_or(0.0);
+                                let lp = pair.liquidity
+                                    .as_ref()
+                                    .and_then(|l| l.usd)
+                                    .unwrap_or(0.0);
+                                let volume = pair.volume
+                                    .as_ref()
+                                    .and_then(|v| v.h24)
+                                    .unwrap_or(0.0);
+
+                                if !pool_addr.is_empty() && price > 0.0 {
+                                    all_pools.push(PoolData::new(
+                                        token_symbol,
+                                        chain,
+                                        dex,
+                                        pool_addr,
+                                        format!("{}/USD", variant),
+                                        price,
+                                        lp,
+                                        volume,
+                                        "dexscreener".to_string(),
                                     ));
                                 }
                             }
                         }
                     }
                 }
+                _ => {}
             }
         }
-        Ok(pools)
+
+        Ok(all_pools)
     }
 }
 
-/// KyberSwap Aggregator - extracts pool from route
-pub struct KyberSwapSource {
-    client: Client,
-}
-
-impl KyberSwapSource {
-    pub fn new() -> Self {
-        Self {
-            client: Client::builder()
-                .timeout(Duration::from_secs(8))
-                .build()
-                .unwrap(),
-        }
-    }
-}
-
-#[async_trait]
-impl PoolSource for KyberSwapSource {
-    fn name(&self) -> &'static str { "KyberSwap" }
-
-    async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let mut pools = Vec::new();
-
-        for (chain, chain_name) in [("ethereum", "ethereum"), ("bsc", "bsc"), ("polygon", "polygon")] {
-            let url = format!(
-                "https://aggregator-api.kyberswap.com/{}/api/v1/routes?tokenIn=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&tokenOut=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&amountIn=1000000000000000000",
-                chain
-            );
-
-            if let Ok(resp) = self.client.get(&url).send().await {
-                if resp.status().is_success() {
-                    if let Ok(data) = resp.json::<serde_json::Value>().await {
-                        // Extract pools from route
-                        if let Some(route) = data["data"]["routeSummary"]["route"].as_array() {
-                            for leg in route {
-                                if let Some(sub_routes) = leg.as_array() {
-                                    for sub in sub_routes {
-                                        let pool_addr = sub["pool"].as_str().unwrap_or("");
-                                        let dex = sub["exchange"].as_str().unwrap_or("kyberswap");
-                                        
-                                        if !pool_addr.is_empty() {
-                                            let price = data["data"]["routeSummary"]["amountOut"].as_str()
-                                                .and_then(|s| s.parse::<f64>().ok())
-                                                .map(|a| a / 1e6)
-                                                .unwrap_or(0.0);
-                                            
-                                            pools.push(PoolData::new(
-                                                symbol.to_string(),
-                                                chain_name.to_string(),
-                                                dex.to_string(),
-                                                pool_addr.to_string(),
-                                                format!("{}/USDC", symbol),
-                                                price,
-                                                0.0,
-                                                0.0,
-                                                "kyberswap".to_string(),
-                                            ));
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                        
-                        // Fallback
-                        if pools.is_empty() {
-                            if let Some(amount) = data["data"]["routeSummary"]["amountOut"].as_str() {
-                                if let Ok(val) = amount.parse::<f64>() {
-                                    pools.push(PoolData::new(
-                                        symbol.to_string(),
-                                        chain_name.to_string(),
-                                        "kyberswap".to_string(),
-                                        format!("kyber:{}:aggregated", chain),
-                                        format!("{}/USDC", symbol),
-                                        val / 1e6,
-                                        0.0,
-                                        0.0,
-                                        "kyberswap".to_string(),
-                                    ));
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        Ok(pools)
-    }
-}
-
-/// OpenOcean Aggregator - extracts pool from path
-pub struct OpenOceanSource {
-    client: Client,
-}
-
-impl OpenOceanSource {
-    pub fn new() -> Self {
-        Self {
-            client: Client::builder()
-                .timeout(Duration::from_secs(8))
-                .build()
-                .unwrap(),
-        }
-    }
-}
-
-#[async_trait]
-impl PoolSource for OpenOceanSource {
-    fn name(&self) -> &'static str { "OpenOcean" }
-
-    async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let mut pools = Vec::new();
-
-        for (chain, chain_name) in [("eth", "ethereum"), ("bsc", "bsc"), ("polygon", "polygon")] {
-            let url = format!(
-                "https://open-api.openocean.finance/v3/{}/quote?inTokenAddress=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE&outTokenAddress=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&amount=1000000000000000000&gasPrice=5",
-                chain
-            );
-
-            if let Ok(resp) = self.client.get(&url).send().await {
-                if resp.status().is_success() {
-                    if let Ok(data) = resp.json::<serde_json::Value>().await {
-                        // Extract pools from path
-                        if let Some(path) = data["data"]["path"]["routes"].as_array() {
-                            for route in path {
-                                if let Some(sub_routes) = route["subRoutes"].as_array() {
-                                    for sub in sub_routes {
-                                        let pool_addr = sub["dexRouter"]["address"].as_str().unwrap_or("");
-                                        let dex = sub["dexRouter"]["name"].as_str().unwrap_or("openocean");
-                                        
-                                        if !pool_addr.is_empty() {
-                                            let price = data["data"]["outAmount"].as_str()
-                                                .and_then(|s| s.parse::<f64>().ok())
-                                                .map(|a| a / 1e6)
-                                                .unwrap_or(0.0);
-                                            
-                                            pools.push(PoolData::new(
-                                                symbol.to_string(),
-                                                chain_name.to_string(),
-                                                dex.to_string(),
-                                                pool_addr.to_string(),
-                                                format!("{}/USDC", symbol),
-                                                price,
-                                                0.0,
-                                                0.0,
-                                                "openocean".to_string(),
-                                            ));
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                        
-                        // Fallback
-                        if pools.is_empty() {
-                            if let Some(amount) = data["data"]["outAmount"].as_str() {
-                                if let Ok(val) = amount.parse::<f64>() {
-                                    pools.push(PoolData::new(
-                                        symbol.to_string(),
-                                        chain_name.to_string(),
-                                        "openocean".to_string(),
-                                        format!("openocean:{}:aggregated", chain),
-                                        format!("{}/USDC", symbol),
-                                        val / 1e6,
-                                        0.0,
-                                        0.0,
-                                        "openocean".to_string(),
-                                    ));
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
-        Ok(pools)
-    }
-}
-
-/// Matcha (0x) Token Search - returns token contract addresses
+/// Matcha (0x) Token Search - with proper headers
 pub struct MatchaSource {
     client: Client,
 }
@@ -420,74 +169,185 @@ impl PoolSource for MatchaSource {
     fn name(&self) -> &'static str { "Matcha" }
 
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let chain_ids = "1,8453,56,42161,43114,10,137,534352,59144,5000,34443,130";
-        let url = format!(
-            "https://matcha.xyz/api/tokens/search?chainId={}&limit=15&query={}",
-            chain_ids, symbol
-        );
-
-        let resp = self.client.get(&url)
-            .header("accept", "*/*")
-            .header("referer", "https://matcha.xyz/")
-            .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
-            .send()
-            .await
-            .map_err(|e| SourceError::Network(e.to_string()))?;
-
-        if !resp.status().is_success() {
-            return Ok(vec![]);
-        }
-
-        let data: serde_json::Value = resp.json()
-            .await
-            .map_err(|e| SourceError::Parse(e.to_string()))?;
-
-        let mut pools = Vec::new();
+        let mut all_pools = Vec::new();
+        let chain_ids = "1,8453,56,42161,43114,10,137,534352,59144,5000,34443,130,143,9745";
         
-        if let Some(tokens) = data["data"].as_array() {
-            for token in tokens.iter().take(10) {
-                let token_symbol = token["symbol"].as_str().unwrap_or("");
-                let chain_id = token["chainId"].as_u64().unwrap_or(0);
-                let address = token["address"].as_str().unwrap_or("");
-                let name = token["name"].as_str().unwrap_or("");
-                let decimals = token["decimals"].as_u64().unwrap_or(18);
-                
-                // Skip if not matching symbol (case insensitive)
-                if !token_symbol.eq_ignore_ascii_case(symbol) && 
-                   !token_symbol.to_uppercase().contains(&symbol.to_uppercase()) {
-                    continue;
-                }
-                
-                let chain_name = match chain_id {
-                    1 => "ethereum",
-                    56 => "bsc",
-                    137 => "polygon",
-                    42161 => "arbitrum",
-                    8453 => "base",
-                    10 => "optimism",
-                    43114 => "avalanche",
-                    534352 => "scroll",
-                    59144 => "linea",
-                    5000 => "mantle",
-                    _ => "other",
-                };
+        // Search both original and W-prefixed
+        for variant in get_search_variants(symbol) {
+            let url = format!(
+                "https://matcha.xyz/api/tokens/search?chainId={}&limit=15&page=1&query={}",
+                chain_ids, variant
+            );
 
-                if !address.is_empty() {
-                    pools.push(PoolData::new(
-                        token_symbol.to_string(),
-                        chain_name.to_string(),
-                        "matcha".to_string(),
-                        address.to_string(), // Real token contract address
-                        format!("{} ({})", name, decimals),
-                        0.0,
-                        0.0,
-                        0.0,
-                        "matcha".to_string(),
-                    ));
+            let resp = self.client.get(&url)
+                .header("accept", "*/*")
+                .header("accept-language", "ko-KR,ko;q=0.8")
+                .header("referer", "https://matcha.xyz/")
+                .header("sec-fetch-dest", "empty")
+                .header("sec-fetch-mode", "cors")
+                .header("sec-fetch-site", "same-origin")
+                .header("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36")
+                .send()
+                .await;
+
+            match resp {
+                Ok(r) if r.status().is_success() => {
+                    if let Ok(data) = r.json::<serde_json::Value>().await {
+                        if let Some(tokens) = data["data"].as_array() {
+                            for token in tokens.iter().take(10) {
+                                let token_symbol = token["symbol"].as_str().unwrap_or("");
+                                let chain_id = token["chainId"].as_u64().unwrap_or(0);
+                                let address = token["address"].as_str().unwrap_or("");
+                                let name = token["name"].as_str().unwrap_or("");
+                                let decimals = token["decimals"].as_u64().unwrap_or(18);
+
+                                // Match symbol (case insensitive)
+                                if !token_symbol.eq_ignore_ascii_case(&variant) &&
+                                   !token_symbol.to_uppercase().contains(&variant.to_uppercase()) {
+                                    continue;
+                                }
+
+                                let chain_name = match chain_id {
+                                    1 => "ethereum",
+                                    56 => "bsc",
+                                    137 => "polygon",
+                                    42161 => "arbitrum",
+                                    8453 => "base",
+                                    10 => "optimism",
+                                    43114 => "avalanche",
+                                    534352 => "scroll",
+                                    59144 => "linea",
+                                    5000 => "mantle",
+                                    143 => "monad",
+                                    9745 => "sonic",
+                                    _ => "other",
+                                };
+
+                                if !address.is_empty() {
+                                    all_pools.push(PoolData::new(
+                                        token_symbol.to_string(),
+                                        chain_name.to_string(),
+                                        "matcha".to_string(),
+                                        address.to_string(),
+                                        format!("{} ({} dec)", name, decimals),
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        "matcha".to_string(),
+                                    ));
+                                }
+                            }
+                        }
+                    }
                 }
+                _ => {}
             }
         }
 
-        Ok(pools)
+        Ok(all_pools)
+    }
+}
+
+/// 1inch Aggregator - simplified
+pub struct OneInchSource {
+    client: Client,
+}
+
+impl OneInchSource {
+    pub fn new() -> Self {
+        Self {
+            client: Client::builder()
+                .timeout(Duration::from_secs(8))
+                .build()
+                .unwrap(),
+        }
+    }
+}
+
+#[async_trait]
+impl PoolSource for OneInchSource {
+    fn name(&self) -> &'static str { "1inch" }
+
+    async fn fetch_pools(&self, _symbol: &str) -> Result<Vec<PoolData>, SourceError> {
+        // 1inch requires API key, skip for now
+        Ok(vec![])
+    }
+}
+
+/// ParaSwap - simplified
+pub struct ParaSwapSource {
+    client: Client,
+}
+
+impl ParaSwapSource {
+    pub fn new() -> Self {
+        Self {
+            client: Client::builder()
+                .timeout(Duration::from_secs(8))
+                .build()
+                .unwrap(),
+        }
+    }
+}
+
+#[async_trait]
+impl PoolSource for ParaSwapSource {
+    fn name(&self) -> &'static str { "ParaSwap" }
+
+    async fn fetch_pools(&self, _symbol: &str) -> Result<Vec<PoolData>, SourceError> {
+        // ParaSwap needs specific token addresses, skip for now
+        Ok(vec![])
+    }
+}
+
+/// KyberSwap - simplified
+pub struct KyberSwapSource {
+    client: Client,
+}
+
+impl KyberSwapSource {
+    pub fn new() -> Self {
+        Self {
+            client: Client::builder()
+                .timeout(Duration::from_secs(8))
+                .build()
+                .unwrap(),
+        }
+    }
+}
+
+#[async_trait]
+impl PoolSource for KyberSwapSource {
+    fn name(&self) -> &'static str { "KyberSwap" }
+
+    async fn fetch_pools(&self, _symbol: &str) -> Result<Vec<PoolData>, SourceError> {
+        // KyberSwap needs specific token addresses, skip for now
+        Ok(vec![])
+    }
+}
+
+/// OpenOcean - simplified
+pub struct OpenOceanSource {
+    client: Client,
+}
+
+impl OpenOceanSource {
+    pub fn new() -> Self {
+        Self {
+            client: Client::builder()
+                .timeout(Duration::from_secs(8))
+                .build()
+                .unwrap(),
+        }
+    }
+}
+
+#[async_trait]
+impl PoolSource for OpenOceanSource {
+    fn name(&self) -> &'static str { "OpenOcean" }
+
+    async fn fetch_pools(&self, _symbol: &str) -> Result<Vec<PoolData>, SourceError> {
+        // OpenOcean needs specific token addresses, skip for now
+        Ok(vec![])
     }
 }

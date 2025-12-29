@@ -8,8 +8,7 @@ use crate::models::PoolData;
 use crate::sources::{
     PoolSource, 
     gecko::GeckoTerminal, 
-    dexguru::DexGuruSource,
-    aggregators::{OneInchSource, ParaSwapSource, KyberSwapSource, OpenOceanSource, MatchaSource},
+    aggregators::{DexScreenerSource, MatchaSource},
 };
 use super::{PoolCache, PoolFilter};
 
@@ -40,18 +39,15 @@ pub struct PoolCollector {
 impl PoolCollector {
     pub fn new(cache: Arc<PoolCache>, filter: PoolFilter) -> Self {
         Self {
+            // Active sources only (3 working APIs)
             sources: vec![
-                Arc::new(GeckoTerminal::new()),
-                Arc::new(DexGuruSource::new()),
-                Arc::new(OneInchSource::new()),
-                Arc::new(ParaSwapSource::new()),
-                Arc::new(KyberSwapSource::new()),
-                Arc::new(OpenOceanSource::new()),
-                Arc::new(MatchaSource::new()),
+                Arc::new(GeckoTerminal::new()),      // Pool data with LP/volume
+                Arc::new(DexScreenerSource::new()), // Reliable DEX data
+                Arc::new(MatchaSource::new()),      // Token search (16 chains)
             ],
             cache,
             filter,
-            semaphore: Arc::new(Semaphore::new(8)), // Increased for more sources
+            semaphore: Arc::new(Semaphore::new(10)), // More concurrent requests
             stats: Arc::new(CollectorStats::default()),
         }
     }
