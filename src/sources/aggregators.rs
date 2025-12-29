@@ -109,7 +109,15 @@ impl PoolSource for DexScreenerSource {
                                 let token_symbol = pair.base_token
                                     .as_ref()
                                     .and_then(|t| t.symbol.clone())
-                                    .unwrap_or_else(|| variant.clone());
+                                    .unwrap_or_default();
+                                
+                                // 심볼 정확 매칭 필터
+                                let upper_variant = variant.to_uppercase();
+                                let upper_token = token_symbol.to_uppercase();
+                                if upper_token != upper_variant && upper_token != format!("W{}", symbol.to_uppercase()) {
+                                    continue; // 심볼 불일치 → 스킵
+                                }
+                                
                                 let price = pair.price_usd
                                     .as_ref()
                                     .and_then(|p| p.parse::<f64>().ok())

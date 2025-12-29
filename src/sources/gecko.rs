@@ -91,8 +91,21 @@ impl PoolSource for GeckoTerminal {
             .await
             .map_err(|e| SourceError::Parse(e.to_string()))?;
 
+        let upper_symbol = symbol.to_uppercase();
+        
         let pools: Vec<PoolData> = data.data.into_iter()
             .filter_map(|p| {
+                // 심볼 정확 매칭 필터: pair name에서 심볼 확인
+                let pair_name = p.attributes.name.to_uppercase();
+                
+                // 정확한 심볼 매칭 (예: "BTC" → "BTC / USDC" OK, "BITCOIN" NO)
+                let symbol_match = pair_name.split(|c: char| !c.is_alphanumeric())
+                    .any(|part| part == upper_symbol || part == format!("W{}", upper_symbol));
+                
+                if !symbol_match {
+                    return None; // 심볼 불일치 → 제외
+                }
+                
                 let price = p.attributes.base_token_price_usd
                     .as_ref()
                     .and_then(|s| s.parse::<f64>().ok())?;
@@ -116,7 +129,7 @@ impl PoolSource for GeckoTerminal {
 
                 Some(PoolData::new(
                     symbol.to_string(),
-                    "multi".to_string(), // GeckoTerminal 검색은 멀티체인
+                    "multi".to_string(),
                     dex_name,
                     p.attributes.address,
                     p.attributes.name,
