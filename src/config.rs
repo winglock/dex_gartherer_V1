@@ -6,6 +6,8 @@ pub struct Config {
     pub arbitrage: ArbitrageConfig,
     pub filter: FilterConfig,
     pub server: ServerConfig,
+    #[serde(default)]
+    pub storage: StorageConfig,
 }
 
 #[derive(Debug, Deserialize, Clone)]
@@ -25,6 +27,26 @@ pub struct FilterConfig {
 pub struct ServerConfig {
     pub host: String,
     pub port: u16,
+}
+
+#[derive(Debug, Deserialize, Clone)]
+pub struct StorageConfig {
+    #[serde(default = "default_enabled")]
+    pub enabled: bool,
+    #[serde(default = "default_data_dir")]
+    pub data_dir: String,
+}
+
+fn default_enabled() -> bool { true }
+fn default_data_dir() -> String { "./data".to_string() }
+
+impl Default for StorageConfig {
+    fn default() -> Self {
+        Self {
+            enabled: true,
+            data_dir: "./data".to_string(),
+        }
+    }
 }
 
 impl Config {

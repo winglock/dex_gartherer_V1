@@ -1,6 +1,6 @@
 [arbitrage]
 threshold = 0.015      # 1.5% 가격 차이 시 알림
-update_interval = 60   # 초
+update_interval = 60   # 1분 (수집 주기)
 
 [filter]
 min_lp = 5000          # 최소 LP (USD)
@@ -14,3 +14,7 @@ port = 3000
 [cache]
 ttl_seconds = 120
 cleanup_interval = 60
+
+[storage]
+enabled = true
+data_dir = "./data"

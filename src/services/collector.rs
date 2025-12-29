@@ -5,7 +5,12 @@ use futures::stream::{self, StreamExt};
 use indicatif::{ProgressBar, ProgressStyle, MultiProgress};
 use std::time::Duration;
 use crate::models::PoolData;
-use crate::sources::{PoolSource, gecko::GeckoTerminal, dexguru::DexGuruSource};
+use crate::sources::{
+    PoolSource, 
+    gecko::GeckoTerminal, 
+    dexguru::DexGuruSource,
+    aggregators::{OneInchSource, ParaSwapSource, KyberSwapSource, OpenOceanSource, MatchaSource},
+};
 use super::{PoolCache, PoolFilter};
 
 /// Collection statistics for monitoring
@@ -38,10 +43,15 @@ impl PoolCollector {
             sources: vec![
                 Arc::new(GeckoTerminal::new()),
                 Arc::new(DexGuruSource::new()),
+                Arc::new(OneInchSource::new()),
+                Arc::new(ParaSwapSource::new()),
+                Arc::new(KyberSwapSource::new()),
+                Arc::new(OpenOceanSource::new()),
+                Arc::new(MatchaSource::new()),
             ],
             cache,
             filter,
-            semaphore: Arc::new(Semaphore::new(5)),
+            semaphore: Arc::new(Semaphore::new(8)), // Increased for more sources
             stats: Arc::new(CollectorStats::default()),
         }
     }

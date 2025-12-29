@@ -1,6 +1,7 @@
 pub mod gecko;
 pub mod upbit;
 pub mod dexguru;
+pub mod aggregators;
 
 use async_trait::async_trait;
 use crate::models::PoolData;

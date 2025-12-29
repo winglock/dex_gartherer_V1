@@ -62,20 +62,40 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let collector = Arc::new(PoolCollector::new(cache.clone(), filter));
     let detector = Arc::new(ArbitrageDetector::new(config.arbitrage.threshold));
 
-    // Background: Initial progressive collection
-    println!("\n📥 Starting pool collection...\n");
+    // Initialize storage
+    let storage = if config.storage.enabled {
+        Some(Arc::new(services::LocalStorage::new(&config.storage.data_dir)))
+    } else {
+        None
+    };
+
+    // Background: Pool collection with storage (1 minute cycle)
+    println!("\n📥 Starting pool collection (1 min cycle)...\n");
     let collector_clone = collector.clone();
     let symbols_clone = symbols.clone();
+    let storage_clone = storage.clone();
+    let cache_clone2 = cache.clone();
     tokio::spawn(async move {
         loop {
             let result = collector_clone.collect_progressive(&symbols_clone).await;
+            
+            // Save to local storage
+            if let Some(ref storage) = storage_clone {
+                let pools: Vec<models::PoolData> = cache_clone2.get_all()
+                    .into_iter()
+                    .map(|arc| (*arc).clone())
+                    .collect();
+                storage.save_all_by_symbol(&pools);
+                storage.save_snapshot(&pools);
+            }
+            
             tracing::info!(
-                "✓ Cycle complete: {} pools | {}/{} requests",
+                "✓ Cycle complete: {} pools | {}/{} requests | saved to ./data",
                 result.total,
                 result.successful,
                 result.successful + result.failed
             );
-            tokio::time::sleep(Duration::from_secs(300)).await; // 5 min
+            tokio::time::sleep(Duration::from_secs(60)).await; // 1 minute
         }
     });
 
