@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-5515",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.53,
+    "lp_reserve_usd": 655118.86,
+    "volume_24h": 374741.43,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv2-17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1:wrap.near:100",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 1496931.56,
+    "volume_24h": 1609829.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-4",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 95027.83,
+    "volume_24h": 5773.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-6063",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 518021.24,
+    "volume_24h": 275697.51,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-4512",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 3283015.43,
+    "volume_24h": 254102.83,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv2-usdt.tether-token.near:wrap.near:100",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 295074.2,
+    "volume_24h": 172042.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  }
+]

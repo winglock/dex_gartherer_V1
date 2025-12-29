@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "4UVvSVdeth9mxpPe4nwwZseXPd2bqqDm4xVaJSve3DXw",
+    "pair": "JTO/USD",
+    "price_usd": 0.3973,
+    "lp_reserve_usd": 88177.6,
+    "volume_24h": 850.89,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x310455a2Efda09c2D2927C66676f170283aC9714",
+    "pair": "JTO/USD",
+    "price_usd": 6.68,
+    "lp_reserve_usd": 86111.8,
+    "volume_24h": 8722.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "GZcP3ANuTD15ZrYaF1RacomBKXVCCKvXYyWVDaEDqkKi",
+    "pair": "JTO/USD",
+    "price_usd": 0.3946,
+    "lp_reserve_usd": 8679.55,
+    "volume_24h": 11979.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "G2FiE1yn9N9ZJx5e1E2LxxMnHvb1H3hCuHLPfKJ98smA",
+    "pair": "JTO/USD",
+    "price_usd": 0.3937,
+    "lp_reserve_usd": 1044333.92,
+    "volume_24h": 403277.7,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "2UhFnySoJi6c89aydGAGS7ZRemo2dbkFRhvSJqDX4gHJ",
+    "pair": "JTO/USD",
+    "price_usd": 0.3957,
+    "lp_reserve_usd": 23225.1,
+    "volume_24h": 3480.24,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "JVoPtWWDsRcLvQosu5fWc2CaNF6jEtJzbxdPtcEuvZo",
+    "pair": "JTO/USD",
+    "price_usd": 0.3934,
+    "lp_reserve_usd": 53427.38,
+    "volume_24h": 2602.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JTO",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Eqv1tJGkLFeH4giGy8vqKxF4NJBHtGR5cGmKG6cpVy4Z",
+    "pair": "JTO/USD",
+    "price_usd": 0.3945,
+    "lp_reserve_usd": 45956.98,
+    "volume_24h": 2960.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

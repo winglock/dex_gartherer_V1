@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "NOM",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "2NeA89Teb2wnWZpSbPNWkaHRoR4dDtMJLtP4eY57Ts7S",
+    "pair": "NOM/USD",
+    "price_usd": 0.0001303,
+    "lp_reserve_usd": 68250.34,
+    "volume_24h": 2263.81,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  }
+]

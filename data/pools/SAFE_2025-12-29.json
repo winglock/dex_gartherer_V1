@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "SAFE",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x14d9e487d2f157b3821Ac9cb94A750Dcf0628d67",
+    "pair": "SAFE/USD",
+    "price_usd": 7.665e-6,
+    "lp_reserve_usd": 10664.07,
+    "volume_24h": 5794.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  },
+  {
+    "symbol": "SAFE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x000ba527862e5b82cff0F7c66b646AF023274aA1",
+    "pair": "SAFE/USD",
+    "price_usd": 0.1452,
+    "lp_reserve_usd": 197149.57,
+    "volume_24h": 163255.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  },
+  {
+    "symbol": "SAFE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x400DB103Af7a0403C9Ab014b2B73702B89F6B4b7",
+    "pair": "SAFE/USD",
+    "price_usd": 1.85,
+    "lp_reserve_usd": 828989.4,
+    "volume_24h": 17714.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  }
+]

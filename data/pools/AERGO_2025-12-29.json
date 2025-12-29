@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "AERGO",
+    "chain": "multi",
+    "dex": "sushiswap",
+    "pool_address": "0x9e48fadf799e0513d2ef4631478ea186741fa617",
+    "pair": "AERGO / WETH",
+    "price_usd": 0.0565981260350943,
+    "lp_reserve_usd": 7906.8641,
+    "volume_24h": 1542.9043445816,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023831
+  },
+  {
+    "symbol": "AERGO",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x9E48FaDf799E0513d2EF4631478ea186741fA617",
+    "pair": "AERGO/USD",
+    "price_usd": 0.05743,
+    "lp_reserve_usd": 7892.86,
+    "volume_24h": 1544.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023832
+  }
+]

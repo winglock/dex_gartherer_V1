@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "DRIFT",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "7u3wk63dbFfN6WUdxpJ6SDNMwDixK1ti2J3Q21ws5Vxs",
+    "pair": "DRIFT/USD",
+    "price_usd": 0.162,
+    "lp_reserve_usd": 143308.43,
+    "volume_24h": 96792.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "DRIFT",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "6Szb7hmSEhPBzUYsSrBBCSq6xm2dWKqaf9ef4gDA2ogf",
+    "pair": "DRIFT/USD",
+    "price_usd": 0.1609,
+    "lp_reserve_usd": 8545.3,
+    "volume_24h": 1784.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "DRIFT",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "A5nTDyqLRqsWAQiMefmoU7RWy6UzmcpCLDhC8MGmYxvJ",
+    "pair": "DRIFT/USD",
+    "price_usd": 0.1615,
+    "lp_reserve_usd": 17263.31,
+    "volume_24h": 625.24,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

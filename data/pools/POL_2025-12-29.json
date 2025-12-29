@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "POL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x88ada7b1dd1C728ea87404CEa7a0780139EB35d1",
+    "pair": "POL/USD",
+    "price_usd": 0.1061,
+    "lp_reserve_usd": 23944.49,
+    "volume_24h": 9355.68,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "POL",
+    "chain": "katana",
+    "dex": "sushiswap",
+    "pool_address": "0x401489B205fA340F7e120aAfd00694Ec506D0E7F",
+    "pair": "POL/USD",
+    "price_usd": 0.1063,
+    "lp_reserve_usd": 478066.53,
+    "volume_24h": 136767.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

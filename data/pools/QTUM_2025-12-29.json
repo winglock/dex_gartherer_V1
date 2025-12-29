@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "QTUM",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x0e5f8b4df15130249874452795Db41F14D0c87b8",
+    "pair": "QTUM/USD",
+    "price_usd": 1.33,
+    "lp_reserve_usd": 13322.56,
+    "volume_24h": 744.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

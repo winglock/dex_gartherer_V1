@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "KAVA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x99E1a43e738B026a2CD4359409594deBaB61b48D",
+    "pair": "KAVA/USD",
+    "price_usd": 0.07754,
+    "lp_reserve_usd": 393433.19,
+    "volume_24h": 70656.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  }
+]

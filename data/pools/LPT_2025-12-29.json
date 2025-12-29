@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "LPT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x2519042aa735eDb4688a8376d69D4BB69431206c",
+    "pair": "LPT/USD",
+    "price_usd": 2.9,
+    "lp_reserve_usd": 35812.18,
+    "volume_24h": 1582.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v3_arbitrum",
+    "pool_address": "0x4fd47e5102dfbf95541f64ed6fe13d4ed26d2546",
+    "pair": "LPT / WETH 0.3%",
+    "price_usd": 2.8884079392624,
+    "lp_reserve_usd": 206385.9972,
+    "volume_24h": 88167.8178069933,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023833
+  },
+  {
+    "symbol": "LPT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x755C1a8F71f4210CD7B60b9439451EfCbeBa33D1",
+    "pair": "LPT/USD",
+    "price_usd": 2.86,
+    "lp_reserve_usd": 50527.92,
+    "volume_24h": 1193.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "LPT",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0x4fD47e5102DFBF95541F64ED6FE13d4eD26D2546",
+    "pair": "LPT/USD",
+    "price_usd": 2.88,
+    "lp_reserve_usd": 207411.63,
+    "volume_24h": 88241.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x755c1a8f71f4210cd7b60b9439451efcbeba33d1",
+    "pair": "LPT / WETH",
+    "price_usd": 2.86626162057725,
+    "lp_reserve_usd": 50626.2178,
+    "volume_24h": 1193.9682487006,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023833
+  },
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x2519042aa735edb4688a8376d69d4bb69431206c",
+    "pair": "LPT / WETH 1%",
+    "price_usd": 2.93707089578165,
+    "lp_reserve_usd": 35764.0518,
+    "volume_24h": 1582.9793294118,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023833
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "META",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Fda7ZVoNEDfeWNKL7B5HHB3EsD7qTpqEHjy4EkjjBeTF",
+    "pair": "META/USD",
+    "price_usd": 6792.98,
+    "lp_reserve_usd": 221665.24,
+    "volume_24h": 10857.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "META",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "6t2CdBC26q9tj6jBwPzzFZogtjX8mtmVHUmAFmjAhMSn",
+    "pair": "META/USD",
+    "price_usd": 6872.89,
+    "lp_reserve_usd": 93365.07,
+    "volume_24h": 1379.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "META",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "6keoGHNmqDgLm6Cn27i2SWXzAr2N2U92mr5E6jibcaDE",
+    "pair": "META/USD",
+    "price_usd": 6537.14,
+    "lp_reserve_usd": 982261.15,
+    "volume_24h": 3344.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "META",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xB57fA720D0b7BDB915f5ce421d75a0f85F8Fd89E",
+    "pair": "META/USD",
+    "price_usd": 0.1808,
+    "lp_reserve_usd": 1907824.14,
+    "volume_24h": 277340.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "META",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CaEbWvp8tA11d3b1UdMWRou7ge9i3WJbmBEQPC4D1uD2",
+    "pair": "META/USD",
+    "price_usd": 6.04,
+    "lp_reserve_usd": 604019897.06,
+    "volume_24h": 6039.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

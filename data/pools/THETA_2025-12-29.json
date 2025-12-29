@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "THETA",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x370A83C7b085Edf6e5eE13ACB632841626600a92",
+    "pair": "THETA/USD",
+    "price_usd": 0.2742,
+    "lp_reserve_usd": 23558.8,
+    "volume_24h": 706.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

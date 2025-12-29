@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "XRP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CL3h3waLaTYTKXhA4hcakbkFrUt2GcFbaLMe9iThdoG3",
+    "pair": "XRP/USD",
+    "price_usd": 2.21,
+    "lp_reserve_usd": 12620230.53,
+    "volume_24h": 98205.34,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "XRP",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xe3D9f8eF633666771B7f1995AaEDEB67d1b3c853",
+    "pair": "XRP/USD",
+    "price_usd": 1.86,
+    "lp_reserve_usd": 739285.34,
+    "volume_24h": 782741.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "XRP",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "2970-factory_osmo1qnglc04tmhg32uc4kxlxh55a5cmhj88cpa3rmtly484xqu82t79sfv94w0_alloyed_allXRP-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "XRP/USD",
+    "price_usd": 1.86,
+    "lp_reserve_usd": 47469.51,
+    "volume_24h": 117918.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "XRP",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0xe83FfaD6c8ceC615B7A8d7c96706F717E91784D2",
+    "pair": "XRP/USD",
+    "price_usd": 1.86,
+    "lp_reserve_usd": 473941.76,
+    "volume_24h": 31529.83,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "XRP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3UM9qf9Kp4ZCkzXxaaksZfJSeHF2fhDNtXUSNTu1pyGw",
+    "pair": "XRP/USD",
+    "price_usd": 2.83,
+    "lp_reserve_usd": 26982649.96,
+    "volume_24h": 98024.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

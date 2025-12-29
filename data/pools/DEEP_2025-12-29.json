@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "DEEP",
+    "chain": "sui",
+    "dex": "cetus",
+    "pool_address": "0xa2f4e24dc234cf024bae1bd5b1275ab5bdc7c28dd1ec84dd98c2d012bbd315f0",
+    "pair": "DEEP/USD",
+    "price_usd": 0.03574,
+    "lp_reserve_usd": 174387.54,
+    "volume_24h": 433688.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023861
+  },
+  {
+    "symbol": "DEEP",
+    "chain": "sui",
+    "dex": "cetus",
+    "pool_address": "0xd978d331772a5b90d5a4781e1232d18afd12019d0c35db79e3674beeda8f9126",
+    "pair": "DEEP/USD",
+    "price_usd": 0.03578,
+    "lp_reserve_usd": 91655.45,
+    "volume_24h": 165689.79,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023861
+  },
+  {
+    "symbol": "DEEP",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "4H9vRQBw93yKmK24D8NKzNwZnGAKVkGkya71DSLugJ3w",
+    "pair": "DEEP/USD",
+    "price_usd": 0.0002201,
+    "lp_reserve_usd": 44845.45,
+    "volume_24h": 7802.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023861
+  },
+  {
+    "symbol": "DEEP",
+    "chain": "sui",
+    "dex": "bluefin",
+    "pool_address": "0xd21b6aa633af9d1b0dafdb1159b93850d8845486ade3e58ebe6d44e678b272d9",
+    "pair": "DEEP/USD",
+    "price_usd": 0.03577,
+    "lp_reserve_usd": 83591.86,
+    "volume_24h": 449853.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023861
+  }
+]

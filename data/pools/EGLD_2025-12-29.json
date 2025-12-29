@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "EGLD",
+    "chain": "multiversx",
+    "dex": "xexchange",
+    "pool_address": "erd1qqqqqqqqqqqqqpgqeel2kumf0r8ffyhth7pqdujjat9nx0862jpsg2pqaq",
+    "pair": "EGLD/USD",
+    "price_usd": 5.93,
+    "lp_reserve_usd": 2082390.19,
+    "volume_24h": 163400.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "EGLD",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xcD68856b6E72E99b5eEaAE7d41Bb4A3b484c700D",
+    "pair": "EGLD/USD",
+    "price_usd": 5.96,
+    "lp_reserve_usd": 29895.49,
+    "volume_24h": 2255.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "EGLD",
+    "chain": "multiversx",
+    "dex": "xexchange",
+    "pool_address": "erd1qqqqqqqqqqqqqpgq5crkgmnhyj64gp2u0kzlxxh2nvz9dpav2jpswrfu6h",
+    "pair": "EGLD/USD",
+    "price_usd": 5.93,
+    "lp_reserve_usd": 124448.38,
+    "volume_24h": 6464.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "EGLD",
+    "chain": "multiversx",
+    "dex": "onedex",
+    "pool_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc-USDCWEGLD-0fbbea",
+    "pair": "EGLD/USD",
+    "price_usd": 5.89,
+    "lp_reserve_usd": 37022.66,
+    "volume_24h": 1752.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  }
+]

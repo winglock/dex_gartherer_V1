@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "CELO",
+    "chain": "celo",
+    "dex": "ubeswap",
+    "pool_address": "0xb460F9Ae1fEa4f77107146C1960bb1C978118816",
+    "pair": "CELO/USD",
+    "price_usd": 0.1189,
+    "lp_reserve_usd": 103868.24,
+    "volume_24h": 5515.45,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CELO",
+    "chain": "celo",
+    "dex": "ubeswap",
+    "pool_address": "0x1E593F1FE7B61c53874B54EC0c59FD0d5eb8621e",
+    "pair": "CELO/USD",
+    "price_usd": 0.1188,
+    "lp_reserve_usd": 19251.72,
+    "volume_24h": 1315.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CELO",
+    "chain": "celo",
+    "dex": "uniswap",
+    "pool_address": "0x2d70cBAbf4d8e61d5317b62cBe912935FD94e0FE",
+    "pair": "CELO/USD",
+    "price_usd": 0.1186,
+    "lp_reserve_usd": 16663.86,
+    "volume_24h": 211050.35,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CELO",
+    "chain": "celo",
+    "dex": "velodrome",
+    "pool_address": "0xc20e81553f797ab98Bf4628057F88B0a5F1F5ce1",
+    "pair": "CELO/USD",
+    "price_usd": 0.1186,
+    "lp_reserve_usd": 5514.73,
+    "volume_24h": 4166.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CELO",
+    "chain": "celo",
+    "dex": "ubeswap",
+    "pool_address": "0x21ef97B2D0D7c5fe872d141d48E5c2bc352ab028",
+    "pair": "CELO/USD",
+    "price_usd": 0.1186,
+    "lp_reserve_usd": 14431.38,
+    "volume_24h": 53373.42,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  }
+]

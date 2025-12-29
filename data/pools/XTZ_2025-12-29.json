@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "XTZ",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1F2B0c3Ae3dCBd8fb4621B3249260550E10d2f4C",
+    "pair": "XTZ/USD",
+    "price_usd": 0.5019,
+    "lp_reserve_usd": 16098.1,
+    "volume_24h": 580.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  }
+]

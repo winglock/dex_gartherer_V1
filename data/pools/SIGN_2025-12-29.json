@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "SIGN",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x908aB8983DffBbDd74EC6028110610E18239EC1E",
+    "pair": "SIGN/USD",
+    "price_usd": 0.03796,
+    "lp_reserve_usd": 748675.03,
+    "volume_24h": 52089.46,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "IP",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xC1a9491C6F838418731AA483dCbE01C0408B4C58",
+    "pair": "IP/USD",
+    "price_usd": 0.00004457,
+    "lp_reserve_usd": 35920.07,
+    "volume_24h": 365410.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  }
+]

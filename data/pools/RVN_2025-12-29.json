@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "RVN",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "AT5NsU2JbihDEiasJUG8n4L5bytfizn11QDj4ZENdPeX",
+    "pair": "RVN/USD",
+    "price_usd": 0.00025,
+    "lp_reserve_usd": 366152.42,
+    "volume_24h": 20173.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  }
+]

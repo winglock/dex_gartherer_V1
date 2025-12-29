@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "POKT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x32bb4aD5Fed77f7Abf97d1435f8D6aaae59aA64e",
+    "pair": "POKT/USD",
+    "price_usd": 0.01153,
+    "lp_reserve_usd": 48534.1,
+    "volume_24h": 161001.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  },
+  {
+    "symbol": "POKT",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "5qJCeYWzvkrKuD1r7bQDus8ffm2vjrunxNUht6NTeise",
+    "pair": "POKT/USD",
+    "price_usd": 0.01163,
+    "lp_reserve_usd": 51447.07,
+    "volume_24h": 36054.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "INJ",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "725-ibc_64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273-uosmo",
+    "pair": "INJ/USD",
+    "price_usd": 4.66,
+    "lp_reserve_usd": 15287.82,
+    "volume_24h": 1439.68,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "INJ",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x1CFE7170EC0F9Dd1311632c4C8a554cb0bd6db3b",
+    "pair": "INJ/USD",
+    "price_usd": 4.66,
+    "lp_reserve_usd": 32568.37,
+    "volume_24h": 6013.81,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "INJ",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1319-ibc_64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "INJ/USD",
+    "price_usd": 4.66,
+    "lp_reserve_usd": 341786.56,
+    "volume_24h": 38266.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "INJ",
+    "chain": "bsc",
+    "dex": "orion",
+    "pool_address": "0x38c7CeF2507A2434C4f831e6f850151Db7e04233",
+    "pair": "INJ/USD",
+    "price_usd": 4.66,
+    "lp_reserve_usd": 100458.52,
+    "volume_24h": 6104.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "INJ",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x33E59Edd3214E97CB68450C6D3d6C167DE072aba",
+    "pair": "INJ/USD",
+    "price_usd": 4.65,
+    "lp_reserve_usd": 28935.62,
+    "volume_24h": 1151.87,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "INJ",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1BdCebcA3b93af70b58C41272AEa2231754B23ca",
+    "pair": "INJ/USD",
+    "price_usd": 4.66,
+    "lp_reserve_usd": 171636.44,
+    "volume_24h": 9086.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

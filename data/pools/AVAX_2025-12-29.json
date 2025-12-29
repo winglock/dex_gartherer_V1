@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "AVAX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1D8B1eD9b3da5d510FD3723e0Dd02476E0d7e781",
+    "pair": "AVAX/USD",
+    "price_usd": 12.71,
+    "lp_reserve_usd": 165792.15,
+    "volume_24h": 26365.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "AVAX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9f11264d6d0d9671dAb2CC485eb6Ec1B502C4025",
+    "pair": "AVAX/USD",
+    "price_usd": 12.71,
+    "lp_reserve_usd": 43395.53,
+    "volume_24h": 2526.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "AVAX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x151268db1579ebC5306D4aAa5DCC627646E6986F",
+    "pair": "AVAX/USD",
+    "price_usd": 12.69,
+    "lp_reserve_usd": 251244.66,
+    "volume_24h": 8530.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "AVAX",
+    "chain": "bsc",
+    "dex": "apeswap",
+    "pool_address": "0x40aFc7CBd0Dc2bE5860F0035b717d20Afb4827b2",
+    "pair": "AVAX/USD",
+    "price_usd": 12.68,
+    "lp_reserve_usd": 46503.45,
+    "volume_24h": 1075.34,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "AVAX",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "Cx62ywAgdNNbwAjmF1ex4Ww1nfkTv5jBrmLzhjSxdeGH",
+    "pair": "AVAX/USD",
+    "price_usd": 13.95,
+    "lp_reserve_usd": 33482508.39,
+    "volume_24h": 98174.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "AVAX",
+    "chain": "beam",
+    "dex": "beam-swap",
+    "pool_address": "0xA53DaFAe314075C6a22f44eEb7Df792D672f89d5",
+    "pair": "AVAX/USD",
+    "price_usd": 12.66,
+    "lp_reserve_usd": 119274.01,
+    "volume_24h": 873.03,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  }
+]

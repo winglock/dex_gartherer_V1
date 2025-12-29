@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ZRO",
+    "chain": "arbitrum",
+    "dex": "pancakeswap",
+    "pool_address": "0xf0346b437Fe43e64Fa799C2BD3cf5Db1F7e9327C",
+    "pair": "ZRO/USD",
+    "price_usd": 1.24,
+    "lp_reserve_usd": 16559.56,
+    "volume_24h": 9509.19,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRO",
+    "chain": "arbitrum",
+    "dex": "camelot",
+    "pool_address": "0x105ba85d9047dAF3f9FE941D8188d4b9A6900388",
+    "pair": "ZRO/USD",
+    "price_usd": 1.25,
+    "lp_reserve_usd": 55389.39,
+    "volume_24h": 19917.26,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRO",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0x4CEf551255EC96d89feC975446301b5C4e164C59",
+    "pair": "ZRO/USD",
+    "price_usd": 1.25,
+    "lp_reserve_usd": 193842.82,
+    "volume_24h": 22108.66,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRO",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "6seZkg3mXAW1WBmWHn3n9FAWN7T9HecpQGTM52wzU4Ku",
+    "pair": "ZRO/USD",
+    "price_usd": 1.31,
+    "lp_reserve_usd": 1113566263.14,
+    "volume_24h": 19998.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRO",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0xc868f85196fACFBBc08B44975f83788Dd922E482",
+    "pair": "ZRO/USD",
+    "price_usd": 1.24,
+    "lp_reserve_usd": 27304.98,
+    "volume_24h": 575.38,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRO",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xA4463789e8F3c6A599B3dFB608DDe55513Bcf289",
+    "pair": "ZRO/USD",
+    "price_usd": 1.24,
+    "lp_reserve_usd": 226454.83,
+    "volume_24h": 123848.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  }
+]

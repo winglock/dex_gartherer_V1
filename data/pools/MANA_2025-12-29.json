@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "MANA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x8661aE7918C0115Af9e3691662f605e9c550dDc9",
+    "pair": "MANA/USD",
+    "price_usd": 0.1237,
+    "lp_reserve_usd": 66842.79,
+    "volume_24h": 1288.44,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "MANA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "6NTeq6b3Lr31EgSkJ6hnhbakWEnwryGN68y4mB91CGCo",
+    "pair": "MANA/USD",
+    "price_usd": 0.00005897,
+    "lp_reserve_usd": 56627.49,
+    "volume_24h": 1371.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "MANA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x11b1f53204d03E5529F09EB3091939e4Fd8c9CF3",
+    "pair": "MANA/USD",
+    "price_usd": 0.1237,
+    "lp_reserve_usd": 121376.05,
+    "volume_24h": 4580.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "MANA",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x1bEC4db6c3Bc499F3DbF289F5499C30d541FEc97",
+    "pair": "MANA/USD",
+    "price_usd": 0.1235,
+    "lp_reserve_usd": 36780.68,
+    "volume_24h": 908.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

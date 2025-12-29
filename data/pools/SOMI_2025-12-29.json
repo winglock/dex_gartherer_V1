@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "SOMI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xBb7dCdf040346422341c7b844A18663932336606",
+    "pair": "SOMI/USD",
+    "price_usd": 0.2502,
+    "lp_reserve_usd": 304876.63,
+    "volume_24h": 102660.75,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023861
+  }
+]

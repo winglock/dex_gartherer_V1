@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "WSEI",
+    "chain": "seiv2",
+    "dex": "dragonswap",
+    "pool_address": "0xC75C669a62A7eCe0C8d37904b747970467432ad3",
+    "pair": "WSEI/USD",
+    "price_usd": 0.1161,
+    "lp_reserve_usd": 22731.51,
+    "volume_24h": 943.94,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "WSEI",
+    "chain": "seiv2",
+    "dex": "oku",
+    "pool_address": "0x5cFA8dB453C9904511C4eA9eb0bfc903E36b9F5F",
+    "pair": "WSEI/USD",
+    "price_usd": 0.1157,
+    "lp_reserve_usd": 53102.93,
+    "volume_24h": 207456.52,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AUCTION",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x51f77b39db5b14605abb569647a9a33e733ab3e018e79325a44c07aadd927686",
+    "pair": "AUCTION/USD",
+    "price_usd": 0.000169,
+    "lp_reserve_usd": 68574.76,
+    "volume_24h": 41312.82,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

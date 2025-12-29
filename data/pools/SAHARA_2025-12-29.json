@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "SAHARA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x7C1F9f04c87aCA8364D38FFEe99cd03A96D1FEBe",
+    "pair": "SAHARA/USD",
+    "price_usd": 0.02611,
+    "lp_reserve_usd": 80469.28,
+    "volume_24h": 24267.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  }
+]

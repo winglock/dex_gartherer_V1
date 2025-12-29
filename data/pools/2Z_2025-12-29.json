@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "2Z",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "G4LTmHVnARsAmjDYAVukjPoMwae5AVhwWdWpHCjhJcqc",
+    "pair": "2Z / USDC",
+    "price_usd": 0.11796508021765414,
+    "lp_reserve_usd": 1225191.2152,
+    "volume_24h": 1650414.67508596,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023832
+  },
+  {
+    "symbol": "2Z",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "G4LTmHVnARsAmjDYAVukjPoMwae5AVhwWdWpHCjhJcqc",
+    "pair": "2Z/USD",
+    "price_usd": 0.1177,
+    "lp_reserve_usd": 1225038.93,
+    "volume_24h": 1665354.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023833
+  },
+  {
+    "symbol": "2Z",
+    "chain": "multi",
+    "dex": "byreal",
+    "pool_address": "3DbStN7JQ7XJJDNhSk8c7NPX2WX5qMtUFFqudjaFjuSU",
+    "pair": "2Z / USDC",
+    "price_usd": 0.117941884962039,
+    "lp_reserve_usd": 86854.6163,
+    "volume_24h": 22676.1892739588,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023832
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ID",
+    "chain": "avalanche",
+    "dex": "blackhole",
+    "pool_address": "0x758909881A386e30e39490664f85f2247417c0De",
+    "pair": "ID/USD",
+    "price_usd": 0.00003983,
+    "lp_reserve_usd": 89294.13,
+    "volume_24h": 1174.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "ID",
+    "chain": "avalanche",
+    "dex": "blackhole",
+    "pool_address": "0xc3D792a7B51adeb521cD431Ac75831D8C433801a",
+    "pair": "ID/USD",
+    "price_usd": 0.00003937,
+    "lp_reserve_usd": 87243.45,
+    "volume_24h": 878.7,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "ID",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x0143B80d682d2b6fb8945f47b7D199841ab8184C",
+    "pair": "ID/USD",
+    "price_usd": 0.06597,
+    "lp_reserve_usd": 819903.7,
+    "volume_24h": 47566.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "ID",
+    "chain": "avalanche",
+    "dex": "arenatrade",
+    "pool_address": "0xB2146CDe0B735B77beD85dAA3e95443043Ea3427",
+    "pair": "ID/USD",
+    "price_usd": 0.00003931,
+    "lp_reserve_usd": 49389.46,
+    "volume_24h": 547.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "ID",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x77337FF10206480739a768124A18f3aA8C089153",
+    "pair": "ID/USD",
+    "price_usd": 0.005587,
+    "lp_reserve_usd": 26199.93,
+    "volume_24h": 789.67,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "ID",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xbd4ce14c5396b79ff41425e2c80b322a096eaecb570768391e9d8e890bc456f8",
+    "pair": "ID/USD",
+    "price_usd": 0.005581,
+    "lp_reserve_usd": 65768.0,
+    "volume_24h": 872.43,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  }
+]

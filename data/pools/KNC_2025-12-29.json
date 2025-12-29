@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "KNC",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0xf2Facf9f64A8922fB96388A21366326540A24423",
+    "pair": "KNC/USD",
+    "price_usd": 0.2264,
+    "lp_reserve_usd": 33360.66,
+    "volume_24h": 702.45,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "KNC",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0xA7cCa1C4a7d4B70f687380E0454e5Ae418Db53b1",
+    "pair": "KNC/USD",
+    "price_usd": 0.2298,
+    "lp_reserve_usd": 30590.08,
+    "volume_24h": 670.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

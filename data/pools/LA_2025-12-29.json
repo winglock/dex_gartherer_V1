@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "LA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x5DBB1220BC24B462d75E66012bb70CdA8d3D1ad5",
+    "pair": "LA/USD",
+    "price_usd": 0.2916,
+    "lp_reserve_usd": 193684.35,
+    "volume_24h": 71442.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  }
+]

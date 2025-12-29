@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "0G",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x808a3F77c4be4e1ae5DaB0F63cca2CbFDe281dC5",
+    "pair": "0G/USD",
+    "price_usd": 1.025,
+    "lp_reserve_usd": 375747.29,
+    "volume_24h": 1193040.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0xeb64521821a3b6d7f1c6aade6b0eddd506b97aab",
+    "pair": "0G / USDT 1%",
+    "price_usd": 1.02252967947182,
+    "lp_reserve_usd": 9798.7493,
+    "volume_24h": 2478.9432854392,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6dF8Ef1C3Fdb297fDa86445D1ef9b09C20871866",
+    "pair": "0G/USD",
+    "price_usd": 1.033,
+    "lp_reserve_usd": 5253.82,
+    "volume_24h": 615.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xeB64521821a3B6D7F1C6AADe6B0eddd506b97aab",
+    "pair": "0G/USD",
+    "price_usd": 1.031,
+    "lp_reserve_usd": 9839.93,
+    "volume_24h": 2481.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x6df8ef1c3fdb297fda86445d1ef9b09c20871866",
+    "pair": "0G / WBNB 1%",
+    "price_usd": 1.02521461834878,
+    "lp_reserve_usd": 5230.6412,
+    "volume_24h": 610.9265685565,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x808a3f77c4be4e1ae5dab0f63cca2cbfde281dc5",
+    "pair": "0G / USDT 0.01%",
+    "price_usd": 1.02500359101794,
+    "lp_reserve_usd": 375344.0614,
+    "volume_24h": 1191289.97150598,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "0G",
+    "chain": "multi",
+    "dex": "jaine",
+    "pool_address": "0xa9e824eddb9677fb2189ab9c439238a83695c091",
+    "pair": "USDC.e / W0G 0.3%",
+    "price_usd": 1.00610673669789,
+    "lp_reserve_usd": 619329.5453,
+    "volume_24h": 237624.457415327,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  }
+]

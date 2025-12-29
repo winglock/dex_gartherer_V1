@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "JST",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TUDo1PuMG6j4aDSg6rsCNiz5gR5cnQaNTT",
+    "pair": "JST/USD",
+    "price_usd": 0.03858,
+    "lp_reserve_usd": 3607760.54,
+    "volume_24h": 9250.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JST",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TW68dBGdy9gtk16BfzmvaCZ9pEti3KFkk2",
+    "pair": "JST/USD",
+    "price_usd": 0.03864,
+    "lp_reserve_usd": 7271604.43,
+    "volume_24h": 43425.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

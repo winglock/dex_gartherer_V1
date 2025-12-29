@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "NEWT",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x46CB6d2758844D133aBD3EdB3015F9Be96C20E8D",
+    "pair": "NEWT/USD",
+    "price_usd": 0.09762,
+    "lp_reserve_usd": 6682.11,
+    "volume_24h": 3583.75,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "NEWT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x505ee5e52545cc585120cbe26f3238057aee93a5e56971f744be5126a3126241",
+    "pair": "NEWT/USD",
+    "price_usd": 0.09722,
+    "lp_reserve_usd": 630175.04,
+    "volume_24h": 215069.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "NEWT",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xFC828B2015C0A724E90cFaE0c628eeE02694B1a1",
+    "pair": "NEWT/USD",
+    "price_usd": 0.09977,
+    "lp_reserve_usd": 63199.46,
+    "volume_24h": 19330.43,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

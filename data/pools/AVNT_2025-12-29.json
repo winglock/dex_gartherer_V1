@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x9144A6e8ad6f56db96daC444eB173831660Ba3e5",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3709,
+    "lp_reserve_usd": 210586.27,
+    "volume_24h": 98398.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x04f0C5d0e2fc9329F08E0112a37d7D9B7CfF1043",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3714,
+    "lp_reserve_usd": 118902.74,
+    "volume_24h": 107049.68,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xEeb4F7a9cA4Ef229c61B1C1ABCd6d17e24d252eE",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3692,
+    "lp_reserve_usd": 8308.28,
+    "volume_24h": 6213.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xe30d5BF485F7476AC15884a28ffb3C9cEA635DCB",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3694,
+    "lp_reserve_usd": 1491348.6,
+    "volume_24h": 1976032.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "67WgDGaHGmJWq7AM2fQp212QmNSwcPbAVK5LbjA2VJsu",
+    "pair": "AVNT/USD",
+    "price_usd": 0.9399,
+    "lp_reserve_usd": 824833110.35,
+    "volume_24h": 19998.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xc4ed25e61cBdE561c982789f740E3e9A8C317100",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3694,
+    "lp_reserve_usd": 368570.47,
+    "volume_24h": 1226075.92,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "AVNT",
+    "chain": "base",
+    "dex": "pancakeswap",
+    "pool_address": "0xeF1dFA8EFab963F28087e60d269A844857FE7a94",
+    "pair": "AVNT/USD",
+    "price_usd": 0.3707,
+    "lp_reserve_usd": 19422.68,
+    "volume_24h": 102672.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

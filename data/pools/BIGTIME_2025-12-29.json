@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "BIGTIME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x484dcf85Bc5F005E5628a85c7DDe5c846B9B64A7",
+    "pair": "BIGTIME/USD",
+    "price_usd": 0.02132,
+    "lp_reserve_usd": 72065.92,
+    "volume_24h": 28451.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  }
+]

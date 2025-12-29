@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "BCH",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "22JxDgHQiaX86eVQWeERtFNAWvcDsPs49pHKxkqBC3J7",
+    "pair": "BCH/USD",
+    "price_usd": 587.86,
+    "lp_reserve_usd": 129330755.66,
+    "volume_24h": 282280.25,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023837
+  },
+  {
+    "symbol": "BCH",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x1FD22FA7274BAfebDFb1881321709f1219744829",
+    "pair": "BCH/USD",
+    "price_usd": 605.34,
+    "lp_reserve_usd": 144755.53,
+    "volume_24h": 106273.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023837
+  },
+  {
+    "symbol": "BCH",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x14cFaD9a4Fcb5FB4f702F5d0E90dcC633e1DEd9A",
+    "pair": "BCH/USD",
+    "price_usd": 603.18,
+    "lp_reserve_usd": 52229.69,
+    "volume_24h": 41530.96,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023837
+  },
+  {
+    "symbol": "BCH",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xb2e4962480d3974bD996E4ABf051C73Eb9C84d7d",
+    "pair": "BCH/USD",
+    "price_usd": 608.024,
+    "lp_reserve_usd": 52788.27,
+    "volume_24h": 1012.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023837
+  }
+]

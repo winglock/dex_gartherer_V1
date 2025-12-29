@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "VANA",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x414750c7eba4708BdD882b31b61f309adC32724F",
+    "pair": "VANA/USD",
+    "price_usd": 2.6,
+    "lp_reserve_usd": 167760.32,
+    "volume_24h": 1230.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

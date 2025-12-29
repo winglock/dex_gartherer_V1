@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MIRA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xe34C78cE8F585014F922b64b7a4E2c665a629AF6",
+    "pair": "MIRA/USD",
+    "price_usd": 0.1425,
+    "lp_reserve_usd": 495389.66,
+    "volume_24h": 589813.77,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  }
+]

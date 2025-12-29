@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "CYBER",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "BtVAiWzs9p8gXy6Hz8oYK1G4SvMuVbkhf8uscvKpjuw",
+    "pair": "CYBER/USD",
+    "price_usd": 0.6993,
+    "lp_reserve_usd": 88300.34,
+    "volume_24h": 11070.9,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  }
+]

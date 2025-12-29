@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ATOM",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1251-ibc_27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "ATOM/USD",
+    "price_usd": 2.015,
+    "lp_reserve_usd": 782945.25,
+    "volume_24h": 480273.26,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "ATOM",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1282-ibc_27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "ATOM/USD",
+    "price_usd": 2.015,
+    "lp_reserve_usd": 43633.83,
+    "volume_24h": 46028.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "ATOM",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x9e5bd780dff875Dd85848a65549791445AE25De0",
+    "pair": "ATOM/USD",
+    "price_usd": 2.014,
+    "lp_reserve_usd": 547221.29,
+    "volume_24h": 6206.52,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

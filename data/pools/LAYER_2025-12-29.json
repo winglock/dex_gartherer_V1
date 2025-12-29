@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "LAYER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "G6drsaPCR3pxsEmSTAc81kW1EL3kFAFwtSAkzUZXmgH3",
+    "pair": "LAYER/USD",
+    "price_usd": 0.1761,
+    "lp_reserve_usd": 140391.16,
+    "volume_24h": 84664.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

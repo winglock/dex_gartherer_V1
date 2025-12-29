@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "XLM",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "DwuzFDHZfSDgFFo4XRmo4sq43ZXJjbpwb8tWCDS8wcwh",
+    "pair": "XLM/USD",
+    "price_usd": 0.2584,
+    "lp_reserve_usd": 5176129.07,
+    "volume_24h": 98034.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "XLM",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3TjAqr2u91e3ZpZgHHTKYnWnzHs1LvS48uerVr5mRCaP",
+    "pair": "XLM/USD",
+    "price_usd": 0.2489,
+    "lp_reserve_usd": 4978358.66,
+    "volume_24h": 282493.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "XLM",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0xB1d227D14D19151b915C395692DdDf9CCdeadEE3",
+    "pair": "XLM/USD",
+    "price_usd": 0.2192,
+    "lp_reserve_usd": 156887.49,
+    "volume_24h": 3325.35,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "XLM",
+    "chain": "xrpl",
+    "dex": "xrpl",
+    "pool_address": "XLM.rKiCet8SdvWxPXnAgYarFUXMh1zCPz432Y_XRP",
+    "pair": "XLM/USD",
+    "price_usd": 0.2214,
+    "lp_reserve_usd": 440740.58,
+    "volume_24h": 3818.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

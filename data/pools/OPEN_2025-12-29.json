@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "OPEN",
+    "chain": "ton",
+    "dex": "stonfi",
+    "pool_address": "EQDJceihSDFCNi_nXilym1owWCv_gsQLJridtz5Kl2hbnGLq",
+    "pair": "OPEN/USD",
+    "price_usd": 0.00007746,
+    "lp_reserve_usd": 238966.87,
+    "volume_24h": 4951.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "OPEN",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x988bf56df979806FB08f0FaA0d61879f270B7b27",
+    "pair": "OPEN/USD",
+    "price_usd": 0.1623,
+    "lp_reserve_usd": 11817.41,
+    "volume_24h": 5398.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "OPEN",
+    "chain": "ton",
+    "dex": "dedust",
+    "pool_address": "EQD5CSrs8_-S7Ol_wlR5BeLgultjapQErUz4ZGCRMb_tpCSZ",
+    "pair": "OPEN/USD",
+    "price_usd": 0.00007755,
+    "lp_reserve_usd": 237884.24,
+    "volume_24h": 2487.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "OPEN",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x419f8539c423D66dc42Bd80D6f0Bdd6fD4C21DCe",
+    "pair": "OPEN/USD",
+    "price_usd": 0.1613,
+    "lp_reserve_usd": 493899.6,
+    "volume_24h": 245499.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "OPEN",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xaBaebcc9EEe363CeA2150eE03ac96db110F0e745",
+    "pair": "OPEN/USD",
+    "price_usd": 0.7022,
+    "lp_reserve_usd": 383966.99,
+    "volume_24h": 18441.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  }
+]

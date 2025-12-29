@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "BARD",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xb721E6e1CAB16C30c852836C4891d66fe2d9f7A8",
+    "pair": "BARD/USD",
+    "price_usd": 0.7899,
+    "lp_reserve_usd": 12120.42,
+    "volume_24h": 2717.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  }
+]

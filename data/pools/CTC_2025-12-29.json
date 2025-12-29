@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "CTC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x3b4D4Ab2d931c7e3B55f3BCeF7b773F1c4dE4045",
+    "pair": "CTC/USD",
+    "price_usd": 0.1067,
+    "lp_reserve_usd": 56199.28,
+    "volume_24h": 10585.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  }
+]

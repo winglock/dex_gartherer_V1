@@ -9,7 +9,7 @@ use crate::sources::{
     PoolSource, 
     gecko::GeckoTerminal, 
     aggregators::{DexScreenerSource, MatchaSource},
-    meta_agg::{KyberSwapDirectSource, OpenOceanDirectSource, ParaSwapDirectSource},
+    meta_agg::{self, MatchaTokenResolver, KyberSwapDirectSource, OpenOceanDirectSource, ParaSwapDirectSource},
 };
 use super::{PoolCache, PoolFilter};
 
@@ -39,15 +39,23 @@ pub struct PoolCollector {
 
 impl PoolCollector {
     pub fn new(cache: Arc<PoolCache>, filter: PoolFilter) -> Self {
+        // Shared token address cache for aggregators
+        let token_cache = meta_agg::new_token_cache();
+        
         Self {
-            // All 6 active sources (no external server needed!)
+            // All 7 active sources with shared token cache
             sources: vec![
-                Arc::new(GeckoTerminal::new()),          // Pool data + LP/volume
-                Arc::new(DexScreenerSource::new()),     // DEX pairs
-                Arc::new(MatchaSource::new()),          // Token search (16 chains)
-                Arc::new(KyberSwapDirectSource::new()), // KyberSwap direct API
-                Arc::new(OpenOceanDirectSource::new()), // OpenOcean direct API
-                Arc::new(ParaSwapDirectSource::new()),  // ParaSwap direct API
+                // Primary sources (always work)
+                Arc::new(GeckoTerminal::new()),
+                Arc::new(DexScreenerSource::new()),
+                // Token resolver (populates cache for others)
+                Arc::new(MatchaTokenResolver::new(token_cache.clone())),
+                // Aggregators using shared cache
+                Arc::new(KyberSwapDirectSource::new(token_cache.clone())),
+                Arc::new(OpenOceanDirectSource::new(token_cache.clone())),
+                Arc::new(ParaSwapDirectSource::new(token_cache.clone())),
+                // Original Matcha (for comparison)
+                Arc::new(MatchaSource::new()),
             ],
             cache,
             filter,
@@ -58,123 +66,80 @@ impl PoolCollector {
 
     /// Progressive collection with visual feedback
     pub async fn collect_progressive(&self, symbols: &[String]) -> CollectorResult {
-        let multi = MultiProgress::new();
-        let overall_pb = multi.add(ProgressBar::new(symbols.len() as u64));
-        overall_pb.set_style(
-            ProgressStyle::default_bar()
-                .template("[{elapsed_precise}] {bar:40.cyan/blue} {pos}/{len} symbols | {msg}")
-                .unwrap()
-        );
+        let mp = MultiProgress::new();
+        
+        let pb_total = mp.add(ProgressBar::new(symbols.len() as u64));
+        pb_total.set_style(ProgressStyle::default_bar()
+            .template("{prefix:.bold.blue} [{bar:40.cyan/blue}] {pos}/{len} {msg}")
+            .unwrap()
+            .progress_chars("█▓▒░"));
+        pb_total.set_prefix("📊 Collecting");
 
-        // Phase 1: Top 20 coins (high priority)
-        let high_priority = &symbols[..20.min(symbols.len())];
-        overall_pb.set_message("Phase 1: High Priority");
-        self.collect_batch(high_priority, &multi, &overall_pb).await;
-
-        // Phase 2: Next 30 coins
-        if symbols.len() > 20 {
-            let medium_priority = &symbols[20..50.min(symbols.len())];
-            overall_pb.set_message("Phase 2: Medium Priority");
-            self.collect_batch(medium_priority, &multi, &overall_pb).await;
-        }
-
-        // Phase 3: Remaining coins
-        if symbols.len() > 50 {
-            let low_priority = &symbols[50..];
-            overall_pb.set_message("Phase 3: Remaining");
-            self.collect_batch(low_priority, &multi, &overall_pb).await;
-        }
-
-        overall_pb.finish_with_message("✓ Complete");
-
-        CollectorResult {
-            total: self.stats.pools_collected.load(Ordering::Relaxed),
-            successful: self.stats.successful.load(Ordering::Relaxed),
-            failed: self.stats.failed.load(Ordering::Relaxed),
-        }
-    }
-
-    async fn collect_batch(
-        &self,
-        symbols: &[String],
-        multi: &MultiProgress,
-        overall_pb: &ProgressBar,
-    ) {
-        let pb = multi.add(ProgressBar::new(symbols.len() as u64));
-        pb.set_style(
-            ProgressStyle::default_bar()
-                .template("  └─ {spinner:.green} [{bar:30}] {pos}/{len} | {msg}")
-                .unwrap()
-        );
+        let total_pools = Arc::new(AtomicUsize::new(0));
+        let successful = Arc::new(AtomicUsize::new(0));
+        let failed = Arc::new(AtomicUsize::new(0));
 
         stream::iter(symbols.iter().cloned())
             .map(|symbol| {
-                let pb = pb.clone();
+                let pb = pb_total.clone();
                 let sources = self.sources.clone();
                 let cache = self.cache.clone();
                 let filter = self.filter.clone();
                 let semaphore = self.semaphore.clone();
-                let stats = self.stats.clone();
+                let total_pools = total_pools.clone();
+                let successful = successful.clone();
+                let failed = failed.clone();
 
                 async move {
                     let _permit = semaphore.acquire().await.unwrap();
-                    pb.set_message(format!("Fetching {}", symbol));
-
-                    let start = std::time::Instant::now();
-                    let mut count = 0;
-
+                    
                     for source in sources.iter() {
-                        stats.total_requests.fetch_add(1, Ordering::Relaxed);
-
                         match tokio::time::timeout(
                             Duration::from_secs(10),
                             source.fetch_pools(&symbol)
                         ).await {
                             Ok(Ok(pools)) => {
-                                stats.successful.fetch_add(1, Ordering::Relaxed);
-                                for pool in pools {
-                                    if filter.is_valid(&pool) {
-                                        cache.insert(pool.pool_address.clone(), pool);
-                                        count += 1;
-                                        stats.pools_collected.fetch_add(1, Ordering::Relaxed);
-                                    }
+                                let filtered: Vec<_> = pools.into_iter()
+                                    .filter(|p| filter.is_valid(p))
+                                    .collect();
+                                
+                                for pool in filtered {
+                                    let key = format!("{}:{}:{}", pool.source, pool.chain, pool.pool_address);
+                                    cache.insert(key, pool);
+                                    total_pools.fetch_add(1, Ordering::Relaxed);
                                 }
+                                successful.fetch_add(1, Ordering::Relaxed);
                             }
-                            Ok(Err(e)) => {
-                                stats.failed.fetch_add(1, Ordering::Relaxed);
-                                tracing::warn!("❌ {} | {}: {}", symbol, source.name(), e);
-                            }
-                            Err(_) => {
-                                stats.failed.fetch_add(1, Ordering::Relaxed);
-                                tracing::warn!("⏱️ {} timeout", symbol);
+                            Ok(Err(_)) | Err(_) => {
+                                failed.fetch_add(1, Ordering::Relaxed);
                             }
                         }
                     }
 
-                    if count > 0 {
-                        pb.println(format!(
-                            "  ✓ {} | {} pools in {:.1}s",
-                            symbol, count, start.elapsed().as_secs_f32()
-                        ));
-                    }
-
                     pb.inc(1);
+                    pb.set_message(format!("{}: {} pools", symbol, total_pools.load(Ordering::Relaxed)));
                 }
             })
             .buffer_unordered(5)
             .collect::<Vec<_>>()
             .await;
 
-        pb.finish_and_clear();
-        overall_pb.inc(symbols.len() as u64);
+        pb_total.finish_with_message(format!("✓ {} pools collected", total_pools.load(Ordering::Relaxed)));
+
+        CollectorResult {
+            total: total_pools.load(Ordering::Relaxed),
+            successful: successful.load(Ordering::Relaxed),
+            failed: failed.load(Ordering::Relaxed),
+        }
     }
 
-    pub fn get_stats(&self) -> &Arc<CollectorStats> {
-        &self.stats
+    /// Get all cached pools
+    pub fn get_cached_pools(&self) -> Vec<Arc<PoolData>> {
+        self.cache.get_all()
     }
 
-    #[allow(dead_code)]
-    pub fn get_cached(&self, address: &str) -> Option<Arc<PoolData>> {
-        self.cache.get(address)
+    /// Get collection statistics
+    pub fn get_stats(&self) -> Arc<CollectorStats> {
+        self.stats.clone()
     }
 }

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "MOODENG",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "22WrmyTj8x2TRVQen3fxxi2r4Rn6JDHWoMTpsSmn8RUd",
+    "pair": "MOODENG/USD",
+    "price_usd": 0.07077,
+    "lp_reserve_usd": 3592299.09,
+    "volume_24h": 217360.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xec199d2a536c877231D6AE8Fd1995099432B99f0",
+    "pair": "MOODENG/USD",
+    "price_usd": 58.84,
+    "lp_reserve_usd": 9554377934.34,
+    "volume_24h": 778705356.66,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x470DC172d6502Ac930B59322EcE5345dd456A03D",
+    "pair": "MOODENG/USD",
+    "price_usd": 0.00001451,
+    "lp_reserve_usd": 1012723.05,
+    "volume_24h": 171642.7,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  }
+]

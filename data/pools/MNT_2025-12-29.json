@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "MNT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "8kcGTvgkJQKjP7ZpLtqrYK5Ha8a1x7yGsYbQjsaXDwAg",
+    "pair": "MNT/USD",
+    "price_usd": 1.3,
+    "lp_reserve_usd": 129621198.17,
+    "volume_24h": 20173.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "MNT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x9Aac67dEeF711D438AD711Ae495B8CB43a6eE1A8",
+    "pair": "MNT/USD",
+    "price_usd": 1.019,
+    "lp_reserve_usd": 4073850.56,
+    "volume_24h": 277117.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "MNT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xF4c5e0F4590b6679B3030d29A84857F226087FeF",
+    "pair": "MNT/USD",
+    "price_usd": 1.017,
+    "lp_reserve_usd": 47804.06,
+    "volume_24h": 2982.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "COW",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x0C7e40E742Fb50A2bA1c7C8C16D66f044094F857",
+    "pair": "COW/USD",
+    "price_usd": 0.009353,
+    "lp_reserve_usd": 1736371.14,
+    "volume_24h": 14610.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "COW",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xc54493a23ae7d31ebee8a668f1ebf9fd7046ac98670612cc7d9bafd47c7ed963",
+    "pair": "COW/USD",
+    "price_usd": 0.2141,
+    "lp_reserve_usd": 435286.11,
+    "volume_24h": 50867.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "COW",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x8a78CbD606D94fb1BE3B49b7781eE5ede01FDd6a",
+    "pair": "COW/USD",
+    "price_usd": 0.009118,
+    "lp_reserve_usd": 36600.55,
+    "volume_24h": 2545.94,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "COW",
+    "chain": "base",
+    "dex": "pancakeswap",
+    "pool_address": "0xfe5291Ac7Ac2b81a40c0ba6980308212037828aF",
+    "pair": "COW/USD",
+    "price_usd": 0.2142,
+    "lp_reserve_usd": 63162.05,
+    "volume_24h": 24050.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "COW",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0x10Cab08D1490a56bDa21A191C20771fcB5453F54",
+    "pair": "COW/USD",
+    "price_usd": 0.2137,
+    "lp_reserve_usd": 147899.63,
+    "volume_24h": 2304.9,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

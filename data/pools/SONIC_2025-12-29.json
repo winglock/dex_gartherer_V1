@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "SONIC",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "BpzGNsHoSdPkoANBNkrw6syqqLLPX6j38FZg6rJ1QLJ",
+    "pair": "SONIC/USD",
+    "price_usd": 0.06945,
+    "lp_reserve_usd": 404499.37,
+    "volume_24h": 125789.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

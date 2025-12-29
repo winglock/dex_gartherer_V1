@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "CHZ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x10ce8ea23b909f88ff66f8a78af2f1b2e65893b880e32d577787b90de01abc20",
+    "pair": "CHZ/USD",
+    "price_usd": 0.03752,
+    "lp_reserve_usd": 8797.7,
+    "volume_24h": 2781.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "CHZ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x325365ED8275f6a74cac98917b7f6FaCe8da533b",
+    "pair": "CHZ/USD",
+    "price_usd": 0.03765,
+    "lp_reserve_usd": 28749.98,
+    "volume_24h": 723.15,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "ZKP",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x803c6b93B1C1F226988b04fe44b0fD2371EC6eb9",
+    "pair": "ZKP/USD",
+    "price_usd": 618843.92,
+    "lp_reserve_usd": 30942836.71,
+    "volume_24h": 216505.52,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ZKP",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x5f646AE2Ba04a83028064c76C7B1967547753BFa",
+    "pair": "ZKP/USD",
+    "price_usd": 0.1341,
+    "lp_reserve_usd": 12155.3,
+    "volume_24h": 16502.65,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ZKP",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x9154C891ebf6bAcF707970C501F58FecFE3A5Bac",
+    "pair": "ZKP/USD",
+    "price_usd": 0.1331,
+    "lp_reserve_usd": 27817.71,
+    "volume_24h": 79423.25,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ZKP",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x979EBe9E89BE8875D28B2BC105389E98Dbd22183",
+    "pair": "ZKP/USD",
+    "price_usd": 0.1333,
+    "lp_reserve_usd": 9418.14,
+    "volume_24h": 22075.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ZKP",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x9799d1d2e70f566650db4f154bb35e4f902c3a45f3dc4c45603230275ce09b92",
+    "pair": "ZKP/USD",
+    "price_usd": 0.1322,
+    "lp_reserve_usd": 31327.35,
+    "volume_24h": 3938.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

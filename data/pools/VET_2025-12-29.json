@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "VET",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6f4919d08bdEB1AAdfEAE4DA97CcEbFa370008f6",
+    "pair": "VET/USD",
+    "price_usd": 0.0112,
+    "lp_reserve_usd": 28365.09,
+    "volume_24h": 2159.96,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "SUI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x0AB4Ff4E36dBc8b46C417A74967747607b60622A",
+    "pair": "SUI/USD",
+    "price_usd": 1.44,
+    "lp_reserve_usd": 54944.12,
+    "volume_24h": 24758.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SUI",
+    "chain": "polkadot",
+    "dex": "hydration",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-1000753",
+    "pair": "SUI/USD",
+    "price_usd": 1.45,
+    "lp_reserve_usd": 48235389.78,
+    "volume_24h": 36705.92,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SUI",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x140C7545d2e46fF2dc3Ba7B1D3c4BA41698816Fb",
+    "pair": "SUI/USD",
+    "price_usd": 1.44,
+    "lp_reserve_usd": 49944.55,
+    "volume_24h": 1460.9,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  }
+]

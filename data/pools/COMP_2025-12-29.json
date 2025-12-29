@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "COMP",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xbbc467b37ee0199d22c772a4887b8502ce1d68f36f9effda5e0d6a14e6bc97ae",
+    "pair": "COMP/USD",
+    "price_usd": 25.74,
+    "lp_reserve_usd": 38653.12,
+    "volume_24h": 3474.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "COMP",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xdb5ad08ed25d08a87cc64241fbc377c06fea3e5298abdb2eecc955361dccdfa1",
+    "pair": "COMP/USD",
+    "price_usd": 25.88,
+    "lp_reserve_usd": 5717.94,
+    "volume_24h": 1679.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

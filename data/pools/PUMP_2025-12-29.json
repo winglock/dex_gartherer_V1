@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "PUMP",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "BofA2ViUSudPBTUms2KRuG6AHNeMawjNfwqTJDgx5BKW",
+    "pair": "PUMP/USD",
+    "price_usd": 0.001786,
+    "lp_reserve_usd": 912171.3,
+    "volume_24h": 545195.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x90345Fbe6DA637322015129De38d3166f98aac9c",
+    "pair": "PUMP/USD",
+    "price_usd": 0.02755,
+    "lp_reserve_usd": 308900.06,
+    "volume_24h": 69087.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x96Fefb743B1D180363404747bf09BD32657D8B78",
+    "pair": "PUMP/USD",
+    "price_usd": 0.002275,
+    "lp_reserve_usd": 107089.65,
+    "volume_24h": 5130.42,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "45ssPkUQs1ssbeDqxD2mZrMdJYAXF7GyQyhS5xDXuWC5",
+    "pair": "PUMP/USD",
+    "price_usd": 0.001787,
+    "lp_reserve_usd": 324953.0,
+    "volume_24h": 1790222.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "Dwgaka8QiSkFQ3bGXhZpmncM63DwhjK5zzQRiqt9WA8K",
+    "pair": "PUMP/USD",
+    "price_usd": 0.001789,
+    "lp_reserve_usd": 476316.02,
+    "volume_24h": 654609.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "4AFAkCSkSNmra64irggEFd8ZtF4WCtFe51qVaFFNBL2D",
+    "pair": "PUMP/USD",
+    "price_usd": 0.001784,
+    "lp_reserve_usd": 127063.52,
+    "volume_24h": 60872.08,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "PUMP",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "2uF4Xh61rDwxnG9woyxsVQP7zuA6kLFpb3NvnRQeoiSd",
+    "pair": "PUMP/USD",
+    "price_usd": 0.001784,
+    "lp_reserve_usd": 13067526.08,
+    "volume_24h": 1307335.83,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  }
+]

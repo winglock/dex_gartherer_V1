@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "LSK",
+    "chain": "multi",
+    "dex": "velodrome-finance-slipstream-lisk",
+    "pool_address": "0xa913882766af5ffd34e72bdd646e8e8957fe1842",
+    "pair": "LSK / WETH 0.27%",
+    "price_usd": 0.192083331768555,
+    "lp_reserve_usd": 139403.704,
+    "volume_24h": 35639.7669085557,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "LSK",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x6af632b8235f1a9d95a816f7a4090736346b763a8ab4e8327017aaae72d0d1d2",
+    "pair": "LSK/USD",
+    "price_usd": 0.1924,
+    "lp_reserve_usd": 474321.76,
+    "volume_24h": 30124.23,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "LSK",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream-2",
+    "pool_address": "0x275be3a43b66516e532bcaa36ee453edd47614ea",
+    "pair": "LSK / WETH 0.27%",
+    "price_usd": 0.175146955061185,
+    "lp_reserve_usd": 253959.5902,
+    "volume_24h": 1110.7462114891,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "LSK",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x275BE3a43B66516e532BcaA36eE453EDd47614ea",
+    "pair": "LSK/USD",
+    "price_usd": 0.1787,
+    "lp_reserve_usd": 265753.43,
+    "volume_24h": 1111.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "LSK",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x6af632b8235f1a9d95a816f7a4090736346b763a8ab4e8327017aaae72d0d1d2",
+    "pair": "LSK / ETH 0.3%",
+    "price_usd": 0.192673899482329,
+    "lp_reserve_usd": 485084.1869,
+    "volume_24h": 30125.4453575907,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MLK",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9bE02b0DD7B5566b9904FcEc730296C787cf2724",
+    "pair": "MLK/USD",
+    "price_usd": 0.06851,
+    "lp_reserve_usd": 647570.37,
+    "volume_24h": 177057.9,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

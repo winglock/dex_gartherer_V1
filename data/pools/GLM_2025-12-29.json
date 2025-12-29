@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "GLM",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x531b6A4b3F962208EA8Ed5268C642c84BB29be0b",
+    "pair": "GLM/USD",
+    "price_usd": 0.1984,
+    "lp_reserve_usd": 68866.04,
+    "volume_24h": 1523.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  },
+  {
+    "symbol": "GLM",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xff701d6e2fb193e038fe403329b56fc0d5763f8b4eb7706e6f8855c4802b7211",
+    "pair": "GLM/USD",
+    "price_usd": 0.1978,
+    "lp_reserve_usd": 133564.1,
+    "volume_24h": 3005.79,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023849
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "SYRUP",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x29dfcb94b1ab021ca46442d2b1a3ed3d2268fdc985d2fe9a3b67a6963670ec02",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3218,
+    "lp_reserve_usd": 2771407.58,
+    "volume_24h": 165143.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "Ey6XZtttqxnJr2DLjvoF2Q1i7uD62DAZyCxn1gkMbofz",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3909,
+    "lp_reserve_usd": 32404754.63,
+    "volume_24h": 20178.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x27941A235804f33D81aDaBb2d56589c5f6Ea6556",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3221,
+    "lp_reserve_usd": 1049473.91,
+    "volume_24h": 110386.97,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x77708Eef0BB95a6a20c208997A90A1038102F546",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3243,
+    "lp_reserve_usd": 36089.2,
+    "volume_24h": 2684.07,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x7432aaB631B801a10BEF7d70c1507a32755595fa",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3233,
+    "lp_reserve_usd": 66280.45,
+    "volume_24h": 67346.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xFC42A013ebD8B160C35c6A0FE876DE4e42da262a",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3229,
+    "lp_reserve_usd": 26827.93,
+    "volume_24h": 1164.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3150B450F8325ac4AFbfA52f33EcF00232F1294E",
+    "pair": "SYRUP/USD",
+    "price_usd": 0.3232,
+    "lp_reserve_usd": 21431.52,
+    "volume_24h": 3212.77,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  }
+]

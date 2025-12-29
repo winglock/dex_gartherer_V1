@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "SEI",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xf8e349d1d827a6EdF17eE673664CFAd4ca78C533",
+    "pair": "SEI/USD",
+    "price_usd": 0.116,
+    "lp_reserve_usd": 6378836.89,
+    "volume_24h": 1332885.9,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "SEI",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "4WR94WbcsrofEHXTZZvC5heBomRR5W4edjZbdEFXYK4L",
+    "pair": "SEI/USD",
+    "price_usd": 0.2899,
+    "lp_reserve_usd": 8482892.82,
+    "volume_24h": 20244.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

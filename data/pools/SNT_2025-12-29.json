@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "SNT",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x084b5191bd08412952337b1108b6e5942418928f",
+    "pair": "SNT / WETH 0.3%",
+    "price_usd": 0.0142034823177697,
+    "lp_reserve_usd": 684095.7436,
+    "volume_24h": 29006.9570124052,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023762
+  },
+  {
+    "symbol": "SNT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "EMrLSQj6iji4kW3ZpsjSCtb5fQ9m2n6qvo8tVKScdE3G",
+    "pair": "SNT/USD",
+    "price_usd": 0.0004271,
+    "lp_reserve_usd": 9503.56,
+    "volume_24h": 85191.78,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SNT",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "EMrLSQj6iji4kW3ZpsjSCtb5fQ9m2n6qvo8tVKScdE3G",
+    "pair": "SNT / SOL",
+    "price_usd": 0.00043023354540909617,
+    "lp_reserve_usd": 9447.8393,
+    "volume_24h": 84505.0786726592,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023762
+  },
+  {
+    "symbol": "SNT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x084B5191Bd08412952337b1108b6e5942418928f",
+    "pair": "SNT/USD",
+    "price_usd": 0.01425,
+    "lp_reserve_usd": 685927.03,
+    "volume_24h": 29001.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  }
+]

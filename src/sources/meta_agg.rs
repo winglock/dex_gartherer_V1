@@ -1,81 +1,161 @@
 use async_trait::async_trait;
 use reqwest::Client;
-use serde::Deserialize;
 use std::collections::HashMap;
+use std::sync::Arc;
 use std::time::Duration;
+use parking_lot::RwLock;
 use crate::models::PoolData;
 use super::{PoolSource, SourceError};
 
-// Token address map: symbol -> chain_id -> address
-lazy_static::lazy_static! {
-    static ref TOKEN_MAP: HashMap<&'static str, HashMap<u32, &'static str>> = {
-        let mut m = HashMap::new();
-        
-        // BTC
-        let mut btc = HashMap::new();
-        btc.insert(1u32, "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"); // WBTC ETH
-        btc.insert(56u32, "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"); // BTCB BSC
-        m.insert("BTC", btc);
-        
-        // ETH
-        let mut eth = HashMap::new();
-        eth.insert(1u32, "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"); // WETH
-        eth.insert(56u32, "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"); // ETH BSC
-        eth.insert(137u32, "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"); // WETH Polygon
-        m.insert("ETH", eth);
-        
-        // USDT
-        let mut usdt = HashMap::new();
-        usdt.insert(1u32, "0xdAC17F958D2ee523a2206206994597C13D831ec7");
-        usdt.insert(56u32, "0x55d398326f99059fF775485246999027B3197955");
-        usdt.insert(137u32, "0xc2132D05D31c914a87C6611C10748AEb04B58e8F");
-        m.insert("USDT", usdt);
-        
-        // Add more common tokens
-        let mut link = HashMap::new();
-        link.insert(1u32, "0x514910771AF9Ca656af840dff83E8264EcF986CA");
-        m.insert("LINK", link);
-        
-        let mut uni = HashMap::new();
-        uni.insert(1u32, "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984");
-        m.insert("UNI", uni);
-        
-        let mut aave = HashMap::new();
-        aave.insert(1u32, "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9");
-        m.insert("AAVE", aave);
-        
-        m
-    };
+/// Shared token address cache (symbol -> chain_id -> address)
+pub type TokenCache = Arc<RwLock<HashMap<String, HashMap<u32, String>>>>;
+
+/// Create a new shared token cache
+pub fn new_token_cache() -> TokenCache {
+    Arc::new(RwLock::new(HashMap::new()))
 }
 
-fn get_token_address(symbol: &str, chain_id: u32) -> Option<&'static str> {
-    TOKEN_MAP.get(symbol.to_uppercase().as_str())
-        .and_then(|chains| chains.get(&chain_id))
-        .copied()
-}
-
+/// Get USDC address for chain
 fn get_usdc_address(chain_id: u32) -> &'static str {
     match chain_id {
         1 => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         56 => "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         137 => "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        42161 => "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        10 => "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+        8453 => "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
         _ => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     }
 }
 
-/// KyberSwap Direct API
-pub struct KyberSwapDirectSource {
+/// Matcha Token Resolver - fetches token addresses and caches them
+pub struct MatchaTokenResolver {
     client: Client,
+    cache: TokenCache,
 }
 
-impl KyberSwapDirectSource {
-    pub fn new() -> Self {
+impl MatchaTokenResolver {
+    pub fn new(cache: TokenCache) -> Self {
         Self {
             client: Client::builder()
                 .timeout(Duration::from_secs(10))
                 .build()
                 .unwrap(),
+            cache,
         }
+    }
+
+    /// Fetch and cache token addresses from Matcha
+    pub async fn resolve(&self, symbol: &str) -> HashMap<u32, String> {
+        // Check cache first
+        {
+            let cache = self.cache.read();
+            if let Some(addresses) = cache.get(&symbol.to_uppercase()) {
+                return addresses.clone();
+            }
+        }
+
+        // Fetch from Matcha API
+        let chain_ids = "1,56,137,42161,10,8453";
+        let url = format!(
+            "https://matcha.xyz/api/tokens/search?chainId={}&limit=10&query={}",
+            chain_ids, symbol
+        );
+
+        let mut addresses = HashMap::new();
+
+        if let Ok(resp) = self.client.get(&url)
+            .header("accept", "*/*")
+            .header("referer", "https://matcha.xyz/")
+            .header("user-agent", "Mozilla/5.0")
+            .send()
+            .await
+        {
+            if resp.status().is_success() {
+                if let Ok(data) = resp.json::<serde_json::Value>().await {
+                    if let Some(tokens) = data["data"].as_array() {
+                        for token in tokens {
+                            let token_symbol = token["symbol"].as_str().unwrap_or("");
+                            let chain_id = token["chainId"].as_u64().unwrap_or(0) as u32;
+                            let address = token["address"].as_str().unwrap_or("");
+
+                            // Exact match only
+                            if token_symbol.eq_ignore_ascii_case(symbol) && !address.is_empty() {
+                                addresses.insert(chain_id, address.to_string());
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        // Cache the result
+        if !addresses.is_empty() {
+            let mut cache = self.cache.write();
+            cache.insert(symbol.to_uppercase(), addresses.clone());
+        }
+
+        addresses
+    }
+}
+
+#[async_trait]
+impl PoolSource for MatchaTokenResolver {
+    fn name(&self) -> &'static str { "Matcha" }
+
+    async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
+        let addresses = self.resolve(symbol).await;
+        
+        let pools: Vec<PoolData> = addresses.iter()
+            .map(|(chain_id, address)| {
+                let chain_name = match chain_id {
+                    1 => "ethereum",
+                    56 => "bsc",
+                    137 => "polygon",
+                    42161 => "arbitrum",
+                    10 => "optimism",
+                    8453 => "base",
+                    _ => "other",
+                };
+                
+                PoolData::new(
+                    symbol.to_string(),
+                    chain_name.to_string(),
+                    "matcha".to_string(),
+                    address.clone(),
+                    format!("{} token", symbol),
+                    0.0, 0.0, 0.0,
+                    "matcha".to_string(),
+                )
+            })
+            .collect();
+        
+        Ok(pools)
+    }
+}
+
+/// KyberSwap with dynamic token resolution
+pub struct KyberSwapDirectSource {
+    client: Client,
+    cache: TokenCache,
+}
+
+impl KyberSwapDirectSource {
+    pub fn new(cache: TokenCache) -> Self {
+        Self {
+            client: Client::builder()
+                .timeout(Duration::from_secs(10))
+                .build()
+                .unwrap(),
+            cache,
+        }
+    }
+
+    fn get_token_address(&self, symbol: &str, chain_id: u32) -> Option<String> {
+        let cache = self.cache.read();
+        cache.get(&symbol.to_uppercase())
+            .and_then(|chains| chains.get(&chain_id))
+            .cloned()
     }
 }
 
@@ -87,7 +167,7 @@ impl PoolSource for KyberSwapDirectSource {
         let mut pools = Vec::new();
         
         for (chain_name, chain_id) in [("ethereum", 1u32), ("bsc", 56), ("polygon", 137)] {
-            let token_addr = match get_token_address(symbol, chain_id) {
+            let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
             };
@@ -101,7 +181,6 @@ impl PoolSource for KyberSwapDirectSource {
             if let Ok(resp) = self.client.get(&url).send().await {
                 if resp.status().is_success() {
                     if let Ok(data) = resp.json::<serde_json::Value>().await {
-                        // Extract route info
                         if let Some(route_summary) = data["data"]["routeSummary"].as_object() {
                             let amount_out = route_summary.get("amountOut")
                                 .and_then(|v| v.as_str())
@@ -109,7 +188,6 @@ impl PoolSource for KyberSwapDirectSource {
                                 .map(|v| v / 1e6)
                                 .unwrap_or(0.0);
                             
-                            // Get pools from route
                             if let Some(route) = data["data"]["routeSummary"]["route"].as_array() {
                                 for (i, leg) in route.iter().enumerate() {
                                     if let Some(swaps) = leg.as_array() {
@@ -125,8 +203,7 @@ impl PoolSource for KyberSwapDirectSource {
                                                     pool.to_string(),
                                                     format!("{}/USDC (hop {})", symbol, i + 1),
                                                     amount_out,
-                                                    0.0,
-                                                    0.0,
+                                                    0.0, 0.0,
                                                     "kyberswap".to_string(),
                                                 ));
                                             }
@@ -135,7 +212,6 @@ impl PoolSource for KyberSwapDirectSource {
                                 }
                             }
                             
-                            // Fallback if no specific pools
                             if pools.is_empty() && amount_out > 0.0 {
                                 pools.push(PoolData::new(
                                     symbol.to_string(),
@@ -144,8 +220,7 @@ impl PoolSource for KyberSwapDirectSource {
                                     format!("kyber:{}:{}", chain_id, symbol),
                                     format!("{}/USDC", symbol),
                                     amount_out,
-                                    0.0,
-                                    0.0,
+                                    0.0, 0.0,
                                     "kyberswap".to_string(),
                                 ));
                             }
@@ -159,19 +234,28 @@ impl PoolSource for KyberSwapDirectSource {
     }
 }
 
-/// OpenOcean Direct API (free, no API key)
+/// OpenOcean with dynamic token resolution
 pub struct OpenOceanDirectSource {
     client: Client,
+    cache: TokenCache,
 }
 
 impl OpenOceanDirectSource {
-    pub fn new() -> Self {
+    pub fn new(cache: TokenCache) -> Self {
         Self {
             client: Client::builder()
                 .timeout(Duration::from_secs(10))
                 .build()
                 .unwrap(),
+            cache,
         }
+    }
+
+    fn get_token_address(&self, symbol: &str, chain_id: u32) -> Option<String> {
+        let cache = self.cache.read();
+        cache.get(&symbol.to_uppercase())
+            .and_then(|chains| chains.get(&chain_id))
+            .cloned()
     }
 }
 
@@ -183,7 +267,7 @@ impl PoolSource for OpenOceanDirectSource {
         let mut pools = Vec::new();
         
         for (chain, chain_id, chain_name) in [("eth", 1u32, "ethereum"), ("bsc", 56, "bsc"), ("polygon", 137, "polygon")] {
-            let token_addr = match get_token_address(symbol, chain_id) {
+            let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
             };
@@ -201,36 +285,7 @@ impl PoolSource for OpenOceanDirectSource {
                             if let Ok(price) = out_amount.parse::<f64>() {
                                 let price = price / 1e6;
                                 
-                                // Get path/routes if available
-                                if let Some(path) = data["data"]["path"].as_object() {
-                                    if let Some(routes) = path.get("routes").and_then(|r| r.as_array()) {
-                                        for route in routes {
-                                            if let Some(subs) = route["subRoutes"].as_array() {
-                                                for sub in subs {
-                                                    let dex = sub["dexRouter"]["name"].as_str().unwrap_or("openocean");
-                                                    let addr = sub["dexRouter"]["address"].as_str().unwrap_or("");
-                                                    
-                                                    if !addr.is_empty() {
-                                                        pools.push(PoolData::new(
-                                                            symbol.to_string(),
-                                                            chain_name.to_string(),
-                                                            dex.to_string(),
-                                                            addr.to_string(),
-                                                            format!("{}/USDC", symbol),
-                                                            price,
-                                                            0.0,
-                                                            0.0,
-                                                            "openocean".to_string(),
-                                                        ));
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    }
-                                }
-                                
-                                // Fallback
-                                if pools.is_empty() && price > 0.0 {
+                                if price > 0.0 {
                                     pools.push(PoolData::new(
                                         symbol.to_string(),
                                         chain_name.to_string(),
@@ -238,8 +293,7 @@ impl PoolSource for OpenOceanDirectSource {
                                         format!("openocean:{}:{}", chain_id, symbol),
                                         format!("{}/USDC", symbol),
                                         price,
-                                        0.0,
-                                        0.0,
+                                        0.0, 0.0,
                                         "openocean".to_string(),
                                     ));
                                 }
@@ -254,19 +308,28 @@ impl PoolSource for OpenOceanDirectSource {
     }
 }
 
-/// ParaSwap Direct API (free)
+/// ParaSwap with dynamic token resolution
 pub struct ParaSwapDirectSource {
     client: Client,
+    cache: TokenCache,
 }
 
 impl ParaSwapDirectSource {
-    pub fn new() -> Self {
+    pub fn new(cache: TokenCache) -> Self {
         Self {
             client: Client::builder()
                 .timeout(Duration::from_secs(10))
                 .build()
                 .unwrap(),
+            cache,
         }
+    }
+
+    fn get_token_address(&self, symbol: &str, chain_id: u32) -> Option<String> {
+        let cache = self.cache.read();
+        cache.get(&symbol.to_uppercase())
+            .and_then(|chains| chains.get(&chain_id))
+            .cloned()
     }
 }
 
@@ -278,7 +341,7 @@ impl PoolSource for ParaSwapDirectSource {
         let mut pools = Vec::new();
         
         for (chain_id, chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon")] {
-            let token_addr = match get_token_address(symbol, chain_id) {
+            let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
             };
@@ -296,17 +359,14 @@ impl PoolSource for ParaSwapDirectSource {
                             if let Ok(price) = dest_amount.parse::<f64>() {
                                 let price = price / 1e6;
                                 
-                                // Get best route pools
                                 if let Some(best_route) = data["priceRoute"]["bestRoute"].as_array() {
                                     for step in best_route {
                                         if let Some(swaps) = step["swaps"].as_array() {
                                             for swap in swaps {
                                                 if let Some(exchanges) = swap["swapExchanges"].as_array() {
                                                     for exchange in exchanges {
-                                                        let dex = exchange["exchange"].as_str().unwrap_or("");
-                                                        let pool_addrs = exchange["poolAddresses"].as_array();
-                                                        
-                                                        if let Some(addrs) = pool_addrs {
+                                                        let dex = exchange["exchange"].as_str().unwrap_or("paraswap");
+                                                        if let Some(addrs) = exchange["poolAddresses"].as_array() {
                                                             for addr in addrs {
                                                                 if let Some(a) = addr.as_str() {
                                                                     pools.push(PoolData::new(
@@ -316,8 +376,7 @@ impl PoolSource for ParaSwapDirectSource {
                                                                         a.to_string(),
                                                                         format!("{}/USDC", symbol),
                                                                         price,
-                                                                        0.0,
-                                                                        0.0,
+                                                                        0.0, 0.0,
                                                                         "paraswap".to_string(),
                                                                     ));
                                                                 }
@@ -330,7 +389,6 @@ impl PoolSource for ParaSwapDirectSource {
                                     }
                                 }
                                 
-                                // Fallback
                                 if pools.is_empty() && price > 0.0 {
                                     pools.push(PoolData::new(
                                         symbol.to_string(),
@@ -339,8 +397,7 @@ impl PoolSource for ParaSwapDirectSource {
                                         format!("paraswap:{}:{}", chain_id, symbol),
                                         format!("{}/USDC", symbol),
                                         price,
-                                        0.0,
-                                        0.0,
+                                        0.0, 0.0,
                                         "paraswap".to_string(),
                                     ));
                                 }

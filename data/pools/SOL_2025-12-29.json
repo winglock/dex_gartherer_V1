@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "SOL",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xbFFEc96e8f3b5058B1817c14E4380758Fada01EF",
+    "pair": "SOL/USD",
+    "price_usd": 123.44,
+    "lp_reserve_usd": 2053563.58,
+    "volume_24h": 3560113.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "53VDuTPAt34KihVPKffeSyYfoPAKpsUnkfzs5vh4XcfC",
+    "pair": "SOL/USD",
+    "price_usd": 126.29,
+    "lp_reserve_usd": 1515610.56,
+    "volume_24h": 282335.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xa25773F75d7190E130D501509D22592151dB3915",
+    "pair": "SOL/USD",
+    "price_usd": 123.51,
+    "lp_reserve_usd": 111222.57,
+    "volume_24h": 1265790.31,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0x019C29d5C97f8CBAa67013E2Cf4b6506a5cf183a",
+    "pair": "SOL/USD",
+    "price_usd": 123.62,
+    "lp_reserve_usd": 270944.45,
+    "volume_24h": 110306.89,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x4c598eD2D67D2f189263f70cf4573c5c1e6718b3",
+    "pair": "SOL/USD",
+    "price_usd": 123.64,
+    "lp_reserve_usd": 435762.7,
+    "volume_24h": 112262.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "arbitrum",
+    "dex": "camelot",
+    "pool_address": "0x622B5186384783BB805c12A808cCF07F41DE1Ff0",
+    "pair": "SOL/USD",
+    "price_usd": 123.83,
+    "lp_reserve_usd": 180067.68,
+    "volume_24h": 36808.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "SOL",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x326d947eE700bb99A952ffB2f7758bBA8BA08DF0",
+    "pair": "SOL/USD",
+    "price_usd": 124.019,
+    "lp_reserve_usd": 120848.99,
+    "volume_24h": 8011.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ZRX",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xc6F348dd3B91a56D117ec0071C1e9b83C0996De4",
+    "pair": "ZRX/USD",
+    "price_usd": 0.1451,
+    "lp_reserve_usd": 60513.4,
+    "volume_24h": 23273.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRX",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x69a67e9a8180af474c77f7ff45154ea7edd7df1a0169599330040785b17fafbf",
+    "pair": "ZRX/USD",
+    "price_usd": 0.1444,
+    "lp_reserve_usd": 9937.43,
+    "volume_24h": 545.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRX",
+    "chain": "ethereum",
+    "dex": "shibaswap",
+    "pool_address": "0xc3F1B908100F73a52235f139CDB8E9dB8133D901",
+    "pair": "ZRX/USD",
+    "price_usd": 553847.39,
+    "lp_reserve_usd": 101293151.86,
+    "volume_24h": 3289963.18,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ZRX",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x14424eEeCbfF345B38187d0B8b749E56FAA68539",
+    "pair": "ZRX/USD",
+    "price_usd": 0.1451,
+    "lp_reserve_usd": 342317.91,
+    "volume_24h": 18084.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  }
+]

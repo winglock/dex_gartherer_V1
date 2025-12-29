@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WCT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xEBd2eeaB20CeFa41C94343F506ac506bfc3F681e",
+    "pair": "WCT/USD",
+    "price_usd": 0.07363,
+    "lp_reserve_usd": 154769.05,
+    "volume_24h": 31862.51,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "WCT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "GqbxPMFReerDugS8mbB5dq6PV3yaD1Yq7DGog1CTaGUg",
+    "pair": "WCT/USD",
+    "price_usd": 0.07343,
+    "lp_reserve_usd": 87611.95,
+    "volume_24h": 2727.25,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "WCT",
+    "chain": "optimism",
+    "dex": "uniswap",
+    "pool_address": "0x7De4c593fE83417Ca6ef98d7CF59c99d304f41c9",
+    "pair": "WCT/USD",
+    "price_usd": 0.07369,
+    "lp_reserve_usd": 165024.53,
+    "volume_24h": 2027.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "WCT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x3f932B543490c477846288e48e4546A04FF1410e",
+    "pair": "WCT/USD",
+    "price_usd": 0.07355,
+    "lp_reserve_usd": 108293.26,
+    "volume_24h": 10758.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "WCT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x8bDEf1a57652F4cc24Be447732b7F1484c7C41eA",
+    "pair": "WCT/USD",
+    "price_usd": 0.07327,
+    "lp_reserve_usd": 144444.56,
+    "volume_24h": 1975.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

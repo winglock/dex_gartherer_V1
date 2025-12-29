@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "AXL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x975C822e26A514e7a1B75be587AeFC738a73EEE7",
+    "pair": "AXL/USD",
+    "price_usd": 0.07111,
+    "lp_reserve_usd": 230294.55,
+    "volume_24h": 1643.94,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "AXL",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "812-ibc_903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E-uosmo",
+    "pair": "AXL/USD",
+    "price_usd": 0.07155,
+    "lp_reserve_usd": 127243.58,
+    "volume_24h": 2339.52,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "AXL",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "2170-ibc_903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "AXL/USD",
+    "price_usd": 0.07175,
+    "lp_reserve_usd": 34003.59,
+    "volume_24h": 1712.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "AXL",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1094-ibc_903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E-uosmo",
+    "pair": "AXL/USD",
+    "price_usd": 0.07228,
+    "lp_reserve_usd": 48056.39,
+    "volume_24h": 10860.03,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "IQ",
+    "chain": "ethereum",
+    "dex": "curve",
+    "pool_address": "0xa7952f6A36cAfF9b7699D1d5a46Fc3b401a255Cb",
+    "pair": "IQ/USD",
+    "price_usd": 0.001595,
+    "lp_reserve_usd": 125310.63,
+    "volume_24h": 4184.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "IQ",
+    "chain": "ethereum",
+    "dex": "fraxswap",
+    "pool_address": "0x07AF6BB51d6Ad0Cf126E3eD2DeE6EaC34BF094F8",
+    "pair": "IQ/USD",
+    "price_usd": 0.001536,
+    "lp_reserve_usd": 2374217.07,
+    "volume_24h": 18251.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "IQ",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "6MjqFccyQQE56YKgzrnYiXp7Agp3pnDRQGnTsN5ttUHT",
+    "pair": "IQ/USD",
+    "price_usd": 0.00163,
+    "lp_reserve_usd": 140478.45,
+    "volume_24h": 1958.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "IQ",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x9D45081706102E7aadDD0973268457527722E274",
+    "pair": "IQ/USD",
+    "price_usd": 0.001548,
+    "lp_reserve_usd": 181273.97,
+    "volume_24h": 2945.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "IQ",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "DiUdNPBq7yU4AEN5z1foibMdmkjSTuXz3aPZg3SAiUDB",
+    "pair": "IQ/USD",
+    "price_usd": 0.00004695,
+    "lp_reserve_usd": 52749.54,
+    "volume_24h": 2481.85,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  }
+]

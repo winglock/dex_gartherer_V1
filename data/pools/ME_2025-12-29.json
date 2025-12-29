@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ME",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3nNg189ewAxiNeRt3hHuMzTrL6hpwUZ7zXUWTcQhTojq",
+    "pair": "ME/USD",
+    "price_usd": 0.2041,
+    "lp_reserve_usd": 654566.88,
+    "volume_24h": 112224.87,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ME",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "2i35yzeYxV5PFjvMNhZYQd6pH8PRXrCQYiv7tUYKXd6C",
+    "pair": "ME/USD",
+    "price_usd": 0.2045,
+    "lp_reserve_usd": 42506.97,
+    "volume_24h": 34408.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "RED",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "9qkxzWMSNAYx5rK7CoPR4PeTZs8wS449VSbdDKaNGV9K",
+    "pair": "RED/USD",
+    "price_usd": 0.2181,
+    "lp_reserve_usd": 51724.69,
+    "volume_24h": 624.96,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "RED",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x8faf0d741d6c7b9d3295621339aada1d6a5b925dcb10f780084d604ec2092c93",
+    "pair": "RED/USD",
+    "price_usd": 0.2165,
+    "lp_reserve_usd": 510481.29,
+    "volume_24h": 11645.67,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

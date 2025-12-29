@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ZKC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x61A6f9E817174Be19b734934573ae5219E724425",
+    "pair": "ZKC/USD",
+    "price_usd": 0.1264,
+    "lp_reserve_usd": 368591.6,
+    "volume_24h": 1722991.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "STORJ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x5a3959cba1a671a0896182774d9e09f3ab69d22e0deed524ea9a7a2c811e4e91",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1446,
+    "lp_reserve_usd": 102760.91,
+    "volume_24h": 67348.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xAEF16913b6C50EBCf627a394921F306985FC8604",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1456,
+    "lp_reserve_usd": 170682.64,
+    "volume_24h": 46379.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

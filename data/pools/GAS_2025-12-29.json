@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "GAS",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "HwDo8mzHjxR5dmuHLBwGR8QCCqsByRpsns6NpCxeN7Ss",
+    "pair": "GAS/USD",
+    "price_usd": 0.00002611,
+    "lp_reserve_usd": 15544.86,
+    "volume_24h": 137969.45,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

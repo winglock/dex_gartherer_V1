@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "RENDER",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "AmXR6YeshKfnx23gQpJkktUXoGb7cAXi5hWk3w2pw1a3",
+    "pair": "RENDER/USD",
+    "price_usd": 1.31,
+    "lp_reserve_usd": 267557.23,
+    "volume_24h": 26197.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  },
+  {
+    "symbol": "RENDER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "FZ8MJvdTPbp8juhtFCCzb7LsKunhexgzShGQ59SUJkNL",
+    "pair": "RENDER/USD",
+    "price_usd": 1.31,
+    "lp_reserve_usd": 387108.97,
+    "volume_24h": 329498.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

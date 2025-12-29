@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ZETA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x738ea57616FA9dab407E9e7920d446eAF4E7eAAa",
+    "pair": "ZETA/USD",
+    "price_usd": 0.06954,
+    "lp_reserve_usd": 51066.11,
+    "volume_24h": 6116.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

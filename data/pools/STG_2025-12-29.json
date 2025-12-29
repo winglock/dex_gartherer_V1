@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "STG",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x36525E605d02e6769c8bF3787AF34c64c8014df5",
+    "pair": "STG/USD",
+    "price_usd": 2.626e-6,
+    "lp_reserve_usd": 142809.22,
+    "volume_24h": 1717.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  },
+  {
+    "symbol": "STG",
+    "chain": "optimism",
+    "dex": "velodrome",
+    "pool_address": "0x1dE84E1324BaF5a9f3A49A48892fE90cE48456f1",
+    "pair": "STG/USD",
+    "price_usd": 0.1075,
+    "lp_reserve_usd": 25713.49,
+    "volume_24h": 532.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

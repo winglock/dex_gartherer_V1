@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "HOLO",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xF7f9fC41DA4B8E0d52a642Af2ad38509C3e40BF0",
+    "pair": "HOLO/USD",
+    "price_usd": 0.06827,
+    "lp_reserve_usd": 530263.15,
+    "volume_24h": 100290.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "HOLO",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HKHHFo8zamw6RHpWvYnq1Fd4oTCDY1dUor4KbSfCg11J",
+    "pair": "HOLO/USD",
+    "price_usd": 0.06807,
+    "lp_reserve_usd": 78056.69,
+    "volume_24h": 6241.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  }
+]

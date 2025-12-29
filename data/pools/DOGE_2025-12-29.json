@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "DOGE",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x2A560f2312CB56327AD5D65a03F1bfEC10b62075",
+    "pair": "DOGE/USD",
+    "price_usd": 0.124,
+    "lp_reserve_usd": 125047.13,
+    "volume_24h": 1749.67,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "DOGE",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "2700-factory_osmo10pk4crey8fpdyqd62rsau0y02e3rk055w5u005ah6ly7k849k5tsf72x40_alloyed_allDOGE-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "DOGE/USD",
+    "price_usd": 0.1239,
+    "lp_reserve_usd": 90559.32,
+    "volume_24h": 109023.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "DOGE",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "FhsgPQ4EKS2dEFesVjssmbPrJcrwjAPomXkH8xx87Lx",
+    "pair": "DOGE/USD",
+    "price_usd": 0.2839,
+    "lp_reserve_usd": 26534380.24,
+    "volume_24h": 98074.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "DOGE",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3pvmL7M24uqzudAxUYmvixtkWTC5yaDhTUSyB8cewnJK",
+    "pair": "DOGE/USD",
+    "price_usd": 0.01635,
+    "lp_reserve_usd": 121508.52,
+    "volume_24h": 686.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "DOGE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x308C6fbD6a14881Af333649f17f2FdE9cd75e2a6",
+    "pair": "DOGE/USD",
+    "price_usd": 0.003164,
+    "lp_reserve_usd": 1001793.87,
+    "volume_24h": 59662.86,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "DOGE",
+    "chain": "bsc",
+    "dex": "squadswap",
+    "pool_address": "0x73a7aDAba6c1Bb35Ba5b2Ef5056189507B0935F9",
+    "pair": "DOGE/USD",
+    "price_usd": 0.1241,
+    "lp_reserve_usd": 136275.01,
+    "volume_24h": 2395300.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  }
+]

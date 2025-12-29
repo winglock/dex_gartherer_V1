@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ATH",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0x5cbddc44F31067dF328aA7a8Da03aCa6F2EdD2aD",
+    "pair": "ATH/USD",
+    "price_usd": 0.009486,
+    "lp_reserve_usd": 66522.88,
+    "volume_24h": 45110.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "ATH",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1Cd9298c1c73F02D14EFcF23622352EB7308d700",
+    "pair": "ATH/USD",
+    "price_usd": 3.12,
+    "lp_reserve_usd": 5352624.24,
+    "volume_24h": 334843.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "ATH",
+    "chain": "beam",
+    "dex": "beam-swap",
+    "pool_address": "0xd89e071f4e91143C8c40559a785a913062407371",
+    "pair": "ATH/USD",
+    "price_usd": 0.009477,
+    "lp_reserve_usd": 89648.29,
+    "volume_24h": 3887.93,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  },
+  {
+    "symbol": "ATH",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xd31d41DfFa3589bB0c0183e46a1eed983a5E5978",
+    "pair": "ATH/USD",
+    "price_usd": 0.009528,
+    "lp_reserve_usd": 374042.0,
+    "volume_24h": 34600.48,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

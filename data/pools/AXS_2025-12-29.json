@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AXS",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xC2d00De94795e60FB76Bc37d899170996cBdA436",
+    "pair": "AXS/USD",
+    "price_usd": 0.8495,
+    "lp_reserve_usd": 27176.7,
+    "volume_24h": 1419.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

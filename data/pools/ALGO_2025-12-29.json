@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ALGO",
+    "chain": "algorand",
+    "dex": "tinyman",
+    "pool_address": "2PIFZW53RHCSFSYMCFUBW4XOCXOMB7XOYQSQ6KGT3KVGJTL4HM6COZRNMM",
+    "pair": "ALGO/USD",
+    "price_usd": 0.121,
+    "lp_reserve_usd": 2309621.93,
+    "volume_24h": 267794.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "ALGO",
+    "chain": "algorand",
+    "dex": "tinyman",
+    "pool_address": "FPOU46NBKTWUZCNMNQNXRWNW3SMPOOK4ZJIN5WSILCWP662ANJLTXVRUKA",
+    "pair": "ALGO/USD",
+    "price_usd": 0.1212,
+    "lp_reserve_usd": 92783.65,
+    "volume_24h": 2800.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  }
+]

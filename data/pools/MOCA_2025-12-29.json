@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MOCA",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xbf4f004307F623C2Fa2c6cf8Ce8095200e389B13",
+    "pair": "MOCA/USD",
+    "price_usd": 0.02046,
+    "lp_reserve_usd": 294658.23,
+    "volume_24h": 7495.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x0b07188b12e3BbA6A680E553E23c4079e98A034b",
+    "pair": "MOCA/USD",
+    "price_usd": 0.02041,
+    "lp_reserve_usd": 1035042.53,
+    "volume_24h": 35566.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "YGG",
+    "chain": "abstract",
+    "dex": "abstractswap",
+    "pool_address": "0x157BeAA1C7dcC2AAD79846eC693C558609eBc0ea",
+    "pair": "YGG/USD",
+    "price_usd": 0.06555,
+    "lp_reserve_usd": 1226932.61,
+    "volume_24h": 28512.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "YGG",
+    "chain": "abstract",
+    "dex": "aborean",
+    "pool_address": "0x4d7fe5B579046032e7FFC883ce369119A6F4d7B7",
+    "pair": "YGG/USD",
+    "price_usd": 0.06553,
+    "lp_reserve_usd": 11694.91,
+    "volume_24h": 3925.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "YGG",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x99B42F2B49C395D2a77D973f6009aBb5d67dA343",
+    "pair": "YGG/USD",
+    "price_usd": 0.06583,
+    "lp_reserve_usd": 208401.34,
+    "volume_24h": 11085.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

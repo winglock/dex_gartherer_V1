@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WAL",
+    "chain": "sui",
+    "dex": "bluefin",
+    "pool_address": "0xbcc6909d2e85c06cf9cbfe5b292da36f5bfa0f314806474bbf6a0bf9744d37ce",
+    "pair": "WAL/USD",
+    "price_usd": 0.1183,
+    "lp_reserve_usd": 841118.83,
+    "volume_24h": 546673.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "WAL",
+    "chain": "sui",
+    "dex": "bluefin",
+    "pool_address": "0xee0d89310b7216a8ef86cd2af0dd22382f4be2049cd073603b7099d9846ab4ca",
+    "pair": "WAL/USD",
+    "price_usd": 0.1182,
+    "lp_reserve_usd": 158231.03,
+    "volume_24h": 218829.82,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "WAL",
+    "chain": "sui",
+    "dex": "cetus",
+    "pool_address": "0x4f665396e49a6a9f233580eed6dfdeff9b5e1054094f27dbb2bd568bdc4e75d5",
+    "pair": "WAL/USD",
+    "price_usd": 0.1181,
+    "lp_reserve_usd": 147196.16,
+    "volume_24h": 311680.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "WAL",
+    "chain": "sui",
+    "dex": "bluefin",
+    "pool_address": "0xa8479545ff8a71659a7a3b5a2149cab68c5468a67aab8b18f62e4b42623e341e",
+    "pair": "WAL/USD",
+    "price_usd": 0.1181,
+    "lp_reserve_usd": 376156.74,
+    "volume_24h": 427677.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  },
+  {
+    "symbol": "WAL",
+    "chain": "sui",
+    "dex": "cetus",
+    "pool_address": "0xf4238fa592c9ed7f148fd091cb2c4147cb15ad81b797115ce42971923ebf6e4c",
+    "pair": "WAL/USD",
+    "price_usd": 0.1183,
+    "lp_reserve_usd": 78454.46,
+    "volume_24h": 183411.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  }
+]

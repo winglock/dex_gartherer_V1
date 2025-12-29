@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "6K86RRMKLWotny1gJjCZfNZSr7AEGzwNwEsFdjrPfu7g",
+    "pair": "Teddy Bat / SOL",
+    "price_usd": 0.06397635576162575,
+    "lp_reserve_usd": 219344.1498,
+    "volume_24h": 2115848.21353373,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x6950a82034857e073e82d0b5000ad1267f0fb1eda2d608661ba131bfd9b74b32",
+    "pair": "BAT / ETH 0.3%",
+    "price_usd": 0.21278523365445,
+    "lp_reserve_usd": 59323.9971,
+    "volume_24h": 9557.8264732974,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "BrVVTnrihfyXiHZMVwPsKeLN2vVxMGpgk7Wt6cdrkZLV",
+    "pair": "BAT / USDC",
+    "price_usd": 0.21160945322776684,
+    "lp_reserve_usd": 22672.0274,
+    "volume_24h": 7824.2357458011,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x1ff3632a0Aea00917Ba2788f5E1e6630c5fe7380",
+    "pair": "BAT/USD",
+    "price_usd": 0.2128,
+    "lp_reserve_usd": 15352.42,
+    "volume_24h": 750.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xb6909b960dbbe7392d405429eb2b3649752b4838",
+    "pair": "BAT / WETH",
+    "price_usd": 0.214466183717167,
+    "lp_reserve_usd": 139985.2473,
+    "volume_24h": 8499.8606495435,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "GYuh9af5UqUjzpU6tLFmwkg4P5DWU45pTSMoHEuZwzK8",
+    "pair": "BAT/USD",
+    "price_usd": 0.2124,
+    "lp_reserve_usd": 9171.38,
+    "volume_24h": 580.77,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  },
+  {
+    "symbol": "BAT",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "BrVVTnrihfyXiHZMVwPsKeLN2vVxMGpgk7Wt6cdrkZLV",
+    "pair": "BAT/USD",
+    "price_usd": 0.212,
+    "lp_reserve_usd": 22629.07,
+    "volume_24h": 7738.24,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  }
+]

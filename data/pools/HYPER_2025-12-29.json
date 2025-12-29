@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "HYPER",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x0d3944cB515ecae653e6CC85EEebc1ec1505871B",
+    "pair": "HYPER/USD",
+    "price_usd": 0.1231,
+    "lp_reserve_usd": 543585.47,
+    "volume_24h": 6344.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "HYPER",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "DiH9b325g2DHB4TqxTgFB67TcMaBs9BXcA9Ss6ujiT4Y",
+    "pair": "HYPER/USD",
+    "price_usd": 0.008722,
+    "lp_reserve_usd": 21791516.71,
+    "volume_24h": 2518.67,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "HYPER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "GsjQbGwNMD5bcLSm7PKJm1ja3ticCCPyrxqXdEAzvUbo",
+    "pair": "HYPER/USD",
+    "price_usd": 0.00008515,
+    "lp_reserve_usd": 44882.15,
+    "volume_24h": 4945.24,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "HYPER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CS94dE2znqTYxcFtfdfpsEjkphBdsVZeVKhLoykMX7Ge",
+    "pair": "HYPER/USD",
+    "price_usd": 0.0004767,
+    "lp_reserve_usd": 62642.66,
+    "volume_24h": 3432.07,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "HYPER",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xa6D0F45F70E90b12d8B8129A45fbD20077D10e9e",
+    "pair": "HYPER/USD",
+    "price_usd": 2.953e-9,
+    "lp_reserve_usd": 116936.45,
+    "volume_24h": 2058.34,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  }
+]

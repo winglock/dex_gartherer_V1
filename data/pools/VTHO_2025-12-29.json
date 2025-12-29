@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "VTHO",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x6EE865Ce321D6c427c49CB3CCCeA4f7C5f9CF495",
+    "pair": "VTHO/USD",
+    "price_usd": 0.0007739,
+    "lp_reserve_usd": 30124.05,
+    "volume_24h": 578.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

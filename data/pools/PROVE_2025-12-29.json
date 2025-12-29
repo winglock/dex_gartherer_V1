@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "PROVE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x3353274E21Dec3964E56CC227582E320533c5869",
+    "pair": "PROVE/USD",
+    "price_usd": 0.399,
+    "lp_reserve_usd": 379784.27,
+    "volume_24h": 146860.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xC76cDB74d781E219e8c8855A99584dd2e4580046",
+    "pair": "PROVE/USD",
+    "price_usd": 0.3933,
+    "lp_reserve_usd": 28423.24,
+    "volume_24h": 594.66,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  }
+]

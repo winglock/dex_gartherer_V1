@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "IMX",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x18Cd890F4e23422DC4aa8C2D6E0Bd3F3bD8873d8",
+    "pair": "IMX/USD",
+    "price_usd": 0.2349,
+    "lp_reserve_usd": 58069.82,
+    "volume_24h": 3189.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ZIL",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x3Bed779aD5e350f60632522c5f32a51158fAb695",
+    "pair": "ZIL/USD",
+    "price_usd": 0.004744,
+    "lp_reserve_usd": 10693.41,
+    "volume_24h": 762.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "ZIL",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6A97867a4b7Eb7646ffB1F359ad582e9903aa1C2",
+    "pair": "ZIL/USD",
+    "price_usd": 0.004792,
+    "lp_reserve_usd": 42995.65,
+    "volume_24h": 2526.18,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "ZIL",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xc746337b5F800a0e19eD4eB3bda03FF1401B8167",
+    "pair": "ZIL/USD",
+    "price_usd": 0.004788,
+    "lp_reserve_usd": 11653.32,
+    "volume_24h": 746.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  }
+]

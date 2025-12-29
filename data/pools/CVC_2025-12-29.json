@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "CVC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xCA300f8115413051202111E82C99A06916cE8d5a",
+    "pair": "CVC/USD",
+    "price_usd": 0.1418,
+    "lp_reserve_usd": 305038.27,
+    "volume_24h": 600.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

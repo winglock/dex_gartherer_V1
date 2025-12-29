@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "CPOOL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x60790069a28eaf821b39e4829d6490f4bda65aece51192df8f8ead512435bda6",
+    "pair": "CPOOL/USD",
+    "price_usd": 0.0329,
+    "lp_reserve_usd": 25191.69,
+    "volume_24h": 30867.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "CPOOL",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "EWNQDcSyA38ynQfwZVMr237Hytb1VsfvY54S1hEth3i6",
+    "pair": "CPOOL/USD",
+    "price_usd": 0.0332,
+    "lp_reserve_usd": 10993.33,
+    "volume_24h": 7280.6,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "CPOOL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x81AEE07F99be78d88881Fa6D98FEFF7555113635",
+    "pair": "CPOOL/USD",
+    "price_usd": 0.0326,
+    "lp_reserve_usd": 127185.79,
+    "volume_24h": 146763.42,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "TAIKO",
+    "chain": "taiko",
+    "dex": "0x826D713e30f0bF09Dd3219494A508E6B30327d4f",
+    "pool_address": "0x5DFa952a395CD24dF6ee4461b294ef0188a1a52f",
+    "pair": "TAIKO/USD",
+    "price_usd": 0.1653,
+    "lp_reserve_usd": 977655.78,
+    "volume_24h": 32766.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  },
+  {
+    "symbol": "TAIKO",
+    "chain": "taiko",
+    "dex": "0x826D713e30f0bF09Dd3219494A508E6B30327d4f",
+    "pool_address": "0xdf2DE6b0622fa3d5D6c0e0920661F18432bDc8eb",
+    "pair": "TAIKO/USD",
+    "price_usd": 0.1645,
+    "lp_reserve_usd": 3813821.73,
+    "volume_24h": 101401.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023847
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "TT",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0x9b56e96C9cd9e9224D21ff675a30BFAB6450f2F0",
+    "pair": "TT/USD",
+    "price_usd": 390.64,
+    "lp_reserve_usd": 114953.61,
+    "volume_24h": 5592.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023851
+  }
+]

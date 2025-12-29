@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "WFLOW",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x6414f4c89112954a9f54ffca3537cd37487e615f00623104ec9e397b38340a0d",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.3516,
+    "lp_reserve_usd": 568302.81,
+    "volume_24h": 1957.18,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

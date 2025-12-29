@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "OM",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xe46935aE80E05cdEbD4a4008B6ccaA36d2845370",
+    "pair": "OM/USD",
+    "price_usd": 0.07314,
+    "lp_reserve_usd": 44798.32,
+    "volume_24h": 19510.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

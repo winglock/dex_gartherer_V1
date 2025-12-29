@@ -1,0 +1,98 @@
+﻿cargo :     Checking 
+dex-gatherer v0.1.0 (
+C:\Users\ehdrjs10w\De
+sktop\wlr\dex-gathere
+r)
+위치 줄:1 문자:1
++ cargo check 2>&1 | 
+Out-File -Encoding ut
+f8 build_log.txt
++ ~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (    Che   
+ cking de...r\dex    
+-gatherer):Strin    g
+) [], RemoteExc    ep
+tion
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+error[E0599]: no meth
+od named `get_stats` 
+found for struct `Arc
+<PoolCollector>` in t
+he current scope
+   --> src\main.rs:16
+7:33
+    |
+167 |     let stats =
+ state.collector.get_
+stats();
+    |                
+                 ^^^^
+^^^^^ method not foun
+d in `Arc<PoolCollect
+or>`
+
+warning: unused varia
+ble: `cex_prices`
+   --> src\main.rs:22
+3:21
+    |
+223 |                
+ let cex_prices = sta
+te.upbit.get_all_pric
+es();
+    |                
+     ^^^^^^^^^^ help:
+ if this is intention
+al, prefix it with an
+ underscore: `_cex_pr
+ices`
+    |
+    = note: `#[warn(u
+nused_variables)]` on
+ by default
+
+error[E0599]: no meth
+od named `check` foun
+d for struct `PoolFil
+ter` in the current s
+cope
+   --> src\services\c
+ollector.rs:103:56
+    |
+103 | ...            
+       .filter(|p| fi
+lter.check(p))
+    |                
+                     
+     ^^^^^ method not
+ found in `PoolFilter
+`
+    |
+   ::: src\services\f
+ilter.rs:5:1
+    |
+5   | pub struct Pool
+Filter {
+    | ---------------
+------ method `check`
+ not found for this s
+truct
+
+For more information 
+about this error, try
+ `rustc --explain E05
+99`.
+warning: `dex-gathere
+r` (bin "dex-gatherer
+") generated 1 warnin
+g
+error: could not comp
+ile `dex-gatherer` (b
+in "dex-gatherer") du
+e to 2 previous error
+s; 1 warning emitted

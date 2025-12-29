@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "in",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "51bJrcaQxSyPc41SQRNCFkbp5ztXbjD9rh3we8qj4iMV",
+    "pair": "IN/USD",
+    "price_usd": 0.00006451,
+    "lp_reserve_usd": 23767.04,
+    "volume_24h": 2487.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023844
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MEW",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "9EdvJR3PGj4H9CmF4ctsVrmTQpxyzLaRAqDGLgiHf15c",
+    "pair": "MEW/USD",
+    "price_usd": 0.0008544,
+    "lp_reserve_usd": 85664.71,
+    "volume_24h": 192066.74,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  },
+  {
+    "symbol": "MEW",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "879F697iuDJGMevRkRcnW21fcXiAeLJK1ffsw2ATebce",
+    "pair": "MEW/USD",
+    "price_usd": 0.0008593,
+    "lp_reserve_usd": 13486132.21,
+    "volume_24h": 430713.95,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

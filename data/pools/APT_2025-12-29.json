@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "APT",
+    "chain": "aptos",
+    "dex": "cellana",
+    "pool_address": "0x234f0be57d6acfb2f0f19c17053617311a8d03c9ce358bdf9cd5c460e4a02b7c",
+    "pair": "APT/USD",
+    "price_usd": 1.7,
+    "lp_reserve_usd": 169115.38,
+    "volume_24h": 19337.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  }
+]

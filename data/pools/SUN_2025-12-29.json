@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "SUN",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TTdeCobmYxhfFBYUZbiQqbZ56zrFkSE5DG",
+    "pair": "SUN/USD",
+    "price_usd": 0.01882,
+    "lp_reserve_usd": 5305621.69,
+    "volume_24h": 63558.21,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  },
+  {
+    "symbol": "SUN",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "THu6ConqvZ3phYHeNTDyW9aE3pGypwBsP6",
+    "pair": "SUN/USD",
+    "price_usd": 0.01885,
+    "lp_reserve_usd": 15959855.78,
+    "volume_24h": 116213.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023860
+  }
+]

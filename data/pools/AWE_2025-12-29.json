@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AWE",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xcb7f520d18141E36956fE0b3A6Bc3D4F11245521",
+    "pair": "AWE/USD",
+    "price_usd": 0.05486,
+    "lp_reserve_usd": 366852.99,
+    "volume_24h": 12307.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

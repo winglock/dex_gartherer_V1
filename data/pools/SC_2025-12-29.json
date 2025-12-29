@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "SC",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "BSzedbEvWRqVksaF558epPWCM16avEpyhm2HgSq9WZyy",
+    "pair": "SC/USD",
+    "price_usd": 0.0009906,
+    "lp_reserve_usd": 366959.28,
+    "volume_24h": 19579.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

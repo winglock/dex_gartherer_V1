@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ARB",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "EqhYUpoagCYPMPjsy6s6FT1bU3QGMF3arYKyUKMbFdUK",
+    "pair": "ARB/USD",
+    "price_usd": 0.481,
+    "lp_reserve_usd": 203072582.24,
+    "volume_24h": 80173.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ARB",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0xC6F780497A95e246EB9449f5e4770916DCd6396A",
+    "pair": "ARB/USD",
+    "price_usd": 0.1915,
+    "lp_reserve_usd": 2731585.1,
+    "volume_24h": 4381818.86,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ARB",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0xcDa53B1F66614552F834cEeF361A8D12a0B8DaD8",
+    "pair": "ARB/USD",
+    "price_usd": 0.1913,
+    "lp_reserve_usd": 1221362.55,
+    "volume_24h": 2554860.31,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ARB",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x59354356Ec5d56306791873f567d61EBf11dfbD5",
+    "pair": "ARB/USD",
+    "price_usd": 0.192,
+    "lp_reserve_usd": 104210.39,
+    "volume_24h": 26919.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

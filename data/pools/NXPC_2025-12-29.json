@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "NXPC",
+    "chain": "avalanche",
+    "dex": "traderjoe",
+    "pool_address": "0x933bEFD6941F135e137Bb370bC6C4d39D3E88F03",
+    "pair": "NXPC/USD",
+    "price_usd": 0.3759,
+    "lp_reserve_usd": 302933.14,
+    "volume_24h": 49684.53,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

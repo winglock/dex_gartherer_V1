@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "ENA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xAe4045ffeDdF61D570E6d1fE2D71DED1A2E85a88",
+    "pair": "ENA/USD",
+    "price_usd": 0.211,
+    "lp_reserve_usd": 46352.25,
+    "volume_24h": 31879.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x0383f6605C0866fbe85C399E48aC66E435Ad1AcA",
+    "pair": "ENA/USD",
+    "price_usd": 0.2096,
+    "lp_reserve_usd": 149001.12,
+    "volume_24h": 621.96,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x8c52de694f5a4ce27ea85fe4bc47e08d22c5dfb5f9b38b2a63765ed52cd3b147",
+    "pair": "ENA/USD",
+    "price_usd": 0.2111,
+    "lp_reserve_usd": 82123.93,
+    "volume_24h": 83129.48,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xc3Db44ADC1fCdFd5671f555236eae49f4A8EEa18",
+    "pair": "ENA/USD",
+    "price_usd": 0.2114,
+    "lp_reserve_usd": 1409425.1,
+    "volume_24h": 229219.35,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "GfS7Ctj1dvp5T5eY3JBpiPU2nKxEVENnyD8h6Zqvinfp",
+    "pair": "ENA/USD",
+    "price_usd": 0.5647,
+    "lp_reserve_usd": 14384793.49,
+    "volume_24h": 98194.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "polkadot",
+    "dex": "hydration",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-38",
+    "pair": "ENA/USD",
+    "price_usd": 0.2117,
+    "lp_reserve_usd": 48069810.68,
+    "volume_24h": 14934.34,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ENA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "7QhPRbRUNrchat6X4jDUzkgfXQVXdURE3wSf1WGMBz5D",
+    "pair": "ENA/USD",
+    "price_usd": 0.2791,
+    "lp_reserve_usd": 11166256.82,
+    "volume_24h": 98144.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x0246913eC96765bca457B0a3608872bBa37D1d15",
+    "pair": "NEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 74066.94,
+    "volume_24h": 9293.08,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xCe6326FC06c2F3967884e5578bB33D0f30b63a33",
+    "pair": "NEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 21444.49,
+    "volume_24h": 7176.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9191B027C26d44b86177E64f992cf4DCd1F4E0eF",
+    "pair": "NEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 101436.76,
+    "volume_24h": 4949.89,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "biswap",
+    "pool_address": "0xe0E9FDd2F0BcdBcaF55661B6Fa1efc0Ce181504b",
+    "pair": "NEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 27112.85,
+    "volume_24h": 915.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x4a978a2D4fb7393063BaBfb0CEE741b8bCd4dd4B",
+    "pair": "NEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 27721.88,
+    "volume_24h": 4269.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  },
+  {
+    "symbol": "NEAR",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x1bca769705ff0d3Bc1f52Ad680dC0a13eD5Fc0b3",
+    "pair": "NEAR/USD",
+    "price_usd": 1.53,
+    "lp_reserve_usd": 9528.59,
+    "volume_24h": 974.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023843
+  }
+]

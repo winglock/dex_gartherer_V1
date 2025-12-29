@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ALT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "BJGbPyDARmcgJ7CRwm623nrjF2gpLkpsSwWNsjxubTpG",
+    "pair": "ALT/USD",
+    "price_usd": 0.0001652,
+    "lp_reserve_usd": 71490.96,
+    "volume_24h": 3118.43,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "ALT",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9669B9EE0Ac0B0EA93181CD04557ffdC857C815D",
+    "pair": "ALT/USD",
+    "price_usd": 0.01175,
+    "lp_reserve_usd": 79536.31,
+    "volume_24h": 2711.73,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "ALT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x65680A987f4871a7bB865C86FaE11667e6aA8068",
+    "pair": "ALT/USD",
+    "price_usd": 0.01172,
+    "lp_reserve_usd": 113302.26,
+    "volume_24h": 2473.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

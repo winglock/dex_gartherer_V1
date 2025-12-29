@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "KITE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3cff303d771452876849de7f0e6a21060886a74ae29fb27d5f3388197c249b19",
+    "pair": "KITE/USD",
+    "price_usd": 0.09211,
+    "lp_reserve_usd": 726465.54,
+    "volume_24h": 68442.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "KITE",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "4WeB6pg2E14X1ne3NmcT3SFfxKLbJF5vLVhejBZXcFFp",
+    "pair": "KITE/USD",
+    "price_usd": 0.08099,
+    "lp_reserve_usd": 67124657.51,
+    "volume_24h": 700986.31,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

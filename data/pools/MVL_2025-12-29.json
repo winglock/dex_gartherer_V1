@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MVL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3c8AD34155B83ddB7f43119A19503d34Ed2B5c7a",
+    "pair": "MVL/USD",
+    "price_usd": 0.001643,
+    "lp_reserve_usd": 571633.0,
+    "volume_24h": 5383.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023848
+  }
+]

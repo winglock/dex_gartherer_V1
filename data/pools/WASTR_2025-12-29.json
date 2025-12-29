@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "WASTR",
+    "chain": "astar",
+    "dex": "zenlink",
+    "pool_address": "0x18d1C8eF07B05c1Be3b4569E9E1d5A24300C6b3F",
+    "pair": "WASTR/USD",
+    "price_usd": 0.009998,
+    "lp_reserve_usd": 41172.0,
+    "volume_24h": 543.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

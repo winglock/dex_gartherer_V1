@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "PYTH",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3v2am7LrJD3Vc3XN6b6gH8whQqXbR3u2La3N4BdCzxu3",
+    "pair": "PYTH/USD",
+    "price_usd": 0.06001,
+    "lp_reserve_usd": 66257.33,
+    "volume_24h": 4809.94,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "PYTH",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "36Rk6HH9j1jAqGbWTvPs6gbVYDgRjpex4RDv9689KfZA",
+    "pair": "PYTH/USD",
+    "price_usd": 0.05884,
+    "lp_reserve_usd": 14368.69,
+    "volume_24h": 3067.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "PYTH",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CP3J4WkKwDyDxm7uSucQfPgrKBwFe5wM4UsURscdytsX",
+    "pair": "PYTH/USD",
+    "price_usd": 0.06272,
+    "lp_reserve_usd": 21745.78,
+    "volume_24h": 2038.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "PYTH",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "8erNF5u3CHrqZJXtkfY8CjSxFYF1yqHmN8uDbAhk6tWM",
+    "pair": "PYTH/USD",
+    "price_usd": 0.05957,
+    "lp_reserve_usd": 29629.65,
+    "volume_24h": 14198.84,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "PYTH",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "9n3dSLrERZQp95dHXywft7xV8D8xnGFLaUHtEhQVaXaC",
+    "pair": "PYTH/USD",
+    "price_usd": 0.05969,
+    "lp_reserve_usd": 155311.96,
+    "volume_24h": 71957.49,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

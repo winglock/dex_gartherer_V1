@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "AKT",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1093-ibc_1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4-uosmo",
+    "pair": "AKT/USD",
+    "price_usd": 0.3779,
+    "lp_reserve_usd": 268415.57,
+    "volume_24h": 14270.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "AKT",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1301-ibc_1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "AKT/USD",
+    "price_usd": 0.3771,
+    "lp_reserve_usd": 112931.28,
+    "volume_24h": 17361.6,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "AKT",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "4-ibc_1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4-ibc_27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "pair": "AKT/USD",
+    "price_usd": 0.3802,
+    "lp_reserve_usd": 141523.62,
+    "volume_24h": 4209.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

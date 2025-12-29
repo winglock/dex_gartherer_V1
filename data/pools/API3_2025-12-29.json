@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "API3",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x495864cAD6Cf60E97EFcd3F14FF8B1F167956ba2",
+    "pair": "API3/USD",
+    "price_usd": 0.4467,
+    "lp_reserve_usd": 62505.41,
+    "volume_24h": 2556.57,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "API3",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x81a98ae40148e298c77bd43082c6baf2b69c2940e3815c6b56c11dd2c467b05f",
+    "pair": "API3/USD",
+    "price_usd": 0.4601,
+    "lp_reserve_usd": 302378.12,
+    "volume_24h": 1911.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "API3",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x4Dd26482738bE6C06C31467a19dcdA9AD781e8C4",
+    "pair": "API3/USD",
+    "price_usd": 0.4414,
+    "lp_reserve_usd": 159665.77,
+    "volume_24h": 2102.73,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  }
+]

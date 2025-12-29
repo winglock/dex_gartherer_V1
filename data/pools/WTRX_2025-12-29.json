@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TPMVeY18uPGAgWQ1Vim3RPjMX6BoA1Q9Sk",
+    "pair": "WTRX/USD",
+    "price_usd": 0.3152,
+    "lp_reserve_usd": 8493.31,
+    "volume_24h": 1345.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2822,
+    "lp_reserve_usd": 85571182.16,
+    "volume_24h": 627964.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

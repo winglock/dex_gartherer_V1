@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "PLUME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xD845AcDeb03fB3295E7735C232C588efc441D903",
+    "pair": "PLUME/USD",
+    "price_usd": 0.01738,
+    "lp_reserve_usd": 48879.99,
+    "volume_24h": 23069.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "8Sg8pNRjtWpDnYraRLATzpYjJbBwc9NFMrhH8ZHcxeU1",
+    "pair": "PLUME/USD",
+    "price_usd": 0.01745,
+    "lp_reserve_usd": 140890.03,
+    "volume_24h": 5061.19,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

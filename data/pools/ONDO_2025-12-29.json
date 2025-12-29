@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ONDO",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3dedf9153bf7ea7a8d784a41562e7ee061f8330b695f70ff534f9f9d3be2363a",
+    "pair": "ONDO/USD",
+    "price_usd": 0.3835,
+    "lp_reserve_usd": 106485.42,
+    "volume_24h": 952.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  },
+  {
+    "symbol": "ONDO",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x7b1E5D984A43eE732de195628d20d05CFaBc3cC7",
+    "pair": "ONDO/USD",
+    "price_usd": 0.3838,
+    "lp_reserve_usd": 8766408.59,
+    "volume_24h": 1125438.13,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023854
+  }
+]

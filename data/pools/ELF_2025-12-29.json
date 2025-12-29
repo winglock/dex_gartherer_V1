@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ELF",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xA6be7F7C6c454B364cDA446ea39Be9e5E4369DE8",
+    "pair": "ELF/USD",
+    "price_usd": 0.0856,
+    "lp_reserve_usd": 78680.62,
+    "volume_24h": 2667.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

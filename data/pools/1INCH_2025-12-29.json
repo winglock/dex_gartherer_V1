@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "1INCH",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0xBB124e35aB9e85f8d59ba83500E559Dc052B9368",
+    "pair": "1INCH/USD",
+    "price_usd": 0.144,
+    "lp_reserve_usd": 10872.24,
+    "volume_24h": 5285.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023856
+  }
+]

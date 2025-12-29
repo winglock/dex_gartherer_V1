@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xCAaF3c41a40103a23Eeaa4BbA468AF3cF5b0e0D8",
+    "pair": "ARK/USD",
+    "price_usd": 21.57,
+    "lp_reserve_usd": 90313692.35,
+    "volume_24h": 5411021.44,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ARK",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x54A1B340F82867E0CBb02b9510d3b8E77E8ab7f2",
+    "pair": "ARK/USD",
+    "price_usd": 5.208e-11,
+    "lp_reserve_usd": 15321.68,
+    "volume_24h": 3450.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  },
+  {
+    "symbol": "ARK",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3FbEVDNSRcRkDboNkL1Uj6gDoHwVxDw8dpVCjvomnNJ8",
+    "pair": "ARK/USD",
+    "price_usd": 11.98,
+    "lp_reserve_usd": 196147.58,
+    "volume_24h": 2413.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023846
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "TRX",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x5C48Cb68A4d5A344B85595AE44b0Bd6A98a3B74b",
+    "pair": "TRX/USD",
+    "price_usd": 0.2811,
+    "lp_reserve_usd": 64724.9,
+    "volume_24h": 8200.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1F7DF58C60a56BC8322D3E42D7D37A0383d42746",
+    "pair": "TRX/USD",
+    "price_usd": 0.2819,
+    "lp_reserve_usd": 260145.51,
+    "volume_24h": 1527.74,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "ComiecDMCEQg1xyoGzVt6B8xGNdGgvvYRuwzbtDb6FY",
+    "pair": "TRX/USD",
+    "price_usd": 0.283,
+    "lp_reserve_usd": 2468150.4,
+    "volume_24h": 58578.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "786ycahikx9ZQcYbZNpHopPf5rNJhWQKddrmtWphgGhx",
+    "pair": "TRX/USD",
+    "price_usd": 0.2804,
+    "lp_reserve_usd": 3926465.91,
+    "volume_24h": 282410.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x9A84A1852bC7FB608794960960ADb04666A12B41",
+    "pair": "TRX/USD",
+    "price_usd": 0.2821,
+    "lp_reserve_usd": 674534.48,
+    "volume_24h": 16512.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CaTYQHUjxHg2r7goexLXgs4L7T7vrLFyuWtokDBwk3BR",
+    "pair": "TRX/USD",
+    "price_usd": 0.2945,
+    "lp_reserve_usd": 3717630.75,
+    "volume_24h": 98124.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "TRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xF683113764E4499c473aCd38Fc4b37E71554E4aD",
+    "pair": "TRX/USD",
+    "price_usd": 0.2822,
+    "lp_reserve_usd": 182372.17,
+    "volume_24h": 41890.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

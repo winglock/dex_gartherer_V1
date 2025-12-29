@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "CARV",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x6045479ab46df901e7c86977ed22ddeb80728165",
+    "pair": "USD1 / CARV 0.01%",
+    "price_usd": 1.00052472173311,
+    "lp_reserve_usd": 698404.5702,
+    "volume_24h": 100400.608951306,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "CARV",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6045479ab46dF901E7c86977ED22DDeB80728165",
+    "pair": "CARV/USD",
+    "price_usd": 0.1256,
+    "lp_reserve_usd": 698896.51,
+    "volume_24h": 100521.53,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "CARV",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream",
+    "pool_address": "0x4b241e7e1ba2d76c888aaacb6f099b42f57aec2b",
+    "pair": "CARV / USDC 0.3%",
+    "price_usd": 0.125509962064212,
+    "lp_reserve_usd": 186498.9088,
+    "volume_24h": 23716.6273096213,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "CARV",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x4b241E7E1Ba2D76c888aaACb6F099b42F57Aec2b",
+    "pair": "CARV/USD",
+    "price_usd": 0.1253,
+    "lp_reserve_usd": 186969.35,
+    "volume_24h": 23831.23,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "CARV",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xff862675c47B6a2C9072DCBe2f37a78A445c4f37",
+    "pair": "CARV/USD",
+    "price_usd": 0.1254,
+    "lp_reserve_usd": 442761.1,
+    "volume_24h": 984612.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "CARV",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream",
+    "pool_address": "0xff862675c47b6a2c9072dcbe2f37a78a445c4f37",
+    "pair": "CARV / USDC 0.05%",
+    "price_usd": 0.125254453877177,
+    "lp_reserve_usd": 442297.1715,
+    "volume_24h": 977056.770945884,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  }
+]

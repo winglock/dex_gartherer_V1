@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "HBAR",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CXeM35jhbJ51EJC7bg4kvvR3G44XMiHWXskF9otNitnB",
+    "pair": "HBAR/USD",
+    "price_usd": 0.1494,
+    "lp_reserve_usd": 2988712.41,
+    "volume_24h": 98184.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023837
+  }
+]

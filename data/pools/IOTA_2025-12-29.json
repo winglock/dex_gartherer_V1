@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "IOTA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "Hiz94qdvziYfJbg81JTWu6pXdo96gXHXrw3XFrtwC4oz",
+    "pair": "IOTA/USD",
+    "price_usd": 0.1299,
+    "lp_reserve_usd": 38022576.26,
+    "volume_24h": 19998.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

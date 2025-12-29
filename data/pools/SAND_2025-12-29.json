@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "SAND",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0xb8B0d7F998E30582C0a87290986148eCdc39D9Ee",
+    "pair": "SAND/USD",
+    "price_usd": 0.1159,
+    "lp_reserve_usd": 7010.31,
+    "volume_24h": 3869.85,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "SAND",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xA69CDf524D072c366FD050957880552916D29405",
+    "pair": "SAND/USD",
+    "price_usd": 0.1155,
+    "lp_reserve_usd": 421322.38,
+    "volume_24h": 31015.7,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "SAND",
+    "chain": "polygon",
+    "dex": "quickswap",
+    "pool_address": "0x369582d2010B6eD950B571F4101e3bB9b554876F",
+    "pair": "SAND/USD",
+    "price_usd": 0.1159,
+    "lp_reserve_usd": 309962.22,
+    "volume_24h": 2805.49,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "SAND",
+    "chain": "polygon",
+    "dex": "quickswap",
+    "pool_address": "0xD85A25332b57cc447a791100E7317e534d553761",
+    "pair": "SAND/USD",
+    "price_usd": 0.1162,
+    "lp_reserve_usd": 14657.88,
+    "volume_24h": 2373.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "SAND",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0x0650407F3fA803Ad58BeABa7a3722429d7FeBaC7",
+    "pair": "SAND/USD",
+    "price_usd": 0.116,
+    "lp_reserve_usd": 12856.0,
+    "volume_24h": 1707.86,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  },
+  {
+    "symbol": "SAND",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0xDe92E7fBe021344BA02D9225792d219d3A2dDd58",
+    "pair": "SAND/USD",
+    "price_usd": 0.1154,
+    "lp_reserve_usd": 17594.17,
+    "volume_24h": 3444.53,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023845
+  }
+]

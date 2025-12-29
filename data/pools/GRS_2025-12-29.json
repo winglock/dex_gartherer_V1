@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "GRS",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x50C0654C2d2fb5BeBF7E4c7Bf52e6bFed488EC76",
+    "pair": "GRS/USD",
+    "price_usd": 0.4477,
+    "lp_reserve_usd": 40700.23,
+    "volume_24h": 18822.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

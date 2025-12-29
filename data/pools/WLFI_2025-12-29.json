@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WLFI",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0xC7bf86871EbaAE906e8E8C3DdDf2E396E9502d1e",
+    "pair": "WLFI/USD",
+    "price_usd": 0.143,
+    "lp_reserve_usd": 52477.82,
+    "volume_24h": 15746.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023835
+  },
+  {
+    "symbol": "WLFI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9Ef561CDe38eE39bC582D934E190C0d31Fc2B825",
+    "pair": "WLFI/USD",
+    "price_usd": 0.1433,
+    "lp_reserve_usd": 7213578.22,
+    "volume_24h": 48828.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023835
+  },
+  {
+    "symbol": "WLFI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xC29Df01EfCa2B42Aa22bD9BdEa6422176a1E55Fc",
+    "pair": "WLFI/USD",
+    "price_usd": 0.1435,
+    "lp_reserve_usd": 7623.06,
+    "volume_24h": 1912.25,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023835
+  },
+  {
+    "symbol": "WLFI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x097419329833bdBF0a1FF5ba134f76d4E5929434",
+    "pair": "WLFI/USD",
+    "price_usd": 0.1435,
+    "lp_reserve_usd": 46589.4,
+    "volume_24h": 52938.46,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023835
+  },
+  {
+    "symbol": "WLFI",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xFCE89c698aDB943045c7499907d6Fff394CE95BC",
+    "pair": "WLFI/USD",
+    "price_usd": 0.1437,
+    "lp_reserve_usd": 7396.27,
+    "volume_24h": 1746.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023835
+  }
+]

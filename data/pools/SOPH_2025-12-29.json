@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "SOPH",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x79083C25B5408b4e87855f9efA266cF370B2bD05",
+    "pair": "SOPH/USD",
+    "price_usd": 0.001277,
+    "lp_reserve_usd": 60626.5,
+    "volume_24h": 4465.66,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "SOPH",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xC511FF68aE3A1379e8eF3F599F88559c9eC77D9c",
+    "pair": "SOPH/USD",
+    "price_usd": 0.0127,
+    "lp_reserve_usd": 195504.02,
+    "volume_24h": 14043.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "SOPH",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x9DD361cf608BcAcdc21effD2273c60AfE2dF3637",
+    "pair": "SOPH/USD",
+    "price_usd": 0.001284,
+    "lp_reserve_usd": 38057.78,
+    "volume_24h": 2101.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "SOPH",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xB98740764d84Ff6a56ABF2d64803165F37759aC7",
+    "pair": "SOPH/USD",
+    "price_usd": 0.001289,
+    "lp_reserve_usd": 6735.62,
+    "volume_24h": 747.15,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "SOPH",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x98d6E81F14B2278455311738267D6Cf93160be35",
+    "pair": "SOPH/USD",
+    "price_usd": 0.01275,
+    "lp_reserve_usd": 431035.84,
+    "volume_24h": 83223.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "SOPH",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xd9aC8b74596aF7B4BDc0F624Bb2336ec352A79dF",
+    "pair": "SOPH/USD",
+    "price_usd": 0.001283,
+    "lp_reserve_usd": 61959.12,
+    "volume_24h": 1322.1,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "FLUID",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xCba27C8e7115b4Eb50Aa14999BC0866674a96eCB",
+    "pair": "FLUID/USD",
+    "price_usd": 2.54,
+    "lp_reserve_usd": 891036.59,
+    "volume_24h": 32199.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "FLUID",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "J4hpmK1KQ6GsWotEck1syzU7gM7kZQ5sPctfkY9gV6wW",
+    "pair": "FLUID/USD",
+    "price_usd": 2.55,
+    "lp_reserve_usd": 5870.41,
+    "volume_24h": 2067.79,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "FLUID",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x3b3d1a85A248b70100e95437dbeeBCAE5E7eC7a1",
+    "pair": "FLUID/USD",
+    "price_usd": 2.58,
+    "lp_reserve_usd": 365207.23,
+    "volume_24h": 2590.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "FLUID",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Gis8fU4MutdDa6tHCouMV5Xfgo7hER2fKQWG3v9aQ16U",
+    "pair": "FLUID/USD",
+    "price_usd": 2.55,
+    "lp_reserve_usd": 459243.35,
+    "volume_24h": 2219.86,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  },
+  {
+    "symbol": "FLUID",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "4mPKhtkMtRXyQcgSjzog14nnonHowvLhB4fyVkMfSECA",
+    "pair": "FLUID/USD",
+    "price_usd": 2.62,
+    "lp_reserve_usd": 349344.56,
+    "volume_24h": 1381.92,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023857
+  }
+]

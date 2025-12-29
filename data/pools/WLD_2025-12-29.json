@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WLD",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "FAjGpWTri9SqVECEwmj3MmeN9cJjk7j3cVMjkmZU6JyG",
+    "pair": "WLD/USD",
+    "price_usd": 0.6099,
+    "lp_reserve_usd": 52862909.25,
+    "volume_24h": 20173.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "WLD",
+    "chain": "optimism",
+    "dex": "uniswap",
+    "pool_address": "0xD1F1baD4c9E6c44DeC1e9bF3B94902205c5Cd6C3",
+    "pair": "WLD/USD",
+    "price_usd": 0.5021,
+    "lp_reserve_usd": 50881.08,
+    "volume_24h": 2952.47,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "WLD",
+    "chain": "worldchain",
+    "dex": "uniswap",
+    "pool_address": "0x610E319b3A3Ab56A0eD5562927D37c233774ba39",
+    "pair": "WLD/USD",
+    "price_usd": 0.5014,
+    "lp_reserve_usd": 810810.9,
+    "volume_24h": 64277.93,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "WLD",
+    "chain": "optimism",
+    "dex": "uniswap",
+    "pool_address": "0x2Ae3d6096d8215Ac2Acddf30c60CAa984Ea5dEbe",
+    "pair": "WLD/USD",
+    "price_usd": 0.5011,
+    "lp_reserve_usd": 77420.98,
+    "volume_24h": 12595.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  },
+  {
+    "symbol": "WLD",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "FkkbETZWmBFXqVHLxZHJAyML2YeEuAjfm2U7yywckQiQ",
+    "pair": "WLD/USD",
+    "price_usd": 0.5042,
+    "lp_reserve_usd": 322797.79,
+    "volume_24h": 11889.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023836
+  }
+]

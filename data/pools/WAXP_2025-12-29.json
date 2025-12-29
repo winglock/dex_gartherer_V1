@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "WAXP",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0xe61cedeb1593e2d9f06af1e212842c8b5e289863",
+    "pair": "WAXP / USDT 0.3%",
+    "price_usd": 0.00781618136468212,
+    "lp_reserve_usd": 132094.0791,
+    "volume_24h": 6364.7783316135,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023828
+  },
+  {
+    "symbol": "WAXP",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xe61CEDEb1593E2D9f06af1e212842C8B5E289863",
+    "pair": "WAXP/USD",
+    "price_usd": 0.007828,
+    "lp_reserve_usd": 132707.4,
+    "volume_24h": 6362.45,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023829
+  }
+]

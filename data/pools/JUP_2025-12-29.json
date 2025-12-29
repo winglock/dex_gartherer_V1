@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HfgjZDmexhFVD28Vkb1NbQwWeXP3uDcVTLPjSGHmRHhL",
+    "pair": "JUP/USD",
+    "price_usd": 0.1916,
+    "lp_reserve_usd": 70218.88,
+    "volume_24h": 54364.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HHMcXebyUakhxnZavV9LBspv8SgsphoEbfhCjz8xPGe1",
+    "pair": "JUP/USD",
+    "price_usd": 0.1955,
+    "lp_reserve_usd": 60150.65,
+    "volume_24h": 3774.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "4Ui9QdDNuUaAGqCPcDSp191QrixLzQiLxJ1Gnqvz3szP",
+    "pair": "JUP/USD",
+    "price_usd": 0.1918,
+    "lp_reserve_usd": 34445.96,
+    "volume_24h": 6668.68,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "C1MgLojNLWBKADvu9BHdtgzz1oZX4dZ5zGdGcgvvW8Wz",
+    "pair": "JUP/USD",
+    "price_usd": 0.1918,
+    "lp_reserve_usd": 315365.14,
+    "volume_24h": 756182.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "EZVkeboWeXygtq8LMyENHyXdF5wpYrtExRNH9UwB1qYw",
+    "pair": "JUP/USD",
+    "price_usd": 0.1919,
+    "lp_reserve_usd": 51234.94,
+    "volume_24h": 27405.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Eio6hAieGTAmKgfvbEfbnXke6o5kfEd74tqHm2Z9SFjf",
+    "pair": "JUP/USD",
+    "price_usd": 0.1918,
+    "lp_reserve_usd": 31662.09,
+    "volume_24h": 228770.87,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "JUP",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "EoFtFBgdBXzKeqZc5dtYGvnKicWEvfEZGTZQM9eFTJ6b",
+    "pair": "JUP/USD",
+    "price_usd": 0.1917,
+    "lp_reserve_usd": 43146.96,
+    "volume_24h": 70748.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

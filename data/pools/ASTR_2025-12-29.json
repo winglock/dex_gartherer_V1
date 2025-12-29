@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "velodrome",
+    "pool_address": "0xB44795454376C7127f89B1cC0d56F403E70CA952",
+    "pair": "ASTR/USD",
+    "price_usd": 0.009993,
+    "lp_reserve_usd": 61796.88,
+    "volume_24h": 7034.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "kyo-finance",
+    "pool_address": "0x38c5ecB00b719E52beF611ed48Bb2507b2C26344",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01001,
+    "lp_reserve_usd": 12672.08,
+    "volume_24h": 2705.97,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "sonex",
+    "pool_address": "0x9e416Bf2425c95977B56548f5d04FdcAA9Fa1bB7",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01001,
+    "lp_reserve_usd": 12177.24,
+    "volume_24h": 525.51,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "polkadot",
+    "dex": "hydration",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-9",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01007,
+    "lp_reserve_usd": 49754092.98,
+    "volume_24h": 66774.75,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "velodrome",
+    "pool_address": "0x444e042B982bfcB39bf9513362BA6eadC0338989",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01001,
+    "lp_reserve_usd": 172540.23,
+    "volume_24h": 4231.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "sonex",
+    "pool_address": "0xe15bD143D36E329567aE9A176682AB9fAFc9C3D2",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01001,
+    "lp_reserve_usd": 9420.53,
+    "volume_24h": 613.58,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "soneium",
+    "dex": "kyo-finance",
+    "pool_address": "0x9E7233ff8da85b81888Bf43774013Ced9f4cC4B0",
+    "pair": "ASTR/USD",
+    "price_usd": 0.01001,
+    "lp_reserve_usd": 127806.27,
+    "volume_24h": 9909.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

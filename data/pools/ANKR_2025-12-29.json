@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ANKR",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x13dC0a39dc00F394E030B97b0B569dedBe634c0d",
+    "pair": "ANKR/USD",
+    "price_usd": 0.006516,
+    "lp_reserve_usd": 7031.97,
+    "volume_24h": 2185.92,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x5588fd3000e66c2e35239f822c55690599f08d9d",
+    "pair": "ANKR / USDT 1%",
+    "price_usd": 0.00633860411577492,
+    "lp_reserve_usd": 291292.5907,
+    "volume_24h": 6423.623861029,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x5588fd3000e66C2e35239F822c55690599f08d9d",
+    "pair": "ANKR/USD",
+    "price_usd": 0.006402,
+    "lp_reserve_usd": 291020.0,
+    "volume_24h": 6424.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023834
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x13dc0a39dc00f394e030b97b0b569dedbe634c0d",
+    "pair": "ANKR / WETH 0.3%",
+    "price_usd": 0.00649235690063746,
+    "lp_reserve_usd": 6958.6922,
+    "volume_24h": 2187.5701044586,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767023834
+  }
+]

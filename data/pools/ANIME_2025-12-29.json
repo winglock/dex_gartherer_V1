@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ANIME",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "mpqfht3cHpigmLVca2W9VAJ8ZnARn72bHTs2aLLjErz",
+    "pair": "ANIME/USD",
+    "price_usd": 0.00003202,
+    "lp_reserve_usd": 24026.16,
+    "volume_24h": 573.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "ANIME",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xf15De3b364CA071A696021Bae30BA3092826FF7B",
+    "pair": "ANIME/USD",
+    "price_usd": 0.00003741,
+    "lp_reserve_usd": 19284.07,
+    "volume_24h": 34265.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "ANIME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x38fA0E36a9Eb335Ca00dbd6d0f203b0Bd72Ce3b6",
+    "pair": "ANIME/USD",
+    "price_usd": 0.007901,
+    "lp_reserve_usd": 1090286.5,
+    "volume_24h": 254370.52,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "ANIME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x8eb2b70c2864a8594dbbe7001935b0eb57ad7a2b51f9add1fb64f43eb645a844",
+    "pair": "ANIME/USD",
+    "price_usd": 0.007902,
+    "lp_reserve_usd": 39076.87,
+    "volume_24h": 8180.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  }
+]

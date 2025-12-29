@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x4910C78a1C75E36548F1f2f1f4dCb71A4F69fC07",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.09962,
+    "lp_reserve_usd": 219358.7,
+    "volume_24h": 101878.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x7AF45dfaF2fDEA139B2295f37fFea2E16e6Fd8BA",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.09929,
+    "lp_reserve_usd": 248331.71,
+    "volume_24h": 134927.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xd7338B6F338DA54b922bbBC6fBE3EFEDD5Ce35fa",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.09924,
+    "lp_reserve_usd": 710785.41,
+    "volume_24h": 183092.24,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x15aEda0387EBeF5Fd8300560010De83780477147",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.1002,
+    "lp_reserve_usd": 71760.82,
+    "volume_24h": 34449.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x85218527945d48167A682e277867F1539AD00068",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.00004606,
+    "lp_reserve_usd": 51727.99,
+    "volume_24h": 1095.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xdAA601bc9E5B00337f11fB17CD574D3f01633Fe6",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.09971,
+    "lp_reserve_usd": 14702.67,
+    "volume_24h": 3506.58,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  },
+  {
+    "symbol": "FLOCK",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xd162C4444d5eFEaD433F080696D1f4Dc2BCD58Fb",
+    "pair": "FLOCK/USD",
+    "price_usd": 0.09986,
+    "lp_reserve_usd": 56803.27,
+    "volume_24h": 13545.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023859
+  }
+]

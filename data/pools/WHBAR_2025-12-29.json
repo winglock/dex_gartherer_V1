@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "WHBAR",
+    "chain": "hedera",
+    "dex": "saucerswap",
+    "pool_address": "0x2A286e6498d248974D97f18B9fFF4A23487Ba00d",
+    "pair": "WHBAR/USD",
+    "price_usd": 0.114,
+    "lp_reserve_usd": 99485.32,
+    "volume_24h": 62738.44,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "WHBAR",
+    "chain": "hedera",
+    "dex": "saucerswap",
+    "pool_address": "0xdB34c1Ef944883f0e5A2fC18B6C1978B088bD31d",
+    "pair": "WHBAR/USD",
+    "price_usd": 0.115,
+    "lp_reserve_usd": 1417041.91,
+    "volume_24h": 77999.88,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "WHBAR",
+    "chain": "hedera",
+    "dex": "saucerswap",
+    "pool_address": "0x6Df3B3FBFbd7d7fCC10e6509856d17CB1e3d37A5",
+    "pair": "WHBAR/USD",
+    "price_usd": 0.1133,
+    "lp_reserve_usd": 54865.77,
+    "volume_24h": 4612.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  },
+  {
+    "symbol": "WHBAR",
+    "chain": "hedera",
+    "dex": "saucerswap",
+    "pool_address": "0xC5B707348dA504E9Be1bD4E21525459830e7B11d",
+    "pair": "WHBAR/USD",
+    "price_usd": 0.1148,
+    "lp_reserve_usd": 11452219.59,
+    "volume_24h": 3266435.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023838
+  }
+]

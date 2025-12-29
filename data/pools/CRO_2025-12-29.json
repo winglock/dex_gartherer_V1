@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "CRO",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "2171-ibc_E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "CRO/USD",
+    "price_usd": 0.09212,
+    "lp_reserve_usd": 6624.79,
+    "volume_24h": 674.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CRO",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1092-ibc_E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1-uosmo",
+    "pair": "CRO/USD",
+    "price_usd": 0.09186,
+    "lp_reserve_usd": 30476.12,
+    "volume_24h": 931.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CRO",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "10-ibc_27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2-ibc_E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1",
+    "pair": "CRO/USD",
+    "price_usd": 0.09188,
+    "lp_reserve_usd": 45141.92,
+    "volume_24h": 2217.91,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  },
+  {
+    "symbol": "CRO",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "9-ibc_E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1-uosmo",
+    "pair": "CRO/USD",
+    "price_usd": 0.09152,
+    "lp_reserve_usd": 89771.57,
+    "volume_24h": 3180.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023840
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ERA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x4D63DA0421AB1D71FBF2A3d3c8625a66d9b9799d",
+    "pair": "ERA/USD",
+    "price_usd": 0.1979,
+    "lp_reserve_usd": 73810.24,
+    "volume_24h": 781.93,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  },
+  {
+    "symbol": "ERA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x55D0119A43a0E2c54fd6Eb1F17e3b883EEdBA602",
+    "pair": "ERA/USD",
+    "price_usd": 0.1974,
+    "lp_reserve_usd": 204695.74,
+    "volume_24h": 72599.42,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023841
+  }
+]

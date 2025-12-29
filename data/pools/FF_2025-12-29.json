@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "FF",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x68Bc6BF9653E75561f5Cedb2b1EC354F1F8934F0",
+    "pair": "FF/USD",
+    "price_usd": 0.09047,
+    "lp_reserve_usd": 11839.22,
+    "volume_24h": 1527.79,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "FF",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x9F8f4615Ff5143aeE365fa34f34196fB85Be7650",
+    "pair": "FF/USD",
+    "price_usd": 0.09015,
+    "lp_reserve_usd": 3967537.44,
+    "volume_24h": 435490.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "FF",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "G316UkZm4n3H6aDZyCy8MMP968nRFNVyVPF45u7LCcVu",
+    "pair": "FF/USD",
+    "price_usd": 0.00001398,
+    "lp_reserve_usd": 18071.01,
+    "volume_24h": 1241.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

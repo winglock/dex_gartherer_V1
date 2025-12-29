@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ENS",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x09Aa63b7a22eEfC372196AaCd5b53441eD390BFb",
+    "pair": "ENS/USD",
+    "price_usd": 9.71,
+    "lp_reserve_usd": 162227.77,
+    "volume_24h": 12803.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023852
+  }
+]

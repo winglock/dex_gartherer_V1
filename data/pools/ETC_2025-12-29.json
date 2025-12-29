@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ETC",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "J9uJCvdYaogCe2114wPAZNFvMTTY8QB77iH6CDGL1t3Z",
+    "pair": "ETC/USD",
+    "price_usd": 14.48,
+    "lp_reserve_usd": 14491715.77,
+    "volume_24h": 98114.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "ETC",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x68Eb2c58987FcCb77Bb8d409DC02Db747979f5d8",
+    "pair": "ETC/USD",
+    "price_usd": 12.049,
+    "lp_reserve_usd": 134773.06,
+    "volume_24h": 6526.74,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "ETC",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0xAE9b5C83e5F17630f9Afb288b7D8402a35975a84",
+    "pair": "ETC/USD",
+    "price_usd": 11.86,
+    "lp_reserve_usd": 17932.83,
+    "volume_24h": 689.49,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  },
+  {
+    "symbol": "ETC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xD97e03D02cE147CaD1F470E436948436B6d12e1f",
+    "pair": "ETC/USD",
+    "price_usd": 12.077,
+    "lp_reserve_usd": 20642.83,
+    "volume_24h": 987.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023842
+  }
+]

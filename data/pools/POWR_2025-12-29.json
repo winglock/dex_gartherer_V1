@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "POWR",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "7UeqHbrguLLz4wk9o4M1y7A2mddqNQH7H5wK8Jb6LQok",
+    "pair": "POWR/USD",
+    "price_usd": 0.0822,
+    "lp_reserve_usd": 6433.9,
+    "volume_24h": 1285.36,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  },
+  {
+    "symbol": "POWR",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xE3FE800B0de664bf0bCa8aD58eCbc73B259047b0",
+    "pair": "POWR/USD",
+    "price_usd": 0.0822,
+    "lp_reserve_usd": 757853.31,
+    "volume_24h": 20438.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023839
+  }
+]

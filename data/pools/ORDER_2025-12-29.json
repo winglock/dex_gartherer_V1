@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ORDER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "BxUigngqxhU8Wapwvck5cavcBbfgE47ETNwLeXnCVwz4",
+    "pair": "ORDER/USD",
+    "price_usd": 0.0949,
+    "lp_reserve_usd": 258970.12,
+    "volume_24h": 8461.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ORDER",
+    "chain": "arbitrum",
+    "dex": "pancakeswap",
+    "pool_address": "0xB49EAe16E45faeBAa406e57C93263A5FCBC0C8d3",
+    "pair": "ORDER/USD",
+    "price_usd": 0.09439,
+    "lp_reserve_usd": 422074.64,
+    "volume_24h": 13449.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ORDER",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x27bd426eC343845995c527d634c4E07f0608AaCd",
+    "pair": "ORDER/USD",
+    "price_usd": 0.09434,
+    "lp_reserve_usd": 234926.37,
+    "volume_24h": 17126.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ORDER",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "Hp2VdmU86bozv5vr3c1dfNZ6ZRn14EBGmRhmGQaaChxR",
+    "pair": "ORDER/USD",
+    "price_usd": 0.3009,
+    "lp_reserve_usd": 278781792.06,
+    "volume_24h": 30196.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ORDER",
+    "chain": "ethereum",
+    "dex": "pancakeswap",
+    "pool_address": "0xB2DC4d7627501338B578985c214208eb32283086",
+    "pair": "ORDER/USD",
+    "price_usd": 0.09477,
+    "lp_reserve_usd": 776247.14,
+    "volume_24h": 28524.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  },
+  {
+    "symbol": "ORDER",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xA7DF052672a24885d784A72b5f72d50296161531",
+    "pair": "ORDER/USD",
+    "price_usd": 0.09509,
+    "lp_reserve_usd": 789684.71,
+    "volume_24h": 47050.75,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023850
+  }
+]

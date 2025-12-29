@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MMT",
+    "chain": "sui",
+    "dex": "momentum",
+    "pool_address": "0x8fbcc943593b0e33f3fb15311cbf81d73f1ccf26c96b85ea290ff6dfcdbe4c9f",
+    "pair": "MMT/USD",
+    "price_usd": 0.2319,
+    "lp_reserve_usd": 207809.8,
+    "volume_24h": 115762.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  },
+  {
+    "symbol": "MMT",
+    "chain": "sui",
+    "dex": "momentum",
+    "pool_address": "0xc7993ebf7a1e629a942f69e9b3a8dccc3a96db0df3991812578815a0dda08a91",
+    "pair": "MMT/USD",
+    "price_usd": 0.2303,
+    "lp_reserve_usd": 389613.42,
+    "volume_24h": 276315.6,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023858
+  }
+]

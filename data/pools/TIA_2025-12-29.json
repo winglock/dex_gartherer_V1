@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "TIA",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1248-ibc_D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877-uosmo",
+    "pair": "TIA/USD",
+    "price_usd": 0.4621,
+    "lp_reserve_usd": 54504.25,
+    "volume_24h": 17158.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "TIA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "3r9Z6t6rrrLHbYc69EzexXg1bKBJGbXDd7ziPhgWv6r6",
+    "pair": "TIA/USD",
+    "price_usd": 1.03,
+    "lp_reserve_usd": 41202105.69,
+    "volume_24h": 20173.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  },
+  {
+    "symbol": "TIA",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1247-ibc_D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877-ibc_498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+    "pair": "TIA/USD",
+    "price_usd": 0.4617,
+    "lp_reserve_usd": 27371.53,
+    "volume_24h": 49780.53,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023855
+  }
+]

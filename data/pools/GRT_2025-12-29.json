@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "GRT",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0x74d0Ae8B8e1fCA6039707564704a25aD2ee036B0",
+    "pair": "GRT/USD",
+    "price_usd": 0.03655,
+    "lp_reserve_usd": 127897.23,
+    "volume_24h": 22524.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "GRT",
+    "chain": "arbitrum",
+    "dex": "uniswap",
+    "pool_address": "0xF782cd5748BfC21d30b03174BB3E30FDd111a897",
+    "pair": "GRT/USD",
+    "price_usd": 0.03647,
+    "lp_reserve_usd": 9341.59,
+    "volume_24h": 710.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "GRT",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0x31c832486573E25fE3C4F03D9c2C28c4a48e9D6f",
+    "pair": "GRT/USD",
+    "price_usd": 0.03663,
+    "lp_reserve_usd": 5724.17,
+    "volume_24h": 657.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "GRT",
+    "chain": "polygon",
+    "dex": "sushiswap",
+    "pool_address": "0x1cedA73C034218255F50eF8a2c282E6B4c301d60",
+    "pair": "GRT/USD",
+    "price_usd": 0.03653,
+    "lp_reserve_usd": 21529.64,
+    "volume_24h": 580.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  },
+  {
+    "symbol": "GRT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "J6Rqf5iKof4FAeh4Z8L2METq9HXSDFQTgJtrpvUGGRkY",
+    "pair": "GRT/USD",
+    "price_usd": 0.08499,
+    "lp_reserve_usd": 803830296.74,
+    "volume_24h": 30210.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767023853
+  }
+]
