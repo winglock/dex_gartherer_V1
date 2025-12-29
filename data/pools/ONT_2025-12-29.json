@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ONT",
+    "chain": "multi",
+    "dex": "apeswap_bsc",
+    "pool_address": "0x924d3f2f94618e8ee837d4c2b8d703f0de12a57e",
+    "pair": "ONT / WBNB",
+    "price_usd": 0.0831994632391668,
+    "lp_reserve_usd": 7718.2848,
+    "volume_24h": 5827.7023956022,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009611
+  },
+  {
+    "symbol": "ONT",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0xf938bad7371ed508bf4ed547b1ded66df29a77f8",
+    "pair": "OTM / WBNB 1%",
+    "price_usd": 0.0125067510815485,
+    "lp_reserve_usd": 72734.8426,
+    "volume_24h": 15218.3687582201,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009611
+  },
+  {
+    "symbol": "ONT",
+    "chain": "multi",
+    "dex": "uniswap_v3_arbitrum",
+    "pool_address": "0xdd65ead5c92f22b357b1ae516362e4a98b1291ce",
+    "pair": "OTM / USDT 1%",
+    "price_usd": 0.0137172779636486,
+    "lp_reserve_usd": 28112.6336,
+    "volume_24h": 60116.0600708887,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009611
+  }
+]

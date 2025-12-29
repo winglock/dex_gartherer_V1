@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "CKB",
+    "chain": "multi",
+    "dex": "icpswap",
+    "pool_address": "xmiu5-jqaaa-aaaag-qbz7q-cai",
+    "pair": "ckBTC / ICP",
+    "price_usd": 87607.88303285,
+    "lp_reserve_usd": 287137.471,
+    "volume_24h": 5000.1791625353,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009568
+  },
+  {
+    "symbol": "CKB",
+    "chain": "multi",
+    "dex": "icpswap",
+    "pool_address": "akhru-myaaa-aaaag-qcvna-cai",
+    "pair": "ckETH / ckBTC",
+    "price_usd": 3009.69193507759,
+    "lp_reserve_usd": 155921.9868,
+    "volume_24h": 631.1328399757,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009568
+  },
+  {
+    "symbol": "CKB",
+    "chain": "multi",
+    "dex": "kongswap",
+    "pool_address": "2",
+    "pair": "ckBTC / ckUSDT",
+    "price_usd": 87719.2982456141,
+    "lp_reserve_usd": 426018.37,
+    "volume_24h": 5909.5970477173,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009568
+  },
+  {
+    "symbol": "CKB",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "8rT852XXdMUquo5QurbG6jXnceSgEEFV2yqZC5Zshi8g",
+    "pair": "POLAI / SOL",
+    "price_usd": 0.017161887584691855,
+    "lp_reserve_usd": 12127331.9825,
+    "volume_24h": 2508.6022664678,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009568
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "vvs",
+    "pool_address": "0xb1d227d14d19151b915c395692dddf9ccdeadee3",
+    "pair": "XLM / WCRO",
+    "price_usd": 0.221588665257323,
+    "lp_reserve_usd": 157927.5594,
+    "volume_24h": 3021.7598920768,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "FqkXn7su8bmJfcQa4CH8QYE86WrZiSVbEB5QDC4Winwx",
+    "pair": "XLM / USDC",
+    "price_usd": 0.25169286905739185,
+    "lp_reserve_usd": 12230548.0659,
+    "volume_24h": 296408.576046893,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "3TjAqr2u91e3ZpZgHHTKYnWnzHs1LvS48uerVr5mRCaP",
+    "pair": "XLM / USDC",
+    "price_usd": 0.24993535156637883,
+    "lp_reserve_usd": 4959022.1055,
+    "volume_24h": 282870.261702993,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "ebkyf8EDJieMq5eBu6cnWFBfMshaVMR2oqtSK5zenrU",
+    "pair": "CRND SPSN / USDC",
+    "price_usd": 2.1061742543694653,
+    "lp_reserve_usd": 1907020.0736,
+    "volume_24h": 329072.81375936,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "AdamDNCfX8LiBdVz39Bcj1Dd6Vv6vTdmCKqF9fQB3so3",
+    "pair": "32D SPSN / USDC",
+    "price_usd": 2.0974192528621307,
+    "lp_reserve_usd": 1899094.7657,
+    "volume_24h": 329185.271250568,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "first-ledger",
+    "pool_address": "XLM.rKiCet8SdvWxPXnAgYarFUXMh1zCPz432Y_XRP",
+    "pair": "XLM / XRP",
+    "price_usd": 0.220955122494387,
+    "lp_reserve_usd": 441844.2955,
+    "volume_24h": 3649.26485574,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  },
+  {
+    "symbol": "XLM",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "DwuzFDHZfSDgFFo4XRmo4sq43ZXJjbpwb8tWCDS8wcwh",
+    "pair": "XLM / USDC",
+    "price_usd": 0.2591001007224684,
+    "lp_reserve_usd": 5057115.4632,
+    "volume_24h": 98110.3049328014,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009759
+  }
+]

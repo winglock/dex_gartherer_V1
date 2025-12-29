@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "CVC",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xca300f8115413051202111e82c99a06916ce8d5a",
+    "pair": "CVC / USDT",
+    "price_usd": 0.14139775676644,
+    "lp_reserve_usd": 302586.7619,
+    "volume_24h": 1198.5844036864,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009746
+  }
+]

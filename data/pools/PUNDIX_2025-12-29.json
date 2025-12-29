@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "PUNDIX",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x268a0e9b5073340255bdd1b2586a5d48d77af3ea",
+    "pair": "PUNDIX / ETH 0.01%",
+    "price_usd": 0.23325576288295,
+    "lp_reserve_usd": 64423.2107,
+    "volume_24h": 3814.225507818,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  }
+]

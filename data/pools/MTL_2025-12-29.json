@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "MTL",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xa71d014ffc0d2aff34d1fe1672dcdef6ec00af66",
+    "pair": "MTLX / WETH",
+    "price_usd": 0.482147033982296,
+    "lp_reserve_usd": 220958.4145,
+    "volume_24h": 1152.522653705,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009556
+  },
+  {
+    "symbol": "MTL",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x1a57ec5459928389fbb5612ff2a5e0b534fd9e2e",
+    "pair": "MTLX / USDT",
+    "price_usd": 0.480396679373131,
+    "lp_reserve_usd": 41365.0203,
+    "volume_24h": 528.1006257044,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009556
+  },
+  {
+    "symbol": "MTL",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "7XGFgQfp9cim4emNTG6jho9q4dspX2eNPfpfwgRDgWis",
+    "pair": "MTLX / SOL",
+    "price_usd": 0.0019257397196678413,
+    "lp_reserve_usd": 59336.5718,
+    "volume_24h": 12332.0489789437,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009556
+  }
+]

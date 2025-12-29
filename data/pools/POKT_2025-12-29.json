@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "POKT",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-solana",
+    "pool_address": "DbRUHWgc6xmdzn619JWFjCMYJRNZmDsDYSdbsbiF7i6b",
+    "pair": "POKT / SOL",
+    "price_usd": 0.011720658518163405,
+    "lp_reserve_usd": 37430.4707,
+    "volume_24h": 9419.7867926485,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009552
+  },
+  {
+    "symbol": "POKT",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "5qJCeYWzvkrKuD1r7bQDus8ffm2vjrunxNUht6NTeise",
+    "pair": "POKT / SOL",
+    "price_usd": 0.011729159210022232,
+    "lp_reserve_usd": 52340.1892,
+    "volume_24h": 28459.7828555816,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009552
+  },
+  {
+    "symbol": "POKT",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream",
+    "pool_address": "0x32bb4ad5fed77f7abf97d1435f8d6aaae59aa64e",
+    "pair": "POKT / WETH 0.3%",
+    "price_usd": 0.0117264515414429,
+    "lp_reserve_usd": 49156.0895,
+    "volume_24h": 148721.611748024,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009552
+  }
+]

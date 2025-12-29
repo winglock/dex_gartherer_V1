@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "LAYER",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x4b2c930f88a87d1bffac291b6a7e01c9f13dd03e",
+    "pair": "EDGEN / WETH 1%",
+    "price_usd": 0.00409770338816692,
+    "lp_reserve_usd": 651518.9057,
+    "volume_24h": 2131.7511945258,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009499
+  },
+  {
+    "symbol": "LAYER",
+    "chain": "multi",
+    "dex": "pancakeswap-infinity-clmm",
+    "pool_address": "0x5b989a3748ef030435b6d047dd5c8d04f17aa3536c493646c52c2d2b40bdb69a",
+    "pair": "42 / USDC 0.007%",
+    "price_usd": 0.0436311388004049,
+    "lp_reserve_usd": 309507.5125,
+    "volume_24h": 262164.728272929,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009499
+  },
+  {
+    "symbol": "LAYER",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x96d5f7d1b0c6375d5399f512c88db18d6e92e5688cbb5548d098225416d798bd",
+    "pair": "L3 / ETH 1%",
+    "price_usd": 0.0139691037176904,
+    "lp_reserve_usd": 66007.8317,
+    "volume_24h": 10276.5889400507,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009499
+  }
+]

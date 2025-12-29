@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "5RKKyyBN8pf6vuLCK8qyi5v5u3ktemqgpXZzaGaz5vFK",
+    "pair": "NOMU / SOL",
+    "price_usd": 0.006659978919840738,
+    "lp_reserve_usd": 98282.8576,
+    "volume_24h": 1161.8434306466,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "pumpswap",
+    "pool_address": "FYcrTTPFemoP1WYzybw8D6ixEc2riCr5UwCe7s7yWpUU",
+    "pair": "NOMNOM / SOL",
+    "price_usd": 0.00004145833356651217,
+    "lp_reserve_usd": 19510.262,
+    "volume_24h": 386073.866664346,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "Fhmjp6SMtmD8GXkq8tw6aZjBk3sDpKtKKSH6RToLAX3m",
+    "pair": "nomnom / SOL",
+    "price_usd": 0.0006153771834406102,
+    "lp_reserve_usd": 195099.2839,
+    "volume_24h": 8303.8479206067,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "2NeA89Teb2wnWZpSbPNWkaHRoR4dDtMJLtP4eY57Ts7S",
+    "pair": "NOM / SOL",
+    "price_usd": 0.00013275733225124074,
+    "lp_reserve_usd": 69513.2863,
+    "volume_24h": 2219.0030728871,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "9KZyznZYq4YoqoxnisSfXXNycrvqMfEvDSt6ic9xPbm7",
+    "pair": "NOMU / BORG",
+    "price_usd": 0.006813223995492893,
+    "lp_reserve_usd": 83860.98,
+    "volume_24h": 2702.808379769,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "DCBSNEoMX5i712qKXHyhPYTQPTWmbKcP7Dh6zjeZnyGT",
+    "pair": "NOMU / USDC",
+    "price_usd": 0.006718492079292241,
+    "lp_reserve_usd": 1147403.0244,
+    "volume_24h": 3162.3835890972,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  },
+  {
+    "symbol": "NOM",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "CXnHzA9X3CVBBjDaUJtWa65yLNKYJJnxGAgT6TB4xw3o",
+    "pair": "NOMNOM / SOL",
+    "price_usd": 0.000058279244483957346,
+    "lp_reserve_usd": 2424049.4499,
+    "volume_24h": 703659.711590864,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009734
+  }
+]

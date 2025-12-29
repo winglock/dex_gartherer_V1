@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x2519042aa735edb4688a8376d69d4bb69431206c",
+    "pair": "LPT / WETH 1%",
+    "price_usd": 2.93707089578165,
+    "lp_reserve_usd": 36118.2405,
+    "volume_24h": 1582.9793294118,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009694
+  },
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x755c1a8f71f4210cd7b60b9439451efcbeba33d1",
+    "pair": "LPT / WETH",
+    "price_usd": 2.93624343825296,
+    "lp_reserve_usd": 51330.3389,
+    "volume_24h": 1176.4226408323,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009694
+  },
+  {
+    "symbol": "LPT",
+    "chain": "multi",
+    "dex": "uniswap_v3_arbitrum",
+    "pool_address": "0x4fd47e5102dfbf95541f64ed6fe13d4ed26d2546",
+    "pair": "LPT / WETH 0.3%",
+    "price_usd": 2.9229087507256,
+    "lp_reserve_usd": 210988.0656,
+    "volume_24h": 86781.1317877164,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009694
+  }
+]

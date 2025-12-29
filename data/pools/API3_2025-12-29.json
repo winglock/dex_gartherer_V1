@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "API3",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x81a98ae40148e298c77bd43082c6baf2b69c2940e3815c6b56c11dd2c467b05f",
+    "pair": "API3 / ETH 1%",
+    "price_usd": 0.456402796239572,
+    "lp_reserve_usd": 293722.3194,
+    "volume_24h": 1911.6278983276,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009722
+  },
+  {
+    "symbol": "API3",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x4dd26482738be6c06c31467a19dcda9ad781e8c4",
+    "pair": "API3 / WETH",
+    "price_usd": 0.445762180731859,
+    "lp_reserve_usd": 161809.0554,
+    "volume_24h": 2039.8927192121,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009722
+  },
+  {
+    "symbol": "API3",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x495864cad6cf60e97efcd3f14ff8b1f167956ba2",
+    "pair": "API3 / WETH 0.3%",
+    "price_usd": 0.4463772772617,
+    "lp_reserve_usd": 62442.7602,
+    "volume_24h": 2603.7404015471,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009722
+  }
+]

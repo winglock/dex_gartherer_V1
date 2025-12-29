@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "CYBER",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream",
+    "pool_address": "0x1ae40983454cb9bcd9e2bdf95a2b308ea39dc2c0",
+    "pair": "LIFE / WETH 1%",
+    "price_usd": 0.0280194052565009,
+    "lp_reserve_usd": 271243.7004,
+    "volume_24h": 30264.3940772376,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009488
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x6b7aff811ad66395b6d34b994b45de3880078156",
+    "pair": "CCC / USDT 0.01%",
+    "price_usd": 0.00530075517215532,
+    "lp_reserve_usd": 103202.2669,
+    "volume_24h": 7099.1803878192,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009488
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0x6f998f205411f0c495f21312a7a037a34e92f135",
+    "pair": "CYBERWISH / WBNB",
+    "price_usd": 0.0000711738467523958,
+    "lp_reserve_usd": 56643.2015,
+    "volume_24h": 2101.581123842,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009488
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "2ocS3nzDdesdr6Uk66sDZymEdyQVVb2KDbgQvN6a1gTW",
+    "pair": "CDOGE / SOL",
+    "price_usd": 0.0018169650753738476,
+    "lp_reserve_usd": 136382.6669,
+    "volume_24h": 21758.9106272387,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009488
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "multi",
+    "dex": "uniswap-v3-base",
+    "pool_address": "0x955cee3cb37fe2d1fe0d387947ca5cd0dc71bbf1",
+    "pair": "CBIC / USDC 0.01%",
+    "price_usd": 4.16141750355082,
+    "lp_reserve_usd": 128870.3447,
+    "volume_24h": 860506.703990681,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009488
+  }
+]

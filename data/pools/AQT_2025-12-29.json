@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "AQT",
+    "chain": "multi",
+    "dex": "raydium-launchlab",
+    "pool_address": "AQtAi1YHX5xVNp1gXV6cwHiGdHZYGBzd4nSk3SEotqYe",
+    "pair": "America W / USD1",
+    "price_usd": 4.9304694242508265e-6,
+    "lp_reserve_usd": 5039.2462,
+    "volume_24h": 57242.6696896487,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009744
+  },
+  {
+    "symbol": "AQT",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "AqT9yi3JBuLetNGeVTtRTxrTX6bgfjyyMkhFPFgeQasz",
+    "pair": "NEX Ai / SOL",
+    "price_usd": 0.0003585422980826284,
+    "lp_reserve_usd": 25359637.2015,
+    "volume_24h": 37404.5403660745,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009744
+  }
+]

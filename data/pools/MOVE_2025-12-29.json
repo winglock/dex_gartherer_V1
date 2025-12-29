@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "MOVE",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "5hSahafxUtB6868nhFzEk7ozp2VsRJaHZJkBorGpk97P",
+    "pair": "MOVE / SOL",
+    "price_usd": 0.00004649092211901173,
+    "lp_reserve_usd": 22126.9943,
+    "volume_24h": 528.780297246,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009688
+  },
+  {
+    "symbol": "MOVE",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xfec2bec0f032462e6e1bc8cb97ccde7c93be4a3b",
+    "pair": "MOVE / WBNB",
+    "price_usd": 0.000212781682094054,
+    "lp_reserve_usd": 71752.7183,
+    "volume_24h": 637.1936882133,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009688
+  },
+  {
+    "symbol": "MOVE",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "826HDxJ7Qjtz9vLQ1GBhsVhqY64DSEAyY1YC39U7gowG",
+    "pair": "MOVE / SOL",
+    "price_usd": 0.00005902028987885102,
+    "lp_reserve_usd": 24987.4585,
+    "volume_24h": 1908.869170693,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009688
+  },
+  {
+    "symbol": "MOVE",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream-2",
+    "pool_address": "0xbb5eddb5ecc54061d7f5d46668d0395450895ef9",
+    "pair": "MOVE / USDC 0.05%",
+    "price_usd": 0.0360157636559718,
+    "lp_reserve_usd": 393683.4762,
+    "volume_24h": 53943.1215906301,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009688
+  },
+  {
+    "symbol": "MOVE",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "64pupAxqQrBKPAdugMGEam9P5b9BiPqafjwNNGPiMk5u",
+    "pair": "MOVE / SOL",
+    "price_usd": 0.00006563178449419959,
+    "lp_reserve_usd": 26241.943,
+    "volume_24h": 2543.3491675415,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009688
+  }
+]

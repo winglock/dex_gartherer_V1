@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "JST",
+    "chain": "multi",
+    "dex": "sunswap-v2",
+    "pool_address": "TW68dBGdy9gtk16BfzmvaCZ9pEti3KFkk2",
+    "pair": "JST / USDT",
+    "price_usd": 0.038730959606176,
+    "lp_reserve_usd": 7269667.6923,
+    "volume_24h": 28914.1353109477,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009494
+  },
+  {
+    "symbol": "JST",
+    "chain": "multi",
+    "dex": "sunswap-v2",
+    "pool_address": "TUDo1PuMG6j4aDSg6rsCNiz5gR5cnQaNTT",
+    "pair": "JST / WTRX",
+    "price_usd": 0.0387342898964664,
+    "lp_reserve_usd": 3611088.8962,
+    "volume_24h": 6354.7435165986,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009494
+  },
+  {
+    "symbol": "JST",
+    "chain": "multi",
+    "dex": "sunswap-v3",
+    "pool_address": "TY1Nzu3P89TorQd41icdqWUSYDWkQAKVRb",
+    "pair": "JST / USDT 0.05%",
+    "price_usd": 0.0386420232022146,
+    "lp_reserve_usd": 11778915.6757,
+    "volume_24h": 779573.704130766,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009494
+  }
+]

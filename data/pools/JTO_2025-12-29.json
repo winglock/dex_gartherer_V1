@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "GZcP3ANuTD15ZrYaF1RacomBKXVCCKvXYyWVDaEDqkKi",
+    "pair": "JTO / SOL",
+    "price_usd": 0.3984568163779883,
+    "lp_reserve_usd": 8772.1501,
+    "volume_24h": 12740.2130044949,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "4UVvSVdeth9mxpPe4nwwZseXPd2bqqDm4xVaJSve3DXw",
+    "pair": "JTO / JitoSOL",
+    "price_usd": 0.3992321392233277,
+    "lp_reserve_usd": 88653.9355,
+    "volume_24h": 777.4507755902,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "JVoPtWWDsRcLvQosu5fWc2CaNF6jEtJzbxdPtcEuvZo",
+    "pair": "JTO / SOL 1%",
+    "price_usd": 0.3997570323592994,
+    "lp_reserve_usd": 53973.1035,
+    "volume_24h": 2677.9184374668,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "G2FiE1yn9N9ZJx5e1E2LxxMnHvb1H3hCuHLPfKJ98smA",
+    "pair": "JTO / JitoSOL",
+    "price_usd": 0.4005259868163442,
+    "lp_reserve_usd": 1056705.4792,
+    "volume_24h": 405474.889598916,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "2UhFnySoJi6c89aydGAGS7ZRemo2dbkFRhvSJqDX4gHJ",
+    "pair": "JTO / SOL",
+    "price_usd": 0.3976278733398082,
+    "lp_reserve_usd": 23415.739,
+    "volume_24h": 4292.5152225327,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "pumpswap",
+    "pool_address": "JtoazecRoxgRzrYNhnfNP5n1bNWyTLtCEq57zmbpc6R",
+    "pair": "pinheads / SOL",
+    "price_usd": 0.000016471984579723885,
+    "lp_reserve_usd": 15251.4216,
+    "volume_24h": 3233.411772058,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  },
+  {
+    "symbol": "JTO",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "Eqv1tJGkLFeH4giGy8vqKxF4NJBHtGR5cGmKG6cpVy4Z",
+    "pair": "JTO / USDC",
+    "price_usd": 0.39654623076110995,
+    "lp_reserve_usd": 46561.3408,
+    "volume_24h": 2828.2510465667,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009495
+  }
+]

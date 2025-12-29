@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "BORA",
+    "chain": "multi",
+    "dex": "dragonswap-v3",
+    "pool_address": "0x3288aa19acdaac957dae670392b9568e39b686cd",
+    "pair": "BORA / WKLAY 0.2%",
+    "price_usd": 0.0388551604890596,
+    "lp_reserve_usd": 997984.3585,
+    "volume_24h": 112784.234971235,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009679
+  },
+  {
+    "symbol": "BORA",
+    "chain": "multi",
+    "dex": "klayswap",
+    "pool_address": "0xbbca9b2d17987ace3e98e376931c540270ce71bb",
+    "pair": "KLAY / BORA",
+    "price_usd": 0.056712,
+    "lp_reserve_usd": 47313.121,
+    "volume_24h": 1390.2955410003,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009679
+  }
+]

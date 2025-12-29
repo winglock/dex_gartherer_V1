@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "velodrome-finance-slipstream-soneium",
+    "pool_address": "0xb44795454376c7127f89b1cc0d56f403e70ca952",
+    "pair": "ASTR / WETH 0.05%",
+    "price_usd": 0.0100955850542593,
+    "lp_reserve_usd": 62440.9074,
+    "volume_24h": 1603.845587757,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x4df1c47ecfbac8482a4811d373128e2acc007d02",
+    "pair": "ASTRA / WETH",
+    "price_usd": 0.419523974054796,
+    "lp_reserve_usd": 208876.5389,
+    "volume_24h": 9718.07286872,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0xf58ab4d13ea15658aa7446576c6d6b4b8034cfce6d38b6c764d9fd6478219921",
+    "pair": "ASTR / ETH 0.3%",
+    "price_usd": 0.0102763732379086,
+    "lp_reserve_usd": 6844.9636,
+    "volume_24h": 3449.0285650022,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "kyo-finance-v3",
+    "pool_address": "0x9e7233ff8da85b81888bf43774013ced9f4cc4b0",
+    "pair": "ASTR / USDC.e 0.05%",
+    "price_usd": 0.0100872628433051,
+    "lp_reserve_usd": 128679.0031,
+    "volume_24h": 2329.8898282412,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "hydration-dex",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-33",
+    "pair": "vASTR / H2O",
+    "price_usd": 0.0135109339609497,
+    "lp_reserve_usd": 48881736.2137,
+    "volume_24h": 1175.2621246677,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  },
+  {
+    "symbol": "ASTR",
+    "chain": "multi",
+    "dex": "hydration-dex",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-9",
+    "pair": "ASTR / H2O",
+    "price_usd": 0.010119943276171,
+    "lp_reserve_usd": 50024023.0785,
+    "volume_24h": 45176.749922052,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009562
+  }
+]

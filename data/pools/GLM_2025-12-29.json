@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "GLM",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x531b6a4b3f962208ea8ed5268c642c84bb29be0b",
+    "pair": "GLM / WETH 1%",
+    "price_usd": 0.202124410612135,
+    "lp_reserve_usd": 70070.8069,
+    "volume_24h": 904.6511302129,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009330
+  },
+  {
+    "symbol": "GLM",
+    "chain": "multi",
+    "dex": "stellaswap-v4",
+    "pool_address": "0xc295aa4287127c5776ad7031648692659ef2cebb",
+    "pair": "xcDOT / WGLMR 0.3%",
+    "price_usd": 1.8479150516336,
+    "lp_reserve_usd": 124017.6784,
+    "volume_24h": 46225.0672550063,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009330
+  },
+  {
+    "symbol": "GLM",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0xff701d6e2fb193e038fe403329b56fc0d5763f8b4eb7706e6f8855c4802b7211",
+    "pair": "GLM / ETH 1%",
+    "price_usd": 0.204362278354944,
+    "lp_reserve_usd": 134528.802,
+    "volume_24h": 1895.2388351872,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009330
+  },
+  {
+    "symbol": "GLM",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "GLmDMMavr2wsiFJKFejnWHf8vwbgZDHgMpDiqhgNVxKU",
+    "pair": "Wynn / SOL",
+    "price_usd": 0.00014330211421697663,
+    "lp_reserve_usd": 40336.3648,
+    "volume_24h": 8770.9721668855,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009330
+  },
+  {
+    "symbol": "GLM",
+    "chain": "multi",
+    "dex": "hydration-dex",
+    "pool_address": "0x6d6f646c6f6d6e69706f6f6c0000000000000000000000000000000000000000-1-16",
+    "pair": "GLMR / H2O",
+    "price_usd": 0.0235615265534197,
+    "lp_reserve_usd": 48604129.718,
+    "volume_24h": 22696.2272958042,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009330
+  }
+]

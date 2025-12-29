@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "CHZ",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x10ce8ea23b909f88ff66f8a78af2f1b2e65893b880e32d577787b90de01abc20",
+    "pair": "CHZ / USDC 2.011%",
+    "price_usd": 0.0382543648286616,
+    "lp_reserve_usd": 8712.3487,
+    "volume_24h": 2628.9621953675,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009561
+  }
+]

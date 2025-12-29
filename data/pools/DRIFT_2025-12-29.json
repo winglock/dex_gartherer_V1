@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "DRIFT",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "7u3wk63dbFfN6WUdxpJ6SDNMwDixK1ti2J3Q21ws5Vxs",
+    "pair": "DRIFT / JitoSOL",
+    "price_usd": 0.16492061303527275,
+    "lp_reserve_usd": 144623.3477,
+    "volume_24h": 108051.756282293,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009338
+  },
+  {
+    "symbol": "DRIFT",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "Hvgtck2ggwcTRuCg8wcK2qBtSfbMJwt5fYfizMUTBQX3",
+    "pair": "dSOL / SOL",
+    "price_usd": 145.59588947936913,
+    "lp_reserve_usd": 5081.9287,
+    "volume_24h": 9078.5244383682,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009338
+  },
+  {
+    "symbol": "DRIFT",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "A5nTDyqLRqsWAQiMefmoU7RWy6UzmcpCLDhC8MGmYxvJ",
+    "pair": "DRIFT / SOL",
+    "price_usd": 0.16739353778690866,
+    "lp_reserve_usd": 17487.2161,
+    "volume_24h": 1529.5119796598,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009338
+  }
+]

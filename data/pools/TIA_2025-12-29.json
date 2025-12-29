@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "TIA",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "3r9Z6t6rrrLHbYc69EzexXg1bKBJGbXDd7ziPhgWv6r6",
+    "pair": "TIA / USDC",
+    "price_usd": 1.0317575570541577,
+    "lp_reserve_usd": 41481432.5962,
+    "volume_24h": 20209.6106341176,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009788
+  }
+]

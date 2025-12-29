@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "3FbEVDNSRcRkDboNkL1Uj6gDoHwVxDw8dpVCjvomnNJ8",
+    "pair": "ARK / USDC",
+    "price_usd": 12.042438796511117,
+    "lp_reserve_usd": 196385.8858,
+    "volume_24h": 754853.893154676,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  },
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "ArKUv38bhoorJgdbZwLyDavnoMygmUK3wWf5kRZNf8gy",
+    "pair": "BLIND / SOL",
+    "price_usd": 0.00016949447322820577,
+    "lp_reserve_usd": 58242.5738,
+    "volume_24h": 2084837.59852707,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  },
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xcaaf3c41a40103a23eeaa4bba468af3cf5b0e0d8",
+    "pair": "ARK / USDT",
+    "price_usd": 21.4420496962636,
+    "lp_reserve_usd": 90106198.8499,
+    "volume_24h": 5726083.34827419,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  },
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xb2d3f1ed6d9798266e23ddbde635401c5ca9139e",
+    "pair": "ARK / USDT",
+    "price_usd": 9.88479751208248e-6,
+    "lp_reserve_usd": 17903.8973,
+    "volume_24h": 1242908.86397271,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  },
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "uniswap_v3_polygon_pos",
+    "pool_address": "0x65906dbdfca73c67cf35744864d2f3f9f71a8c44",
+    "pair": "AKRE / USDC 0.3%",
+    "price_usd": 0.000278772028402108,
+    "lp_reserve_usd": 6065.6616,
+    "volume_24h": 3198.6163983201,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  },
+  {
+    "symbol": "ARK",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0xca3f029a70d5d90000e614afd29e5c833f33cea5",
+    "pair": "AOP / USDT 0.01%",
+    "price_usd": 0.0345451571638422,
+    "lp_reserve_usd": 1170462.6489,
+    "volume_24h": 252371.736785018,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009314
+  }
+]

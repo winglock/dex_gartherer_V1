@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "curve-plume",
+    "pool_address": "0x26bece28f4cc08730d7b1c103a0a3ce13daa5968",
+    "pair": "pUSD / nTBILL",
+    "price_usd": 0.946632237020929,
+    "lp_reserve_usd": 192112.7167,
+    "volume_24h": 659.892223785,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "rooster-protocol-v2",
+    "pool_address": "0x05acf22149bb67a682e652674b6901f02cb57731",
+    "pair": "pUSD / WPLUME 0.1%",
+    "price_usd": 0.997772903169614,
+    "lp_reserve_usd": 116108.8403,
+    "volume_24h": 21003.5126967647,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "5ndoXT7YzHcy1N8wNzq82jsBr3SQgZ6TSdivgz5YzC8N",
+    "pair": "THETOKEN / USDC",
+    "price_usd": 0.10000499116163049,
+    "lp_reserve_usd": 93142139.5702,
+    "volume_24h": 10002.4403948671,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "rooster-protocol-v2",
+    "pool_address": "0xdcd87e7f2cb5b488506768ac97e4041dd16f8c94",
+    "pair": "WPLUME / WETH 0.05%",
+    "price_usd": 0.01749866,
+    "lp_reserve_usd": 95807.5129,
+    "volume_24h": 10588.5206534402,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0xd845acdeb03fb3295e7735c232c588efc441d903",
+    "pair": "PLUME / WETH 1%",
+    "price_usd": 0.0172685712138466,
+    "lp_reserve_usd": 49097.9461,
+    "volume_24h": 20558.4333828757,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "PLUME",
+    "chain": "multi",
+    "dex": "rooster-protocol-v2",
+    "pool_address": "0xc1499e22b16a458b4d7fb6018834e11c32e72e7e",
+    "pair": "pUSD / WETH 0.05%",
+    "price_usd": 0.949462897526501,
+    "lp_reserve_usd": 6964.1087,
+    "volume_24h": 2130.4370616499,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  }
+]

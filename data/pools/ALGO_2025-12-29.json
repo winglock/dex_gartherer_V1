@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ALGO",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xc26c69a42163fb9f662bdbb35fc8641a3e419043",
+    "pair": "AEA / USDT",
+    "price_usd": 2.76809581990489,
+    "lp_reserve_usd": 621764.4802,
+    "volume_24h": 131643.511523905,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ALGO",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "9KTtaTjLJLUnVs7KiMEgtYPkjh34cNPd6XQdb78xErmw",
+    "pair": "ALG / SOL",
+    "price_usd": 0.0002206515631533828,
+    "lp_reserve_usd": 85724.9242,
+    "volume_24h": 1624.799071175,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ALGO",
+    "chain": "multi",
+    "dex": "subnet-tokens",
+    "pool_address": "0-99",
+    "pair": "SN99 / TAO",
+    "price_usd": 0.592493475926429,
+    "lp_reserve_usd": 1199242.9367,
+    "volume_24h": 23903.6879664394,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  }
+]

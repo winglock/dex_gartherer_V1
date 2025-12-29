@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "uniswap-v3-world-chain",
+    "pool_address": "0x610e319b3a3ab56a0ed5562927d37c233774ba39",
+    "pair": "USDC.e / WLD 1%",
+    "price_usd": 1.00680417758734,
+    "lp_reserve_usd": 781721.9681,
+    "volume_24h": 48251.0699538547,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "uniswap_v3_optimism",
+    "pool_address": "0xd1f1bad4c9e6c44dec1e9bf3b94902205c5cd6c3",
+    "pair": "WLD / USDC 1%",
+    "price_usd": 0.504305337282251,
+    "lp_reserve_usd": 51145.2674,
+    "volume_24h": 1893.8002610267,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "FAjGpWTri9SqVECEwmj3MmeN9cJjk7j3cVMjkmZU6JyG",
+    "pair": "WLD / USDC",
+    "price_usd": 0.6102975524559565,
+    "lp_reserve_usd": 53182011.5145,
+    "volume_24h": 20187.42802887,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "velodrome-finance-slipstream",
+    "pool_address": "0x4e5541815227e3272c405886149f45d2f437c7ff",
+    "pair": "WLD / USDC 0.3%",
+    "price_usd": 0.504189583003575,
+    "lp_reserve_usd": 29036.4647,
+    "volume_24h": 18863.6013573234,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x841820459769cd629b10a36fd12e603938cc2679",
+    "pair": "WLD / WETH 1%",
+    "price_usd": 0.505816721021089,
+    "lp_reserve_usd": 5171413.9984,
+    "volume_24h": 312237.94583593,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "FkkbETZWmBFXqVHLxZHJAyML2YeEuAjfm2U7yywckQiQ",
+    "pair": "WLD / USDC",
+    "price_usd": 0.5103156334433061,
+    "lp_reserve_usd": 325169.4522,
+    "volume_24h": 10999.3282000609,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  },
+  {
+    "symbol": "WLD",
+    "chain": "multi",
+    "dex": "uniswap_v3_optimism",
+    "pool_address": "0x2ae3d6096d8215ac2acddf30c60caa984ea5debe",
+    "pair": "WLD / WETH 0.3%",
+    "price_usd": 0.504130793410851,
+    "lp_reserve_usd": 77898.3075,
+    "volume_24h": 8953.4383099174,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009491
+  }
+]

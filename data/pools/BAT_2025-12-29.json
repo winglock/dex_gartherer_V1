@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "BrVVTnrihfyXiHZMVwPsKeLN2vVxMGpgk7Wt6cdrkZLV",
+    "pair": "BAT / USDC",
+    "price_usd": 0.21674957664769773,
+    "lp_reserve_usd": 23030.7599,
+    "volume_24h": 8896.9884555433,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0xa91374cf610f3bbec4c309b231599f1311dd4911",
+    "pair": "BTA / VIRTUAL",
+    "price_usd": 0.000021367288263522,
+    "lp_reserve_usd": 19313.6387,
+    "volume_24h": 2759.0868897874,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x6950a82034857e073e82d0b5000ad1267f0fb1eda2d608661ba131bfd9b74b32",
+    "pair": "BAT / ETH 0.3%",
+    "price_usd": 0.216914235807278,
+    "lp_reserve_usd": 60462.9054,
+    "volume_24h": 8136.1837109376,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "BatmfCjmHPdo69iHs5XLmbY531oEt9rYBE3pDYth3Z3r",
+    "pair": "AICell / USDC",
+    "price_usd": 0.0024915676155302666,
+    "lp_reserve_usd": 2321122.9051,
+    "volume_24h": 20188.8664159372,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x65a33e74e18c99388f4989c296ab8e860219ee76",
+    "pair": "LBAI / WETH",
+    "price_usd": 2.90319679038042e-6,
+    "lp_reserve_usd": 49742.1793,
+    "volume_24h": 1206.4567544618,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "6K86RRMKLWotny1gJjCZfNZSr7AEGzwNwEsFdjrPfu7g",
+    "pair": "Teddy Bat / SOL",
+    "price_usd": 0.06713515827163613,
+    "lp_reserve_usd": 225992.3628,
+    "volume_24h": 2195023.67223594,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  },
+  {
+    "symbol": "BAT",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xb6909b960dbbe7392d405429eb2b3649752b4838",
+    "pair": "BAT / WETH",
+    "price_usd": 0.217049820106967,
+    "lp_reserve_usd": 141894.6745,
+    "volume_24h": 7929.9101188506,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009682
+  }
+]

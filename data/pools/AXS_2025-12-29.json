@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0xc2d00de94795e60fb76bc37d899170996cbda436",
+    "pair": "AXS / WBNB",
+    "price_usd": 0.86492208215185,
+    "lp_reserve_usd": 27334.7653,
+    "volume_24h": 1332.7944636456,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "katana",
+    "pool_address": "0x572bca391432053cded92926d429e02a079c914e",
+    "pair": "AXS / USDC",
+    "price_usd": 0.852540812227707,
+    "lp_reserve_usd": 18375.4319,
+    "volume_24h": 919.6488386058,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "katana-v3",
+    "pool_address": "0x3230b903e8a5d6e46b5a5028470dd33e7b673722",
+    "pair": "AXS / WRON 0.3%",
+    "price_usd": 0.861464009509343,
+    "lp_reserve_usd": 534231.1325,
+    "volume_24h": 32992.1507386584,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "katana",
+    "pool_address": "0x32d1dbb6a4275133cc49f1c61653be3998ada4ff",
+    "pair": "AXS / WRON",
+    "price_usd": 0.853684995097056,
+    "lp_reserve_usd": 416081.0974,
+    "volume_24h": 8120.7519481262,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "sushiswap",
+    "pool_address": "0x0c365789dbbb94a29f8720dc465554c587e897db",
+    "pair": "AXS / WETH",
+    "price_usd": 0.878474852325647,
+    "lp_reserve_usd": 8059.1965,
+    "volume_24h": 1417.7750901761,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "katana",
+    "pool_address": "0xc6344bc1604fcab1a5aad712d766796e2b7a70b9",
+    "pair": "AXS / WETH",
+    "price_usd": 0.861372890771687,
+    "lp_reserve_usd": 977786.0197,
+    "volume_24h": 29607.4335202974,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  },
+  {
+    "symbol": "AXS",
+    "chain": "multi",
+    "dex": "pumpswap",
+    "pool_address": "J4SPWFVvNH3pTkuVDAYhsYCcz9MFMn64qSL4frSuaRF1",
+    "pair": "Etherbum / SOL",
+    "price_usd": 0.000012128694756461706,
+    "lp_reserve_usd": 10720.9503,
+    "volume_24h": 591068.281668318,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009305
+  }
+]

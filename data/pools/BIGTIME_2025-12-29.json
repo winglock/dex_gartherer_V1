@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "BIGTIME",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x484dcf85bc5f005e5628a85c7dde5c846b9b64a7",
+    "pair": "BIGTIME / USDT 0.3%",
+    "price_usd": 0.0211699420577654,
+    "lp_reserve_usd": 72142.5827,
+    "volume_24h": 26958.6057895738,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009798
+  }
+]

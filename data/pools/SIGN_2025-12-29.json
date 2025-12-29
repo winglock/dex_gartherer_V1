@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "SIGN",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream",
+    "pool_address": "0x8a7b72f8ff5299e493317d4430293894107af859",
+    "pair": "SIGN / WETH 0.3%",
+    "price_usd": 0.0381210376061977,
+    "lp_reserve_usd": 133553.3565,
+    "volume_24h": 4066.5349974335,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009370
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x908ab8983dffbbdd74ec6028110610e18239ec1e",
+    "pair": "SIGN / WBNB 0.25%",
+    "price_usd": 0.0382094758817924,
+    "lp_reserve_usd": 750969.2931,
+    "volume_24h": 43209.1100103833,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009370
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "multi",
+    "dex": "uniswap-v3-base",
+    "pool_address": "0x89e91c51469ddcc39d98bf129d47be79ff16e3fc",
+    "pair": "SIGNAL-CLI / ADS 0.3%",
+    "price_usd": 0.0000102897108768686,
+    "lp_reserve_usd": 8540.8211,
+    "volume_24h": 13301.6255129567,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009370
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "multi",
+    "dex": "subnet-tokens",
+    "pool_address": "0-100",
+    "pair": "SN100 / TAO",
+    "price_usd": 0.992517572152323,
+    "lp_reserve_usd": 28131.3221,
+    "volume_24h": 7818.2606829993,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009370
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "multi",
+    "dex": "pumpswap",
+    "pool_address": "H5MUdt9JF11tt3sftmS9jbUZ3HaqTQz9BjpDCUMKAkZ4",
+    "pair": "BUBBLE / SOL",
+    "price_usd": 0.00005410420651625491,
+    "lp_reserve_usd": 34514.8798,
+    "volume_24h": 7073.974097143,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009370
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "katana-v3",
+    "pool_address": "0xcffe72f4d2f1a6e2536181ad0deb8316222a0897",
+    "pair": "YGG / WRON 0.3%",
+    "price_usd": 0.0659717269684701,
+    "lp_reserve_usd": 39346.7003,
+    "volume_24h": 3356.158343507,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  },
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "uniswap-v3-abstract",
+    "pool_address": "0x157beaa1c7dcc2aad79846ec693c558609ebc0ea",
+    "pair": "YGG / WETH 0.3%",
+    "price_usd": 0.065886167170442,
+    "lp_reserve_usd": 1238520.4556,
+    "volume_24h": 23938.2053159912,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  },
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "aborean-finance-v3",
+    "pool_address": "0x4d7fe5b579046032e7ffc883ce369119a6f4d7b7",
+    "pair": "YGG / WETH 0.3%",
+    "price_usd": 0.0656909827975936,
+    "lp_reserve_usd": 11779.5557,
+    "volume_24h": 3288.533407428,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  },
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "katana-v3",
+    "pool_address": "0xfb37a31848d62164a0192609d08db6fb3479171b",
+    "pair": "YGG / FISH 0.3%",
+    "price_usd": 0.0659653994518461,
+    "lp_reserve_usd": 191639.8237,
+    "volume_24h": 3029.620576628,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  },
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "sushiswap",
+    "pool_address": "0x99b42f2b49c395d2a77d973f6009abb5d67da343",
+    "pair": "YGG / WETH",
+    "price_usd": 0.0662890201438654,
+    "lp_reserve_usd": 210580.7304,
+    "volume_24h": 4560.0715801112,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  },
+  {
+    "symbol": "YGG",
+    "chain": "multi",
+    "dex": "katana",
+    "pool_address": "0x6ead2a36fdc4a538c0c51a4380fa4d19de790a72",
+    "pair": "YGG / WRON",
+    "price_usd": 0.066035961352581,
+    "lp_reserve_usd": 82014.9307,
+    "volume_24h": 3245.3023991378,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009304
+  }
+]

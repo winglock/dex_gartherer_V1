@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "75chLT49JFVjbaoMKXnSEP4TuP9cfvUvBCiCPHL7HEZX",
+    "pair": "NEOP / SOL",
+    "price_usd": 0.0635604651245708,
+    "lp_reserve_usd": 17927633.6384,
+    "volume_24h": 2518.6469590582,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "GUWM1arUyDnkMGCHvJu3yt1qomJ988utqC3dFN2AUCDT",
+    "pair": "NEON / SOL",
+    "price_usd": 0.05803071891680588,
+    "lp_reserve_usd": 159457.1714,
+    "volume_24h": 17336.5756181021,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "aerodrome-slipstream-2",
+    "pool_address": "0x4bf785b273b94bbd44ec7a48b65692b39728583c",
+    "pair": "NEOX / WETH 0.3%",
+    "price_usd": 0.00172287803122629,
+    "lp_reserve_usd": 5582.6223,
+    "volume_24h": 3221.0560637412,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "icecreamswap-neon",
+    "pool_address": "0xbf9b135eb26068d0e5e9f2432d9caf04721d0467",
+    "pair": "WNEON / USDC",
+    "price_usd": 0.057903,
+    "lp_reserve_usd": 36541.8453,
+    "volume_24h": 736.6945424264,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "4HeNTCm4AmJmAiu242f1A3FXDPzCe2LQ4Pfq1rFMaTVu",
+    "pair": "SHETOKEN / USDC",
+    "price_usd": 0.001244866087602963,
+    "lp_reserve_usd": 1041149.7496,
+    "volume_24h": 100249.695137533,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x9447c0836651b7036bc9d7fcd8e60da255d08cd2",
+    "pair": "$NEOP / WETH",
+    "price_usd": 2.29669833981351e-7,
+    "lp_reserve_usd": 91084.7279,
+    "volume_24h": 353242.482755967,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  },
+  {
+    "symbol": "NEO",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0x8463c010ea5d74cbce56d25e5fcd5280b71c2472",
+    "pair": "NEOX / VIRTUAL",
+    "price_usd": 0.00174580055000939,
+    "lp_reserve_usd": 175650.6277,
+    "volume_24h": 100774.278950229,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009725
+  }
+]

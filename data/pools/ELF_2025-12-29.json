@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ELF",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "7dpAnaTT8rifxoFgaibyDgR9WLbmQeYtuyQgVSbJeY3k",
+    "pair": "ACA ELF / USDC",
+    "price_usd": 2.204408080657472,
+    "lp_reserve_usd": 1997524.8851,
+    "volume_24h": 69846.3452328375,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009580
+  },
+  {
+    "symbol": "ELF",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xa6be7f7c6c454b364cda446ea39be9e5e4369de8",
+    "pair": "ELF / WETH",
+    "price_usd": 0.086015155472495,
+    "lp_reserve_usd": 78993.7053,
+    "volume_24h": 2777.3899953755,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009580
+  },
+  {
+    "symbol": "ELF",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "6bDx6zTmQEgFEp8uxnG4ZfGV4Gqbxjzas4uj6xirMtg1",
+    "pair": "SHETOKEN / USDC",
+    "price_usd": 0.0003502807556355805,
+    "lp_reserve_usd": 292644.5677,
+    "volume_24h": 80222.1869218323,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009580
+  },
+  {
+    "symbol": "ELF",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "8PuSdx21XGWbX1QipdvWaUTJrQSh12qQ1QXRFyyeUoQ4",
+    "pair": "ACA ELF / USDC",
+    "price_usd": 2.5075951055389627,
+    "lp_reserve_usd": 2270696.8626,
+    "volume_24h": 69934.6513620131,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009580
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x28028cb848361930d2dc1f502439050a6ee5e4c2",
+    "pair": "1INCH / LINK 0.3%",
+    "price_usd": 0.146291431640547,
+    "lp_reserve_usd": 310635.074,
+    "volume_24h": 20552.5868297504,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  },
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0xbdaa11d7b68b914d68ef4e16103b0d3d68648a7e81e0f5feec4862e7c5fed5e9",
+    "pair": "1INCH / ETH 1%",
+    "price_usd": 0.148369932775069,
+    "lp_reserve_usd": 933138.5186,
+    "volume_24h": 1571.1994601915,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  },
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap-bsc",
+    "pool_address": "0xbb124e35ab9e85f8d59ba83500e559dc052b9368",
+    "pair": "1INCH / WBNB 0.3%",
+    "price_usd": 0.14596700639428,
+    "lp_reserve_usd": 11027.2251,
+    "volume_24h": 6346.5559324735,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  },
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x0619062b988576fe2d39b33ff23fb1a0330c0ac7",
+    "pair": "1INCH / UNI 1%",
+    "price_usd": 0.148954805344475,
+    "lp_reserve_usd": 268414.2273,
+    "volume_24h": 29420.4058327164,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  },
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x26aad2da94c59524ac0d93f6d6cbf9071d7086f2",
+    "pair": "1INCH / WETH",
+    "price_usd": 0.146093739574244,
+    "lp_reserve_usd": 24281.8941,
+    "volume_24h": 631.391103375,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  },
+  {
+    "symbol": "1INCH",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0xe931b03260b2854e77e8da8378a1bc017b13cb97",
+    "pair": "1INCH / WETH 1%",
+    "price_usd": 0.146025070909883,
+    "lp_reserve_usd": 516211.7666,
+    "volume_24h": 1008.4124606486,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009792
+  }
+]

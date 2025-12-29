@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "BOUNTY",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "G57Ji6wkaB6DQ7SYXnH7zJwaPMbtUjGAJRfQXb46gkUX",
+    "pair": "BNTY / SOL",
+    "price_usd": 0.00014168051969937995,
+    "lp_reserve_usd": 47625.518,
+    "volume_24h": 1147.9249767393,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009694
+  },
+  {
+    "symbol": "BOUNTY",
+    "chain": "multi",
+    "dex": "pancakeswap_v2",
+    "pool_address": "0x66b6d48755360330a0fdb7bf5438d3adadd0f28c",
+    "pair": "YU / WBNB",
+    "price_usd": 0.385591271086256,
+    "lp_reserve_usd": 270956.0262,
+    "volume_24h": 1064.2160953434,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009694
+  }
+]

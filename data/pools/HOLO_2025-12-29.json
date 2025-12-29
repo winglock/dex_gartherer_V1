@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "HOLO",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "HKHHFo8zamw6RHpWvYnq1Fd4oTCDY1dUor4KbSfCg11J",
+    "pair": "HOLO / SOL",
+    "price_usd": 0.07264903562835097,
+    "lp_reserve_usd": 81249.9975,
+    "volume_24h": 5183.9041533984,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009608
+  },
+  {
+    "symbol": "HOLO",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0xf7f9fc41da4b8e0d52a642af2ad38509c3e40bf0",
+    "pair": "HOLO / WBNB 0.25%",
+    "price_usd": 0.0734092684455257,
+    "lp_reserve_usd": 554489.7747,
+    "volume_24h": 83762.9646875007,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009608
+  },
+  {
+    "symbol": "HOLO",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0xf7849d0852fc588210b9c0d8b26f43c0c9bc1470",
+    "pair": "HOT / WETH 1%",
+    "price_usd": 0.000494176630039114,
+    "lp_reserve_usd": 37738.2172,
+    "volume_24h": 579.3320556566,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009608
+  }
+]

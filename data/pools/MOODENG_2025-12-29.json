@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "MOODENG",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0x470dc172d6502ac930b59322ece5345dd456a03d",
+    "pair": "MOODENG / WETH",
+    "price_usd": 0.0000146589958611866,
+    "lp_reserve_usd": 1019588.0388,
+    "volume_24h": 165368.679679782,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009812
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "5DBqaJegKNemJxvrvrReHDL1Dkpk83237PYH2wjUpdgi",
+    "pair": "SPX / MOODENG",
+    "price_usd": 0.5028919093505873,
+    "lp_reserve_usd": 137085.8824,
+    "volume_24h": 5359.6235912833,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009812
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "22WrmyTj8x2TRVQen3fxxi2r4Rn6JDHWoMTpsSmn8RUd",
+    "pair": "MOODENG / SOL",
+    "price_usd": 0.07175098726376457,
+    "lp_reserve_usd": 3634082.9981,
+    "volume_24h": 153837.724303936,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009812
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xa68500732d399ab93265e338ecc13bf1a5cc454b",
+    "pair": "MOODENG / WETH",
+    "price_usd": 0.0000127501967735173,
+    "lp_reserve_usd": 82779.1897,
+    "volume_24h": 68737.1864469345,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009812
+  }
+]

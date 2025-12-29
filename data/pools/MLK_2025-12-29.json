@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MLK",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x9be02b0dd7b5566b9904fcec730296c787cf2724",
+    "pair": "MLK / USDT 0.01%",
+    "price_usd": 0.0699530497816684,
+    "lp_reserve_usd": 656098.5325,
+    "volume_24h": 39700.2655001488,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009803
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "thena-v3",
+    "pool_address": "0x072b1c9c73a11a9a6f3b522925f561117de4634a",
+    "pair": "ankrBNB / LINK 0.34%",
+    "price_usd": 938.01042296535,
+    "lp_reserve_usd": 25707.9491,
+    "volume_24h": 4034.1845894622,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "uniswap_v3",
+    "pool_address": "0x13dc0a39dc00f394e030b97b0b569dedbe634c0d",
+    "pair": "ANKR / WETH 0.3%",
+    "price_usd": 0.00638315770826339,
+    "lp_reserve_usd": 6710.1031,
+    "volume_24h": 2583.124891457,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "thena-fusion",
+    "pool_address": "0x2f6c6e00e517944ee5efe310cd0b98a3fc61cb98",
+    "pair": "ankrBNB / WBNB 0.01%",
+    "price_usd": 937.983008206761,
+    "lp_reserve_usd": 72908.178,
+    "volume_24h": 2120.2925540064,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x5588fd3000e66c2e35239f822c55690599f08d9d",
+    "pair": "ANKR / USDT 1%",
+    "price_usd": 0.00641631719017761,
+    "lp_reserve_usd": 294989.4504,
+    "volume_24h": 6260.3358706827,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  },
+  {
+    "symbol": "ANKR",
+    "chain": "multi",
+    "dex": "thena-v3",
+    "pool_address": "0x93ab0ef6be36d3b18c14e20178db24c64b6c0838",
+    "pair": "ankrBNB / WBNB 0.01%",
+    "price_usd": 938.936510589749,
+    "lp_reserve_usd": 6653.2677,
+    "volume_24h": 6410.742674833,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009698
+  }
+]

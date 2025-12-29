@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "STX",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "BpXsmx5HHufBu3yqfGNLGrQHfiDPyUXVg6ckMvsixJmM",
+    "pair": "STX.AI / SOL",
+    "price_usd": 0.0007080854990187879,
+    "lp_reserve_usd": 35202.4893,
+    "volume_24h": 2702.6920600396,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009815
+  },
+  {
+    "symbol": "STX",
+    "chain": "multi",
+    "dex": "sparkdex-v3-1",
+    "pool_address": "0xffed33d28ca65e52e927849f456d8e820b324508",
+    "pair": "stXRP / FXRP 0.05%",
+    "price_usd": 1.86633275694755,
+    "lp_reserve_usd": 7144425.6705,
+    "volume_24h": 45177.0656555861,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009815
+  },
+  {
+    "symbol": "STX",
+    "chain": "multi",
+    "dex": "curve-etherlink",
+    "pool_address": "0x74d80ee400d3026fdd2520265cc98300710b25d4",
+    "pair": "stXTZ / WXTZ",
+    "price_usd": 0.524006019335455,
+    "lp_reserve_usd": 2805436.7477,
+    "volume_24h": 6620.6629586088,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009815
+  },
+  {
+    "symbol": "STX",
+    "chain": "multi",
+    "dex": "enosys-v3-flare",
+    "pool_address": "0xa4ce7dafc6fb5aceedd0070620b72ab8f09b0770",
+    "pair": "stXRP / FXRP 0.05%",
+    "price_usd": 1.87232820576305,
+    "lp_reserve_usd": 2207973.3057,
+    "volume_24h": 146944.398289521,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009815
+  }
+]

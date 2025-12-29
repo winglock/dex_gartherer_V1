@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "KNC",
+    "chain": "multi",
+    "dex": "uniswap_v2",
+    "pool_address": "0xf49c43ae0faf37217bdcb00df478cf793edd6687",
+    "pair": "KNC / WETH",
+    "price_usd": 0.22869046974826,
+    "lp_reserve_usd": 26460.3755,
+    "volume_24h": 3383.17538921,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009335
+  },
+  {
+    "symbol": "KNC",
+    "chain": "multi",
+    "dex": "uniswap_v3_arbitrum",
+    "pool_address": "0xf2facf9f64a8922fb96388a21366326540a24423",
+    "pair": "KNC / WETH 0.3%",
+    "price_usd": 0.229759501474827,
+    "lp_reserve_usd": 33717.5551,
+    "volume_24h": 634.4315960146,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009335
+  },
+  {
+    "symbol": "KNC",
+    "chain": "multi",
+    "dex": "orca",
+    "pool_address": "4NTjpAcF51rZpDUs9Q9ZuGXKi7ZDCWTPaBBBM1RtoLhc",
+    "pair": "KNCH / SOL",
+    "price_usd": 0.1307828813413484,
+    "lp_reserve_usd": 6480848.3214,
+    "volume_24h": 2518.5742585795,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009335
+  },
+  {
+    "symbol": "KNC",
+    "chain": "multi",
+    "dex": "uniswap_v3_polygon_pos",
+    "pool_address": "0xa7cca1c4a7d4b70f687380e0454e5ae418db53b1",
+    "pair": "KNC / WETH 0.3%",
+    "price_usd": 0.23154555016866,
+    "lp_reserve_usd": 30620.7191,
+    "volume_24h": 742.6627413405,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009335
+  }
+]

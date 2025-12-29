@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "NEWT",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0x46cb6d2758844d133abd3edb3015f9be96c20e8d",
+    "pair": "NEWT / USDT 0.01%",
+    "price_usd": 0.0995404760097625,
+    "lp_reserve_usd": 6768.6043,
+    "volume_24h": 3385.3231989533,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009492
+  },
+  {
+    "symbol": "NEWT",
+    "chain": "multi",
+    "dex": "pancakeswap-v3-bsc",
+    "pool_address": "0xfc828b2015c0a724e90cfae0c628eee02694b1a1",
+    "pair": "NEWT / USDT 0.25%",
+    "price_usd": 0.0999265248564289,
+    "lp_reserve_usd": 63015.2665,
+    "volume_24h": 19350.6356135662,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009492
+  },
+  {
+    "symbol": "NEWT",
+    "chain": "multi",
+    "dex": "uniswap-v4-ethereum",
+    "pool_address": "0x505ee5e52545cc585120cbe26f3238057aee93a5e56971f744be5126a3126241",
+    "pair": "USDC / NEWT 0.3%",
+    "price_usd": 1.00131536511106,
+    "lp_reserve_usd": 636017.3062,
+    "volume_24h": 195254.510505321,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009492
+  }
+]

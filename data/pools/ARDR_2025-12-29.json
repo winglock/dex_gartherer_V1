@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ARDR",
+    "chain": "multi",
+    "dex": "meteora-damm-v2",
+    "pool_address": "ArdrD5aA2h1VJsyjaB2mYgi6X3ceKbtgpuqvXE4CKsZC",
+    "pair": "G3mini Ai / SOL",
+    "price_usd": 0.009343598541587408,
+    "lp_reserve_usd": 138203.6937,
+    "volume_24h": 43509.1193014765,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009740
+  }
+]

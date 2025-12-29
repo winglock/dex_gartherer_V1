@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "uniswap-v3-base",
+    "pool_address": "0xf787b561596428b3f97b712d0adcd17e3325f1d8",
+    "pair": "AWESOME-DJANGO / ADS 0.3%",
+    "price_usd": 8.5848004591487e-6,
+    "lp_reserve_usd": 7407.049,
+    "volume_24h": 4363.6657381389,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "aerodrome-base",
+    "pool_address": "0xcb7f520d18141e36956fe0b3a6bc3d4f11245521",
+    "pair": "AWE / USDC",
+    "price_usd": 0.0553319479561733,
+    "lp_reserve_usd": 369081.3157,
+    "volume_24h": 10779.3167056213,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "AwejPg8uTXPdrWgQMD6yrWTCVyLhaUEAzyJSDbdCkGEE",
+    "pair": "vankedisi / SOL",
+    "price_usd": 0.022050446962429072,
+    "lp_reserve_usd": 469581.6768,
+    "volume_24h": 3467.9165396283,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "uniswap-v3-base",
+    "pool_address": "0xc81e3c7570b1fb6e13ee9292b0346e5bdeae4b24",
+    "pair": "AWESOME-GO / ADS 0.3%",
+    "price_usd": 0.0000104671022375766,
+    "lp_reserve_usd": 8682.3142,
+    "volume_24h": 34128.7638339595,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "uniswap-v3-base",
+    "pool_address": "0x91635919fd3dc789e632d9197a199821cc631f90",
+    "pair": "AWESOME-CPP / ADS 0.3%",
+    "price_usd": 0.000138736810949305,
+    "lp_reserve_usd": 40165.4115,
+    "volume_24h": 48177.546522224,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "AWE8oB8EbbjwCamDWmzG2JcXifsJk29H8AcQDirGQyWv",
+    "pair": "dreams / SOL",
+    "price_usd": 0.008117846523886117,
+    "lp_reserve_usd": 18956.1227,
+    "volume_24h": 1594.0681005136,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "byreal",
+    "pool_address": "AwEorp6eLZr1H5FsNBbpcKfH28yGaXwmYQWsf9Too2Bi",
+    "pair": "MET / USDC",
+    "price_usd": 0.25453282511547787,
+    "lp_reserve_usd": 24369.0547,
+    "volume_24h": 1619.5559364408,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767009737
+  }
+]
