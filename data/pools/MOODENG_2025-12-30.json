@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MOODENG",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0x470DC172d6502Ac930B59322EcE5345dd456A03D",
+    "pair": "MOODENG/USDC",
+    "price_usd": 13602.605506,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069644
+  },
+  {
+    "symbol": "MOODENG",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+    "pair": "MOODENG/USDC",
+    "price_usd": 13602.605506,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069644
+  }
+]

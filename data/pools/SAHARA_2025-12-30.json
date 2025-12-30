@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "SAHARA",
+    "chain": "ethereum",
+    "dex": "openocean",
+    "pool_address": "openocean:1:SAHARA",
+    "pair": "SAHARA/USDC",
+    "price_usd": 2507.472625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070225
+  },
+  {
+    "symbol": "SAHARA",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0xCd92481850F0498b2B8F850c5081d6AA5bC4F82E",
+    "pair": "SAHARA/USDC",
+    "price_usd": 24610532428.669655,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069642
+  },
+  {
+    "symbol": "SAHARA",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x579dbd06b0ae1f239d5d9b9829e356673e5e3aee",
+    "pair": "SAHARA/USDC",
+    "price_usd": 0.027492,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069642
+  },
+  {
+    "symbol": "SAHARA",
+    "chain": "bsc",
+    "dex": "openocean",
+    "pool_address": "openocean:56:SAHARA",
+    "pair": "SAHARA/USDC",
+    "price_usd": 2.1984351634879252e+16,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070227
+  },
+  {
+    "symbol": "SAHARA",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0x7c1f9f04c87aca8364d38ffee99cd03a96d1febe",
+    "pair": "SAHARA/USDC",
+    "price_usd": 24610532428.669655,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069642
+  }
+]

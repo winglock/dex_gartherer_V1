@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ZRX",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0x9f65DF828d21C8860ee1499dA6397D50d85E14a0",
+    "pair": "ZRX/USDC",
+    "price_usd": 0.176525,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069754
+  }
+]

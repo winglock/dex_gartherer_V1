@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "LINEA",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0xc6360a062ad0ceb937198a6e23fe33494f9c80a8",
+    "pair": "LINEA/USDC",
+    "price_usd": 0.006578,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069747
+  }
+]

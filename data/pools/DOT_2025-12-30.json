@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "DOT",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0xf2688fb5b81049dfb7703ada5e770543770612c4",
+    "pair": "DOT/USDC",
+    "price_usd": 1808602256014.2773,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069760
+  },
+  {
+    "symbol": "DOT",
+    "chain": "bsc",
+    "dex": "MDEX",
+    "pool_address": "0xBDaDe5C2C966EE5558d2e0BDd3d9276bEA2c6007",
+    "pair": "DOT/USDC",
+    "price_usd": 1808602256014.2773,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069760
+  },
+  {
+    "symbol": "DOT",
+    "chain": "bsc",
+    "dex": "UniswapV3",
+    "pool_address": "0x4141325bac36affe9db165e854982230a14e6d48",
+    "pair": "DOT/USDC",
+    "price_usd": 1808120063356.592,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069640
+  }
+]

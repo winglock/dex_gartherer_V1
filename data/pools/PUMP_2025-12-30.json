@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "PUMP",
+    "chain": "bsc",
+    "dex": "UniswapV3",
+    "pool_address": "0xbc30ac02aaef3407dea9b2d3e170b2651d97b764",
+    "pair": "PUMP/USDC",
+    "price_usd": 27748410624.148067,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069752
+  }
+]

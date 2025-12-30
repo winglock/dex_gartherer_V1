@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "SYRUP",
+    "chain": "base",
+    "dex": "Aerodrome",
+    "pool_address": "0x1fed86d8C6bccEdD19A334f1cdfAAb606154F811",
+    "pair": "SYRUP/USDC",
+    "price_usd": 0.313373,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069646
+  },
+  {
+    "symbol": "SYRUP",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x27941a235804f33d81adabb2d56589c5f6ea6556",
+    "pair": "SYRUP/USDC",
+    "price_usd": 0.311196,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069646
+  }
+]

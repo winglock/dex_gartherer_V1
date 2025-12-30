@@ -4,6 +4,7 @@ mod sources;
 mod services;
 
 use std::sync::Arc;
+use std::path::Path;
 use crate::sources::PoolSource;
 use std::sync::atomic::Ordering;
 use axum::{
@@ -18,7 +19,7 @@ use tokio::time::{interval, Duration};
 use futures::{SinkExt, StreamExt};
 
 use config::Config;
-use services::{PoolCollector, ArbitrageDetector, PoolCache, PoolFilter};
+use services::{PoolCollector, ArbitrageDetector, PoolCache, PoolFilter, PriceMonitor};
 use sources::upbit::UpbitClient;
 
 pub struct AppState {
@@ -56,6 +57,22 @@ async fn debug_single_token(symbol: &str) {
 
 #[tokio::main(worker_threads = 4)]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
+    // Check for --monitor flag
+    let args: Vec<String> = std::env::args().collect();
+    if args.contains(&"--monitor".to_string()) || args.contains(&"-m".to_string()) {
+        println!("\n🔄 DEX Price Monitor Mode\n");
+        
+        let mut monitor = PriceMonitor::new();
+        let pools_path = Path::new("./data/pools");
+        
+        let loaded = monitor.load_pools(pools_path)?;
+        println!("✓ {} 풀 로드 완료", loaded);
+        
+        // Run continuous monitoring with 30 second interval
+        monitor.run_continuous(30).await;
+        return Ok(());
+    }
+
     // Initialize logging
     tracing_subscriber::registry()
         .with(

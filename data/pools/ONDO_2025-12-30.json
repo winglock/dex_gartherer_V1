@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ONDO",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0xB6D62FA8Cf3a5f198df1F4fA32918430689CeC9a",
+    "pair": "ONDO/USDC",
+    "price_usd": 0.384353,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069753
+  }
+]

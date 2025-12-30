@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "FCT2",
+    "chain": "arbitrum",
+    "dex": "SushiSwap",
+    "pool_address": "0xa265B866165e16f64E7254205Ab2D58eE7c52339",
+    "pair": "FCT2/USDC",
+    "price_usd": 3.698507,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069748
+  }
+]

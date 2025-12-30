@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MNT",
+    "chain": "ethereum",
+    "dex": "openocean",
+    "pool_address": "openocean:1:MNT",
+    "pair": "MNT/USDC",
+    "price_usd": 390764.584551,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070227
+  },
+  {
+    "symbol": "MNT",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x8fa9203374e4974a85bcebf7a830a64d5b9c6149",
+    "pair": "MNT/USDC",
+    "price_usd": 0.991663,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069643
+  }
+]

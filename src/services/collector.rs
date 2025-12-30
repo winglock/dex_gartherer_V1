@@ -93,14 +93,10 @@ impl PoolCollector {
                 async move {
                     let _permit = semaphore.acquire().await.unwrap();
                     
-                    // 🔥 디버그: 토큰 처리 시작
-                    tracing::debug!("\n🔍 처리 중: {}", symbol);
-                    
                     let mut source_results: Vec<String> = Vec::new();
                     
                     for source in sources.iter() {
                         let source_name = source.name();
-                        pb.set_message(format!("{} ← {}", symbol, source_name));
                         
                         match tokio::time::timeout(
                             Duration::from_secs(10),
@@ -109,27 +105,9 @@ impl PoolCollector {
                             Ok(Ok(pools)) => {
                                 let pool_count = pools.len();
                                 
-                                // 🔥 디버그: 소스별 결과
-                                tracing::info!("  ✅ {}: {}에서 {}개 풀 수신", 
-                                    symbol, source_name, pool_count);
-                                
-                                let before_filter = pools.len();
                                 let filtered: Vec<_> = pools.into_iter()
-                                    .filter(|p| {
-                                        let valid = filter.is_valid(p);
-                                        // 🔥 디버그: 필터링된 풀 상세
-                                        if !valid {
-                                            tracing::debug!("    ⏭️ 필터됨: {} @ {} (가격=${:.4}, LP=${:.0}, Vol=${:.0})",
-                                                p.symbol, p.dex, p.price_usd, p.lp_reserve_usd, p.volume_24h);
-                                        }
-                                        valid
-                                    })
+                                    .filter(|p| filter.is_valid(p))
                                     .collect();
-                                
-                                let after_filter = filtered.len();
-                                // 🔥 디버그: 필터 결과 요약
-                                tracing::info!("    → 필터: {}/{} 통과 ({}개 제거)", 
-                                    after_filter, before_filter, before_filter - after_filter);
                                 
                                 for pool in filtered {
                                     let key = format!("{}:{}:{}", pool.source, pool.chain, pool.pool_address);
@@ -139,31 +117,37 @@ impl PoolCollector {
                                 successful.fetch_add(1, Ordering::Relaxed);
                                 
                                 if pool_count > 0 {
-                                    source_results.push(format!("{}:{}", source_name, pool_count));
+                                    // 짧은 이름 사용
+                                    let short_name = match source_name {
+                                        "GeckoTerminal" => "gecko",
+                                        "DexScreener" => "dexs",
+                                        "Matcha" => "matcha",
+                                        "KyberSwap" => "kyber",
+                                        "OpenOcean" => "ocean",
+                                        "ParaSwap" => "para",
+                                        _ => source_name,
+                                    };
+                                    source_results.push(format!("{}:{}", short_name, pool_count));
                                 }
                             }
-                            Ok(Err(e)) => {
-                                // 🔥 디버그: API 에러
-                                tracing::warn!("  ❌ {}: {} 실패 - {}", 
-                                    symbol, source_name, e);
-                                failed.fetch_add(1, Ordering::Relaxed);
-                            }
-                            Err(_) => {
-                                // 🔥 디버그: 타임아웃
-                                tracing::warn!("  ⏱️ {}: {} 타임아웃 (10초)", 
-                                    symbol, source_name);
+                            Ok(Err(_)) | Err(_) => {
                                 failed.fetch_add(1, Ordering::Relaxed);
                             }
                         }
                     }
 
                     pb.inc(1);
+                    
+                    // 두 줄 형식으로 출력
                     let sources_info = if source_results.is_empty() {
-                        "없음".to_string()
+                        "❌ 없음".to_string()
                     } else {
-                        source_results.join(" | ")
+                        format!("({})", source_results.join(", "))
                     };
-                    pb.set_message(format!("{} [{}]", symbol, sources_info));
+                    println!("{}", symbol);
+                    println!("  {}", sources_info);
+                    
+                    pb.set_message(format!("총 {}개", total_pools.load(Ordering::Relaxed)));
                 }
             })
             .buffer_unordered(5)

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "LA",
+    "chain": "ethereum",
+    "dex": "DODOV2",
+    "pool_address": "0x7c8d25dcbd6fc41332b93d9e247398ff1ee582cd",
+    "pair": "LA/USDC",
+    "price_usd": 0.276834,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069743
+  }
+]

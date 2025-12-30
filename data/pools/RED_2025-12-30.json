@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "RED",
+    "chain": "ethereum",
+    "dex": "PancakeswapV3",
+    "pool_address": "0xcaa55dd296813ed2d8080b3104ecf0cc9119415a",
+    "pair": "RED/USDC",
+    "price_usd": 0.216507,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069755
+  }
+]

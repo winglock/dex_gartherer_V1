@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ME",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "3nNg189ewAxiNeRt3hHuMzTrL6hpwUZ7zXUWTcQhTojq",
+    "pair": "ME / SOL",
+    "price_usd": 0.1977902245232723,
+    "lp_reserve_usd": 914656.3002,
+    "volume_24h": 113185.650295475,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767069625
+  }
+]

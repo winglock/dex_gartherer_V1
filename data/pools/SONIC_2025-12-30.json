@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "SONIC",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0x26cc6A87cc9C97fD7d52FA1DbfdE0EDe2714da61",
+    "pair": "SONIC/USDC",
+    "price_usd": 9e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069740
+  },
+  {
+    "symbol": "SONIC",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x0433437512D2781897aACA7b93df9591DEC3c553",
+    "pair": "SONIC/USDC",
+    "price_usd": 234750531.743521,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069741
+  },
+  {
+    "symbol": "SONIC",
+    "chain": "ethereum",
+    "dex": "RingV2",
+    "pool_address": "0x54222F404dcfAc705322045F01D100380b871450",
+    "pair": "SONIC/USDC",
+    "price_usd": 9e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069740
+  }
+]

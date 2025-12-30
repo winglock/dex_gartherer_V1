@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "GAS",
+    "chain": "multi",
+    "dex": "pump-fun",
+    "pool_address": "6X9bFLdxt1pEzgC9xVJsw3YQVwjggxdJ51fZNoSD3ECu",
+    "pair": "GAS / SOL",
+    "price_usd": 3.424584785914697e-6,
+    "lp_reserve_usd": 2749.3221,
+    "volume_24h": 1.2093396917,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070042
+  },
+  {
+    "symbol": "GAS",
+    "chain": "multi",
+    "dex": "pumpswap",
+    "pool_address": "HwDo8mzHjxR5dmuHLBwGR8QCCqsByRpsns6NpCxeN7Ss",
+    "pair": "GAS / SOL",
+    "price_usd": 0.000018148358290938225,
+    "lp_reserve_usd": 12990.3533,
+    "volume_24h": 44115.8847798333,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070042
+  },
+  {
+    "symbol": "GAS",
+    "chain": "multi",
+    "dex": "pump-fun",
+    "pool_address": "Cr6QtZ465C3CBFKa4ndoXC1UmMKtwkYFGmYCLAkBEi4C",
+    "pair": "GAS / SOL",
+    "price_usd": 6.119896984935133e-6,
+    "lp_reserve_usd": 4483.944,
+    "volume_24h": 58.3877408505,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070042
+  },
+  {
+    "symbol": "GAS",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "Brj8GbFKS7v85epEhUw53223ufKU2FnPpDi8AXJKiaUP",
+    "pair": "GAS / USDC",
+    "price_usd": 5.412904781998321,
+    "lp_reserve_usd": 353708358.0171,
+    "volume_24h": 7.993560475,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070042
+  },
+  {
+    "symbol": "GAS",
+    "chain": "multi",
+    "dex": "raydium",
+    "pool_address": "EFPe9LayLKuSTC9p2NsEWWBBwNEQonXPthuMR74pV48i",
+    "pair": "Gas / SOL",
+    "price_usd": 4.762882129998875e-6,
+    "lp_reserve_usd": 7200.7357,
+    "volume_24h": 43.0819411452,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070042
+  }
+]

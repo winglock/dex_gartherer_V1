@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ZETA",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0x1d80fe88136206ac0d02ddffa1b3e43b8aa01972",
+    "pair": "ZETA/USDC",
+    "price_usd": 69692787363.94693,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069758
+  },
+  {
+    "symbol": "ZETA",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x738ea57616fa9dab407e9e7920d446eaf4e7eaaa",
+    "pair": "ZETA/USDC",
+    "price_usd": 0.068537,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069755
+  }
+]

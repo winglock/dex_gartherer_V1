@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "XLM",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0xe1799b52c010ad415325d19af139e20b8aa8aab0",
+    "pair": "XLM/USDC",
+    "price_usd": 215382887854.9502,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069746
+  },
+  {
+    "symbol": "XLM",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0x0b66d5cc21156e94337634eed2a6a01e5b910b2c",
+    "pair": "XLM/USDC",
+    "price_usd": 215382887854.9502,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069746
+  }
+]

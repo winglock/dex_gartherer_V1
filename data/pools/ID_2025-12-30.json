@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ID",
+    "chain": "multi",
+    "dex": "sushiswap-v3-ethereum",
+    "pool_address": "0x0143b80d682d2b6fb8945f47b7d199841ab8184c",
+    "pair": "ID / USDC 1%",
+    "price_usd": 0.0632480215423683,
+    "lp_reserve_usd": 807203.7622,
+    "volume_24h": 28134.7368302402,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767069737
+  }
+]

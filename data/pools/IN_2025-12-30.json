@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "IN",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0x5bd808ab85c124f99080da5f864edcb39950ede5",
+    "pair": "IN/USDC",
+    "price_usd": 67626274834.5272,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069737
+  }
+]

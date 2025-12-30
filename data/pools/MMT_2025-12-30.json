@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MMT",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x3d76E3C4E2767Ee6fa119B66Ef597Ea5e463db4b",
+    "pair": "MMT/USDC",
+    "price_usd": 49617050.029283,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069644
+  },
+  {
+    "symbol": "MMT",
+    "chain": "bsc",
+    "dex": "openocean",
+    "pool_address": "openocean:56:MMT",
+    "pair": "MMT/USDC",
+    "price_usd": 59917461633331.03,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070225
+  }
+]

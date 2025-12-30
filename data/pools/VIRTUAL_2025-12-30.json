@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "VIRTUAL",
+    "chain": "base",
+    "dex": "PancakeswapV3",
+    "pool_address": "0x7cb770d0513c30e0cb45e4899e4a2cbeed6f9830",
+    "pair": "VIRTUAL/USDC",
+    "price_usd": 0.679731,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069736
+  },
+  {
+    "symbol": "VIRTUAL",
+    "chain": "base",
+    "dex": "UniswapV3",
+    "pool_address": "0x23211b35d62a5c9a76cf1aa1cc391bb331d50659",
+    "pair": "VIRTUAL/USDC",
+    "price_usd": 0.67925,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069616
+  }
+]

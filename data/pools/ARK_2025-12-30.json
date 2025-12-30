@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0xFFFaf21a3FaD4D3B64D5D3d96A2aa7414C1a67e9",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  },
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "SushiSwapV3",
+    "pool_address": "0x038ebba96937d741391b5750bccbf18c2b673940",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  },
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0xB5cF684eCDB6E5cc793BCBF5C4b9c2E3804285E5",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  },
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0xe321c3a25f8Fe2CdAAeA979a4f75C838a3193D81",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  },
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0x0e6bc455e5E1Dbc350E272933C7aD7a0d1D65B96",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  },
+  {
+    "symbol": "ARK",
+    "chain": "bsc",
+    "dex": "PancakeSwapV2",
+    "pool_address": "0xCAaF3c41a40103a23Eeaa4BbA468AF3cF5b0e0D8",
+    "pair": "ARK/USDC",
+    "price_usd": 21439629412965.625,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  }
+]

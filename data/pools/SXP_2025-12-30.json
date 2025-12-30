@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "SXP",
+    "chain": "ethereum",
+    "dex": "openocean",
+    "pool_address": "openocean:1:SXP",
+    "pair": "SXP/USDC",
+    "price_usd": 71.21305,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070224
+  },
+  {
+    "symbol": "SXP",
+    "chain": "bsc",
+    "dex": "openocean",
+    "pool_address": "openocean:56:SXP",
+    "pair": "SXP/USDC",
+    "price_usd": 52651232672559.87,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070225
+  },
+  {
+    "symbol": "SXP",
+    "chain": "base",
+    "dex": "openocean",
+    "pool_address": "openocean:8453:SXP",
+    "pair": "SXP/USDC",
+    "price_usd": 12.994165,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "openocean",
+    "timestamp": 1767070226
+  }
+]

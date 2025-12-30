@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "GRT",
+    "chain": "arbitrum",
+    "dex": "UniswapV3",
+    "pool_address": "0xbec22ca49e499c752542ca242b708c97739e4baf",
+    "pair": "GRT/USDC",
+    "price_usd": 0.034739,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069751
+  },
+  {
+    "symbol": "GRT",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0xDfa42Ba0130425b21a1568507B084CC246fb0C8F",
+    "pair": "GRT/USDC",
+    "price_usd": 0.035184,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069751
+  }
+]

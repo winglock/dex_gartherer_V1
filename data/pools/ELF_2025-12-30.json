@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "ELF",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x680Dd100E4b394Bda26A59dD5c119A391e747d18",
+    "pair": "ELF/USDC",
+    "price_usd": 500602747945.14014,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069757
+  },
+  {
+    "symbol": "ELF",
+    "chain": "ethereum",
+    "dex": "UniswapV2",
+    "pool_address": "0xA6be7F7C6c454B364cDA446ea39Be9e5E4369DE8",
+    "pair": "ELF/USDC",
+    "price_usd": 0.082077,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069757
+  },
+  {
+    "symbol": "ELF",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0xd0d64615A733dAa12E47a5276031f586CFEFf1A1",
+    "pair": "ELF/USDC",
+    "price_usd": 500602747945.14014,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069757
+  }
+]

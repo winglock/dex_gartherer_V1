@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "ORBS",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x0796455fD5AEC4724190c64b91611057f9F2aeFE",
+    "pair": "ORBS/USDC",
+    "price_usd": 10003389461.055777,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069760
+  }
+]

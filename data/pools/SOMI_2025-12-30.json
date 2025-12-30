@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "SOMI",
+    "chain": "bsc",
+    "dex": "PancakeswapV3",
+    "pool_address": "0xbb7dcdf040346422341c7b844a18663932336606",
+    "pair": "SOMI/USDC",
+    "price_usd": 245205384975.4702,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069649
+  },
+  {
+    "symbol": "SOMI",
+    "chain": "base",
+    "dex": "UniswapV3",
+    "pool_address": "0xf0fc5a5a17be86803ddbbe7d60dcab0024f6af7e",
+    "pair": "SOMI/USDC",
+    "price_usd": 0.247274,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069649
+  }
+]

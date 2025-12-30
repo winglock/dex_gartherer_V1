@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "OP",
+    "chain": "optimism",
+    "dex": "Velodrome",
+    "pool_address": "0x47029bc8f5CBe3b464004E87eF9c9419a48018cd",
+    "pair": "OP/USDC",
+    "price_usd": 0.268758,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069628
+  },
+  {
+    "symbol": "OP",
+    "chain": "optimism",
+    "dex": "WooFiV2",
+    "pool_address": "0x5520385bfcf07ec87c4c53a7d8d65595dff69fa4",
+    "pair": "OP/USDC",
+    "price_usd": 0.269125,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069745
+  }
+]

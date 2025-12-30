@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AVAX",
+    "chain": "bsc",
+    "dex": "ApeSwap",
+    "pool_address": "0x40aFc7CBd0Dc2bE5860F0035b717d20Afb4827b2",
+    "pair": "AVAX/USDC",
+    "price_usd": 12372861699860.62,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069744
+  }
+]

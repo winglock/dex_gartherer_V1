@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "LAYER",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "G6drsaPCR3pxsEmSTAc81kW1EL3kFAFwtSAkzUZXmgH3",
+    "pair": "LAYER / USDC",
+    "price_usd": 0.16622862026473745,
+    "lp_reserve_usd": 134511.0298,
+    "volume_24h": 86401.7983778815,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070209
+  },
+  {
+    "symbol": "LAYER",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "5w1cUnWz2edZW8g4YWrFejNDqChKYuWpy6B8okBYkkh2",
+    "pair": "LAYER / SOL",
+    "price_usd": 0.16589734166925443,
+    "lp_reserve_usd": 2120.9552,
+    "volume_24h": 18.1307197693,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767070209
+  }
+]

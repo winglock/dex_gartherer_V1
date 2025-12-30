@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "PROVE",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0xc76cdb74d781e219e8c8855a99584dd2e4580046",
+    "pair": "PROVE/USDC",
+    "price_usd": 0.399018,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767069645
+  }
+]
