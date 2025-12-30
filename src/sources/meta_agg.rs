@@ -11,16 +11,22 @@ use super::{PoolSource, SourceError};
 /// Shared token address cache (symbol -> chain_id -> address)
 pub type TokenCache = Arc<RwLock<HashMap<String, HashMap<u32, String>>>>;
 
-/// Get USDC address for chain
+/// Get USDC address for chain (16 chains supported)
 fn get_usdc_address(chain_id: u32) -> &'static str {
     match chain_id {
-        1 => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        56 => "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-        137 => "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        42161 => "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-        10 => "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-        8453 => "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-        43114 => "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        1 => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",       // Ethereum
+        8453 => "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",     // Base
+        56 => "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",       // BSC
+        137 => "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",      // Polygon
+        42161 => "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",    // Arbitrum
+        43114 => "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",    // Avalanche
+        10 => "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",       // Optimism
+        81457 => "0x4300000000000000000000000000000000000003",    // Blast
+        59144 => "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",    // Linea
+        5000 => "0x09Bc4E0D10E52467089689024a2c50bf19f29E13",     // Mantle
+        34443 => "0xd988097fb8612cc24eeC14542bC03424c656005f",    // Mode
+        534352 => "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",   // Scroll
+        130 => "0x078D782b760474a361dDA0AF3839290b0EF57AD6",      // Unichain
         _ => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     }
 }
@@ -80,12 +86,17 @@ impl PoolSource for MatchaTokenResolver {
             .map(|(chain_id, address)| {
                 let chain_name = match chain_id {
                     1 => "ethereum",
+                    8453 => "base",
                     56 => "bsc",
                     137 => "polygon",
                     42161 => "arbitrum",
-                    10 => "optimism",
-                    8453 => "base",
                     43114 => "avalanche",
+                    10 => "optimism",
+                    81457 => "blast",
+                    59144 => "linea",
+                    5000 => "mantle",
+                    34443 => "mode",
+                    534352 => "scroll",
                     130 => "unichain",
                     _ => "other",
                 };
@@ -138,7 +149,10 @@ impl PoolSource for KyberSwapDirectSource {
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
         let mut pools = Vec::new();
         
-        for (chain_name, chain_id) in [("ethereum", 1u32), ("bsc", 56), ("polygon", 137), ("arbitrum", 42161)] {
+        for (chain_name, chain_id) in [
+            ("ethereum", 1u32), ("bsc", 56), ("polygon", 137), ("arbitrum", 42161),
+            ("avalanche", 43114), ("optimism", 10), ("base", 8453), ("linea", 59144), ("scroll", 534352)
+        ] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
@@ -244,6 +258,11 @@ impl PoolSource for OpenOceanDirectSource {
             ("polygon", 137, "polygon"),
             ("arbitrum", 42161, "arbitrum"),
             ("base", 8453, "base"),
+            ("avax", 43114, "avalanche"),
+            ("optimism", 10, "optimism"),
+            ("linea", 59144, "linea"),
+            ("scroll", 534352, "scroll"),
+            ("mantle", 5000, "mantle"),
         ] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
@@ -318,7 +337,10 @@ impl PoolSource for ParaSwapDirectSource {
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
         let mut pools = Vec::new();
         
-        for (chain_id, chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon"), (42161, "arbitrum")] {
+        for (chain_id, chain_name) in [
+            (1u32, "ethereum"), (56, "bsc"), (137, "polygon"), (42161, "arbitrum"),
+            (43114, "avalanche"), (10, "optimism"), (8453, "base")
+        ] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
