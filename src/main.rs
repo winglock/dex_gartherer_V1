@@ -295,9 +295,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let app = Router::new()
         .route("/pools/cached", get(get_cached_pools))
         .route("/arbitrage", get(get_arbitrage))
+        .route("/gaps", get(get_gaps))
         .route("/health", get(health))
         .route("/stats", get(get_stats))
         .route("/ws", get(ws_handler))
+        .nest_service("/", tower_http::services::ServeDir::new("frontend"))
         .layer(CorsLayer::permissive())
         .with_state(state);
 
@@ -348,6 +350,84 @@ async fn get_stats(
         "pools_collected": stats.pools_collected.load(Ordering::Relaxed),
         "upbit_prices": state.upbit.get_all_prices().len(),
     }))
+}
+
+/// Gap data response
+#[derive(serde::Serialize)]
+struct GapResponse {
+    symbol: String,
+    #[serde(rename = "upbitPrice")]
+    upbit_price: f64,
+    #[serde(rename = "dexPrice")]
+    dex_price: f64,
+    #[serde(rename = "gapPercent")]
+    gap_percent: f64,
+    dex: String,
+    chain: String,
+}
+
+async fn get_gaps(
+    State(state): State<Arc<AppState>>
+) -> axum::Json<Vec<GapResponse>> {
+    let client = reqwest::Client::builder()
+        .timeout(Duration::from_secs(5))
+        .build()
+        .unwrap();
+    
+    // Get Upbit prices
+    let upbit_prices: std::collections::HashMap<String, f64> = state.upbit.get_all_prices()
+        .into_iter()
+        .map(|p| (p.symbol.clone(), p.price_usd))
+        .collect();
+    
+    let mut gaps = Vec::new();
+    
+    // Fetch top symbols for speed (limit to 50)
+    for symbol in state.symbols.iter().take(50) {
+        if let Some(upbit_price) = upbit_prices.get(symbol) {
+            if *upbit_price <= 0.0 { continue; }
+            
+            let url = format!("https://api.dexscreener.com/latest/dex/search?q={}", symbol);
+            
+            if let Ok(resp) = client.get(&url).send().await {
+                if resp.status().is_success() {
+                    if let Ok(data) = resp.json::<serde_json::Value>().await {
+                        if let Some(pairs) = data["pairs"].as_array() {
+                            for pair in pairs.iter().take(3) {
+                                let base_symbol = pair["baseToken"]["symbol"].as_str().unwrap_or("");
+                                let price_str = pair["priceUsd"].as_str().unwrap_or("0");
+                                let dex = pair["dexId"].as_str().unwrap_or("unknown").to_string();
+                                let chain = pair["chainId"].as_str().unwrap_or("unknown").to_string();
+                                
+                                if base_symbol.to_uppercase() == symbol.to_uppercase() {
+                                    if let Ok(dex_price) = price_str.parse::<f64>() {
+                                        if dex_price > 0.0 && dex_price < 1_000_000_000.0 {
+                                            let gap_percent = (*upbit_price - dex_price) / dex_price * 100.0;
+                                            
+                                            gaps.push(GapResponse {
+                                                symbol: symbol.clone(),
+                                                upbit_price: *upbit_price,
+                                                dex_price,
+                                                gap_percent,
+                                                dex,
+                                                chain,
+                                            });
+                                            break; // One per symbol
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    // Sort by absolute gap (descending)
+    gaps.sort_by(|a, b| b.gap_percent.abs().partial_cmp(&a.gap_percent.abs()).unwrap());
+    
+    axum::Json(gaps)
 }
 
 async fn health() -> &'static str {

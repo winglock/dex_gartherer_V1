@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEX Gap Monitor | 업비트 vs DEX 가격차</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0f0f23;
+            --bg-secondary: #1a1a2e;
+            --bg-card: #16213e;
+            --accent-green: #00ff88;
+            --accent-red: #ff4757;
+            --accent-blue: #00d4ff;
+            --accent-purple: #a855f7;
+            --text-primary: #ffffff;
+            --text-secondary: #94a3b8;
+            --border-color: #334155;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-icon {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+        }
+
+        .logo h1 {
+            font-size: 24px;
+            font-weight: 700;
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .status-bar {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .status-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 16px;
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--accent-green);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* Stats Row */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border-radius: 16px;
+            padding: 24px;
+            border: 1px solid var(--border-color);
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-blue);
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+        }
+
+        .stat-value.positive { color: var(--accent-green); }
+        .stat-value.negative { color: var(--accent-red); }
+
+        /* Filter Controls */
+        .controls {
+            display: flex;
+            gap: 16px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .control-label {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        select, input[type="number"] {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: var(--accent-blue);
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 20px rgba(0, 212, 255, 0.4);
+        }
+
+        /* Gap Table */
+        .gap-table-container {
+            background: var(--bg-card);
+            border-radius: 16px;
+            border: 1px solid var(--border-color);
+            overflow: hidden;
+        }
+
+        .gap-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .gap-table th {
+            background: var(--bg-secondary);
+            padding: 16px 20px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 13px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .gap-table th:hover {
+            background: #252540;
+        }
+
+        .gap-table td {
+            padding: 16px 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 14px;
+        }
+
+        .gap-table tr:hover {
+            background: rgba(0, 212, 255, 0.05);
+        }
+
+        .symbol-cell {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 600;
+        }
+
+        .symbol-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            font-weight: 700;
+        }
+
+        .price {
+            font-family: 'SF Mono', 'Monaco', monospace;
+            font-weight: 500;
+        }
+
+        .gap-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .gap-positive {
+            background: rgba(0, 255, 136, 0.15);
+            color: var(--accent-green);
+        }
+
+        .gap-negative {
+            background: rgba(255, 71, 87, 0.15);
+            color: var(--accent-red);
+        }
+
+        .source-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: var(--bg-secondary);
+            border-radius: 6px;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        /* Loading State */
+        .loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 20px;
+            gap: 16px;
+        }
+
+        .spinner {
+            width: 48px;
+            height: 48px;
+            border: 4px solid var(--border-color);
+            border-top-color: var(--accent-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-secondary);
+        }
+
+        .empty-icon {
+            font-size: 48px;
+            margin-bottom: 16px;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .stats-row {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .stats-row {
+                grid-template-columns: 1fr;
+            }
+            .header {
+                flex-direction: column;
+                gap: 16px;
+            }
+            .gap-table-container {
+                overflow-x: auto;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">📊</div>
+                <h1>DEX Gap Monitor</h1>
+            </div>
+            <div class="status-bar">
+                <div class="status-item">
+                    <span class="status-dot"></span>
+                    <span id="lastUpdate">로딩 중...</span>
+                </div>
+                <div class="status-item">
+                    <span>🔄</span>
+                    <span id="refreshTimer">30초</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Stats Row -->
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-label">추적 중인 코인</div>
+                <div class="stat-value" id="totalCoins">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">갭 발견</div>
+                <div class="stat-value" id="gapsFound">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">최대 양수 갭</div>
+                <div class="stat-value positive" id="maxPositiveGap">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">최대 음수 갭</div>
+                <div class="stat-value negative" id="maxNegativeGap">-</div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="control-group">
+                <label class="control-label">최소 갭 (%)</label>
+                <input type="number" id="minGap" value="1" min="0" step="0.1" style="width: 80px;">
+            </div>
+            <div class="control-group">
+                <label class="control-label">정렬</label>
+                <select id="sortBy">
+                    <option value="gap">갭 (높은순)</option>
+                    <option value="gap-asc">갭 (낮은순)</option>
+                    <option value="symbol">심볼 (A-Z)</option>
+                    <option value="upbit">업비트 가격</option>
+                </select>
+            </div>
+            <div class="control-group">
+                <label class="control-label">갭 방향</label>
+                <select id="gapDirection">
+                    <option value="all">전체</option>
+                    <option value="positive">양수 (업비트 > DEX)</option>
+                    <option value="negative">음수 (업비트 < DEX)</option>
+                </select>
+            </div>
+            <button class="btn btn-primary" onclick="fetchGaps()">🔄 새로고침</button>
+        </div>
+
+        <!-- Gap Table -->
+        <div class="gap-table-container">
+            <table class="gap-table">
+                <thead>
+                    <tr>
+                        <th onclick="sortTable('symbol')">심볼</th>
+                        <th onclick="sortTable('upbit')">업비트 ($)</th>
+                        <th onclick="sortTable('dex')">DEX ($)</th>
+                        <th onclick="sortTable('gap')">갭 (%)</th>
+                        <th>DEX 소스</th>
+                        <th>추천 액션</th>
+                    </tr>
+                </thead>
+                <tbody id="gapTableBody">
+                    <tr>
+                        <td colspan="6">
+                            <div class="loading">
+                                <div class="spinner"></div>
+                                <p>데이터 로딩 중...</p>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Sample data (will be replaced with real API data)
+        let gapData = [];
+        let currentSort = { column: 'gap', asc: false };
+
+        // Sample data generator (simulates API response)
+        function generateSampleData() {
+            const symbols = ['BTC', 'ETH', 'XRP', 'ADA', 'SOL', 'DOGE', 'DOT', 'MATIC', 'LINK', 'AVAX', 
+                           'SHIB', 'UNI', 'ATOM', 'LTC', 'ETC', 'XLM', 'NEAR', 'APT', 'ARB', 'OP'];
+            const dexes = ['uniswap', 'sushiswap', 'pancakeswap', 'curve', 'balancer'];
+            const chains = ['ethereum', 'bsc', 'polygon', 'arbitrum', 'optimism'];
+            
+            return symbols.map(symbol => {
+                const upbitPrice = Math.random() * 50000 + 0.01;
+                const gapPercent = (Math.random() - 0.5) * 10; // -5% to +5%
+                const dexPrice = upbitPrice / (1 + gapPercent / 100);
+                
+                return {
+                    symbol,
+                    upbitPrice,
+                    dexPrice,
+                    gapPercent,
+                    dex: dexes[Math.floor(Math.random() * dexes.length)],
+                    chain: chains[Math.floor(Math.random() * chains.length)]
+                };
+            });
+        }
+
+        function formatPrice(price) {
+            if (price > 1000) return price.toLocaleString('en-US', { maximumFractionDigits: 2 });
+            if (price > 1) return price.toFixed(4);
+            if (price > 0.0001) return price.toFixed(6);
+            return price.toExponential(4);
+        }
+
+        function getAction(gapPercent) {
+            if (gapPercent > 2) return { text: 'DEX 매수 → 업비트 매도', class: 'gap-positive' };
+            if (gapPercent < -2) return { text: '업비트 매수 → DEX 매도', class: 'gap-negative' };
+            return { text: '관망', class: '' };
+        }
+
+        function renderTable(data) {
+            const tbody = document.getElementById('gapTableBody');
+            const minGap = parseFloat(document.getElementById('minGap').value) || 0;
+            const direction = document.getElementById('gapDirection').value;
+
+            let filtered = data.filter(item => Math.abs(item.gapPercent) >= minGap);
+            
+            if (direction === 'positive') {
+                filtered = filtered.filter(item => item.gapPercent > 0);
+            } else if (direction === 'negative') {
+                filtered = filtered.filter(item => item.gapPercent < 0);
+            }
+
+            // Sort
+            filtered.sort((a, b) => {
+                let aVal, bVal;
+                switch (currentSort.column) {
+                    case 'symbol': aVal = a.symbol; bVal = b.symbol; break;
+                    case 'upbit': aVal = a.upbitPrice; bVal = b.upbitPrice; break;
+                    case 'dex': aVal = a.dexPrice; bVal = b.dexPrice; break;
+                    case 'gap':
+                    default: aVal = Math.abs(a.gapPercent); bVal = Math.abs(b.gapPercent);
+                }
+                if (typeof aVal === 'string') {
+                    return currentSort.asc ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+                }
+                return currentSort.asc ? aVal - bVal : bVal - aVal;
+            });
+
+            if (filtered.length === 0) {
+                tbody.innerHTML = `
+                    <tr><td colspan="6">
+                        <div class="empty-state">
+                            <div class="empty-icon">🔍</div>
+                            <p>설정된 조건에 맞는 갭이 없습니다</p>
+                        </div>
+                    </td></tr>
+                `;
+                return;
+            }
+
+            tbody.innerHTML = filtered.map(item => {
+                const action = getAction(item.gapPercent);
+                const gapClass = item.gapPercent >= 0 ? 'gap-positive' : 'gap-negative';
+                const arrow = item.gapPercent >= 0 ? '↗️' : '↘️';
+                
+                return `
+                    <tr>
+                        <td>
+                            <div class="symbol-cell">
+                                <div class="symbol-icon">${item.symbol.substring(0, 2)}</div>
+                                <span>${item.symbol}</span>
+                            </div>
+                        </td>
+                        <td class="price">$${formatPrice(item.upbitPrice)}</td>
+                        <td class="price">$${formatPrice(item.dexPrice)}</td>
+                        <td>
+                            <span class="gap-badge ${gapClass}">
+                                ${arrow} ${item.gapPercent >= 0 ? '+' : ''}${item.gapPercent.toFixed(2)}%
+                            </span>
+                        </td>
+                        <td><span class="source-badge">${item.dex}:${item.chain}</span></td>
+                        <td>${action.text}</td>
+                    </tr>
+                `;
+            }).join('');
+        }
+
+        function updateStats(data) {
+            document.getElementById('totalCoins').textContent = data.length;
+            
+            const minGap = parseFloat(document.getElementById('minGap').value) || 0;
+            const filtered = data.filter(item => Math.abs(item.gapPercent) >= minGap);
+            document.getElementById('gapsFound').textContent = filtered.length;
+
+            const positiveGaps = data.filter(d => d.gapPercent > 0);
+            const negativeGaps = data.filter(d => d.gapPercent < 0);
+
+            if (positiveGaps.length > 0) {
+                const max = Math.max(...positiveGaps.map(d => d.gapPercent));
+                document.getElementById('maxPositiveGap').textContent = `+${max.toFixed(2)}%`;
+            } else {
+                document.getElementById('maxPositiveGap').textContent = '-';
+            }
+
+            if (negativeGaps.length > 0) {
+                const min = Math.min(...negativeGaps.map(d => d.gapPercent));
+                document.getElementById('maxNegativeGap').textContent = `${min.toFixed(2)}%`;
+            } else {
+                document.getElementById('maxNegativeGap').textContent = '-';
+            }
+        }
+
+        function sortTable(column) {
+            if (currentSort.column === column) {
+                currentSort.asc = !currentSort.asc;
+            } else {
+                currentSort = { column, asc: false };
+            }
+            renderTable(gapData);
+        }
+
+        async function fetchGaps() {
+            try {
+                // Try to fetch from local API
+                const response = await fetch('http://localhost:3001/gaps');
+                if (response.ok) {
+                    gapData = await response.json();
+                } else {
+                    throw new Error('API not available');
+                }
+            } catch (error) {
+                // Use sample data if API is not available
+                console.log('Using sample data (API not available)');
+                gapData = generateSampleData();
+            }
+
+            updateStats(gapData);
+            renderTable(gapData);
+            document.getElementById('lastUpdate').textContent = 
+                `마지막 업데이트: ${new Date().toLocaleTimeString('ko-KR')}`;
+        }
+
+        // Initial load
+        fetchGaps();
+
+        // Auto-refresh timer
+        let countdown = 30;
+        setInterval(() => {
+            countdown--;
+            document.getElementById('refreshTimer').textContent = `${countdown}초`;
+            if (countdown <= 0) {
+                fetchGaps();
+                countdown = 30;
+            }
+        }, 1000);
+
+        // Event listeners
+        document.getElementById('minGap').addEventListener('change', () => renderTable(gapData));
+        document.getElementById('sortBy').addEventListener('change', (e) => {
+            const value = e.target.value;
+            if (value === 'gap-asc') {
+                currentSort = { column: 'gap', asc: true };
+            } else {
+                currentSort = { column: value, asc: false };
+            }
+            renderTable(gapData);
+        });
+        document.getElementById('gapDirection').addEventListener('change', () => renderTable(gapData));
+    </script>
+</body>
+</html>
