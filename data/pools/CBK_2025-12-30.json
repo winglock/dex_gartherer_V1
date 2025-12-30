@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "CBK",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "8N6FNpemmv9BS21BX2cnsFoeKha43AKuU93LsBTNCP1x",
+    "pair": "CBK/USD",
+    "price_usd": 0.5582,
+    "lp_reserve_usd": 54821571.69,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CBK",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x60270a3b7C4bE0aFf35299Fe401C612CB7e1E173",
+    "pair": "CBK/USD",
+    "price_usd": 0.3393,
+    "lp_reserve_usd": 3316.85,
+    "volume_24h": 114.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CBK",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "CTKMeYdXSNi2wgK3KoyxL9M7dq3TNu6eNc886B5KX97g",
+    "pair": "CBK/USD",
+    "price_usd": 1.11,
+    "lp_reserve_usd": 110876254.19,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

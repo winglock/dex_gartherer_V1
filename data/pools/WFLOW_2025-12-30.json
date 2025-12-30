@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "WFLOW",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x83bf95e68800a278f05165160bbd33215158f52e7e6e2a0dc3c29af1d6b7da28",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.2811,
+    "lp_reserve_usd": 747.49,
+    "volume_24h": 2.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x04BC1DD7e812B87F4585136A70C8Aa4629541f01",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.001673,
+    "lp_reserve_usd": 10.33,
+    "volume_24h": 0.35,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "pulsechain",
+    "dex": "sushiswap",
+    "pool_address": "0x5a70513ec742EBbFB99094c7fd3096a0a3e25B86",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.001627,
+    "lp_reserve_usd": 0.99,
+    "volume_24h": 0.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "pulsechain",
+    "dex": "uniswap",
+    "pool_address": "0xd4292615a8e9EDC07CBA49C1A9CBB93b873A181E",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.00166,
+    "lp_reserve_usd": 732.69,
+    "volume_24h": 1.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x6414f4c89112954a9f54ffca3537cd37487e615f00623104ec9e397b38340a0d",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.3524,
+    "lp_reserve_usd": 569615.71,
+    "volume_24h": 533.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x5a70513ec742EBbFB99094c7fd3096a0a3e25B86",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.3482,
+    "lp_reserve_usd": 3.07,
+    "volume_24h": 0.34,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767095639
+  },
+  {
+    "symbol": "WFLOW",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x5f83d3AfF72637D27fcA87EB998A499a9c69fCAb",
+    "pair": "WFLOW/USD",
+    "price_usd": 0.001603,
+    "lp_reserve_usd": 13.38,
+    "volume_24h": 0.41,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

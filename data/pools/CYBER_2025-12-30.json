@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "CYBER",
+    "chain": "optimism",
+    "dex": "uniswap",
+    "pool_address": "0x893B92a5B2FeDB7F60652F8BEa379f4ebE3bc7Bc",
+    "pair": "CYBER/USD",
+    "price_usd": 0.6509,
+    "lp_reserve_usd": 37912.58,
+    "volume_24h": 0.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "optimism",
+    "dex": "velodrome",
+    "pool_address": "0x16b0D9B633e163108d286C9430128aA5dBF0d4ec",
+    "pair": "CYBER/USD",
+    "price_usd": 0.6552,
+    "lp_reserve_usd": 14.72,
+    "volume_24h": 2.3,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x846BD025527c8427809E11D0B0a9cE50F149D5d5",
+    "pair": "CYBER/USD",
+    "price_usd": 0.6798,
+    "lp_reserve_usd": 261.84,
+    "volume_24h": 0.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "BtVAiWzs9p8gXy6Hz8oYK1G4SvMuVbkhf8uscvKpjuw",
+    "pair": "CYBER/USD",
+    "price_usd": 0.6882,
+    "lp_reserve_usd": 87602.38,
+    "volume_24h": 10256.73,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "CYBER",
+    "chain": "multiversx",
+    "dex": "xexchange",
+    "pool_address": "erd1qqqqqqqqqqqqqpgq5g7xxmpuf6nmux3r3spjxv0wleyypz8q2jpsyc3nh8",
+    "pair": "CYBER/USD",
+    "price_usd": 0.0002177,
+    "lp_reserve_usd": 3019.35,
+    "volume_24h": 0.47,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

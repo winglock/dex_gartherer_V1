@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Soph",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "7a68X928rJAvmtGRx1chwLquJJKkTeGYKvWD28Sz1ZM4",
+    "pair": "SOPH/USD",
+    "price_usd": 3.46e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 1.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

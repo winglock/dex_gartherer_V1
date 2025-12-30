@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "WSUI",
+    "chain": "sui",
+    "dex": "turbos-finance",
+    "pool_address": "0xd79fa3f0fa41cdf6d7f5529c3a774ef57252d30aa67d00b78eb989a82a6c3d16",
+    "pair": "WSUI/USD",
+    "price_usd": 4.253e-7,
+    "lp_reserve_usd": 2126.71,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "WSUI",
+    "chain": "aptos",
+    "dex": "pancakeswap",
+    "pool_address": "pcs-1662",
+    "pair": "WSUI/USD",
+    "price_usd": 0.0008616,
+    "lp_reserve_usd": 0.02,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "WSUI",
+    "chain": "aptos",
+    "dex": "pancakeswap",
+    "pool_address": "pcs-1650",
+    "pair": "WSUI/USD",
+    "price_usd": 0.001216,
+    "lp_reserve_usd": 0.01,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

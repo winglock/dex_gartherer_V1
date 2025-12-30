@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "TFUEL",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "6ymwV8vwxbe6zAj2pmMJbYVZzwUUuh64svidHuPYZ8sQ",
+    "pair": "TFUEL/USD",
+    "price_usd": 0.03196,
+    "lp_reserve_usd": 225768119.32,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "TFUEL",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "EUoJ9jhgJivq8BEmUWK1FNB7XEcbWkVDJ7W215TusoM5",
+    "pair": "TFUEL/USD",
+    "price_usd": 0.03837,
+    "lp_reserve_usd": 269043175.68,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

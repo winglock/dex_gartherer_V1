@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "QTUM",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0x455118bF0277D740E34009EE2d85771DFEC194a5",
+    "pair": "QTUM/USD",
+    "price_usd": 1.28,
+    "lp_reserve_usd": 543.0,
+    "volume_24h": 11.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "QTUM",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "DdLsChu3UsCUZtRBdXNgo4F87AKanWhzjRgmjMnur3dh",
+    "pair": "QTUM/USD",
+    "price_usd": 2.25,
+    "lp_reserve_usd": 241872131.71,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "QTUM",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x0e5f8b4df15130249874452795Db41F14D0c87b8",
+    "pair": "QTUM/USD",
+    "price_usd": 1.29,
+    "lp_reserve_usd": 13230.61,
+    "volume_24h": 1029.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "QTUM",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "BKZqoU9Ai2VqBrKqYG1TnKh6cxSS54Qth2XMpGWNHtc6",
+    "pair": "QTUM/USD",
+    "price_usd": 2.37,
+    "lp_reserve_usd": 255395908.32,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "QTUM",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "4wzonGDvE8ZLhuHbuqGNSsLEWJDiizxyte75oG5P7YaD",
+    "pair": "QTUM/USD",
+    "price_usd": 3.45,
+    "lp_reserve_usd": 363740319.71,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "LA",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "F5XQbheNtdoBkCLuENquoi9na4u2yYzfnnY7JGMfxwAt",
+    "pair": "LA/USD",
+    "price_usd": 0.0005883,
+    "lp_reserve_usd": 23222.37,
+    "volume_24h": 0.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "LA",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x5DBB1220BC24B462d75E66012bb70CdA8d3D1ad5",
+    "pair": "LA/USD",
+    "price_usd": 0.2911,
+    "lp_reserve_usd": 193508.74,
+    "volume_24h": 58440.73,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "LA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "QxETYKcMWX4Rcpz48eWMs7pk9UZei8W3Lag6YDssttu",
+    "pair": "LA/USD",
+    "price_usd": 1.54,
+    "lp_reserve_usd": 1545166449.12,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "VANA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x7F3C5aB7EFF0aC57B9538F88D1558709acb45821",
+    "pair": "VANA/USD",
+    "price_usd": 2.54,
+    "lp_reserve_usd": 162417.09,
+    "volume_24h": 1769.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "VANA",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "B34Q9jQ5MpQ5aWRje5rahEibEAryPBTV4dFJq9aE3ssZ",
+    "pair": "VANA/USD",
+    "price_usd": 6.96,
+    "lp_reserve_usd": 835306630.44,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "VANA",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x414750c7eba4708BdD882b31b61f309adC32724F",
+    "pair": "VANA/USD",
+    "price_usd": 2.5,
+    "lp_reserve_usd": 163863.36,
+    "volume_24h": 3429.65,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

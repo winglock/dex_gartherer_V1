@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "CVC",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x419445d8309baCce22fD3cacA8B628f5f3FA663A",
+    "pair": "CVC/USD",
+    "price_usd": 0.04261,
+    "lp_reserve_usd": 4282.79,
+    "volume_24h": 69.47,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CVC",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xBb4Efb22592590D61463E1f6c8c7a2764a3fa2Ce",
+    "pair": "CVC/USD",
+    "price_usd": 0.04315,
+    "lp_reserve_usd": 2257.88,
+    "volume_24h": 71.74,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CVC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xCA300f8115413051202111E82C99A06916cE8d5a",
+    "pair": "CVC/USD",
+    "price_usd": 0.1443,
+    "lp_reserve_usd": 307798.27,
+    "volume_24h": 1380.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CVC",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xc5ed7a1068b617153c8db7b4740d7732de43deb022047ec815e08efb1aa259f9",
+    "pair": "CVC/USD",
+    "price_usd": 0.04396,
+    "lp_reserve_usd": 1101.6,
+    "volume_24h": 24.03,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CVC",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0x18FcD09771f745cFbC6b67051d5985C0dd52cDC8",
+    "pair": "CVC/USD",
+    "price_usd": 0.04244,
+    "lp_reserve_usd": 1.0,
+    "volume_24h": 0.03,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "CVC",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x123FcA7E8272A8E9c3bb7113C259ABc4901E792B",
+    "pair": "CVC/USD",
+    "price_usd": 0.04309,
+    "lp_reserve_usd": 4904.35,
+    "volume_24h": 508.92,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

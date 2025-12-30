@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "STRAX",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Gd9gBguF2r52b2RPVBnWPVRS8tFbM63y7NKxmC6Qnj5a",
+    "pair": "STRAX/USD",
+    "price_usd": 0.0633,
+    "lp_reserve_usd": 122894261.91,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "STRAX",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "7PmeRo4pZeKYtvDAABcNosG9JYK6Zgz6EZmobece43h3",
+    "pair": "STRAX/USD",
+    "price_usd": 0.03379,
+    "lp_reserve_usd": 69843465.12,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "STRAX",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xEf53C890E06412F3A9f6D36d9E3ef5A890d51845",
+    "pair": "STRAX/USD",
+    "price_usd": 0.01619,
+    "lp_reserve_usd": 17082817.38,
+    "volume_24h": 0.29,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "BIGTIME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x32121E0d11EcC79035045bC7466eDE30816C5674",
+    "pair": "BIGTIME/USD",
+    "price_usd": 0.02068,
+    "lp_reserve_usd": 4958.84,
+    "volume_24h": 4.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "BIGTIME",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0xbff821a23db2ab16ad21af9122f60d903a2902e14c91a7f25022ca2e4aa2ea4f",
+    "pair": "BIGTIME/USD",
+    "price_usd": 3.464e-7,
+    "lp_reserve_usd": 341.65,
+    "volume_24h": 1.85,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "BIGTIME",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HARxc89QkNZkcGfffZPtnZgkvkyV7QpTr9W4J4f4DYQd",
+    "pair": "BIGTIME/USD",
+    "price_usd": 0.05527,
+    "lp_reserve_usd": 275381535.74,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "BIGTIME",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x484dcf85Bc5F005E5628a85c7DDe5c846B9B64A7",
+    "pair": "BIGTIME/USD",
+    "price_usd": 0.02031,
+    "lp_reserve_usd": 70100.71,
+    "volume_24h": 7128.67,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

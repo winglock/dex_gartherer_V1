@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "AQT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "HmSDgys4bGuj5Hm3EpwZbtFp3U5jWZNLmzkXy8jhPmmU",
+    "pair": "AQT/USD",
+    "price_usd": 2.94,
+    "lp_reserve_usd": 87548561.0,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  }
+]

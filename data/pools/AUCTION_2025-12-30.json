@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "Auction",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xB12bdeB305B99E787512468fE75f41490C68c7A4",
+    "pair": "AUCTION/USD",
+    "price_usd": 4.97,
+    "lp_reserve_usd": 37216.1,
+    "volume_24h": 4.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "Auction",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x7c081d5f1167dcf6d30cac23c4977dd568f3d1ab204a0eeb74547a2d4b5c17ce",
+    "pair": "AUCTION/USD",
+    "price_usd": 4.7,
+    "lp_reserve_usd": 3480.84,
+    "volume_24h": 59.78,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "Auction",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xc20aE90A1cCF43Ac776B9D40ee7465fd34fB668B",
+    "pair": "AUCTION/USD",
+    "price_usd": 4.94,
+    "lp_reserve_usd": 689.06,
+    "volume_24h": 9.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "Auction",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "81DNwanM8u1pymp3r8yY8gPtRzQfsQYuX9v5X2zauAq4",
+    "pair": "AUCTION/USD",
+    "price_usd": 2.237e-6,
+    "lp_reserve_usd": 4442.01,
+    "volume_24h": 12.59,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "Auction",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0xBa9B2FfD9Df16Bc6b5C41055aFC78354CeD27f6d",
+    "pair": "AUCTION/USD",
+    "price_usd": 0.05745,
+    "lp_reserve_usd": 18.0,
+    "volume_24h": 0.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  }
+]

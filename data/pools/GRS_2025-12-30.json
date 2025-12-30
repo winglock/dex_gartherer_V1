@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "GRS",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "C5oSZFnUL7KmbWDXCMapuh6Ltvngw6kttUhtz6NUMANW",
+    "pair": "GRS/USD",
+    "price_usd": 0.7418,
+    "lp_reserve_usd": 76883582.02,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "GRS",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x50C0654C2d2fb5BeBF7E4c7Bf52e6bFed488EC76",
+    "pair": "GRS/USD",
+    "price_usd": 0.5314,
+    "lp_reserve_usd": 44472.88,
+    "volume_24h": 5804.48,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  }
+]

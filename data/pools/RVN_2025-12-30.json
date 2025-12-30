@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "RVN",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "AT5NsU2JbihDEiasJUG8n4L5bytfizn11QDj4ZENdPeX",
+    "pair": "RVN/USD",
+    "price_usd": 0.00025,
+    "lp_reserve_usd": 366152.42,
+    "volume_24h": 20173.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "RVN",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "DPimMKPMzkyujEP2TzM9PpsfZbY8xKwYW1qx5as3hzNz",
+    "pair": "RVN/USD",
+    "price_usd": 0.01451,
+    "lp_reserve_usd": 303901874.31,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "RVN",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0xB4839CCDce42358ebab0f616EeAD05Fbe18b1a95",
+    "pair": "RVN/USD",
+    "price_usd": 0.006908,
+    "lp_reserve_usd": 141.0,
+    "volume_24h": 3.45,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "RVN",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "42Dvd8iSfq5CMJeCm2wpXB8oGR7A1iZSUMGKXa2cJuxr",
+    "pair": "RVN/USD",
+    "price_usd": 0.01642,
+    "lp_reserve_usd": 343875584.66,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  }
+]

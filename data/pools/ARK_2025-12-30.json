@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Ark",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xd6d3D7464CC1Af2c02E6Aef7e2b5F148B22dad2C",
+    "pair": "ARK/USD",
+    "price_usd": 0.0004728,
+    "lp_reserve_usd": 97602.9,
+    "volume_24h": 245.98,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "In",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "9d8p8omNJ6ZupctPMp2x9vA3uTWZtb1jxf1NTydJKZUy",
+    "pair": "IN/USD",
+    "price_usd": 3.473e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 1055.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "In",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "7Ph5DNgCiQs2hyrZ5ifT1amjzir2esZttwU1V8YVHmEc",
+    "pair": "IN/USD",
+    "price_usd": 2.511e-6,
+    "lp_reserve_usd": 4846.84,
+    "volume_24h": 1.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

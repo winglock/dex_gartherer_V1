@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "SIGN",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6e8f6068c312daB9C1f62530959d801eD16b64BE",
+    "pair": "SIGN/USD",
+    "price_usd": 0.03757,
+    "lp_reserve_usd": 76.53,
+    "volume_24h": 1.62,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "FBTwneWSRhmHwnKJeZHvXDDyCpQWhzAwKSQbFHrumKLH",
+    "pair": "SIGN/USD",
+    "price_usd": 4.751e-6,
+    "lp_reserve_usd": 8437.94,
+    "volume_24h": 5.82,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x8A7b72F8ff5299E493317D4430293894107af859",
+    "pair": "SIGN/USD",
+    "price_usd": 0.03754,
+    "lp_reserve_usd": 133367.49,
+    "volume_24h": 7022.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "3NDCZwXNd6rQuCydmyJzdim4nSHypnc4VnxL4QZULmJK",
+    "pair": "SIGN/USD",
+    "price_usd": 0.06929,
+    "lp_reserve_usd": 691914887.66,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "algorand",
+    "dex": "tinyman",
+    "pool_address": "XMBIL7TINBCH7KX3664T5BWZ55DGZ5ASF5AUE3DS4ET7QDSVEAEPJGKPAM",
+    "pair": "SIGN/USD",
+    "price_usd": 0.0004625,
+    "lp_reserve_usd": 5106.3,
+    "volume_24h": 4.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x908aB8983DffBbDd74EC6028110610E18239EC1E",
+    "pair": "SIGN/USD",
+    "price_usd": 0.03752,
+    "lp_reserve_usd": 743665.82,
+    "volume_24h": 55692.26,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "SIGN",
+    "chain": "algorand",
+    "dex": "tinyman",
+    "pool_address": "PFNVJRDKAYO75NQSQ6T5OKKHUW4XGYNPPBA23L2FCPNWUHWPAVH2KL4NIU",
+    "pair": "SIGN/USD",
+    "price_usd": 0.0004624,
+    "lp_reserve_usd": 363.54,
+    "volume_24h": 4.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

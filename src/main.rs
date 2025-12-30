@@ -55,10 +55,110 @@ async fn debug_single_token(symbol: &str) {
     }
 }
 
+/// Gap monitor: Upbit vs DEX price comparison
+async fn run_gap_monitor(upbit: &UpbitClient, symbols: &[String], threshold: f64) {
+    use reqwest::Client;
+    
+    let client = Client::builder()
+        .timeout(Duration::from_secs(10))
+        .build()
+        .unwrap();
+    
+    println!("\n🔍 갭 모니터링 시작 (30초 간격)");
+    println!("─────────────────────────────────────────────────────────");
+    
+    loop {
+        let start = std::time::Instant::now();
+        
+        // Fetch Upbit prices and convert to HashMap for lookup
+        let upbit_prices: std::collections::HashMap<String, f64> = upbit.get_all_prices()
+            .into_iter()
+            .map(|p| (p.symbol, p.price_usd))
+            .collect();
+        
+        // Fetch DEX prices from DexScreener
+        let mut gaps: Vec<(String, f64, f64, f64, String)> = Vec::new(); // (symbol, upbit, dex, gap%, source)
+        
+        for symbol in symbols.iter().take(50) { // Limit to 50 for speed
+            let url = format!("https://api.dexscreener.com/latest/dex/search?q={}", symbol);
+            
+            if let Ok(resp) = client.get(&url).send().await {
+                if resp.status().is_success() {
+                    if let Ok(data) = resp.json::<serde_json::Value>().await {
+                        if let Some(pairs) = data["pairs"].as_array() {
+                            for pair in pairs.iter().take(5) {
+                                let base_symbol = pair["baseToken"]["symbol"].as_str().unwrap_or("");
+                                let price_str = pair["priceUsd"].as_str().unwrap_or("0");
+                                let dex = pair["dexId"].as_str().unwrap_or("unknown");
+                                let chain = pair["chainId"].as_str().unwrap_or("unknown");
+                                
+                                if base_symbol.to_uppercase() == symbol.to_uppercase() {
+                                    if let Ok(dex_price) = price_str.parse::<f64>() {
+                                        if dex_price > 0.0 && dex_price < 1_000_000_000.0 {
+                                            // Get Upbit price
+                                            if let Some(upbit_price) = upbit_prices.get(symbol) {
+                                                let gap_pct = (*upbit_price - dex_price) / dex_price * 100.0;
+                                                
+                                                if gap_pct.abs() >= threshold * 100.0 {
+                                                    gaps.push((
+                                                        symbol.clone(),
+                                                        *upbit_price,
+                                                        dex_price,
+                                                        gap_pct,
+                                                        format!("{}:{}", dex, chain),
+                                                    ));
+                                                }
+                                            }
+                                            break; // One price per symbol is enough
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+            // Small delay to avoid rate limiting
+            tokio::time::sleep(Duration::from_millis(50)).await;
+        }
+        
+        // Sort by gap percentage (descending by absolute value)
+        gaps.sort_by(|a, b| b.3.abs().partial_cmp(&a.3.abs()).unwrap());
+        
+        let elapsed = start.elapsed();
+        println!("\n⏱️  {} [{}개 갭 발견] ({:.2}초)",
+            chrono::Local::now().format("%H:%M:%S"),
+            gaps.len(),
+            elapsed.as_secs_f64()
+        );
+        
+        // Print gaps
+        if gaps.is_empty() {
+            println!("   갭 없음 (임계값 {:.1}% 이상)", threshold * 100.0);
+        } else {
+            println!("   {:8} {:>12} {:>12} {:>8} {}", "심볼", "업비트($)", "DEX($)", "갭(%)", "소스");
+            println!("   ──────── ──────────── ──────────── ──────── ─────────────");
+            for (symbol, upbit_price, dex_price, gap_pct, source) in gaps.iter().take(20) {
+                let arrow = if *gap_pct > 0.0 { "↗️" } else { "↘️" };
+                println!("   {:8} {:12.4} {:12.4} {:>+7.2}% {} {}",
+                    symbol, upbit_price, dex_price, gap_pct, arrow, source);
+            }
+        }
+        
+        // Wait for next interval (30 seconds)
+        let sleep_time = Duration::from_secs(30).saturating_sub(elapsed);
+        if sleep_time > Duration::ZERO {
+            tokio::time::sleep(sleep_time).await;
+        }
+    }
+}
+
 #[tokio::main(worker_threads = 4)]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    // Check for --monitor flag
     let args: Vec<String> = std::env::args().collect();
+    
+    // Check for --monitor flag
     if args.contains(&"--monitor".to_string()) || args.contains(&"-m".to_string()) {
         println!("\n🔄 DEX Price Monitor Mode\n");
         
@@ -70,6 +170,36 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         
         // Run continuous monitoring with 30 second interval
         monitor.run_continuous(30).await;
+        return Ok(());
+    }
+    
+    // Check for --gap flag (Upbit vs DEX gap monitoring)
+    if args.contains(&"--gap".to_string()) || args.contains(&"-g".to_string()) {
+        println!("\n📊 Gap Monitor Mode (Upbit vs DEX)\n");
+        
+        // Load pools from saved data
+        let mut monitor = PriceMonitor::new();
+        let pools_path = Path::new("./data/pools");
+        let loaded = monitor.load_pools(pools_path)?;
+        println!("✓ {} 풀 로드 완료", loaded);
+        
+        // Initialize Upbit
+        println!("📡 Connecting to Upbit...");
+        let upbit = UpbitClient::new();
+        let symbols = upbit.fetch_krw_coins().await?;
+        println!("✓ {} KRW 페어 로드", symbols.len());
+        
+        // Get threshold from args (default 1.0%)
+        let threshold = args.iter()
+            .position(|a| a == "--threshold" || a == "-t")
+            .and_then(|i| args.get(i + 1))
+            .and_then(|s| s.parse::<f64>().ok())
+            .unwrap_or(1.0) / 100.0;
+        
+        println!("✓ 갭 임계값: {:.1}%", threshold * 100.0);
+        
+        // Run gap monitoring loop
+        run_gap_monitor(&upbit, &symbols, threshold).await;
         return Ok(());
     }
 

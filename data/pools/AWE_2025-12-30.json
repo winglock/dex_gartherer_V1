@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "AWE",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xcb7f520d18141E36956fE0b3A6Bc3D4F11245521",
+    "pair": "AWE/USD",
+    "price_usd": 0.05425,
+    "lp_reserve_usd": 364819.63,
+    "volume_24h": 3406.11,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AWE",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "C66ev8HV9VGincjwUcuukGBUcMrGVzFdcfubVEUYRjDd",
+    "pair": "AWE/USD",
+    "price_usd": 0.04997,
+    "lp_reserve_usd": 96075607.25,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "meteora",
+    "pool_address": "C66ev8HV9VGincjwUcuukGBUcMrGVzFdcfubVEUYRjDd",
+    "pair": "AWE / USDC",
+    "price_usd": 0.04997665496471184,
+    "lp_reserve_usd": 96377795.3025,
+    "volume_24h": 7.9919859159,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767095730
+  },
+  {
+    "symbol": "AWE",
+    "chain": "multi",
+    "dex": "aerodrome-base",
+    "pool_address": "0xcb7f520d18141e36956fe0b3a6bc3d4f11245521",
+    "pair": "AWE / USDC",
+    "price_usd": 0.0541644131737075,
+    "lp_reserve_usd": 365392.5035,
+    "volume_24h": 3422.593463408,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767095730
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "wPOKT",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xa7fd8ff8f4cADa298286D3006ee8f9c11E2Ff84E",
+    "pair": "POKT/USD",
+    "price_usd": 0.01173,
+    "lp_reserve_usd": 68560.97,
+    "volume_24h": 121.44,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2851,
+    "lp_reserve_usd": 85980487.51,
+    "volume_24h": 1567506.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TPMVeY18uPGAgWQ1Vim3RPjMX6BoA1Q9Sk",
+    "pair": "WTRX/USD",
+    "price_usd": 0.3138,
+    "lp_reserve_usd": 8478.47,
+    "volume_24h": 1384.84,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TEjpEVwm3Xr5VHfa2CWYLqcyKZEGE9CGUz",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2848,
+    "lp_reserve_usd": 7790.55,
+    "volume_24h": 15.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6e49c263b84F076758e08F3cfdf64b30Dd314367",
+    "pair": "WTRX/USD",
+    "price_usd": 1.517e-11,
+    "lp_reserve_usd": 0.72,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x11034d12f6fbdB05C1E80Af3c7BdA0611Bc465A5",
+    "pair": "WTRX/USD",
+    "price_usd": 3.046e-12,
+    "lp_reserve_usd": 0.1,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TMr7LizLihDymctG2w2ezLxjZDrv9S53p6",
+    "pair": "WTRX/USD",
+    "price_usd": 0.285,
+    "lp_reserve_usd": 7870.59,
+    "volume_24h": 16.89,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

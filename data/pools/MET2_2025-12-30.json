@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MET2",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x4D511faA8f55315a209BbD3d43021d4A95B0e119",
+    "pair": "MET2/USDC",
+    "price_usd": 1891629.045272,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095573
+  }
+]

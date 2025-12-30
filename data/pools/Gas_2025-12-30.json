@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Gas",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "EFPe9LayLKuSTC9p2NsEWWBBwNEQonXPthuMR74pV48i",
+    "pair": "GAS/USD",
+    "price_usd": 4.773e-6,
+    "lp_reserve_usd": 7216.37,
+    "volume_24h": 39.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

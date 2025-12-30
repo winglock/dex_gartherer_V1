@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "MINA",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "9n3PTt6tdFSPAeRRp8U2e8YHWNwEgt4EN8ruNmtBqovz",
+    "pair": "MINA/USD",
+    "price_usd": 0.2056,
+    "lp_reserve_usd": 255518085.76,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

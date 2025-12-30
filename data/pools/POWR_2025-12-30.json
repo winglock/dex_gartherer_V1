@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "POWR",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x72075636be2603b91BE1cDA70fAB6ef21cA86989",
+    "pair": "POWR/USD",
+    "price_usd": 0.08823,
+    "lp_reserve_usd": 6.9,
+    "volume_24h": 0.19,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Lv48qdU6FBfvJx37p4qZ9kTXyhXwshDrYfuHiwVeDHD",
+    "pair": "POWR/USD",
+    "price_usd": 0.1637,
+    "lp_reserve_usd": 92029569.35,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0xB8a263C8cFc261ef3383Ab565086EB3affD79631",
+    "pair": "POWR/USD",
+    "price_usd": 0.08639,
+    "lp_reserve_usd": 40.0,
+    "volume_24h": 2.75,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x2be5c1Bd462177c7E5273622F83f62Db372017E9",
+    "pair": "POWR/USD",
+    "price_usd": 0.000393,
+    "lp_reserve_usd": 87.55,
+    "volume_24h": 0.08,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3C442baB170F19Dd40D0b1a405C9d93b088B9332",
+    "pair": "POWR/USD",
+    "price_usd": 0.086,
+    "lp_reserve_usd": 1307.34,
+    "volume_24h": 102.38,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "7UeqHbrguLLz4wk9o4M1y7A2mddqNQH7H5wK8Jb6LQok",
+    "pair": "POWR/USD",
+    "price_usd": 0.08607,
+    "lp_reserve_usd": 6514.4,
+    "volume_24h": 4180.89,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "POWR",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xE3FE800B0de664bf0bCa8aD58eCbc73B259047b0",
+    "pair": "POWR/USD",
+    "price_usd": 0.08674,
+    "lp_reserve_usd": 793808.85,
+    "volume_24h": 87667.81,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

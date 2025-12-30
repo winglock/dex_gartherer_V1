@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Trump",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x2e2A603a35bff3c3e6a21A289Dfd5144d921d3a0",
+    "pair": "TRUMP/USD",
+    "price_usd": 0.0003979,
+    "lp_reserve_usd": 36952.66,
+    "volume_24h": 1474.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

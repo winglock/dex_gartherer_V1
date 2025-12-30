@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "WOM",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xe9877860714A9862650379406a13682458aCeE16",
+    "pair": "WOM/USD",
+    "price_usd": 0.001407,
+    "lp_reserve_usd": 45087.36,
+    "volume_24h": 39.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "WOM",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xe68D05418A8d7969D9CA6761ad46F449629d928c",
+    "pair": "WOM/USD",
+    "price_usd": 0.001421,
+    "lp_reserve_usd": 5226.33,
+    "volume_24h": 1.86,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "WOM",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "8ybHZPfPWnqNnrVNDsq6TYEZNMCC694NpqVVwXpj1STT",
+    "pair": "WOM/USD",
+    "price_usd": 2.291e-6,
+    "lp_reserve_usd": 4551.65,
+    "volume_24h": 0.38,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "WOM",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "9cfD1qwNxz528Ev9pSM1o4JAWDrMFHgDoxoWmuyXf8JX",
+    "pair": "WOM/USD",
+    "price_usd": 0.0001762,
+    "lp_reserve_usd": 74001.13,
+    "volume_24h": 2144.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  }
+]

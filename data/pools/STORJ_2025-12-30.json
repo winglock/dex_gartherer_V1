@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "STORJ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x5a3959cba1a671a0896182774d9e09f3ab69d22e0deed524ea9a7a2c811e4e91",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1388,
+    "lp_reserve_usd": 103597.75,
+    "volume_24h": 62377.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "6ThzfRp93ekZHu7oLKU65drRQCok5HtHZXHfzEUJpnA4",
+    "pair": "STORJ/USD",
+    "price_usd": 0.383,
+    "lp_reserve_usd": 152744025.02,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0x5B129D0496b7C514d1FEa719e9273313c2e7B893",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1381,
+    "lp_reserve_usd": 657.0,
+    "volume_24h": 79.95,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xAEF16913b6C50EBCf627a394921F306985FC8604",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1375,
+    "lp_reserve_usd": 167118.1,
+    "volume_24h": 39822.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xB29148f6eA9F2d78BA9B2d6b30AF37AfDcC31a9E",
+    "pair": "STORJ/USD",
+    "price_usd": 0.1402,
+    "lp_reserve_usd": 16386.46,
+    "volume_24h": 24.97,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x0ABD871723dCC00c457B8EEe1Dd5aD25CAd186ac",
+    "pair": "STORJ/USD",
+    "price_usd": 0.0009572,
+    "lp_reserve_usd": 8.89,
+    "volume_24h": 0.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  },
+  {
+    "symbol": "STORJ",
+    "chain": "pulsechain",
+    "dex": "pulsex",
+    "pool_address": "0x84ffdA77fEbBfB19e71B2968F53ec59C58D9298A",
+    "pair": "STORJ/USD",
+    "price_usd": 0.0009487,
+    "lp_reserve_usd": 20.35,
+    "volume_24h": 0.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096062
+  }
+]

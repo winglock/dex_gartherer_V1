@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "POKT",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "5qJCeYWzvkrKuD1r7bQDus8ffm2vjrunxNUht6NTeise",
+    "pair": "POKT/USD",
+    "price_usd": 0.01195,
+    "lp_reserve_usd": 52867.37,
+    "volume_24h": 42274.6,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "POKT",
+    "chain": "base",
+    "dex": "uniswap",
+    "pool_address": "0x668e5e8db6eb1427eec094c57a8fc7fb392f511e93f4a5ad7f55c24918d206e6",
+    "pair": "POKT/USD",
+    "price_usd": 0.0115,
+    "lp_reserve_usd": 10714.22,
+    "volume_24h": 9.55,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "POKT",
+    "chain": "base",
+    "dex": "pancakeswap",
+    "pool_address": "0xe9fB85D441465A64E5021D2002e678E1863f3BA0",
+    "pair": "POKT/USD",
+    "price_usd": 0.01171,
+    "lp_reserve_usd": 0.98,
+    "volume_24h": 0.17,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "POKT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "8kEwwndh6tUkyFQt1Y18Lj49zBgkqyaRoByEfTKcjPsb",
+    "pair": "POKT/USD",
+    "price_usd": 0.04824,
+    "lp_reserve_usd": 96055166.84,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "POKT",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0x32bb4aD5Fed77f7Abf97d1435f8D6aaae59aA64e",
+    "pair": "POKT/USD",
+    "price_usd": 0.0118,
+    "lp_reserve_usd": 50846.0,
+    "volume_24h": 190044.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "POKT",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "j7XmyoPyegEKMKFv3xdisTX2UjH51MSRjtAtjVdtcom",
+    "pair": "POKT/USD",
+    "price_usd": 0.03494,
+    "lp_reserve_usd": 69299321.84,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "MVL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x3c8AD34155B83ddB7f43119A19503d34Ed2B5c7a",
+    "pair": "MVL/USD",
+    "price_usd": 0.001659,
+    "lp_reserve_usd": 575535.47,
+    "volume_24h": 2441.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "MVL",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "D9asucq5CSCv2a9VADHKctuYxvZMLhaonza85vc8DmS5",
+    "pair": "MVL/USD",
+    "price_usd": 0.003045,
+    "lp_reserve_usd": 90362239.14,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

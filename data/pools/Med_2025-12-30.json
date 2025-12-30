@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "MED",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "3280-factory_osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3_alloyed_allBTC-ibc_3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
+    "pair": "MED/USD",
+    "price_usd": 0.02624,
+    "lp_reserve_usd": 0.81,
+    "volume_24h": 1.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "MED",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "1102-ibc_3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB-uosmo",
+    "pair": "MED/USD",
+    "price_usd": 0.002412,
+    "lp_reserve_usd": 92.02,
+    "volume_24h": 1.43,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "MED",
+    "chain": "ton",
+    "dex": "dedust",
+    "pool_address": "EQAbCrJ7dzhbkTsIAKc4eHrbhAupMsrH3tABZ7bnAkHX29wH",
+    "pair": "MED/USD",
+    "price_usd": 0.00001071,
+    "lp_reserve_usd": 2270.62,
+    "volume_24h": 10.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "MED",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "586-ibc_3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB-uosmo",
+    "pair": "MED/USD",
+    "price_usd": 0.00249,
+    "lp_reserve_usd": 33857.96,
+    "volume_24h": 1877.06,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "MED",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "FyPKy4kUQYzWENczzVo6WqknerdFrQWUeV497AYoY1f6",
+    "pair": "MED/USD",
+    "price_usd": 0.005323,
+    "lp_reserve_usd": 52676199.79,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "MED",
+    "chain": "osmosis",
+    "dex": "osmosis",
+    "pool_address": "587-ibc_27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2-ibc_3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
+    "pair": "MED/USD",
+    "price_usd": 0.002481,
+    "lp_reserve_usd": 73100.49,
+    "volume_24h": 3317.28,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

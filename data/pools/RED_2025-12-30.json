@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Red",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xA4b8fD8E1B20e1c6dE9af567D1062FDFf8497eaf",
+    "pair": "RED/USD",
+    "price_usd": 8.279e-7,
+    "lp_reserve_usd": 1212.97,
+    "volume_24h": 0.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

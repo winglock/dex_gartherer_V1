@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "bera",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "JAoMT7mPJFZKVcdrraW3joE1XomTSohAmmPdqqbSvfgV",
+    "pair": "BERA/USD",
+    "price_usd": 9.586e-6,
+    "lp_reserve_usd": 10563.4,
+    "volume_24h": 114.15,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

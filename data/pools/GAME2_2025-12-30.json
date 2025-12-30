@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "GAME2",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0x22eec00427E3f95d1C6B8b0ECd4a743dF2554226",
+    "pair": "GAME2/USDC",
+    "price_usd": 5622798.193363,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095574
+  }
+]

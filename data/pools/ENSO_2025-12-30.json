@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "ENSO",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x681bf6fc30cfff816400632d91274a9bd0e9b9b1531367a397aceaa6a45179c4",
+    "pair": "ENSO/USD",
+    "price_usd": 0.7587,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 15.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "bsc",
+    "dex": "uniswap",
+    "pool_address": "0x057759b866c2A1a7C615E8546aA1177a1C0c7140",
+    "pair": "ENSO/USD",
+    "price_usd": 0.7348,
+    "lp_reserve_usd": 2432.28,
+    "volume_24h": 83.95,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "bsc",
+    "dex": "UniswapForkOptimized",
+    "pool_address": "0xc76b41Ec23549676f9513D880ab4cf854e0CdB04",
+    "pair": "ENSO/USDC",
+    "price_usd": 24508660096.389404,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095574
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "JBDCMj6jDqWgdv8w9yFu45fPFqNzBbp8BefnDXqNKWSH",
+    "pair": "ENSO/USD",
+    "price_usd": 2.42,
+    "lp_reserve_usd": 307642271.92,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "FVCxZogt6s2mEUCYb2roVND4X1LZvpyxHbvKXxnopQAj",
+    "pair": "ENSO/USD",
+    "price_usd": 0.0005839,
+    "lp_reserve_usd": 23015.09,
+    "volume_24h": 0.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xb378443f3e3912cc4f50caa650d961e2e494e5f2de43c6395d06cee7e0075a57",
+    "pair": "ENSO/USD",
+    "price_usd": 65.88,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 4.46,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ENSO",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x57a62a067A3cE93187d6b1C610Ba6c3FEF759fb5",
+    "pair": "ENSO/USD",
+    "price_usd": 0.9501,
+    "lp_reserve_usd": 117.4,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

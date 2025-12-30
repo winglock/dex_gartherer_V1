@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "AGLD",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0x0261678462654B4CBFAa629e9972063233902200",
+    "pair": "AGLD/USD",
+    "price_usd": 0.2592,
+    "lp_reserve_usd": 28561.14,
+    "volume_24h": 395.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AGLD",
+    "chain": "sui",
+    "dex": "turbos-finance",
+    "pool_address": "0x83b485f177728f5092ea7d4f72f7b4b1eb2d8a4ddd703842a8b4a72619180e2e",
+    "pair": "AGLD/USD",
+    "price_usd": 0.3006,
+    "lp_reserve_usd": 27959449.89,
+    "volume_24h": 40.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AGLD",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0x0d15e893cf50724382368CAFEd222CF131B55307",
+    "pair": "AGLD/USD",
+    "price_usd": 0.2549,
+    "lp_reserve_usd": 2586.43,
+    "volume_24h": 90.54,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AGLD",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xf5BB54AF516890D564643bA16c09117FdA5a98D3",
+    "pair": "AGLD/USD",
+    "price_usd": 0.2534,
+    "lp_reserve_usd": 13386.3,
+    "volume_24h": 593.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "MOCA",
+    "chain": "base",
+    "dex": "aerodrome",
+    "pool_address": "0xbf4f004307F623C2Fa2c6cf8Ce8095200e389B13",
+    "pair": "MOCA/USD",
+    "price_usd": 0.02019,
+    "lp_reserve_usd": 272949.17,
+    "volume_24h": 3931.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "Bv3zZVNvzs4A6E3oJRWHzCfRL7aBNa1uVQjJPjwDvK7b",
+    "pair": "MOCA/USD",
+    "price_usd": 0.07583,
+    "lp_reserve_usd": 673057336.75,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "polygon",
+    "dex": "quickswap",
+    "pool_address": "0x7849e5F46131ab8377d132A9361C90d940345630",
+    "pair": "MOCA/USD",
+    "price_usd": 0.05914,
+    "lp_reserve_usd": 27171.19,
+    "volume_24h": 39.79,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x0b07188b12e3BbA6A680E553E23c4079e98A034b",
+    "pair": "MOCA/USD",
+    "price_usd": 0.02024,
+    "lp_reserve_usd": 1030831.44,
+    "volume_24h": 24104.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "polygon",
+    "dex": "quickswap",
+    "pool_address": "0xfD0d4cBa23Ed8307d4E92f8C4468eCb6f976774E",
+    "pair": "MOCA/USD",
+    "price_usd": 0.05899,
+    "lp_reserve_usd": 28318.14,
+    "volume_24h": 150.64,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "MOCA",
+    "chain": "polygon",
+    "dex": "uniswap",
+    "pool_address": "0x69E1e86F589e23633A774cF4d12356433831F105",
+    "pair": "MOCA/USD",
+    "price_usd": 0.05925,
+    "lp_reserve_usd": 73900.73,
+    "volume_24h": 110.96,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

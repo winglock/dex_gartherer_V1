@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "dot",
+    "chain": "solana",
+    "dex": "pumpswap",
+    "pool_address": "2KFvejGmcwK2UVYggdTQbgQE4tMaoSw4Tyen2SHon4VF",
+    "pair": "DOT/USD",
+    "price_usd": 0.0000735,
+    "lp_reserve_usd": 34293.5,
+    "volume_24h": 35439.32,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "ARDR",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "2P5jJLQFop1efZYF5VDLrpopGy9gxxHnwcs6bbyuQ9be",
+    "pair": "ARDR/USD",
+    "price_usd": 0.1394,
+    "lp_reserve_usd": 138205010.77,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "ARDR",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0x824FE3B04367aF72288A08bcdfB13683632FB8f1",
+    "pair": "ARDR/USD",
+    "price_usd": 0.05826,
+    "lp_reserve_usd": 441.0,
+    "volume_24h": 5.37,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

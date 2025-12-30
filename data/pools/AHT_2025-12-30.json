@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "AHT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "8jG6ccNGMjaw3cqQjCQST1NSdz5GnsszHSC87hmpGUfQ",
+    "pair": "AHT/USD",
+    "price_usd": 0.009132,
+    "lp_reserve_usd": 94822693.19,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  },
+  {
+    "symbol": "AHT",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xAA892A7566610D231d3AC4B753a37C4B9f6a8135",
+    "pair": "AHT/USD",
+    "price_usd": 0.8545,
+    "lp_reserve_usd": 97059.62,
+    "volume_24h": 4276.6,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096144
+  }
+]

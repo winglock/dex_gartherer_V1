@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "JST",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "494HNqePN2abZ6TKHi3iXijA8scZbFJFeViwj1Y9EbD5",
+    "pair": "JST/USD",
+    "price_usd": 0.04324,
+    "lp_reserve_usd": 427163036.09,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "JST",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TRQGvscDjxLUGh39VgjkQ8Syv88pJTDUwW",
+    "pair": "JST/USD",
+    "price_usd": 0.03769,
+    "lp_reserve_usd": 2.89,
+    "volume_24h": 0.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "JST",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TUDo1PuMG6j4aDSg6rsCNiz5gR5cnQaNTT",
+    "pair": "JST/USD",
+    "price_usd": 0.03979,
+    "lp_reserve_usd": 3687835.41,
+    "volume_24h": 19636.7,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  },
+  {
+    "symbol": "JST",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TW68dBGdy9gtk16BfzmvaCZ9pEti3KFkk2",
+    "pair": "JST/USD",
+    "price_usd": 0.03981,
+    "lp_reserve_usd": 7378343.0,
+    "volume_24h": 97857.09,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096143
+  }
+]

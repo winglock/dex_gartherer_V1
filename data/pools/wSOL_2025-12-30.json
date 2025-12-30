@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "wSOL",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "KYX3AMkiC8BTscGz87miKtUkyt4ZcHy728afMoWdWB8",
+    "pair": "WSOL/USD",
+    "price_usd": 3.457e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 128.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "wSOL",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "BiZbrx6mZwvs5fT5wonNT1ooomdLQp1nEQri5T6SY26n",
+    "pair": "WSOL/USD",
+    "price_usd": 3.789e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.2,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "KERNEL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x1542CD77E7A605cbf140823A9f21Fa7ddDE44078",
+    "pair": "KERNEL/USD",
+    "price_usd": 0.07446,
+    "lp_reserve_usd": 12665.76,
+    "volume_24h": 1287.38,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "KERNEL",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x1aaedb2dc55121203326831b2d05ff9763106839",
+    "pair": "KERNEL/USDC",
+    "price_usd": 0.075877,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095569
+  },
+  {
+    "symbol": "KERNEL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x1AaeDB2dC55121203326831B2D05Ff9763106839",
+    "pair": "KERNEL/USD",
+    "price_usd": 0.07568,
+    "lp_reserve_usd": 339.74,
+    "volume_24h": 1.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "KERNEL",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x5494dad412a8b2d855d8f16740f0f0b42dd98703cde3e66dff4b03b77e377ab0",
+    "pair": "KERNEL/USD",
+    "price_usd": 0.4954,
+    "lp_reserve_usd": 1400.22,
+    "volume_24h": 23.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "KERNEL",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HTLZwBmmDJRySzKGfWXsiA9Q4TxYoRoiW9JL6N8tek3s",
+    "pair": "KERNEL/USD",
+    "price_usd": 0.2102,
+    "lp_reserve_usd": 209238360.54,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  },
+  {
+    "symbol": "KERNEL",
+    "chain": "worldchain",
+    "dex": "uniswap",
+    "pool_address": "0x903AF2DF70e024245D7a51AD3edc741075D3402F",
+    "pair": "KERNEL/USD",
+    "price_usd": 1.593e-9,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096145
+  }
+]

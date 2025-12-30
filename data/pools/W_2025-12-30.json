@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "W",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0x86bc870520acf4e9c255270d7f51c814ad184960",
+    "pair": "W/USDC",
+    "price_usd": 0.034077,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095568
+  },
+  {
+    "symbol": "W",
+    "chain": "base",
+    "dex": "PancakeswapV3",
+    "pool_address": "0xa7c002be5c1cbcf229dbf92367e32dce63680f67",
+    "pair": "W/USDC",
+    "price_usd": 0.034154,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095569
+  },
+  {
+    "symbol": "W",
+    "chain": "arbitrum",
+    "dex": "UniswapV3",
+    "pool_address": "0x21a021274f2c95a85bd5a1bd078301195eaf0ce9",
+    "pair": "W/USDC",
+    "price_usd": 0.033269,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095568
+  },
+  {
+    "symbol": "W",
+    "chain": "arbitrum",
+    "dex": "SolidlyV3",
+    "pool_address": "0x6c9ab1c1dc392b53f9fb2ea6d9dace5f99efdc48",
+    "pair": "W/USDC",
+    "price_usd": 0.033269,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095568
+  }
+]

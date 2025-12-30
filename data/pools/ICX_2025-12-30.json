@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "ICX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x107d28B94a147231279184aE445C96026BE9eaE3",
+    "pair": "ICX/USD",
+    "price_usd": 0.002044,
+    "lp_reserve_usd": 0.3,
+    "volume_24h": 0.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ICX",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0xDdC5e632b1573673249883fA68aCB7d79e42DbaC",
+    "pair": "ICX/USD",
+    "price_usd": 0.05562,
+    "lp_reserve_usd": 433.0,
+    "volume_24h": 32.56,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ICX",
+    "chain": "cronos",
+    "dex": "vvsfinance",
+    "pool_address": "0xCAD69E6C54Fe94eb03201AD5d752D861182C2473",
+    "pair": "ICX/USD",
+    "price_usd": 0.05681,
+    "lp_reserve_usd": 15277.73,
+    "volume_24h": 500.71,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "ICX",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "4cM4vDbzjRLncnDKQudjKimmeKYZU9Q9dhfoQi9rokvF",
+    "pair": "ICX/USD",
+    "price_usd": 0.1274,
+    "lp_reserve_usd": 135663944.23,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

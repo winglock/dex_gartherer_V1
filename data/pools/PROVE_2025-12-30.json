@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "PROVE",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "HNj6gV7zNQtvDYsXxts28pCpwa4qNTYbrv9TNsMtdRHg",
+    "pair": "PROVE/USD",
+    "price_usd": 1.36,
+    "lp_reserve_usd": 1364471089.42,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0xC76cDB74d781E219e8c8855A99584dd2e4580046",
+    "pair": "PROVE/USD",
+    "price_usd": 0.4041,
+    "lp_reserve_usd": 10885.79,
+    "volume_24h": 1979.33,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "ethereum",
+    "dex": "uniswap",
+    "pool_address": "0x82868978de78402910be75923f421829021c801f928677da4806287a4502119e",
+    "pair": "PROVE/USD",
+    "price_usd": 0.4006,
+    "lp_reserve_usd": 5707.92,
+    "volume_24h": 258.57,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x66a3f1927E31190FE85ADf5db4E76F4408056424",
+    "pair": "PROVE/USD",
+    "price_usd": 0.4025,
+    "lp_reserve_usd": 63.78,
+    "volume_24h": 0.8,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "ethereum",
+    "dex": "UniswapV3",
+    "pool_address": "0xc76cdb74d781e219e8c8855a99584dd2e4580046",
+    "pair": "PROVE/USDC",
+    "price_usd": 0.401962,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "paraswap",
+    "timestamp": 1767095574
+  },
+  {
+    "symbol": "PROVE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x3353274E21Dec3964E56CC227582E320533c5869",
+    "pair": "PROVE/USD",
+    "price_usd": 0.4008,
+    "lp_reserve_usd": 380861.63,
+    "volume_24h": 149686.61,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096064
+  }
+]

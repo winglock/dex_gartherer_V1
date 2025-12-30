@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "STEEM",
+    "chain": "solana",
+    "dex": "meteora",
+    "pool_address": "FzNQK7AtwXLK28crA4GGDm9DaUUKai9zzQqtsDf8omUa",
+    "pair": "STEEM/USD",
+    "price_usd": 0.1266,
+    "lp_reserve_usd": 65378383.93,
+    "volume_24h": 7.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "STEEM",
+    "chain": "solana",
+    "dex": "orca",
+    "pool_address": "Hjnqd8TfjF82i24c457CS4v7DpoFsidLgrx8sCpyMSVF",
+    "pair": "STEEM/USD",
+    "price_usd": 0.09465,
+    "lp_reserve_usd": 49120547.15,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "STEEM",
+    "chain": "energi",
+    "dex": "energiswap",
+    "pool_address": "0x8B043cd39d824A38F1622cAF33aF20A8709Af9fE",
+    "pair": "STEEM/USD",
+    "price_usd": 0.06989,
+    "lp_reserve_usd": 387.0,
+    "volume_24h": 8.14,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767096063
+  },
+  {
+    "symbol": "STEEM",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0xF0e186Da7d4c27840260e1a96606CAf0f83d5999",
+    "pair": "STEEM/USD",
+    "price_usd": 3.257e-6,
+    "lp_reserve_usd": 6465.15,
+    "volume_24h": 3.39,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767095642
+  }
+]
