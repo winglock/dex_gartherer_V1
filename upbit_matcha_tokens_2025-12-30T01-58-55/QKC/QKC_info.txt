@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: QKC
+원본 풀네임: QuarkChain
+검색 쿼리: QKC QuarkChain
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:33
+발견된 토큰 수: 15개
+전체 결과 수: 720개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] QKC QuarkChain On Base
+ 이름: QKC QuarkChain On Base
+ 주소: 0xd46a31951f200bed1418d930f4e1b4752a093daf
+ 체인ID: 8453
+ Decimals: 18
+
+[2] QKC
+ 이름: QuarkChain Token
+ 주소: 0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664
+ 체인ID: 1
+ Decimals: 18
+
+[3] QKCQUA
+ 이름: QKC QuarkChain Perpetual
+ 주소: 0x0cb98262330da802753cc0c1321e78e39efab4d4
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Basis Gold Share QKC
+ 이름: Basis Gold Share QKC
+ 주소: 0x137c89d12748d358863f9473bcfbbb8951b1d07d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] QKC
+ 이름: Quantum Kinetics Corporation
+ 주소: 3ykAqezKyrP1ch2aGR41iUMqymGi77ZkNvTxBqJKpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] QuarkChain QKC
+ 이름: QuarkChain QKC
+ 주소: 0x847784100395dd5036d45a64fbde7d8498f4acf2
+ 체인ID: 130
+ Decimals: 18
+
+[7] QuarkChain QKC
+ 이름: QuarkChain QKC
+ 주소: 0x38718feed74085d170cd73aec1389f161f7caeeb
+ 체인ID: 130
+ Decimals: 18
+
+[8] QuarkChain QKC
+ 이름: QuarkChain QKC
+ 주소: 0x19a16d51f1fc8e96f1d7ef69178ef91d4ad0a708
+ 체인ID: 130
+ Decimals: 18
+
+[9] Qkc Officially
+ 이름: Qkc Officially
+ 주소: 0x2ead8a97317f11c0b01fe1c8d9d83da1d9d4ee94
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Karum Qkc
+ 이름: Karum Qkc
+ 주소: 0x5bc7bc0cc6351104eb394677942df2d3d4ad9a42
+ 체인ID: 130
+ Decimals: 18
+
+[11] Qkc Waz
+ 이름: Qkc Waz
+ 주소: 0xf60889dcbb00df8f72f1b523530ec954a1f9bb83
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Qkc Neuralink
+ 이름: Qkc Neuralink
+ 주소: 0xa527e3232450324dba63a25fce240b036d9e24fa
+ 체인ID: 130
+ Decimals: 18
+
+[13] Rexas QKC
+ 이름: Rexas QKC
+ 주소: 0xd7f15d316b5273d3b8c50dc1887b4a09cad096ab
+ 체인ID: 8453
+ Decimals: 18
+
+[14] QKC XPR
+ 이름: QKC XPR
+ 주소: 0x1f075faeb95b4b7c09d8da673bdd7cb1536015c2
+ 체인ID: 8453
+ Decimals: 18
+
+[15] QKC ORDER
+ 이름: QKC ORDER
+ 주소: 0xf74f10260b94cfb1575d8c7f737f77c663f3eb94
+ 체인ID: 8453
+ Decimals: 18

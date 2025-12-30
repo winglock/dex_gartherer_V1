@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: KAITO
+원본 풀네임: KAITO
+검색 쿼리: KAITO KAITO
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:50
+발견된 토큰 수: 15개
+전체 결과 수: 6879개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] KAITO
+ 이름: KAITO
+ 주소: 0x98d0baa52b2d063e780de12f615f963fe8537553
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ?There is strong evidence suggesting **Kaito (KAITO)** is deeply
+ 이름: @There is strong evidence suggesting **Kaito (KAITO)** is deeply
+ 주소: 0xf4daa42741f99a83a64b7947d1acd7c0e0e0bb1f
+ 체인ID: 8453
+ Decimals: 18
+
+[3] @Are you currently yapping base on kaito kaito rn? If yes, are yo
+ 이름: @Are you currently yapping base on kaito kaito rn? If yes, are yo
+ 주소: 0x5aee30e925f11cfad81a9fa77dbe1cbfec0ea6ce
+ 체인ID: 8453
+ Decimals: 18
+
+[4] KAITO KAITO
+ 이름: KAITO KAITO
+ 주소: 0xef3c9353fe22f759b6b7fbf8c518134cc10af4d1
+ 체인ID: 130
+ Decimals: 18
+
+[5] KAITO KAITO
+ 이름: KAITO KAITO
+ 주소: 0xfeed1f1d5d82ecb4e1f6b7a083dd31e7bf81940f
+ 체인ID: 8453
+ Decimals: 9
+
+[6] KAITO KAITO
+ 이름: KAITO KAITO
+ 주소: 0xcd35f8babe7f05fac00981352ab10211397f1574
+ 체인ID: 130
+ Decimals: 18
+
+[7] KAITO KAITO
+ 이름: KAITO KAITO
+ 주소: 0x6bc89959fb96293783aa7da5affd7832e99b2923
+ 체인ID: 8453
+ Decimals: 9
+
+[8] STAR10 KAITO KAITO
+ 이름: STAR10 KAITO KAITO
+ 주소: 0x55995ed092706d1be40a9b14c1de93f2a1d5711b
+ 체인ID: 8453
+ Decimals: 9
+
+[9] KAITO KAITO coin
+ 이름: KAITO KAITO coin
+ 주소: 0x74c1574aa6318ddcd2f98f4fb2623576b69bda5c
+ 체인ID: 8453
+ Decimals: 18
+
+[10] KAITO KAITO finance
+ 이름: KAITO KAITO finance
+ 주소: 0x9b4cc643ede621f8616273e30fedefeaa9b50f07
+ 체인ID: 8453
+ Decimals: 18
+
+[11] KAITO KAITO CAT
+ 이름: KAITO KAITO CAT
+ 주소: 0x84cb90bddd93b8b91a9cdd6159bb608c2f776107
+ 체인ID: 8453
+ Decimals: 18
+
+[12] KAITO KAITO V2
+ 이름: KAITO KAITO V2
+ 주소: 0x2f26ed61b159fa076db3298af03c28e17e07fb4e
+ 체인ID: 130
+ Decimals: 18
+
+[13] KAITO KAITO Token
+ 이름: KAITO KAITO Token
+ 주소: 0xf2c8fd50ecc226588fa80a2098ca97db04b1c10c
+ 체인ID: 130
+ Decimals: 18
+
+[14] KAITO KAITO Reserve
+ 이름: KAITO KAITO Reserve
+ 주소: 0xaef110fb51853f26c792f93d0289d34c39d642b8
+ 체인ID: 8453
+ Decimals: 18
+
+[15] KAITO KAITO AI
+ 이름: KAITO KAITO AI
+ 주소: 0xa43d549bfeca2a18468034c01b6183df548f4885
+ 체인ID: 130
+ Decimals: 18

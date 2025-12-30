@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BSV
+원본 풀네임: Bitcoin SV
+검색 쿼리: BSV Bitcoin SV
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:46
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BTCB
+ 이름: BTCB Token
+ 주소: 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c
+ 체인ID: 56
+ Decimals: 18
+
+[2] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[3] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+ 체인ID: 1
+ Decimals: 8
+
+[4] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[5] WBTC
+ 이름: (PoS) Wrapped BTC
+ 주소: 0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6
+ 체인ID: 137
+ Decimals: 8
+
+[6] BCH
+ 이름: Bitcoin Cash Token
+ 주소: 0x8ff795a6f4d97e7887c79bea79aba5cc76444adf
+ 체인ID: 56
+ Decimals: 18
+
+[7] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 1
+ Decimals: 8
+
+[8] ATOM
+ 이름: Cosmos Token
+ 주소: 0x0eb3a705fc54725037cc9e008bdede697f62f335
+ 체인ID: 56
+ Decimals: 18
+
+[9] BTCB
+ 이름: Bitcoin on Base
+ 주소: 0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce
+ 체인ID: 8453
+ Decimals: 18
+
+[10] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x0555e30da8f98308edb960aa94c0db47230d2b9c
+ 체인ID: 143
+ Decimals: 8
+
+[11] BTC.b
+ 이름: Bitcoin
+ 주소: 0x152b9d0fdc40c096757f570a51e494bd4b943e50
+ 체인ID: 43114
+ Decimals: 8
+
+[12] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 56
+ Decimals: 18
+
+[13] RBTC
+ 이름: RBTC
+ 주소: 0x441fcb23dfe8289cf572126fedcf450974adc891
+ 체인ID: 8453
+ Decimals: 18
+
+[14] BTCBR
+ 이름: Bitcoin BR
+ 주소: 0x0cf8e180350253271f4b917ccfb0accc4862f262
+ 체인ID: 56
+ Decimals: 18
+
+[15] BITCOIN
+ 이름: HarryPotterObamaSonic10Inu
+ 주소: 0x72e4f9f808c49a2a61de9c5896298920dc4eeea9
+ 체인ID: 1
+ Decimals: 8

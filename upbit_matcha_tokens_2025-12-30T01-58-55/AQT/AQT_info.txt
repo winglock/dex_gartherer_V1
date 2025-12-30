@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AQT
+원본 풀네임: Alpha Quark Token
+검색 쿼리: AQT Alpha Quark Token
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:41
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum Token
+ 주소: 0x2170ed0880ac9a755fd29b2688956bd959f933f8
+ 체인ID: 56
+ Decimals: 18
+
+[2] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[3] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[4] BTCB
+ 이름: BTCB Token
+ 주소: 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c
+ 체인ID: 56
+ Decimals: 18
+
+[5] XRP
+ 이름: XRP Token
+ 주소: 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe
+ 체인ID: 56
+ Decimals: 18
+
+[6] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[7] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[8] ZEC
+ 이름: Zcash Token
+ 주소: 0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb
+ 체인ID: 56
+ Decimals: 18
+
+[9] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[10] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18
+
+[11] WETH
+ 이름: Wrapped Ether
+ 주소: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+ 체인ID: 1
+ Decimals: 18
+
+[12] BUSD
+ 이름: BUSD Token
+ 주소: 0xe9e7cea3dedca5984780bafc599bd69add087d56
+ 체인ID: 56
+ Decimals: 18
+
+[13] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[14] ADA
+ 이름: Cardano Token
+ 주소: 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47
+ 체인ID: 56
+ Decimals: 18
+
+[15] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18

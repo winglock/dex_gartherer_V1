@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MANA
+원본 풀네임: Decentraland
+검색 쿼리: MANA Decentraland
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:08
+발견된 토큰 수: 15개
+전체 결과 수: 2632개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MANA
+ 이름: Decentraland MANA
+ 주소: 0x0f5d2fb29fb7d3cfee444a200298f468908cc942
+ 체인ID: 1
+ Decimals: 18
+
+[2] MANA
+ 이름: (PoS) Decentraland MANA
+ 주소: 0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4
+ 체인ID: 137
+ Decimals: 18
+
+[3] MANA
+ 이름: Decentraland
+ 주소: 0x26433c8127d9b4e9b71eaa15111df99ea2eeb2f8
+ 체인ID: 56
+ Decimals: 18
+
+[4] MANA Decentraland On Base
+ 이름: MANA Decentraland On Base
+ 주소: 0xc1772289e70b0b97ad2d273c6a0eabae41ecadc5
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MANA Decentraland AI Presale v2
+ 이름: MANA Decentraland AI Presale v2
+ 주소: 0xbaeca9e2c275b8e3b28cd2bfabf9ee53ea0be6c5
+ 체인ID: 56
+ Decimals: 9
+
+[6] MARS4
+ 이름: MARS4
+ 주소: 0x16cda4028e9e872a38acb903176719299beaed87
+ 체인ID: 1
+ Decimals: 18
+
+[7] aMANA
+ 이름: Aave interest bearing MANA
+ 주소: 0xa685a61171bb30d4072b338c80cb7b2c865c873e
+ 체인ID: 1
+ Decimals: 18
+
+[8] aMANA
+ 이름: Aave Interest bearing MANA
+ 주소: 0x6fce4a401b6b80ace52baaefe4421bd188e76f6f
+ 체인ID: 1
+ Decimals: 18
+
+[9] MANA
+ 이름: Mana Decentraland
+ 주소: 0x2309aadcaa4a2fb827469da8ccf812393be52b85
+ 체인ID: 8453
+ Decimals: 18
+
+[10] MANA
+ 이름: MANA DECENTRALAND
+ 주소: 3J2qLgKs713WsSGi4E8jMAoh8Nari6AZPGwmFyZjUfyw
+ 체인ID: 1399811149
+ Decimals: 9
+
+[11] MANA
+ 이름: Genesis Mana
+ 주소: 0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5
+ 체인ID: 1
+ Decimals: 18
+
+[12] MANA Decen
+ 이름: "MANA Decentraland On Binance Alpha
+ 주소: 0xda63283d0226ed320ce7b166afcf2eb5f8005efd
+ 체인ID: 56
+ Decimals: 18
+
+[13] MARS4
+ 이름: MARS4 [via ChainPort.io]
+ 주소: 0x9cd9c5a44cb8fab39b2ee3556f5c439e65e4fddd
+ 체인ID: 56
+ Decimals: 18
+
+[14] MANADE
+ 이름: MANA Decentraland Perpetual
+ 주소: 0x4e598c28021094d6b5d442db1016e1958776447a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Nikola Tesla Token MANA
+ 이름: Nikola Tesla Token MANA
+ 주소: 0x9166978443e0923596c9b3843ae07902ae926490
+ 체인ID: 130
+ Decimals: 18

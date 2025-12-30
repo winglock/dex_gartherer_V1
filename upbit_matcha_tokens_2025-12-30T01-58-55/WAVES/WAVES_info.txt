@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WAVES
+원본 풀네임: Waves
+검색 쿼리: WAVES Waves
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:42
+발견된 토큰 수: 15개
+전체 결과 수: 5207개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SHRUB
+ 이름: Shrub
+ 주소: 0x3b991130eae3cca364406d718da22fa1c3e7c256
+ 체인ID: 1
+ Decimals: 18
+
+[2] BIFI
+ 이름: Beefy
+ 주소: 0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1
+ 체인ID: 1
+ Decimals: 18
+
+[3] XYO
+ 이름: XY Oracle
+ 주소: 0x55296f69f40ea6d20e478533c15a6b08b654e758
+ 체인ID: 1
+ Decimals: 18
+
+[4] ROCKET
+ 이름: AI ROCKET by Virtuals
+ 주소: 0x0bf852ebb243b963652b71103a2b97cf446f22c3
+ 체인ID: 8453
+ Decimals: 18
+
+[5] COTI
+ 이름: COTI Token
+ 주소: 0xddb3422497e61e13543bea06989c0789117555c5
+ 체인ID: 1
+ Decimals: 18
+
+[6] RFL
+ 이름: Reflect
+ 주소: 0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e
+ 체인ID: 8453
+ Decimals: 18
+
+[7] FRTC
+ 이름: FART COIN
+ 주소: 0x88b985007d714d1578bccdec2303212c14946cdc
+ 체인ID: 56
+ Decimals: 18
+
+[8] Boe
+ 이름: Boe
+ 주소: 0xff62ddfa80e513114c3a0bf4d6ffff1c1d17aadf
+ 체인ID: 8453
+ Decimals: 18
+
+[9] TOAD
+ 이름: TOAD
+ 주소: 0x095a7e0d6f3c9201fa867799e14221ea8b33562e
+ 체인ID: 56
+ Decimals: 9
+
+[10] PEPEC
+ 이름: PEPE Clanker
+ 주소: 0x1196c6704789620514fd25632abe15f69a50bc4f
+ 체인ID: 8453
+ Decimals: 18
+
+[11] BABYBNB
+ 이름: BabyBNB
+ 주소: 0x2d5f3b0722acd35fbb749cb936dfdd93247bbc95
+ 체인ID: 56
+ Decimals: 18
+
+[12] $SPEEDY
+ 이름: SPEEDY
+ 주소: 0xc8f69a9b46b235de8d0b77c355fff7994f1b090f
+ 체인ID: 1
+ Decimals: 18
+
+[13] TST
+ 이름: Test
+ 주소: 0x86bb94ddd16efc8bc58e6b056e8df71d9e666429
+ 체인ID: 56
+ Decimals: 18
+
+[14] ERIC
+ 이름: ERIC
+ 주소: 0x16c22a91c705ec3c2d5945dbe2aca37924f1d2ed
+ 체인ID: 1
+ Decimals: 9
+
+[15] EBULL
+ 이름: ETHEREUM IS GOOD
+ 주소: 0x71297312753ea7a2570a5a3278ed70d9a75f4f44
+ 체인ID: 1
+ Decimals: 9

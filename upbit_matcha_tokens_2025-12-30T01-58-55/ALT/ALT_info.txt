@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ALT
+원본 풀네임: Altlayer
+검색 쿼리: ALT Altlayer
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:09
+발견된 토큰 수: 15개
+전체 결과 수: 9745개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ALT Altlayer On Base
+ 이름: ALT Altlayer On Base
+ 주소: 0x9ae26f27f64e379d375e8252949343a8687bf0c1
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ALT
+ 이름: AltLayer Token
+ 주소: 0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb
+ 체인ID: 1
+ Decimals: 18
+
+[3] ALT-TRAD
+ 이름: ALT-TRAD
+ 주소: 0xd6c30dd37dd2a4ede1e203b0459d1a36ebf78f4c
+ 체인ID: 8453
+ Decimals: 18
+
+[4] ALT
+ 이름: AltLayer Token
+ 주소: 0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb
+ 체인ID: 56
+ Decimals: 18
+
+[5] DEFY
+ 이름: CTRL ALT DEFY
+ 주소: D3hgZR66eBC8zM9Y2afw3ziznBT6unffDAitjRBbpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] Alt Adoption
+ 이름: Alt Adoption
+ 주소: 0x20c274bc55ff6fb78636c83b0d0dc8f27a0c9369
+ 체인ID: 130
+ Decimals: 18
+
+[7] Alt季节指数
+ 이름: Alt Season Index
+ 주소: 0x5996bed357f5598a531d6cd6d37a16c263be4444
+ 체인ID: 56
+ Decimals: 18
+
+[8] ALTLONG
+ 이름: ALT LONG
+ 주소: 0xed6f5d9eb5c50d8bbd19ccd5bbf9deab8a33eec8
+ 체인ID: 8453
+ Decimals: 18
+
+[9] TSLA
+ 이름: Alt Tesla
+ 주소: 0x5b38e4b159731eb3dd510769b612ee890b170b07
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Fund
+ 이름: Fund $ALT
+ 주소: HNSwKHJGoJrvCZbrPokBNak6m9CY9w2kXAeXRbsmpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] ALTP
+ 이름: Alt Putin
+ 주소: BiNzUTdnubBdjXEaQye8wakHJg1dSvj5hwYQr8cBD777
+ 체인ID: 1399811149
+ Decimals: 9
+
+[12] AI
+ 이름: Alt Index
+ 주소: HBDN2KT74vLLvm1DA18gSbAJdrGpHyzrTSyY33jXZj56
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] ALTALT
+ 이름: ALT Altlayer Perpetual
+ 주소: 0xefaed5f16526dfa753ef39e253ed9b50318d2adf
+ 체인ID: 8453
+ Decimals: 18
+
+[14] ALT + F4
+ 이름: PRESS ALT + F4 FOR FREE 100X
+ 주소: 6WKSgFqR6oqYeX9JrM42azwqihKWaoqY2AUJq4LEpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] CTRLX
+ 이름: Ctrl-Alt-100X
+ 주소: 7AMHfdiDPG5vAKPmbUoby2MADVrmps3uCN8DLExppump
+ 체인ID: 1399811149
+ Decimals: 6

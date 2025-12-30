@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: XRP
+원본 풀네임: XRP
+검색 쿼리: XRP XRP
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:05
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XRP
+ 이름: XRP Token
+ 주소: 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe
+ 체인ID: 56
+ Decimals: 18
+
+[2] cbXRP
+ 이름: Coinbase Wrapped XRP
+ 주소: 0xcb585250f852c6c6bf90434ab21a00f02833a4af
+ 체인ID: 8453
+ Decimals: 6
+
+[3] WXRP
+ 이름: Wrapped XRP
+ 주소: 0x39fbbabf11738317a448031930706cd3e612e1b9
+ 체인ID: 1
+ Decimals: 18
+
+[4] uXRP
+ 이름: XRP (Universal)
+ 주소: 0x2615a94df961278dcbc41fb0a54fec5f10a693ae
+ 체인ID: 8453
+ Decimals: 18
+
+[5] XRPB
+ 이름: X RIPPLE BASE
+ 주소: 0xdd15d8c663745f937948714813734e26564c2460
+ 체인ID: 8453
+ Decimals: 18
+
+[6] XRPL
+ 이름: XRPL
+ 주소: 0xd56bb53784a2cc9e1af5203d85031947fafe155a
+ 체인ID: 8453
+ Decimals: 18
+
+[7] uARB
+ 이름: Arbitrum (Universal)
+ 주소: 0xd01cb4171a985571deff48c9dc2f6e153a244d64
+ 체인ID: 8453
+ Decimals: 18
+
+[8] XRP20
+ 이름: XRP20
+ 주소: 0xe4ab0be415e277d82c38625b72bd7dea232c2e7d
+ 체인ID: 1
+ Decimals: 18
+
+[9] XRPETF
+ 이름: XRPETF
+ 주소: 0x8e5f5a0826c2584d6ac88da9ee4fc0b24e1e2b07
+ 체인ID: 8453
+ Decimals: 18
+
+[10] XRPL
+ 이름: XRP Legion
+ 주소: 0x817248be18d66d5923c8d6a8b05bca055c9f5398
+ 체인ID: 8453
+ Decimals: 18
+
+[11] WXRP
+ 이름: WXRP
+ 주소: 0x50680bf49db656ca1ad3f86dd3d91c92b040859c
+ 체인ID: 8453
+ Decimals: 18
+
+[12] XRP
+ 이름: XRP
+ 주소: 0x05dc542b5846695eba51396727e415a7a7952163
+ 체인ID: 56
+ Decimals: 6
+
+[13] wXRP
+ 이름: Wrapped XRP
+ 주소: 0xb73ee5488647a6302ebf5fee8af3152f6960ae4c
+ 체인ID: 10
+ Decimals: 6
+
+[14] WXRP
+ 이름: Wrapped XRP
+ 주소: 0x6016d163251c2a6dc93f7497de2eadd22e76bde7
+ 체인ID: 1
+ Decimals: 18
+
+[15] uATOM
+ 이름: Cosmos (Universal)
+ 주소: 0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee
+ 체인ID: 8453
+ Decimals: 18

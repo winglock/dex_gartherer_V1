@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: GAS
+원본 풀네임: Gas
+검색 쿼리: GAS Gas
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:39
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[3] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[4] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[5] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[6] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[7] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[8] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 130
+ Decimals: 18
+
+[9] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 59144
+ Decimals: 18
+
+[10] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[11] ATOM
+ 이름: Cosmos Token
+ 주소: 0x0eb3a705fc54725037cc9e008bdede697f62f335
+ 체인ID: 56
+ Decimals: 18
+
+[12] BNB
+ 이름: BNB
+ 주소: 0xb8c77482e45f1f44de1745f52c74426c631bdd52
+ 체인ID: 1
+ Decimals: 18
+
+[13] ARB
+ 이름: Arbitrum
+ 주소: 0x912ce59144191c1204e64559fe8253a0e49e6548
+ 체인ID: 42161
+ Decimals: 18
+
+[14] HEX
+ 이름: HEX
+ 주소: 0x2b591e99afe9f32eaa6214f7b7629768c40eeb39
+ 체인ID: 1
+ Decimals: 8
+
+[15] USDC
+ 이름: USD Coin
+ 주소: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
+ 체인ID: 10
+ Decimals: 6

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ONT
+원본 풀네임: Ontology
+검색 쿼리: ONT Ontology
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:52
+발견된 토큰 수: 15개
+전체 결과 수: 1849개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ONT
+ 이름: Ontology Token
+ 주소: 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335
+ 체인ID: 56
+ Decimals: 18
+
+[2] BIFI
+ 이름: Beefy
+ 주소: 0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1
+ 체인ID: 1
+ Decimals: 18
+
+[3] WONT
+ 이름: this wont bond
+ 주소: 6Qpkjx6oZE5mbRFjv2crfaPg9gZFwW5f55Qv77TGpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[4] XWG10X
+ 이름: XRP WONT GO 10X
+ 주소: DKKeECexCE3otfNRsoMTKwKerKBH19Lbg56FP7QFpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[5] CEASEFIRE
+ 이름: this wont last long
+ 주소: DKfmzQHHZ93roYnG6JFSZTBgfEowYnyh95vxCVeopump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] JACWB
+ 이름: This Coin Wont Bond
+ 주소: 9UUH1rdDbmhsysNGdBjbFHzFVW51iqyJoNNq781jpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] bond
+ 이름: wont sell till bond
+ 주소: 4bnzWw17AiJTL9QtQqb21VNzn1GLSqHgNY8vNgsTpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] Wont
+ 이름: Wont get
+ 주소: 0xa23e1986fce06bd31db896ff5e7f333d0a83b33d
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Wont stop
+ 이름: Wont stop
+ 주소: 0xecb392a4de3a5196791c76bcca9edee788c0f616
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Pussy
+ 이름: Solo You Wont Bond This
+ 주소: 6VdzU21vnHwMn3eQE9ZbF1Uy7sifrxWiuVYAmgqpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] Shit…
+ 이름: This CA wont bond shit….
+ 주소: CEyA36LCJC2KgH9pkquxoRS9peJvruVZgFBuYQ3Bpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[12] TOOOOOLONG
+ 이름: ticker too long wont bond
+ 주소: 64YWePkWzzb9unq9WakpJX7F9BUrKqvxQqT3yLfapump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] Pussy
+ 이름: Solo You Wont Bond This
+ 주소: C2UvY7R3w7MoubjZ6Nk9Doa6p4dKNFNSu392ypDppump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] retard
+ 이름: wont be put down retards
+ 주소: 37p5iJb1zM1Cas4SKDkKEJcmDWmioVogDRbhi7gJpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] AGAIN
+ 이름: I wont long the breakout AGAIN
+ 주소: 1mrqcWbZsRTw5N2iiLVWSs3JZdsBpVPisAsRAphbPiE
+ 체인ID: 1399811149
+ Decimals: 6

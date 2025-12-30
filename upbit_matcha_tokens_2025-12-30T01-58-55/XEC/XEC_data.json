@@ -1,0 +1,276 @@
+{
+  "originalSymbol": "XEC",
+  "originalFullName": "eCash",
+  "searchedQuery": "XEC eCash",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 1468,
+  "tokens": [
+    {
+      "address": "0x0ef2e7602add1733bfdb17ac3094d0421b502ca3",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "eCash",
+      "symbol": "XEC",
+      "type": "ERC20",
+      "hasLogo": true,
+      "issuer": {
+        "name": "binance",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "transactionsHourly": 2,
+      "transactionsDaily": 4,
+      "transactionsWeekly": 33,
+      "transactionsMonthly": 197,
+      "volumeUsdHourly": 57.55686644463342,
+      "volumeUsdDaily": 60.237075826376234,
+      "volumeUsdWeekly": 1550.075570335383,
+      "volumeUsdMonthly": 6002.28382637129,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x0ef2e7602add1733bfdb17ac3094d0421b502ca3"
+    },
+    {
+      "address": "0x7dfa9c9e105e3b2fb35a6a1d8fb200082af8f898",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC (eCash) NFT",
+      "symbol": "XEC (eCash) NFT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x7dfa9c9e105e3b2fb35a6a1d8fb200082af8f898"
+    },
+    {
+      "address": "0x371e790de7fbf9e0bae51d2409d0ee7dd7342f7b",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "XEC eCash On Binance Alpha",
+      "symbol": "XEC eCash",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x371e790de7fbf9e0bae51d2409d0ee7dd7342f7b"
+    },
+    {
+      "address": "0x58e0bd8ffd3758ff7eb1cdb1d779f586097860d4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC eCash On Base",
+      "symbol": "XEC eCash On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x58e0bd8ffd3758ff7eb1cdb1d779f586097860d4"
+    },
+    {
+      "address": "0x6e0fe5d6af0577372dd44bc44335f71efdb50e06",
+      "chainId": 56,
+      "decimals": 9,
+      "name": "XEC eCash AI Presale v2",
+      "symbol": "XEC eCash AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x6e0fe5d6af0577372dd44bc44335f71efdb50e06"
+    },
+    {
+      "address": "0x5ca0a75d889267bb77245aad93b0fd9230d90524",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC eCash Perpetual",
+      "symbol": "XECECA",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x5ca0a75d889267bb77245aad93b0fd9230d90524"
+    },
+    {
+      "address": "0xe57388590d563c799ca7033a6022c3933e020e91",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC",
+      "symbol": "XEC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe57388590d563c799ca7033a6022c3933e020e91"
+    },
+    {
+      "address": "0x37afc66d1d41eb24d28495e8119f00aed2adbbae",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC FANS",
+      "symbol": "DTF?               XEC FANS",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x37afc66d1d41eb24d28495e8119f00aed2adbbae"
+    },
+    {
+      "address": "0xb779a63852d192bd795f8fd066cd4dd71f9f335a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "What is eCash (XEC)?...",
+      "symbol": "What is eCash (XEC)?...",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb779a63852d192bd795f8fd066cd4dd71f9f335a"
+    },
+    {
+      "address": "0xe261e44a11ec0fc67c26717f0478c0909bdf0a85",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC GORILLA",
+      "symbol": "XECGOR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe261e44a11ec0fc67c26717f0478c0909bdf0a85"
+    },
+    {
+      "address": "0x0e8a3b6ab381a97dff59faaf9cd0da811187441b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC GORILLA",
+      "symbol": "XECGOR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0e8a3b6ab381a97dff59faaf9cd0da811187441b"
+    },
+    {
+      "address": "0x31c4e0df8c3a15660bca7b14e2b7266f16e3ef97",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC MAN",
+      "symbol": "XECM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x31c4e0df8c3a15660bca7b14e2b7266f16e3ef97"
+    },
+    {
+      "address": "0x6c8cdd31b617e4880bff8b61cba6f82cabdfdc33",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC FANS",
+      "symbol": "XECFAN",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6c8cdd31b617e4880bff8b61cba6f82cabdfdc33"
+    },
+    {
+      "address": "0x1e24fccc6e3383cb2a4c34e96c66baf102efe708",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "XEC RAFFLE",
+      "symbol": "XECR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x1e24fccc6e3383cb2a4c34e96c66baf102efe708"
+    },
+    {
+      "address": "0x3a22f080217a8146796b45cde7d0b0e7d4c76462",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "eCash",
+      "symbol": "XEC",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": null,
+      "transactionsDaily": 2,
+      "transactionsWeekly": 2,
+      "transactionsMonthly": 2,
+      "volumeUsdDaily": 964.471492635688,
+      "volumeUsdWeekly": 964.471492635688,
+      "volumeUsdMonthly": 964.471492635688,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x3a22f080217a8146796b45cde7d0b0e7d4c76462"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:42.745Z",
+  "error": null
+}

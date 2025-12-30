@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ERA
+원본 풀네임: Era
+검색 쿼리: ERA Era
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:24
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Yee
+ 이름: Yee Token
+ 주소: 0x9ac9468e7e3e1d194080827226b45d0b892c77fd
+ 체인ID: 1
+ Decimals: 9
+
+[2] SERV
+ 이름: OpenServ
+ 주소: 0x40e3d1a4b2c47d9aa61261f5606136ef73e28042
+ 체인ID: 1
+ Decimals: 18
+
+[3] @BINANCE X ERA $ERA DISTRIBUTION COMPLETECHK YOUR BINANCE REWA
+ 이름: @BINANCE X ERA $ERA DISTRIBUTION COMPLETECHK YOUR BINANCE REWA
+ 주소: 0x2273c410c612e283947fae87164f813e6ceb37c1
+ 체인ID: 8453
+ Decimals: 18
+
+[4] ALTT
+ 이름: Altcoinist
+ 주소: 0x1b5ce2a593a840e3ad3549a34d7b3dec697c114d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SWCH
+ 이름: SwissCheese Token
+ 주소: 0x3ce1327867077b551ae9a6987bf10c9fd08edce1
+ 체인ID: 137
+ Decimals: 18
+
+[6] SERV
+ 이름: OpenServ
+ 주소: 0x5576d6ed9181f2225aff5282ac0ed29f755437ea
+ 체인ID: 8453
+ Decimals: 18
+
+[7] BCUT
+ 이름: bitsCrunch Token(PoS)
+ 주소: 0x3fb83a9a2c4408909c058b0bfe5b4823f54fafe2
+ 체인ID: 137
+ Decimals: 18
+
+[8] BTA
+ 이름: Battle.tech by Virtuals
+ 주소: 0xab10e517f3138b17108b32129e8c8446ad44a267
+ 체인ID: 8453
+ Decimals: 18
+
+[9] puppies
+ 이름: I love puppies
+ 주소: 0xcf91b70017eabde82c9671e30e5502d312ea6eb2
+ 체인ID: 1
+ Decimals: 9
+
+[10] MNT
+ 이름: Mantle
+ 주소: 0x3c3a81e81dc49a522a592e7622a7e711c06bf354
+ 체인ID: 1
+ Decimals: 18
+
+[11] ERA
+ 이름: Caldera
+ 주소: 0xe2ad0bf751834f2fbdc62a41014f84d67ca1de2a
+ 체인ID: 1
+ Decimals: 18
+
+[12] BORG
+ 이름: SwissBorg Token
+ 주소: 0x64d0f55cd8c7133a9d7102b13987235f486f2224
+ 체인ID: 1
+ Decimals: 18
+
+[13] M
+ 이름: MemeCore
+ 주소: 0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa
+ 체인ID: 56
+ Decimals: 18
+
+[14] KARRAT
+ 이름: KarratCoin
+ 주소: 0xacd2c239012d17beb128b0944d49015104113650
+ 체인ID: 1
+ Decimals: 18
+
+[15] LIT
+ 이름: Litentry
+ 주소: 0xb59490ab09a0f526cc7305822ac65f2ab12f9723
+ 체인ID: 1
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: XPL
+원본 풀네임: XPL
+검색 쿼리: XPL XPL
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:18
+발견된 토큰 수: 15개
+전체 결과 수: 3835개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XPL
+ 이름: Plasma
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 9745
+ Decimals: 18
+
+[2] WXPL
+ 이름: Wrapped XPL
+ 주소: 0x6100e367285b01f48d07953803a2d8dca5d19873
+ 체인ID: 9745
+ Decimals: 18
+
+[3] XPL
+ 이름: Plasma
+ 주소: 0x405fbc9004d857903bfd6b3357792d71a50726b0
+ 체인ID: 56
+ Decimals: 18
+
+[4] B📣 Get ready! MEXC Launchpad is here with XPL (XPL)!Be the firs
+ 이름: B📣 Get ready! MEXC Launchpad is here with XPL (XPL)!Be the firs
+ 주소: 0xba480c0ed8b78c1bc9118eab7892d88c26777b15
+ 체인ID: 8453
+ Decimals: 18
+
+[5] XPL
+ 이름: XPL
+ 주소: 0x9053377438b0cd81234a91b815f8d4d9bf018955
+ 체인ID: 8453
+ Decimals: 18
+
+[6] XPL
+ 이름: Plasma
+ 주소: 0x139451953ef1865c096f89c5e522c081dc3b5f11
+ 체인ID: 130
+ Decimals: 18
+
+[7] XPL~XPL
+ 이름: PLASMA
+ 주소: GxjgN5B4ZpCX8cdLHHWMbFVVVfbUh3TuG4KE1UvkzkcS
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] $XPL
+ 이름: $XPL
+ 주소: 0x1e02128fd73b41604945f79248a8bac9f6c9b846
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Xpl
+ 이름: Xpl
+ 주소: 0x5fedd862feba8e20e2e4e1bbdf66b04b37a096b4
+ 체인ID: 8453
+ Decimals: 18
+
+[10] $XPL
+ 이름: $XPL
+ 주소: 0x6be8b6397537d6ea815d481aa85ecf2aa602bb5e
+ 체인ID: 8453
+ Decimals: 18
+
+[11] XPL
+ 이름: XPL
+ 주소: 0xe912ed637276e41227c934ce352846a41851b31e
+ 체인ID: 8453
+ Decimals: 18
+
+[12] XPL
+ 이름: XPL
+ 주소: 0xba04eab7d44901ddc9207e43354f83551ffb9e95
+ 체인ID: 8453
+ Decimals: 18
+
+[13] XPL
+ 이름: XPL
+ 주소: 0x400f51823b0000d9c7d277e2fb72ea893790137e
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $XPL
+ 이름: $XPL
+ 주소: 0x9ba4583da09102ba08c3dab12d676a225c7804a6
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Xpl
+ 이름: Xpl
+ 주소: 0x8e1df5d2dce3f60b4d9d64a87a16b14396b1bfb6
+ 체인ID: 8453
+ Decimals: 18

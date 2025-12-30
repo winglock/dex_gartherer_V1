@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: XLM
+원본 풀네임: Stellar
+검색 쿼리: XLM Stellar
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:54
+발견된 토큰 수: 15개
+전체 결과 수: 6985개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] VELO
+ 이름: VELO
+ 주소: 0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46
+ 체인ID: 56
+ Decimals: 18
+
+[2] XLM
+ 이름: Stellar
+ 주소: 0x43c934a845205f0b514417d757d7235b8f53f1b9
+ 체인ID: 56
+ Decimals: 18
+
+[3] WXT
+ 이름: Wirex Token
+ 주소: 0xa02120696c7b8fe16c09c749e4598819b2b0e915
+ 체인ID: 1
+ Decimals: 18
+
+[4] WXT
+ 이름: Wirex Token
+ 주소: 0xfcde4a87b8b6fa58326bb462882f1778158b02f1
+ 체인ID: 43114
+ Decimals: 18
+
+[5] MXNe
+ 이름: Real MXN
+ 주소: 0x269cae7dc59803e5c596c95756faeebb6030e0af
+ 체인ID: 8453
+ Decimals: 6
+
+[6] DEFIDO
+ 이름: DeFido
+ 주소: 0x132bbda4a40d4d6288be49b637ec2c113b5d7600
+ 체인ID: 8453
+ Decimals: 18
+
+[7] BENJI
+ 이름: +Franklin OnChain U.S. Government Money Fund
+ 주소: 0x3ddc84940ab509c11b20b76b466933f40b750dc9
+ 체인ID: 1
+ Decimals: 18
+
+[8] WSDM
+ 이름: Wisdomise
+ 주소: 0x5f2f8818002dc64753daedf4a6cb2ccb757cd220
+ 체인ID: 137
+ Decimals: 6
+
+[9] WXLM
+ 이름: wxlm
+ 주소: 0x5377a0becd4bed0289f426827b41ca1c372eddcc
+ 체인ID: 137
+ Decimals: 18
+
+[10] WXLM
+ 이름: wxlm
+ 주소: 0x21583371425dabdc81a19614b8dc6e4317ebac07
+ 체인ID: 137
+ Decimals: 18
+
+[11] SALD
+ 이름: Salad
+ 주소: 0x5582a479f0c403e207d2578963ccef5d03ba636f
+ 체인ID: 1
+ Decimals: 18
+
+[12] KS-LP FSN-wXLM
+ 이름: KyberSwap LP FSN-wXLM
+ 주소: 0x7607b17f7012b6e5cbdd353aa8d4aae5578f3ef7
+ 체인ID: 137
+ Decimals: 18
+
+[13] StellarInu
+ 이름: StellarInu
+ 주소: 0xfde57fee4bcca80485714bd640d6e5afe8ac4d66
+ 체인ID: 1
+ Decimals: 9
+
+[14] JPM
+ 이름: StellarEdge29
+ 주소: 0xb0a139a45d6e9418db92d5dc51c7b7b8ad702b07
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WLC
+ 이름: StellarBridge Holdings
+ 주소: 0xd4181604206b1521444a44c541bc0dee3ff61e86
+ 체인ID: 8453
+ Decimals: 18

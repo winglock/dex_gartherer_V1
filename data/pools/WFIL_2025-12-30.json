@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "WFIL",
+    "chain": "ethereum",
+    "dex": "sushiswap",
+    "pool_address": "0xdD663F39101Cf0CEdaAee7bdfB060f4b9C70976B",
+    "pair": "WFIL/USD",
+    "price_usd": 3.85,
+    "lp_reserve_usd": 5447.57,
+    "volume_24h": 43.77,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060370
+  },
+  {
+    "symbol": "WFIL",
+    "chain": "pulsechain",
+    "dex": "sushiswap",
+    "pool_address": "0xdD663F39101Cf0CEdaAee7bdfB060f4b9C70976B",
+    "pair": "WFIL/USD",
+    "price_usd": 0.06056,
+    "lp_reserve_usd": 18.9,
+    "volume_24h": 0.12,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767032498
+  }
+]

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SAFE
+원본 풀네임: Safe
+검색 쿼리: SAFE Safe
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:55
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XAUt
+ 이름: Tether Gold
+ 주소: 0x68749665ff8d2d112fa859aa293f07a622782f38
+ 체인ID: 1
+ Decimals: 6
+
+[2] BNBTiger
+ 이름: Bnb Tiger Inu
+ 주소: 0xac68931b666e086e9de380cfdb0fb5704a35dc2d
+ 체인ID: 56
+ Decimals: 9
+
+[3] VELO
+ 이름: VELO
+ 주소: 0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46
+ 체인ID: 56
+ Decimals: 18
+
+[4] PVC
+ 이름: PVC META
+ 주소: 0x75ca521892de7f2ecfb070cab545c250d0ceb7e3
+ 체인ID: 56
+ Decimals: 9
+
+[5] SAFE (Safe) NFT
+ 이름: SAFE (Safe) NFT
+ 주소: 0xef8b243a21b0786a7c094c16b438ced4554f566e
+ 체인ID: 8453
+ Decimals: 18
+
+[6] SAFE
+ 이름: Safe Token
+ 주소: 0x5afe3855358e112b5647b952709e6165e1c1eeee
+ 체인ID: 1
+ Decimals: 18
+
+[7] MASK
+ 이름: Mask Network
+ 주소: 0x69af81e73a73b40adf4f3d4223cd9b1ece623074
+ 체인ID: 1
+ Decimals: 18
+
+[8] HOME
+ 이름: Home
+ 주소: 0x4bfaa776991e85e5f8b1255461cbbd216cfc714f
+ 체인ID: 8453
+ Decimals: 18
+
+[9] QNT
+ 이름: Quant
+ 주소: 0x4a220e6096b25eadb88358cb44068a3248254675
+ 체인ID: 1
+ Decimals: 18
+
+[10] BONK
+ 이름: Bonk
+ 주소: 0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8
+ 체인ID: 8453
+ Decimals: 18
+
+[11] KEEP
+ 이름: KEEP Token
+ 주소: 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
+ 체인ID: 1
+ Decimals: 18
+
+[12] SQGROW
+ 이름: SquidGrow
+ 주소: 0xb72e76ccf005313868db7b48070901a44629da98
+ 체인ID: 1
+ Decimals: 9
+
+[13] RDNT
+ 이름: Radiant
+ 주소: 0x3082cc23568ea640225c2467653db90e9250aaa0
+ 체인ID: 42161
+ Decimals: 18
+
+[14] SMT
+ 이름: Swarm Markets
+ 주소: 0xb17548c7b510427baac4e267bea62e800b247173
+ 체인ID: 1
+ Decimals: 18
+
+[15] Safe SAFE
+ 이름: Safe SAFE
+ 주소: 0x7e2e8cb8fd41acc5be88e139a65b09ed2ddfee81
+ 체인ID: 130
+ Decimals: 18

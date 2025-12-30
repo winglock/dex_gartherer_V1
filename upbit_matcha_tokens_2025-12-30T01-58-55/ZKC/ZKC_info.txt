@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZKC
+원본 풀네임: Boundless
+검색 쿼리: ZKC Boundless
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:59
+발견된 토큰 수: 15개
+전체 결과 수: 1255개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ZKC
+ 이름: ZK Coin
+ 주소: 0x000006c2a22ff4a44ff1f5d0f2ed65f781f55555
+ 체인ID: 1
+ Decimals: 18
+
+[2] ZKC
+ 이름: ZK Coin
+ 주소: 0x15247e6e23d3923a853ccf15940a20ccdf16e94a
+ 체인ID: 56
+ Decimals: 18
+
+[3] BUN
+ 이름: Boundless Network
+ 주소: 0xdf296ea217aec7e118fafa9b2ce20d0cfccd2eaf
+ 체인ID: 56
+ Decimals: 18
+
+[4] Boe
+ 이름: Boe
+ 주소: 0xff62ddfa80e513114c3a0bf4d6ffff1c1d17aadf
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Zkc
+ 이름: Zkc
+ 주소: 0x2ef1591c197369c8f4114f829825659ffd08cec2
+ 체인ID: 8453
+ Decimals: 18
+
+[6] zkc zkc zkc zkc zkc
+ 이름: zkc zkc zkc zkc zkc
+ 주소: 0x9c40d62b8e1e1b9720ff113ec1cd282a9c6f426b
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ZKC
+ 이름: ZKC
+ 주소: 0xa36dcc4a3730769cc74d6ed64169bc6921436325
+ 체인ID: 8453
+ Decimals: 18
+
+[8] $zkc
+ 이름: $zkc
+ 주소: 0xbfb10c75a6e8d53b931e460aabd1b1c66731abae
+ 체인ID: 8453
+ Decimals: 18
+
+[9] $zkc
+ 이름: $zkc
+ 주소: 0xe1d52c5c482b440c7a24bca1136bb6a93174b3e2
+ 체인ID: 8453
+ Decimals: 18
+
+[10] zkc
+ 이름: zkc
+ 주소: 0x1b87732ce1e2c2f124cc1943f1fa0465c0df3347
+ 체인ID: 8453
+ Decimals: 18
+
+[11] $ZKC
+ 이름: $ZKC
+ 주소: 0x1460e4652594227cc8a585c1cf8028fe2e0c268a
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ZKC
+ 이름: ZKC
+ 주소: 0x388a43c95ca1d27b9262b5adbb485b038e3e6a9e
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ZKC
+ 이름: ZKC
+ 주소: 0x8072ce305f11deb7dec74097115c07de0a249814
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $zkc
+ 이름: $zkc
+ 주소: 0x3d695bfeacc038ca7d9d853f18ef97383a1d650b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] zkc
+ 이름: zkc
+ 주소: 0xbac2f7d01de62afe3e2f270873d6f5ae8ed95932
+ 체인ID: 8453
+ Decimals: 18

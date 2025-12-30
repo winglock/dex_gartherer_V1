@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: IQ
+원본 풀네임: IQ.wiki
+검색 쿼리: IQ IQ.wiki
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:30
+발견된 토큰 수: 15개
+전체 결과 수: 3687개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] IQ
+ 이름: Everipedia IQ
+ 주소: 0x579cea1889991f68acc35ff5c3dd0621ff29b0c9
+ 체인ID: 1
+ Decimals: 18
+
+[2] SQR
+ 이름: Magic Square
+ 주소: 0x2b72867c32cf673f7b02d208b26889fed353b1f8
+ 체인ID: 56
+ Decimals: 8
+
+[3] IQT
+ 이름: IQ Protocol Token
+ 주소: 0x6dda263994aab33f5ed612294e26f2a13df0da05
+ 체인ID: 1
+ Decimals: 18
+
+[4] IQ 9999x
+ 이름: IQ 9999x
+ 주소: FZYbR8kz3wACiQWygg5vAojVD59D4WJw5RaQhuZKpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[5] IQ
+ 이름: SHARE YOUR IQ
+ 주소: B34o54Xz54sWKBXBQ2BnDHP81wbRp7x7xQhT1NxDpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] IQ
+ 이름: SHARE YOUR IQ
+ 주소: BMu1Pevxm9hqBSdfTxXhcfwFjMCHWYV3kSLmUJ9epump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] Ai21x Iq Protocol
+ 이름: Ai21x Iq Protocol
+ 주소: 0x9d7f8cf95ccc62d4133e27814316465bd6301182
+ 체인ID: 8453
+ Decimals: 9
+
+[8] IOT
+ 이름: IQ Option
+ 주소: 0xf29ffe65174908e4aae4df1c49d8e1dbb40753ea
+ 체인ID: 137
+ Decimals: 18
+
+[9] IQT
+ 이름: IQ Protocol Token
+ 주소: 0x41084fdc569099d9e527ccf126e12d9c7c688ec3
+ 체인ID: 137
+ Decimals: 18
+
+[10] IOT
+ 이름: IQ Option
+ 주소: 0x10f9fe0ea6f93331adbda3746d145be142e633b2
+ 체인ID: 137
+ Decimals: 18
+
+[11] IQ Protocol Microsoft 6900
+ 이름: IQ Protocol Microsoft 6900
+ 주소: 0xf7f5a2cf29906f2dfa4cafe94a271504179a9a85
+ 체인ID: 8453
+ Decimals: 18
+
+[12] IQ6900
+ 이름: IQ Index 6900
+ 주소: Gn9uqRkcqAFsmBXFgfqmiAT5rWHjC6rA6GdhCe8npump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] IQ6900
+ 이름: IQ Index 6900
+ 주소: Hb6XUZmZoCoNA73mSYZstqqWzL4jhGm4W3DL3kKxpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] IQ6900
+ 이름: The IQ Index
+ 주소: 8dJpd5ZqVNn8fFn4SnDrS6frffEnikE5uVNZTAd6pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] IQAI
+ 이름: IQ Index AI
+ 주소: 0x255976b2f0924a4b64f03af92a9565abe0574444
+ 체인ID: 56
+ Decimals: 18

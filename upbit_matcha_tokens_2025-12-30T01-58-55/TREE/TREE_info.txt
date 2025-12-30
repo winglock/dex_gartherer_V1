@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TREE
+원본 풀네임: Treehouse
+검색 쿼리: TREE Treehouse
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:44
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MLC
+ 이름: MyLovelyCoin
+ 주소: 0x0566c506477cd2d8df4e0123512dbc344bd9d111
+ 체인ID: 137
+ Decimals: 18
+
+[2] TREE
+ 이름: Treehouse Token
+ 주소: 0x77146784315ba81904d654466968e3a7c196d1f3
+ 체인ID: 1
+ Decimals: 18
+
+[3] TREE
+ 이름: Tree
+ 주소: 0x52c2b317eb0bb61e650683d2f287f56c413e4cf6
+ 체인ID: 8453
+ Decimals: 18
+
+[4] DROGA5
+ 이름: Talking Tree
+ 주소: oPAUdFcBVhUzVDCHe3jojfMyMgwR5qUnqhWuY1L4zga
+ 체인ID: 1399811149
+ Decimals: 6
+
+[5] Metis
+ 이름: Metis Token
+ 주소: 0x9e32b13ce7f2e80a01932b42553652e053d6ed8e
+ 체인ID: 1
+ Decimals: 18
+
+[6] tETH
+ 이름: Treehouse ETH
+ 주소: 0xd11c452fc99cf405034ee446803b6f6c1f6d5ed8
+ 체인ID: 1
+ Decimals: 18
+
+[7] TREE
+ 이름: Tree
+ 주소: 0xba25b2281214300e4e649fead9a6d6acd25f1c0a
+ 체인ID: 1
+ Decimals: 18
+
+[8] WBEAM
+ 이름: Wrapped BEAM
+ 주소: 0xe5acbb03d73267c03349c76ead672ee4d941f499
+ 체인ID: 1
+ Decimals: 8
+
+[9] BTC
+ 이름: blue tree coin
+ 주소: 0x3915e4181a9e006353cb220cbd8d97aaf6f34791
+ 체인ID: 8453
+ Decimals: 18
+
+[10] CBY
+ 이름: Carbify
+ 주소: 0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b
+ 체인ID: 1
+ Decimals: 18
+
+[11] TREE
+ 이름: GREEN WORLD PLAN
+ 주소: 0x4704ea440a52e0746a36666b62dd48e01d5072cb
+ 체인ID: 56
+ Decimals: 18
+
+[12] tree
+ 이름: tree
+ 주소: 0xce88b2f0f7728508c3bbefbeebfde8afa0191d12
+ 체인ID: 8453
+ Decimals: 18
+
+[13] TREE
+ 이름: Tree Token
+ 주소: 0x9bd547446ea13c0c13df2c1885e1f5b019a77441
+ 체인ID: 56
+ Decimals: 2
+
+[14] TREE
+ 이름: Tree Token
+ 주소: 0xc0d766017141dd4866738c1e704be6fedc97b904
+ 체인ID: 1
+ Decimals: 18
+
+[15] TESLA TREE
+ 이름: TESLA TREE
+ 주소: C9pebwfXenEUjzL1Ht5b2XASpq8NDNn2PquYwA7rpump
+ 체인ID: 1399811149
+ Decimals: 6

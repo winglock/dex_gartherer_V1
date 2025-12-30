@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LA
+원본 풀네임: Lagrange
+검색 쿼리: LA Lagrange
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:47
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] DEGEN
+ 이름: Degen
+ 주소: 0x4ed4e862860bed51a9570b96d89af5e1b0efefed
+ 체인ID: 8453
+ Decimals: 18
+
+[2] REKT
+ 이름: Rekt
+ 주소: 0xdd3b11ef34cd511a2da159034a05fcb94d806686
+ 체인ID: 1
+ Decimals: 18
+
+[3] REKT
+ 이름: Rekt
+ 주소: 0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba
+ 체인ID: 8453
+ Decimals: 18
+
+[4] REKT
+ 이름: Rekt
+ 주소: 0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c
+ 체인ID: 56
+ Decimals: 18
+
+[5] LA!!!!!!
+ 이름: LA!!!!!!
+ 주소: 0xd027cf171923ccbbbe2621b6d01b8979f0aff530
+ 체인ID: 8453
+ Decimals: 18
+
+[6] UGOLD
+ 이름: UGOLD Inc.
+ 주소: 0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a
+ 체인ID: 1
+ Decimals: 18
+
+[7] /qué bonita la vida ❤️ ⭐️ // 📹: // x
+ 이름: /qué bonita la vida ❤️ ⭐️ // 📹: // x
+ 주소: 0x5d6adc19e4d096c054a0e850197a3184619e2fe0
+ 체인ID: 8453
+ Decimals: 18
+
+[8] SABAI
+ 이름: Sabai Ecoverse Token
+ 주소: 0xb5d730d442e1d5b119fb4e5c843c48a64202ef92
+ 체인ID: 1
+ Decimals: 18
+
+[9] LA
+ 이름: LA donation fund
+ 주소: 2cu2bhWk9R5MymnNMv56BeRQGpkEjM5LSJ83HR2Mpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] LONGLILONG
+ 이름: A La La La La Long
+ 주소: 5QWGZqpFAap99rZvdncdFkDDgYFYnCGZNdT6CMb8pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] LA
+ 이름: Lagrange
+ 주소: 0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467
+ 체인ID: 1
+ Decimals: 18
+
+[12] APPLE
+ 이름: LA
+ 주소: 0x4246b164a1774c78366f6f095ddd48c4a943df09
+ 체인ID: 43114
+ Decimals: 18
+
+[13] TESLA
+ 이름: Test + LA
+ 주소: 2ujA2XmyN3mXb6s2bD5tih2MFPqjr3tC4YVA5tzapump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] TESLA
+ 이름: LA TESLA
+ 주소: DFjDBXVLoreeHzvZgPsAJwGtYnkxXu8iFUB2vCHvpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] LA TECH
+ 이름: LA TECH COMMUNITY CARES FUND
+ 주소: 8gE3msNSja74RQHjYA7gFreFLFr9twk9DF1cLM1npump
+ 체인ID: 1399811149
+ Decimals: 6

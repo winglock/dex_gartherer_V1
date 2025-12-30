@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZRO
+원본 풀네임: LayerZero
+검색 쿼리: ZRO LayerZero
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:15
+발견된 토큰 수: 15개
+전체 결과 수: 3739개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 42161
+ Decimals: 18
+
+[3] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 1
+ Decimals: 18
+
+[4] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 10
+ Decimals: 18
+
+[5] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 56
+ Decimals: 18
+
+[6] RDNT
+ 이름: Radiant
+ 주소: 0x3082cc23568ea640225c2467653db90e9250aaa0
+ 체인ID: 42161
+ Decimals: 18
+
+[7] ZRO LayerZero On Base
+ 이름: ZRO LayerZero On Base
+ 주소: 0x922707d7bad5cb3fd9ac82c35abfdc86acbe4e5d
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ZRO LayerZero AI Presale v2
+ 이름: ZRO LayerZero AI Presale v2
+ 주소: 0xd8ccd1d013c642d359b6e1931d6daf326120a19f
+ 체인ID: 56
+ Decimals: 9
+
+[9] WGC
+ 이름: Wild Goat Coin
+ 주소: 0x3d63825b0d8669307366e6c8202f656b9e91d368
+ 체인ID: 8453
+ Decimals: 6
+
+[10] ORDER
+ 이름: Orderly Network
+ 주소: 0xabd4c63d2616a5201454168269031355f4764337
+ 체인ID: 1
+ Decimals: 18
+
+[11] ZRO
+ 이름: ZRO
+ 주소: 0x05af7bb0feb5e04354d5b54a33b938fccf26689a
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 43114
+ Decimals: 18
+
+[13] MOZ
+ 이름: Mozaic Token
+ 주소: 0xc227717ef4ae4d982e14789eb33ba942243c3fee
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MAV
+ 이름: Maverick Token
+ 주소: 0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7
+ 체인ID: 8453
+ Decimals: 18
+
+[15] QORPO
+ 이름: QORPO Token
+ 주소: 0x22514ffb0d7232a56f0c24090e7b68f179faa940
+ 체인ID: 56
+ Decimals: 18

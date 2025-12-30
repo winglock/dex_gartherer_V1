@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SXP
+원본 풀네임: SXP
+검색 쿼리: SXP SXP
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:35
+발견된 토큰 수: 15개
+전체 결과 수: 795개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SXP
+ 이름: Swipe
+ 주소: 0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9
+ 체인ID: 1
+ Decimals: 18
+
+[2] SXP
+ 이름: Swipe
+ 주소: 0x47bead2563dcbf3bf2c9407fea4dc236faba485a
+ 체인ID: 56
+ Decimals: 18
+
+[3] sSXP
+ 이름: Strike SXP
+ 주소: 0xdbee1d8c452c781c17ea20115cbad0d5f627a680
+ 체인ID: 1
+ Decimals: 8
+
+[4] SXP
+ 이름: Crypto Pug SXP
+ 주소: 0xd4fab2099e2605db03f5b74222a31b70cbaf0fbd
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SXP
+ 이름: SoulXP
+ 주소: 0x31904f19350ee068f186c0d65b25de9bf6997c8e
+ 체인ID: 8453
+ Decimals: 6
+
+[6] SXP
+ 이름: SUPERX (PUMP 100X)
+ 주소: BKiFLrDXu6wBQGNmFDgDygrXeAazJLep4phwaUKopump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] -SXP
+ 이름: Swipe Shorting Proxy
+ 주소: 0x8f3ddb4f845d7eb3b9a126554d41b04f67e16ef3
+ 체인ID: 56
+ Decimals: 18
+
+[8] EssentialAlert:BinanceAdds5Tok
+ 이름: @Essential Alert: Binance Adds 5 Tokens Including SXP to Its Moni
+ 주소: 0x356b44801530f879f062176131afeeec0bc82611
+ 체인ID: 8453
+ Decimals: 18
+
+[9] SXP
+ 이름: sexyphone
+ 주소: 0xcf75f4826fc7633dc1324e26fc30e53a771db412
+ 체인ID: 8453
+ Decimals: 18
+
+[10] SXP
+ 이름: SXP
+ 주소: 0x4e72672dcd5a0e5ba6c12b2beda1a2839d85f94d
+ 체인ID: 56
+ Decimals: 9
+
+[11] sxp
+ 이름: sxp
+ 주소: 0xdf7bb1c1a6d0657d0c41f5af5ed443098a88d841
+ 체인ID: 56
+ Decimals: 6
+
+[12] SXP
+ 이름: SXP
+ 주소: 0xf305a9a33c01f456fdff865be306a3864c0cb4e0
+ 체인ID: 1
+ Decimals: 18
+
+[13] SXP
+ 이름: SXP
+ 주소: 0x1a54ae137bf462688c2f586fd4e7485006790b07
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $SXP
+ 이름: SXP
+ 주소: 0xe9b27be389a9be82395fca56f291bb0d984ad8e0
+ 체인ID: 8453
+ Decimals: 18
+
+[15] SXP
+ 이름: SXP
+ 주소: 0x80bc69c15fa09f908ba7fb485fc804d9997abb07
+ 체인ID: 8453
+ Decimals: 18

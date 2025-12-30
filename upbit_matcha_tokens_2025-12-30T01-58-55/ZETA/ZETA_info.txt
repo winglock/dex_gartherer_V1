@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZETA
+원본 풀네임: ZetaChain
+검색 쿼리: ZETA ZetaChain
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:20
+발견된 토큰 수: 15개
+전체 결과 수: 2329개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ZETA
+ 이름: Zeta
+ 주소: 0xf091867ec603a6628ed83d274e835539d82e9cc8
+ 체인ID: 1
+ Decimals: 18
+
+[2] ZEX
+ 이름: Zeta
+ 주소: ZEXy1pqteRu3n13kdyh4LwPQknkFk3GzmMYMuNadWPo
+ 체인ID: 1399811149
+ Decimals: 6
+
+[3] ZETA ZetaChain On Base
+ 이름: ZETA ZetaChain On Base
+ 주소: 0x409aba706ae1f4adc9e8bff3506261854d69cfc3
+ 체인ID: 8453
+ Decimals: 18
+
+[4] ZETA
+ 이름: Zeta
+ 주소: 0x0000028a2eb8346cd5c0267856ab7594b7a55308
+ 체인ID: 56
+ Decimals: 18
+
+[5] Optionpanda Zeta
+ 이름: Optionpanda Zeta
+ 주소: 0x3da42b887bba35c3f5132e23c6419102eaa82b23
+ 체인ID: 130
+ Decimals: 18
+
+[6] Zeta 50x.com
+ 이름: Zeta 50x.com
+ 주소: 0x426167c0c317b82d07dac3398f7b632afe275aa0
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Zeta Long
+ 이름: Zeta Long
+ 주소: 0xa81a094a3b4ad0d7b497f911a6df2f4e33c80fff
+ 체인ID: 130
+ Decimals: 18
+
+[8] Zeta
+ 이름: Zeta Memestock Inc.
+ 주소: C3DV9UJuxaUvpBg5L3dcr7mpRGpsVF2en7bCZ8yHtnKv
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] ZETA
+ 이름: Zeta Global Holdings Corp
+ 주소: 6gm1K4gRrKmsasAjCM5RyLz57hxBU1iqaG4DPWjpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] ZETA
+ 이름: Zeta Global Holdings Corp
+ 주소: 27JhFmQXQcVFrJJhnDw1iZzPrTiDB7GJhzVg7bkApump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] ZETA ZetaC
+ 이름: ZETA ZetaChain On Binance Alpha
+ 주소: 0x794abcc783d4a73f8d343d9b5b18a0e1c6f4e595
+ 체인ID: 56
+ Decimals: 18
+
+[12] ZETAZE
+ 이름: ZETA ZetaChain Perpetual
+ 주소: 0x003bd77857f930ec534a92f9a5bae4fc6c0fa051
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Osol Ai Index Zeta
+ 이름: Osol Ai Index Zeta
+ 주소: 0x109800d3e1efb117f9fde30f6f1b9e2465bd07c7
+ 체인ID: 130
+ Decimals: 18
+
+[14] ZAI
+ 이름: Zeta AI
+ 주소: 0x64942493beaca5591a76177a5b719311803b1725
+ 체인ID: 1
+ Decimals: 18
+
+[15] EUPHORIA
+ 이름: EUPHORIA ZETA-9X
+ 주소: 2j99jkUoN5NzEZ2ksAbUdhMe6eRFtimUHB2bPGKRUXK6
+ 체인ID: 1399811149
+ Decimals: 6

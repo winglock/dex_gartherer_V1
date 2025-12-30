@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: NOM
+원본 풀네임: Nomina
+검색 쿼리: NOM Nomina
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:34
+발견된 토큰 수: 15개
+전체 결과 수: 1612개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] NOM
+ 이름: Nomina
+ 주소: 0x6e6f6d696e61decd6605bd4a57836c5db6923340
+ 체인ID: 1
+ Decimals: 18
+
+[2] NOM
+ 이름: nomad
+ 주소: 0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Index Nom
+ 이름: Index Nom
+ 주소: 0x44072430e1a62a766e80d4e973026b2d52317bb7
+ 체인ID: 8453
+ Decimals: 9
+
+[4] Nom nom nom
+ 이름: Nom nom nom
+ 주소: 0xb62943fee917df5c895facc0c29d08dfd74028da
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Nom nom nom
+ 이름: Nom nom nom
+ 주소: 0xb79378fd1dc23e41201a88d625d0482dd45c84f9
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Nom Nom Nom
+ 이름: Nom Nom Nom
+ 주소: 0x052bac0818d8e7aa5141050de737307a70235609
+ 체인ID: 8453
+ Decimals: 18
+
+[7] nom nom nom
+ 이름: nom nom nom
+ 주소: 0x8aaf49cc62b9ce922c95ba8256c7d43c4c830db8
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Nom nom nom
+ 이름: Nom nom nom
+ 주소: 0xa8b0bc8ff5f357aa7d1bf95877ec7180021d1409
+ 체인ID: 8453
+ Decimals: 18
+
+[9] nom nom nom
+ 이름: nom nom nom
+ 주소: 0x759a07c8dae2699b9c3b8dd7bd38fd7ac0703316
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Nom nom nom
+ 이름: Nom nom nom
+ 주소: 0x239b2b48442fc7e03856fa30c4c7637299d24462
+ 체인ID: 8453
+ Decimals: 18
+
+[11] nom nom
+ 이름: nom nom
+ 주소: 0x64c0928be23b33263ce864eb0eb7193ec49c9afe
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Nom nom
+ 이름: Nom nom
+ 주소: 0xd86212948d2dc0a9403190ec7697764160c8f595
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Nom Nom
+ 이름: Nom Nom
+ 주소: 0x9ab6dfda92ca7032be1a892ae7595f5380d63cbe
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Nom Nom
+ 이름: Nom Nom
+ 주소: 0x71eb8a1960503cb44544190eaad55620a6c5fd31
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Nom nom
+ 이름: Nom nom
+ 주소: 0x401580931db4449bcebeae06774ed184772b30b8
+ 체인ID: 8453
+ Decimals: 18

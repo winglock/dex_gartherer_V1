@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: IN
+원본 풀네임: Infinit
+검색 쿼리: IN Infinit
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:33
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] THIS DAYCARE IN MINNESOTA RECEIV
+ 이름: THIS DAYCARE IN MINNESOTA RECEIV
+ 주소: 0x0615e0256b7c4355d385d4cb2752e4afc0159276
+ 체인ID: 8453
+ Decimals: 18
+
+[2] AXS
+ 이름: Axie Infinity Shard
+ 주소: 0x715d400f88c167884bbcc41c5fea407ed4d2f8a0
+ 체인ID: 56
+ Decimals: 18
+
+[3] IN
+ 이름: INFINIT
+ 주소: 0x61fac5f038515572d6f42d4bcb6b581642753d50
+ 체인ID: 56
+ Decimals: 18
+
+[4] DEVVE
+ 이름: DevvE
+ 주소: 0x8248270620aa532e4d64316017be5e873e37cc09
+ 체인ID: 1
+ Decimals: 18
+
+[5] IN INFINIT
+ 이름: IN INFINIT
+ 주소: 0x5b375b8fc260fe31a115f5fc444a614b1052e1d4
+ 체인ID: 8453
+ Decimals: 18
+
+[6] RISE
+ 이름: Infinity Rising
+ 주소: 0xf25620f89d0e23a8ba7b11ab3235b66268794196
+ 체인ID: 8453
+ Decimals: 18
+
+[7] FLYWHEEL
+ 이름: Flywheel in Action
+ 주소: 0x26a6b9da2b2bcd3bdf902336ba2984a2f15ff9bd
+ 체인ID: 8453
+ Decimals: 18
+
+[8] UNBROKEN
+ 이름: Unbroken in the Rain
+ 주소: 0x7b75230e667d8a51ba840d26b67db09045fb38e2
+ 체인ID: 8453
+ Decimals: 18
+
+[9] LOST IN SHADOWS.
+ 이름: LOST IN SHADOWS.
+ 주소: 0xa5334f839db0dc3504ff05944018ca20f3de2cd0
+ 체인ID: 8453
+ Decimals: 18
+
+[10] MEW
+ 이름: cat in a dogs world
+ 주소: MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5
+ 체인ID: 1399811149
+ Decimals: 5
+
+[11] FIAS
+ 이름: Fias
+ 주소: 0x8e4f1ce473b292d56934c36976356e3e22c35585
+ 체인ID: 1
+ Decimals: 18
+
+[12] kurbi
+ 이름: kurbi
+ 주소: 0x653a143b8d15c565c6623d1f168cfbec1056d872
+ 체인ID: 8453
+ Decimals: 9
+
+[13] SIM
+ 이름: Assimilate
+ 주소: 0x749e5334752466cda899b302ed4176b8573dc877
+ 체인ID: 8453
+ Decimals: 18
+
+[14] SKYA
+ 이름: Sekuya
+ 주소: 0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9
+ 체인ID: 8453
+ Decimals: 18
+
+[15] INF
+ 이름: Infinity
+ 주소: 5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm
+ 체인ID: 1399811149
+ Decimals: 9

@@ -1,28 +1,28 @@
 [
   {
     "symbol": "USDt",
-    "chain": "near",
-    "dex": "rhea-finance",
-    "pool_address": "refv1-6416",
-    "pair": "USDT/USD",
-    "price_usd": 0.9994,
-    "lp_reserve_usd": 1167902.14,
-    "volume_24h": 154138.6,
-    "fee_tier": null,
-    "source": "dexscreener",
-    "timestamp": 1767023834
-  },
-  {
-    "symbol": "USDt",
     "chain": "kava",
     "dex": "0xD6E4170C9097A5B5C85E8A39111bF37E47C90076",
     "pool_address": "0x26216b7b7dE80399b601b8217DA272b82d4f34cb",
     "pair": "USDT/USD",
-    "price_usd": 0.9976,
-    "lp_reserve_usd": 219109.19,
-    "volume_24h": 20844.11,
+    "price_usd": 1.0032,
+    "lp_reserve_usd": 218514.04,
+    "volume_24h": 19074.89,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023834
+    "timestamp": 1767052718
+  },
+  {
+    "symbol": "USDt",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-6416",
+    "pair": "USDT/USD",
+    "price_usd": 0.9992,
+    "lp_reserve_usd": 1167771.7,
+    "volume_24h": 153523.72,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052718
   }
 ]

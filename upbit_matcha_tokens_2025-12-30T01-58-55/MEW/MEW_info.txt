@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MEW
+원본 풀네임: cat in a dogs world
+검색 쿼리: MEW cat in a dogs world
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:25
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[2] LINK
+ 이름: ChainLink Token
+ 주소: 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd
+ 체인ID: 56
+ Decimals: 18
+
+[3] LINK
+ 이름: ChainLink Token
+ 주소: 0xf97f4df75117a78c1a5a0dbb814af92458539fb4
+ 체인ID: 42161
+ Decimals: 18
+
+[4] USD1
+ 이름: World Liberty Financial USD
+ 주소: 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d
+ 체인ID: 56
+ Decimals: 18
+
+[5] LINK
+ 이름: ChainLink Token
+ 주소: 0x514910771af9ca656af840dff83e8264ecf986ca
+ 체인ID: 1
+ Decimals: 18
+
+[6] USD1
+ 이름: World Liberty Financial USD
+ 주소: 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d
+ 체인ID: 1
+ Decimals: 18
+
+[7] RUSSELL
+ 이름: RUSSELL
+ 주소: 0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b
+ 체인ID: 8453
+ Decimals: 18
+
+[8] LINK
+ 이름: ChainLink Token
+ 주소: 0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39
+ 체인ID: 137
+ Decimals: 18
+
+[9] SHIB
+ 이름: SHIBA INU
+ 주소: 0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+ 체인ID: 1
+ Decimals: 18
+
+[10] SKI
+ 이름: SKI MASK DOG
+ 주소: 0x768be13e1680b5ebe0024c42c896e3db59ec0149
+ 체인ID: 8453
+ Decimals: 9
+
+[11] THIS DAYCARE IN MINNESOTA RECEIV
+ 이름: THIS DAYCARE IN MINNESOTA RECEIV
+ 주소: 0x0615e0256b7c4355d385d4cb2752e4afc0159276
+ 체인ID: 8453
+ Decimals: 18
+
+[12] TOSHI
+ 이름: Toshi
+ 주소: 0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4
+ 체인ID: 8453
+ Decimals: 18
+
+[13] KEYCAT
+ 이름: Keyboard Cat
+ 주소: 0x9a26f5433671751c3276a065f57e5a02d2817973
+ 체인ID: 8453
+ Decimals: 18
+
+[14] WKC
+ 이름: WIKI CAT
+ 주소: 0x6ec90334d89dbdc89e08a133271be3d104128edb
+ 체인ID: 56
+ Decimals: 18
+
+[15] BNB
+ 이름: BNB
+ 주소: 0xb8c77482e45f1f44de1745f52c74426c631bdd52
+ 체인ID: 1
+ Decimals: 18

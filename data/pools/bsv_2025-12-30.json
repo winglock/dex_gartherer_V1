@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "bsv",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x2C0B05e3Eeaeb671eaC19912caEF2f8E93BbD5cE",
+    "pair": "BSV/USD",
+    "price_usd": 3.552e-6,
+    "lp_reserve_usd": 6711.85,
+    "volume_24h": 5.97,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060397
+  }
+]

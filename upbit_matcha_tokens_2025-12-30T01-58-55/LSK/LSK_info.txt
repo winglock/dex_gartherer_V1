@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LSK
+원본 풀네임: Lisk
+검색 쿼리: LSK Lisk
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:35
+발견된 토큰 수: 15개
+전체 결과 수: 577개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] LSK
+ 이름: Lisk
+ 주소: 0xac485391eb2d7d88253a7f1ef18c37f4242d1a24
+ 체인ID: 8453
+ Decimals: 18
+
+[2] LSK
+ 이름: Lisk
+ 주소: 0x6033f7f88332b8db6ad452b7c6d5bb643990ae3f
+ 체인ID: 1
+ Decimals: 18
+
+[3] lisksea
+ 이름: lisksea
+ 주소: 0xe002ee122847eba12bed8a07861640e16af04411
+ 체인ID: 8453
+ Decimals: 18
+
+[4] LISKLONG
+ 이름: LISKLONG
+ 주소: 0x1b67f67536f47ca2d5dc9a2b17a299d53877b626
+ 체인ID: 8453
+ Decimals: 18
+
+[5] @Build with @lisk.farcaster.ethScale with @ethereum.farcaster.et
+ 이름: @Build with @lisk.farcaster.ethScale with @ethereum.farcaster.et
+ 주소: 0x2d9b46ad69934c620933c2142c973cd5b0f1a649
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Build on Lisk or Base
+ 이름: Build on Lisk or Base
+ 주소: 0xd6417ae326071d4c1e554a9dc814fcdd2c2767bb
+ 체인ID: 8453
+ Decimals: 18
+
+[7] liskmoon
+ 이름: liskmoon
+ 주소: 0x896a34ce547a1d65dbd3a1a7bca3e9f06e9d979e
+ 체인ID: 8453
+ Decimals: 18
+
+[8] liskfirst1
+ 이름: liskfirst1
+ 주소: 0xa3e598cff28ff052c5859c73a82774f80bf8ad4b
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Lisk
+ 이름: Lisk
+ 주소: 0x512f38b7b819312da68dcfe4431480e78de3a385
+ 체인ID: 8453
+ Decimals: 18
+
+[10] liska
+ 이름: liska
+ 주소: 0x3eabfae6c44e7b3d1219dd3b9eb8651eeca36c13
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Lisk
+ 이름: Lisk
+ 주소: 0x88d3344127470201574851be01a6ab388f1212a0
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Lisk
+ 이름: Lisk
+ 주소: 0x6fd7a7e73202c6b84b904cdc85722b8b421c5c79
+ 체인ID: 8453
+ Decimals: 18
+
+[13] )Jujuboy of Lisk bringing the gods onchain
+ 이름: )Jujuboy of Lisk bringing the gods onchain
+ 주소: 0x6a31712869d7458177ea6e0fdef44b83e45ad8b5
+ 체인ID: 8453
+ Decimals: 18
+
+[14] LISK
+ 이름: LISK
+ 주소: 0x2636f9c8c69b0ad239e8826468f05678b0690a8a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] liski
+ 이름: liski
+ 주소: 0xd78be1c060c8c75c512decc5389a3271e9fb009d
+ 체인ID: 8453
+ Decimals: 18

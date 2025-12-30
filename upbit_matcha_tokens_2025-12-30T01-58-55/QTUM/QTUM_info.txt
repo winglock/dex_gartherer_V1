@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: QTUM
+원본 풀네임: Qtum
+검색 쿼리: QTUM Qtum
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:04
+발견된 토큰 수: 15개
+전체 결과 수: 874개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WQTUM
+ 이름: WQtum
+ 주소: 0x8e373fb89233b8a622264db2e24d3b44037bc555
+ 체인ID: 130
+ Decimals: 18
+
+[2] WQTUM
+ 이름: WQtum
+ 주소: 0xe0dcf93ce98542a1e3c811646d6fdbcdf421fd5c
+ 체인ID: 8453
+ Decimals: 18
+
+[3] WQTUM
+ 이름: WQtum
+ 주소: 0x3103df8f05c4d8af16fd22ae63e406b97fec6938
+ 체인ID: 1
+ Decimals: 18
+
+[4] WQTUM
+ 이름: WQtum
+ 주소: 0xc998c403252cea44e97845bb8e3f8f3c7dde932b
+ 체인ID: 130
+ Decimals: 18
+
+[5] WQTUM
+ 이름: WQtum
+ 주소: 0x920bcba1caf7f977aa7fd2d501b79dde49150e3d
+ 체인ID: 8453
+ Decimals: 18
+
+[6] QTUMNI
+ 이름: QTUM Nikola Tesla Token
+ 주소: 0xc8f36e23b4a1d492462d1198727acdb023e0f006
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Output Qtum
+ 이름: Output Qtum
+ 주소: 0x0e0405b1fec8e7c48f93cd33063c4e80a2f4c251
+ 체인ID: 130
+ Decimals: 18
+
+[8] Qtum Long
+ 이름: Qtum Long
+ 주소: 0x11173a249c5c005c490bba7695c04356917da4b0
+ 체인ID: 130
+ Decimals: 18
+
+[9] qtum
+ 이름: qtum
+ 주소: 0x995e065b69cace0f10dd6fb9c84bf8e17928b641
+ 체인ID: 8453
+ Decimals: 18
+
+[10] QTUM NFT
+ 이름: QTUM NFT
+ 주소: 0x3f167906790d18a4778386afcde4ec8b4de88080
+ 체인ID: 8453
+ Decimals: 18
+
+[11] B🚨 QTUM/USDT: Short SetupEntry: $2.353 (Order Block)Stop Loss
+ 이름: B🚨 QTUM/USDT: Short SetupEntry: $2.353 (Order Block)Stop Loss
+ 주소: 0x08afb3eb39aa9e11462b74776e95281d75f1a21e
+ 체인ID: 8453
+ Decimals: 18
+
+[12] BGm, degens! Growth gainers over the past few days 👉$qtum, $ne
+ 이름: BGm, degens! Growth gainers over the past few days 👉$qtum, $ne
+ 주소: 0x113eaa15c513ae6e255c8da099fcb7e559e42e77
+ 체인ID: 8453
+ Decimals: 18
+
+[13] QTUM
+ 이름: Crypto Pug QTUM
+ 주소: 0x63aaced9b2097d89031018eff18907f38d13fed6
+ 체인ID: 8453
+ Decimals: 18
+
+[14] QTUM
+ 이름: Qtum
+ 주소: 0xca8c5ecdcff4196f898e1fb98d97faad2ca206a2
+ 체인ID: 8453
+ Decimals: 18
+
+[15] #QTUM ON VERGE OF FALLING WEDGE
+ 이름: #QTUM ON VERGE OF FALLING WEDGE
+ 주소: 0x3275b7c304bb18836e014b916a96f5976e74b430
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BOUNTY
+원본 풀네임: Chainbounty
+검색 쿼리: BOUNTY Chainbounty
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:49
+발견된 토큰 수: 15개
+전체 결과 수: 2488개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] TWT
+ 이름: Trust Wallet
+ 주소: 0x4b0f1812e5df2a09796481ff14017e6005508003
+ 체인ID: 56
+ Decimals: 18
+
+[2] WELL
+ 이름: WELL
+ 주소: 0xa88594d404727625a9437c3f886c7643872296ae
+ 체인ID: 8453
+ Decimals: 18
+
+[3] RSC
+ 이름: ResearchCoin
+ 주소: 0xfbb75a59193a3525a8825bebe7d4b56899e2f7e1
+ 체인ID: 8453
+ Decimals: 18
+
+[4] RSC
+ 이름: ResearchCoin
+ 주소: 0xd101dcc414f310268c37eeb4cd376ccfa507f571
+ 체인ID: 1
+ Decimals: 18
+
+[5] APEX
+ 이름: ApeX Token
+ 주소: 0x52a8845df664d76c69d2eea607cd793565af42b8
+ 체인ID: 1
+ Decimals: 18
+
+[6] APEX
+ 이름: ApeX Token
+ 주소: 0x61a1ff55c5216b636a294a07d77c6f4df10d3b56
+ 체인ID: 42161
+ Decimals: 18
+
+[7] BOUNTY Chainbounty On Base
+ 이름: BOUNTY Chainbounty On Base
+ 주소: 0x17cc7a0dc4dfe3c2e9a0b4eb67fff1ef70d13ce2
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ARKM
+ 이름: Arkham
+ 주소: 0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050
+ 체인ID: 1
+ Decimals: 18
+
+[9] BETA
+ 이름: Beta Token
+ 주소: 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
+ 체인ID: 56
+ Decimals: 18
+
+[10] KNIGHT
+ 이름: Forest Knight
+ 주소: 0x4455ef8b4b4a007a93daa12de63a47eeac700d9d
+ 체인ID: 137
+ Decimals: 18
+
+[11] GRD
+ 이름: GRADE
+ 주소: 0xaa52167bd14b1b22c74a80390469f796f1f82632
+ 체인ID: 56
+ Decimals: 18
+
+[12] DF
+ 이름: dForce
+ 주소: 0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0
+ 체인ID: 1
+ Decimals: 18
+
+[13] BTY
+ 이름: BOUNTY
+ 주소: 8d7NnrmY6sVs7yPXhXQiKt1AzBH3mLrEga3Jxaeipump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] BETA
+ 이름: Beta Token
+ 주소: 0xbe1a001fe942f96eea22ba08783140b9dcc09d28
+ 체인ID: 1
+ Decimals: 18
+
+[15] WBT
+ 이름: WBT
+ 주소: 0x925206b8a707096ed26ae47c84747fe0bb734f59
+ 체인ID: 1
+ Decimals: 8

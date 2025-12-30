@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: COMP
+원본 풀네임: Compound
+검색 쿼리: COMP Compound
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:19
+발견된 토큰 수: 15개
+전체 결과 수: 6999개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] COMP
+ 이름: Compound
+ 주소: 0xc00e94cb662c3520282e6f5717214004a7f26888
+ 체인ID: 1
+ Decimals: 18
+
+[2] COMP
+ 이름: (PoS) Compound
+ 주소: 0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c
+ 체인ID: 137
+ Decimals: 18
+
+[3] COMP
+ 이름: Compound
+ 주소: 0x354a6da3fcde098f8389cad84b0182725c6c91de
+ 체인ID: 42161
+ Decimals: 18
+
+[4] COMP
+ 이름: Compound Coin
+ 주소: 0x52ce071bd9b1c4b00a0b92d298c512478cad67e8
+ 체인ID: 56
+ Decimals: 18
+
+[5] COMP
+ 이름: Compound
+ 주소: 0x9e1028f5f1d5ede59748ffcee5532509976840e0
+ 체인ID: 8453
+ Decimals: 18
+
+[6] COMP (Compound) NFT
+ 이름: COMP (Compound) NFT
+ 주소: 0x5393578738fca1a0faaabf7b0c5fdac9f1cf0b8d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] YFI
+ 이름: yearn.finance
+ 주소: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+ 체인ID: 1
+ Decimals: 18
+
+[8] COMP Compound On Base
+ 이름: COMP Compound On Base
+ 주소: 0x58046b5414ead528d50fe0fdaa8e5013c1a3c8fe
+ 체인ID: 8453
+ Decimals: 18
+
+[9] BMX
+ 이름: BMX
+ 주소: 0x548f93779fbc992010c07467cbaf329dd5f059b7
+ 체인ID: 8453
+ Decimals: 18
+
+[10] wBLT
+ 이름: Wrapped BMX Liquidity Token
+ 주소: 0x4e74d4db6c0726ccded4656d0bce448876bb4c7a
+ 체인ID: 8453
+ Decimals: 18
+
+[11] cUNI
+ 이름: Compound Uniswap
+ 주소: 0x35a18000230da775cac24873d00ff85bccded550
+ 체인ID: 1
+ Decimals: 8
+
+[12] BIFI
+ 이름: Beefy
+ 주소: 0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1
+ 체인ID: 1
+ Decimals: 18
+
+[13] AAA
+ 이름: Arcadia
+ 주소: 0xaaa843fb2916c0b57454270418e121c626402aaa
+ 체인ID: 8453
+ Decimals: 18
+
+[14] RED
+ 이름: Redstone
+ 주소: 0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de
+ 체인ID: 1
+ Decimals: 18
+
+[15] TRU
+ 이름: TrueFi
+ 주소: 0x4c19596f5aaff459fa38b0f7ed92f11ae6543784
+ 체인ID: 1
+ Decimals: 8

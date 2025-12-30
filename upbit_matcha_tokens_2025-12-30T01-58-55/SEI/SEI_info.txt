@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SEI
+원본 풀네임: Sei
+검색 쿼리: SEI Sei
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:05
+발견된 토큰 수: 15개
+전체 결과 수: 8210개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] tBTC
+ 이름: tBTC v2
+ 주소: 0x18084fba666a33d37592fa2633fd49a74dd93a88
+ 체인ID: 1
+ Decimals: 18
+
+[2] SEI
+ 이름: SEI
+ 주소: 0xbdf43ecadc5cef51b7d1772f722e40596bc1788b
+ 체인ID: 1
+ Decimals: 18
+
+[3] tBTC
+ 이름: Base tBTC v2
+ 주소: 0x236aa50979d5f3de3bd1eeb40e81137f22ab794b
+ 체인ID: 8453
+ Decimals: 18
+
+[4] SHIBAAI
+ 이름: SHIBAAI
+ 주소: 0xc35ed584b24fd2d0885708e370343c43e20f3424
+ 체인ID: 56
+ Decimals: 18
+
+[5] tBTC
+ 이름: Arbitrum tBTC v2
+ 주소: 0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40
+ 체인ID: 42161
+ Decimals: 18
+
+[6] uSEI
+ 이름: Sei (Universal)
+ 주소: 0x71a67215a2025f501f386a49858a9ced2fc0249d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] METAL
+ 이름: METAL
+ 주소: 0x200c234721b5e549c3693ccc93cf191f90dc2af9
+ 체인ID: 137
+ Decimals: 18
+
+[8] FPIS
+ 이름: Frax Price Index Share
+ 주소: 0x3405e88af759992937b84e58f2fe691ef0eea320
+ 체인ID: 42161
+ Decimals: 18
+
+[9] FPIS
+ 이름: Frax Price Index Share
+ 주소: 0xd1738eb733a636d1b8665f48bc8a24da889c2562
+ 체인ID: 56
+ Decimals: 18
+
+[10] FPIS
+ 이름: Frax Price Index Share
+ 주소: 0xc2544a32872a91f4a553b404c6950e89de901fdb
+ 체인ID: 1
+ Decimals: 18
+
+[11] SHARE
+ 이름: Seigniorage Shares
+ 주소: 0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d
+ 체인ID: 1
+ Decimals: 9
+
+[12] seixas
+ 이름: seixas
+ 주소: 0xa63fb72c2812184c36284b44af7e5f2b8380eac3
+ 체인ID: 8453
+ Decimals: 18
+
+[13] lzSEILOR
+ 이름: Michael Seilor
+ 주소: 0x9bde70bad05b7d84dac03024dae15aace8c9cca2
+ 체인ID: 8453
+ Decimals: 18
+
+[14] METAL
+ 이름: METAL Token
+ 주소: 0x200c234721b5e549c3693ccc93cf191f90dc2af9
+ 체인ID: 56
+ Decimals: 18
+
+[15] BABYTRUMP WSEI
+ 이름: BABYTRUMP WSEI
+ 주소: 0x2940808a74a4b97a24bbbd230587818375efecc0
+ 체인ID: 130
+ Decimals: 18

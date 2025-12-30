@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: META
+원본 풀네임: Metadium
+검색 쿼리: META Metadium
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:34
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] PVC
+ 이름: PVC META
+ 주소: 0x75ca521892de7f2ecfb070cab545c250d0ceb7e3
+ 체인ID: 56
+ Decimals: 9
+
+[2] MGC
+ 이름: Meta Games Coin
+ 주소: 0xbb73bb2505ac4643d5c0a99c2a1f34b3dfd09d11
+ 체인ID: 56
+ Decimals: 9
+
+[3] CES
+ 이름: WhaleBit
+ 주소: 0x1bdf71ede1a4777db1eebe7232bcda20d6fc1610
+ 체인ID: 137
+ Decimals: 18
+
+[4] RUNNER
+ 이름: RUNNER
+ 주소: 0x18b6f6049a0af4ed2bbe0090319174eeef89f53a
+ 체인ID: 8453
+ Decimals: 18
+
+[5] RSC
+ 이름: ResearchCoin
+ 주소: 0xfbb75a59193a3525a8825bebe7d4b56899e2f7e1
+ 체인ID: 8453
+ Decimals: 18
+
+[6] RSC
+ 이름: ResearchCoin
+ 주소: 0xd101dcc414f310268c37eeb4cd376ccfa507f571
+ 체인ID: 1
+ Decimals: 18
+
+[7] ROCKET
+ 이름: AI ROCKET by Virtuals
+ 주소: 0x0bf852ebb243b963652b71103a2b97cf446f22c3
+ 체인ID: 8453
+ Decimals: 18
+
+[8] RAIN
+ 이름: Rain by Virtuals
+ 주소: 0x1aca6687a9665fb84deb7e3801e8e7ecba6ec6de
+ 체인ID: 8453
+ Decimals: 18
+
+[9] MMMA
+ 이름: Meta Mask Meme Army
+ 주소: 0x1329f999af42b608741a2b9e74144cdd95be4444
+ 체인ID: 56
+ Decimals: 18
+
+[10] META Metadium On Base
+ 이름: META Metadium On Base
+ 주소: 0x1c6c8d735ec6a112e87a7d1cd19618505b372885
+ 체인ID: 8453
+ Decimals: 18
+
+[11] METAx
+ 이름: Meta xStock
+ 주소: 0x96702be57cd9777f835117a809c7124fe4ec989a
+ 체인ID: 1
+ Decimals: 18
+
+[12] MEFAI
+ 이름: META FINANCIAL AI
+ 주소: 0x45e57907058c707a068100de358ba4535b18e2f3
+ 체인ID: 56
+ Decimals: 18
+
+[13] METAx
+ 이름: Meta xStock
+ 주소: Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu
+ 체인ID: 1399811149
+ Decimals: 8
+
+[14] META
+ 이름: MetaDAO
+ 주소: METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] $RDAC
+ 이름: Redacted Coin
+ 주소: 0xd3f68c6e8aee820569d58adf8d85d94489315192
+ 체인ID: 8453
+ Decimals: 18

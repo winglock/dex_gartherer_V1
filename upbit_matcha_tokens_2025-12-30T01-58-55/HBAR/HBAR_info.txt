@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: HBAR
+원본 풀네임: Hedera
+검색 쿼리: HBAR Hedera
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:03
+발견된 토큰 수: 15개
+전체 결과 수: 2782개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] HBAR
+ 이름: Binance-Peg Hedera
+ 주소: 0x0422f966bf8e978075a97d47ef4c7efd3563fa51
+ 체인ID: 56
+ Decimals: 18
+
+[2] SD
+ 이름: Stader
+ 주소: 0x30d20208d987713f46dfd34ef128bb16c404d10f
+ 체인ID: 1
+ Decimals: 18
+
+[3] Whbar Share
+ 이름: Whbar Share
+ 주소: 0x89bb5eeee9ea8dc53c4a8e163022e39ff9e4b0e9
+ 체인ID: 130
+ Decimals: 18
+
+[4] Whbar Metaverse Index
+ 이름: Whbar Metaverse Index
+ 주소: 0x053231c90d34200e61c5ff2b0c206da0068871a3
+ 체인ID: 130
+ Decimals: 18
+
+[5] SD
+ 이름: Stader
+ 주소: 0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8
+ 체인ID: 56
+ Decimals: 18
+
+[6] uHBAR
+ 이름: Hedera (Universal)
+ 주소: 0xc79e06860aa9564f95e08fb7e5b61458d0c63898
+ 체인ID: 8453
+ Decimals: 18
+
+[7] WHBAR MON
+ 이름: WHBAR MON
+ 주소: 0xdb4591fb0e0737ba606c97b220d7cdc57caa10db
+ 체인ID: 8453
+ Decimals: 18
+
+[8] WHBAR HARAMBE
+ 이름: WHBAR HARAMBE
+ 주소: 0xed159faffca27955e9e432ac578638efbb8bb37d
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Whbar Polyswarm
+ 이름: Whbar Polyswarm
+ 주소: 0xc10c7a3586c65915043f8ddb5cc3e8277791b5f1
+ 체인ID: 130
+ Decimals: 18
+
+[10] Whbar Pgpt
+ 이름: Whbar Pgpt
+ 주소: 0xe5313b259c152b239cfa822d69df71aa72c4e321
+ 체인ID: 130
+ Decimals: 18
+
+[11] Whbar Freetrump
+ 이름: Whbar Freetrump
+ 주소: 0x36ecc77651907259da296275e72bfb63aca49236
+ 체인ID: 130
+ Decimals: 18
+
+[12] Whbar Basedbunny
+ 이름: Whbar Basedbunny
+ 주소: 0x4bc50a5d49514a7d1f9a4fa0e2481a5aaa3d1f2b
+ 체인ID: 130
+ Decimals: 18
+
+[13] Whbar Row
+ 이름: Whbar Row
+ 주소: 0x8721ccc4b6720217716bde1258d8974efe421eb3
+ 체인ID: 130
+ Decimals: 18
+
+[14] Idle Whbar
+ 이름: Idle Whbar
+ 주소: 0xbee2ed5969cd249409ecfe22a2505792ff41ed58
+ 체인ID: 130
+ Decimals: 18
+
+[15] Whbar Type
+ 이름: Whbar Type
+ 주소: 0x8b00cc42889bcb37e90fbd342d0a0deea41b8567
+ 체인ID: 8453
+ Decimals: 9

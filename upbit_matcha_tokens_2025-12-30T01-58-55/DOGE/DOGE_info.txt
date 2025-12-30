@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DOGE
+원본 풀네임: Dogecoin
+검색 쿼리: DOGE Dogecoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:01
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] DOGE
+ 이름: Dogecoin
+ 주소: 0xba2ae424d960c26247dd6c32edc70b295c744c43
+ 체인ID: 56
+ Decimals: 8
+
+[2] cbDOGE
+ 이름: Coinbase Wrapped DOGE
+ 주소: 0xcbd06e5a2b0c65597161de254aa074e489deb510
+ 체인ID: 8453
+ Decimals: 8
+
+[3] BabyDoge
+ 이름: Baby Doge Coin
+ 주소: 0xc748673057861a797275cd8a068abb95a902e8de
+ 체인ID: 56
+ Decimals: 9
+
+[4] LEASH
+ 이름: DOGE KILLER
+ 주소: 0x27c70cd1946795b66be9d954418546998b546634
+ 체인ID: 1
+ Decimals: 18
+
+[5] AIDOGE
+ 이름: AGENT DOGE by Virtuals
+ 주소: 0xb34457736aa191ff423f84f5d669f68b231e6c4e
+ 체인ID: 8453
+ Decimals: 18
+
+[6] DOG
+ 이름: The Doge NFT
+ 주소: 0xafb89a09d82fbde58f18ac6437b3fc81724e4df6
+ 체인ID: 8453
+ Decimals: 18
+
+[7] BabyDoge
+ 이름: Baby Doge Coin
+ 주소: 0xac57de9c1a09fec648e93eb98875b212db0d460b
+ 체인ID: 1
+ Decimals: 9
+
+[8] DOGE (Dogecoin)
+ 이름: DOGE (Dogecoin)
+ 주소: 0x86f117765adf0c7089b540b6b0a84806b2902e50
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Neiro
+ 이름: Neiro
+ 주소: 0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee
+ 체인ID: 1
+ Decimals: 9
+
+[10] DOGE
+ 이름: #Department Of Government Efficiency
+ 주소: 0x1121acc14c63f3c872bfca497d10926a6098aac5
+ 체인ID: 1
+ Decimals: 18
+
+[11] @About Dogecoin (DOGE)Dogecoin is a cryptocurrency created in 20
+ 이름: @About Dogecoin (DOGE)Dogecoin is a cryptocurrency created in 20
+ 주소: 0x16bacad9a39f2dce63940613b7243095032fafc2
+ 체인ID: 8453
+ Decimals: 18
+
+[12] @$DOGE (Dogecoin) Price on New Year's Day:2015: $0.0002 2016: $
+ 이름: @$DOGE (Dogecoin) Price on New Year's Day:2015: $0.0002 2016: $
+ 주소: 0x58599ed20fa0d5acc9ebc063849c25656f3e0d82
+ 체인ID: 8453
+ Decimals: 18
+
+[13] DBREAKING: 🇦🇷 Buenos Aires now accepts $DOGE (Dogecoin) for tax
+ 이름: DBREAKING: 🇦🇷 Buenos Aires now accepts $DOGE (Dogecoin) for tax
+ 주소: 0xf7f64eff4bc5dfcc9e05ef2a7b6c70f2ab65026c
+ 체인ID: 8453
+ Decimals: 18
+
+[14] >DOGE (Dogecoin) is up 10.06% in the past 24h. Now at $0.24685.
+ 이름: >DOGE (Dogecoin) is up 10.06% in the past 24h. Now at $0.24685.
+ 주소: 0x9bb7bcc727f3b170471d82aa87386f3d9c98ddd6
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Cheems
+ 이름: Cheems
+ 주소: 0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413
+ 체인ID: 56
+ Decimals: 18

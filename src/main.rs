@@ -4,6 +4,7 @@ mod sources;
 mod services;
 
 use std::sync::Arc;
+use crate::sources::PoolSource;
 use std::sync::atomic::Ordering;
 use axum::{
     Router, 
@@ -26,6 +27,31 @@ pub struct AppState {
     pub cache: Arc<PoolCache>,
     pub upbit: Arc<UpbitClient>,
     pub symbols: Vec<String>,
+}
+
+// main() 함수 바로 위에 추가
+async fn debug_single_token(symbol: &str) {
+    println!("\n🔍 테스트 중: {}\n", symbol);
+    
+    let sources: Vec<Arc<dyn PoolSource>> = vec![
+        Arc::new(sources::gecko::GeckoTerminal::new()),
+        Arc::new(sources::aggregators::DexScreenerSource::new()),
+        Arc::new(sources::aggregators::MatchaSource::new()),
+    ];
+    
+    for source in sources {
+        print!("  {} ... ", source.name());
+        match source.fetch_pools(symbol).await {
+            Ok(pools) => {
+                println!("✅ {}개 풀", pools.len());
+                for pool in pools.iter().take(2) {
+                    println!("    - ${:.4} @ {} (LP: ${})", 
+                        pool.price_usd, pool.dex, pool.lp_reserve_usd);
+                }
+            }
+            Err(e) => println!("❌ {}", e),
+        }
+    }
 }
 
 #[tokio::main(worker_threads = 4)]
@@ -248,3 +274,4 @@ async fn handle_socket(socket: WebSocket, state: Arc<AppState>) {
         }
     }
 }
+

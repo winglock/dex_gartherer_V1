@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "MBL",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0x0281e922cc1a3b1926332264dcc3bed4946ba491",
+    "pair": "MBL EURC / WETH",
+    "price_usd": 3.156181575e-7,
+    "lp_reserve_usd": 0.059664336,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767051974
+  },
+  {
+    "symbol": "MBL",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0x4f6fdd47f52f4dd4adb71837e424167e07fc0de1",
+    "pair": "Trump - MovieBloc MBL / WETH",
+    "price_usd": 2.746423658e-11,
+    "lp_reserve_usd": 0.05549007904,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767051974
+  },
+  {
+    "symbol": "MBL",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x184DF6Feb033244C59a86a7ff4F9808191fd878B",
+    "pair": "MBL/USD",
+    "price_usd": 0.0007592,
+    "lp_reserve_usd": 0.04,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052740
+  },
+  {
+    "symbol": "MBL",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0xec19fbd8d3c77bd4f8cf9a9046f2ffd136928a4d",
+    "pair": "MBL TPT WOD / WETH",
+    "price_usd": 2.29666110801551e-10,
+    "lp_reserve_usd": 11.4361,
+    "volume_24h": 0.0375501275,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767051974
+  },
+  {
+    "symbol": "MBL",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0x2e38241b66b47694d73d89c9fbb2072703064154",
+    "pair": "MBL Wrapped Sonic / WETH",
+    "price_usd": 8.703594735e-12,
+    "lp_reserve_usd": 0.01005485445,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767051974
+  }
+]

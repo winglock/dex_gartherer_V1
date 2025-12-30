@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BERA
+원본 풀네임: Berachain
+검색 쿼리: BERA Berachain
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:28
+발견된 토큰 수: 15개
+전체 결과 수: 4204개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BERA (Berachain) NFT
+ 이름: BERA (Berachain) NFT
+ 주소: 0x5d7d7897f84cc56401bfd2149ba1e1199605f012
+ 체인ID: 8453
+ Decimals: 18
+
+[2] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x434fa063cf768802e74de06f258089cf366b1a7d
+ 체인ID: 8453
+ Decimals: 18
+
+[3] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x1b4a9cd54608eba128feaf35b6e1dd84b1bceb19
+ 체인ID: 130
+ Decimals: 18
+
+[4] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x6046fe39442f3835f4090b477b56d9d6fc7617e1
+ 체인ID: 8453
+ Decimals: 9
+
+[5] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x6e221562f20c3ef201bef463e924409f5a6e579b
+ 체인ID: 1
+ Decimals: 18
+
+[6] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0xa10be7b641945a008682f6740a32a8bf8f47485e
+ 체인ID: 8453
+ Decimals: 9
+
+[7] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0xb8b2ccf57ec065c0dbe86c319666af57c6a2262e
+ 체인ID: 8453
+ Decimals: 18
+
+[8] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x3d5b5a5be9b62424743da603a44beac3582f34ec
+ 체인ID: 8453
+ Decimals: 18
+
+[9] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0xd3e11ddc6659813b42777ef0562633a4e7a4bb38
+ 체인ID: 130
+ Decimals: 18
+
+[10] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x7ebc5331c43c964abbf2db0b73b4da38c5f7a985
+ 체인ID: 8453
+ Decimals: 18
+
+[11] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x61fcb7cce2c9e714f32627e8790cb02eaaedd2cd
+ 체인ID: 56
+ Decimals: 18
+
+[12] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0xae45c2ca0614ad185fedd387e686e551d8c08b4a
+ 체인ID: 1
+ Decimals: 9
+
+[13] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x3050c44f426b16836cbd1fce25d8474ed476a690
+ 체인ID: 130
+ Decimals: 9
+
+[14] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0x0ddb352a3bb554f1b6037f20e650efb993421711
+ 체인ID: 8453
+ Decimals: 18
+
+[15] BERA Berachain
+ 이름: BERA Berachain
+ 주소: 0xed7f449eea3df88eb6d9f68188e44c1a22cdb59b
+ 체인ID: 8453
+ Decimals: 9

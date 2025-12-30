@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ARKM
+원본 풀네임: Arkham
+검색 쿼리: ARKM Arkham
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:12
+발견된 토큰 수: 15개
+전체 결과 수: 1191개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ARKM
+ 이름: Arkham
+ 주소: 0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050
+ 체인ID: 1
+ Decimals: 18
+
+[2] ARKM Arkham On Base
+ 이름: ARKM Arkham On Base
+ 주소: 0x48bec5613cd7ee883c48762ce740722a6d1f4bb4
+ 체인ID: 8453
+ Decimals: 18
+
+[3] ARKM Arkham AI Presale v2
+ 이름: ARKM Arkham AI Presale v2
+ 주소: 0xe4ba6e4f90d2428b55a73f6f7465f7ec5cea444c
+ 체인ID: 56
+ Decimals: 9
+
+[4] Google Arkm
+ 이름: Google Arkm
+ 주소: 0x0db503e99f5a027ecb79ac3fbd72ecfa79f3c242
+ 체인ID: 130
+ Decimals: 18
+
+[5] ARKM Arkha
+ 이름: ARKM Arkham On Binance Alpha
+ 주소: 0x3b75f7e57549b00af06c4133ae74b8ad85643a89
+ 체인ID: 56
+ Decimals: 18
+
+[6] ARKMAR
+ 이름: ARKM Arkham Perpetual
+ 주소: 0x971c6ee6db7823ae874c493f1db917f70ecdd0c8
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ARKM
+ 이름: ARKM
+ 주소: 0x8ddfb3d10200b180e3b2bc105abf175357ab9a3f
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ARKM
+ 이름: ARKM
+ 주소: 0xe8682c2d9c190a00ffce4f253da75142ae22ae27
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ARKM
+ 이름: ARKM
+ 주소: 0xc1289ab45b8210d8379ffbac0d460b0d669b7ec6
+ 체인ID: 8453
+ Decimals: 18
+
+[10] arkm points
+ 이름: arkm points
+ 주소: 0xcda6c8354c4ce764d2ff53efe9d28465bea3b83f
+ 체인ID: 8453
+ Decimals: 18
+
+[11] %What you 🤔 should we enter ? $arkm
+ 이름: %What you 🤔 should we enter ? $arkm
+ 주소: 0x30387b365fa8da7233962e7618bf0f40cd798eee
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ?portfolioRwa: $plume $ondoMemecoin/ip: $doodAi: $kled $arkm
+ 이름: @portfolioRwa: $plume $ondoMemecoin/ip: $doodAi: $kled $arkm
+ 주소: 0x71a00826eeaa10df19f7389b2c4dfeff0268f056
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ARKM
+ 이름: ARKM
+ 주소: 0x09b55f94371899e81361c3f9174e98215bbda1e8
+ 체인ID: 42161
+ Decimals: 18
+
+[14] Arkm
+ 이름: Arkm
+ 주소: 9qDwrBVDrnCAtcuvi2pzJLxvWrU8URsC5fUTV4iXpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] ARKM
+ 이름: ARKM
+ 주소: 0x59eecabf61011553c655e5c08e2dff2b4bd32c11
+ 체인ID: 137
+ Decimals: 9

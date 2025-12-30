@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MOODENG
+원본 풀네임: Moo Deng
+검색 쿼리: MOODENG Moo Deng
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:42
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MOODENG
+ 이름: MOO DENG
+ 주소: 0x28561b8a2360f463011c16b6cc0b0cbef8dbbcad
+ 체인ID: 1
+ Decimals: 9
+
+[2] mooBIFI
+ 이름: Moo BIFI
+ 주소: 0xc55e93c62874d8100dbd2dfe307edc1036ad5434
+ 체인ID: 10
+ Decimals: 18
+
+[3] Moo
+ 이름: Moo
+ 주소: 0xb5b7f828caed10db9582bed424ff79809ce766cb
+ 체인ID: 56
+ Decimals: 18
+
+[4] mooBIFI
+ 이름: Moo BIFI
+ 주소: 0xc55e93c62874d8100dbd2dfe307edc1036ad5434
+ 체인ID: 8453
+ Decimals: 18
+
+[5] &MOODENG Moo Deng moodengsolcom On Base
+ 이름: &MOODENG Moo Deng moodengsolcom On Base
+ 주소: 0x3f4f4402b552083277b94fa158f9319af32e8076
+ 체인ID: 8453
+ Decimals: 18
+
+[6] MOODENG
+ 이름: Moo Deng
+ 주소: ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] MOOCOW
+ 이름: Moo Cow
+ 주소: 0x67d9c7daecc5b87c3e68ac89f33ee924fac88c05
+ 체인ID: 1
+ Decimals: 9
+
+[8] KEE
+ 이름: Kee the Moodeng dog
+ 주소: 0x2dc0a699dd262fb3a765d544ced9729c8bf05e83
+ 체인ID: 1
+ Decimals: 9
+
+[9] KHAMOO
+ 이름: Kha Moo
+ 주소: 0x8f66cf0f1db84f8ee2a46352409370a69ae4e059
+ 체인ID: 1
+ Decimals: 9
+
+[10] MOODEN
+ 이름: (MOODENG Moo Deng moodengsolcom Perpetual
+ 주소: 0x5810ab411667191b68ee43a27aa89a7552677902
+ 체인ID: 8453
+ Decimals: 18
+
+[11] $MOO
+ 이름: Moo Garden
+ 주소: 0xa0324f29622d76f41353ae7caf82f40ad2e1044f
+ 체인ID: 56
+ Decimals: 9
+
+[12] MOO
+ 이름: MOO THE COW
+ 주소: 0x377aee0d43e537f1ad1d88b99fc06481f7527da8
+ 체인ID: 1
+ Decimals: 9
+
+[13] MOODENG
+ 이름: CHATGPT CALLS MOODENG
+ 주소: 1RijVdAVYTEzuPRKCKvsUrFuC9Z1wcbajDAPEESpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] Moo CallofMeme
+ 이름: Moo CallofMeme
+ 주소: 0x3ff1c7ca0469f3d4e4f8588daaf6e9f2c6f56543
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Longcat Moo
+ 이름: Longcat Moo
+ 주소: 0x306d81e0e71a641a5403bc88703b0c57a3563dee
+ 체인ID: 8453
+ Decimals: 18

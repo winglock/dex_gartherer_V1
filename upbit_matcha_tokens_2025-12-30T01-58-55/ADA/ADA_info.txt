@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ADA
+원본 풀네임: Ada
+검색 쿼리: ADA Ada
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:21
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ADA
+ 이름: Cardano Token
+ 주소: 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47
+ 체인ID: 56
+ Decimals: 18
+
+[2] cbADA
+ 이름: Coinbase Wrapped ADA
+ 주소: 0xcbada732173e39521cdbe8bf59a6dc85a9fc7b8c
+ 체인ID: 8453
+ Decimals: 6
+
+[3] GIZA
+ 이름: Giza
+ 주소: 0x590830dfdf9a3f68afcdde2694773debdf267774
+ 체인ID: 8453
+ Decimals: 18
+
+[4] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SANTA
+ 이름: SANTA by Virtuals
+ 주소: 0x815269d17c10f0f3df7249370e0c1b9efe781aa8
+ 체인ID: 8453
+ Decimals: 18
+
+[6] MAMO
+ 이름: Mamo
+ 주소: 0x7300b37dfdfab110d83290a29dfb31b1740219fe
+ 체인ID: 8453
+ Decimals: 18
+
+[7] SQD
+ 이름: Subsquid
+ 주소: 0xd4554bea546efa83c1e6b389ecac40ea999b3e78
+ 체인ID: 8453
+ Decimals: 18
+
+[8] SERV
+ 이름: OpenServ
+ 주소: 0x40e3d1a4b2c47d9aa61261f5606136ef73e28042
+ 체인ID: 1
+ Decimals: 18
+
+[9] A0T
+ 이름: Agent Zero Token
+ 주소: 0xcc4adb618253ed0d4d8a188fb901d70c54735e03
+ 체인ID: 8453
+ Decimals: 18
+
+[10] SQD
+ 이름: Subsquid
+ 주소: 0x1337420ded5adb9980cfc35f8f2b054ea86f8ab1
+ 체인ID: 42161
+ Decimals: 18
+
+[11] PEAR
+ 이름: Pear
+ 주소: 0x3212dc0f8c834e4de893532d27cc9b6001684db0
+ 체인ID: 42161
+ Decimals: 18
+
+[12] SQD
+ 이름: Subsquid
+ 주소: 0xe50e3d1a46070444f44df911359033f2937fcc13
+ 체인ID: 56
+ Decimals: 18
+
+[13] $PAAL
+ 이름: PAAL AI
+ 주소: 0x14fee680690900ba0cccfc76ad70fd1b95d10e16
+ 체인ID: 1
+ Decimals: 9
+
+[14] OMIKAMI
+ 이름: AMATERASU OMIKAMI
+ 주소: 0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3
+ 체인ID: 1
+ Decimals: 9
+
+[15] IAMAI
+ 이름: IAMAI by Virtuals
+ 주소: 0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9
+ 체인ID: 8453
+ Decimals: 18

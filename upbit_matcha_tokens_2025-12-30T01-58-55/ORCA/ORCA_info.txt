@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ORCA
+원본 풀네임: Orca
+검색 쿼리: ORCA Orca
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:27
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ORCA
+ 이름: Orca
+ 주소: orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] Orca ORCA
+ 이름: Orca ORCA
+ 주소: 0x12f8c442bdf8937d31ffb210dc640fa2cef6ecfc
+ 체인ID: 130
+ Decimals: 18
+
+[3] Orca ORCA
+ 이름: Orca ORCA
+ 주소: 0xacde5fc613782bcb4f5b9a061b6ce82c7ba092b6
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Orca ORCA
+ 이름: Orca ORCA
+ 주소: 0x641a4d1b0db3823a54873a5c52777448114e1618
+ 체인ID: 130
+ Decimals: 18
+
+[5] Orca ORCA
+ 이름: Orca ORCA
+ 주소: 0x0f36403b9f42166a0d4974e6e909d17c8d63b960
+ 체인ID: 130
+ Decimals: 18
+
+[6] Orca ORCA
+ 이름: Orca ORCA 2026
+ 주소: 0x2cd8ac17b9b3db1353e183789d5d4f544253567d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Orca ORCA V3
+ 이름: Orca ORCA V3
+ 주소: 0xbd4873c914419ff15c4a7ec05025cadfd1f13176
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Orca ORCA - AI
+ 이름: Orca ORCA - AI
+ 주소: 0x1ec570d9d970ccf6e6da82a93209c6794380c19c
+ 체인ID: 8453
+ Decimals: 9
+
+[9] Orca ORCA AI
+ 이름: Orca ORCA AI
+ 주소: 0x4151e01df78c2ce699313b12cdf55a8bf7f0c1ff
+ 체인ID: 130
+ Decimals: 18
+
+[10] Orca ORCA - Free
+ 이름: Orca ORCA - Free
+ 주소: 0xaecc2ede4f0e80c8c19bbf6cc9f3f3ce70c9cb1d
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Trump - Orca ORCA
+ 이름: Trump - Orca ORCA
+ 주소: 0x3f6580d12a6b59667f92877b9d4fdfa8bb63626b
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Orca ORCA Red
+ 이름: Orca ORCA Red
+ 주소: 0xafe60b6d4ef7f7db853c49617b3701972b42b7c1
+ 체인ID: 8453
+ Decimals: 9
+
+[13] Orca ORCA Reserve
+ 이름: Orca ORCA Reserve
+ 주소: 0x578006478ca88a679fecdcfe122923c235d3a050
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Orca ORCA V3
+ 이름: Orca ORCA V3
+ 주소: 0x49a98cf88b018772beade2e559a4ed338b16d8ce
+ 체인ID: 130
+ Decimals: 18
+
+[15] Orca ORCA AI
+ 이름: Orca ORCA AI
+ 주소: 0x18dc0b7dc210b78309f7a7151ebb566684a16992
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AUCTION
+원본 풀네임: Bounce
+검색 쿼리: AUCTION Bounce
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:00
+발견된 토큰 수: 15개
+전체 결과 수: 6690개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] AUCTION
+ 이름: House
+ 주소: 0x05af98aebec91aef2bd893614a2c333c58855012
+ 체인ID: 8453
+ Decimals: 18
+
+[2] POLS
+ 이름: PolkastarterToken
+ 주소: 0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa
+ 체인ID: 1
+ Decimals: 18
+
+[3] AUCTION Bounce Token On Base
+ 이름: AUCTION Bounce Token On Base
+ 주소: 0x93cfe5286ee08455b026c290c351502b935d8b96
+ 체인ID: 8453
+ Decimals: 18
+
+[4] "AUCTION Bounce Token AI Presale v2
+ 이름: "AUCTION Bounce Token AI Presale v2
+ 주소: 0x514023e3672ff41fda977b73919640ddf92468c9
+ 체인ID: 56
+ Decimals: 9
+
+[5] ARKM
+ 이름: Arkham
+ 주소: 0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050
+ 체인ID: 1
+ Decimals: 18
+
+[6] POLS
+ 이름: PolkastarterToken
+ 주소: 0x7e624fa0e1c4abfd309cc15719b7e2580887f570
+ 체인ID: 56
+ Decimals: 18
+
+[7] $ADS
+ 이름: Alkimi Exchange
+ 주소: 0x3106a0a076bedae847652f42ef07fd58589e001f
+ 체인ID: 1
+ Decimals: 18
+
+[8] PAST
+ 이름: Punk Auction Strategy Token
+ 주소: 0x38778e6d4d0dbe9becef3ae8b938570209efa48b
+ 체인ID: 1
+ Decimals: 18
+
+[9] DEP
+ 이름: DEAPCOIN
+ 주소: 0x1a3496c18d558bd9c6c8f609e1b129f67ab08163
+ 체인ID: 1
+ Decimals: 18
+
+[10] Auction
+ 이름: Bounce Token
+ 주소: 0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096
+ 체인ID: 1
+ Decimals: 18
+
+[11] XYZ
+ 이름: XYZ Governance Token
+ 주소: 0x618679df9efcd19694bb1daa8d00718eacfa2883
+ 체인ID: 1
+ Decimals: 18
+
+[12] EMRLD
+ 이름: EMERALD
+ 주소: 0xebb1afb0a4ddc9b1f84d9aa72ff956cd1c1eb4be
+ 체인ID: 1
+ Decimals: 18
+
+[13] BIC
+ 이름: Beincom
+ 주소: 0xb1c3960aeeaf4c255a877da04b06487bba698386
+ 체인ID: 42161
+ Decimals: 18
+
+[14] BSCS
+ 이름: BSCS Token
+ 주소: 0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d
+ 체인ID: 56
+ Decimals: 18
+
+[15] DEK
+ 이름: DekBox
+ 주소: 0xe52c5a3590952f3ed6fccf89a0bd7f38e11c5b98
+ 체인ID: 56
+ Decimals: 18

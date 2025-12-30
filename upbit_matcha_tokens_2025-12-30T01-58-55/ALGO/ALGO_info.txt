@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ALGO
+원본 풀네임: Algorand
+검색 쿼리: ALGO Algorand
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:55
+발견된 토큰 수: 15개
+전체 결과 수: 1289개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] EURe
+ 이름: Monerium EUR emoney
+ 주소: 0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6
+ 체인ID: 137
+ Decimals: 18
+
+[2] CUDOS
+ 이름: CudosToken
+ 주소: 0x817bbdbc3e8a1204f3691d14bb44992841e3db35
+ 체인ID: 1
+ Decimals: 18
+
+[3] wALGO
+ 이름: wAlgo
+ 주소: 0xeefcfdd7feeb3f35d72e325de354eb6c7df967f5
+ 체인ID: 56
+ Decimals: 8
+
+[4] vAMM-wALGO/USDC
+ 이름: Volatile Pair - wALGO/USDC
+ 주소: 0xd7fcf48ef8d1440f12b46d2782e672c367126284
+ 체인ID: 43114
+ Decimals: 18
+
+[5] ALGOBULL
+ 이름: 3X Long Algorand Token
+ 주소: 0x584936357d68f5143f12e2e64f0089db93814dad
+ 체인ID: 1
+ Decimals: 18
+
+[6] ALGODOOM
+ 이름: 10X Short Algorand Token
+ 주소: 0x9281c548c6d107aea807b87a776da045f71fa193
+ 체인ID: 1
+ Decimals: 18
+
+[7] ALGOMOON
+ 이름: 10X Long Algorand Token
+ 주소: 0xa386e04f0fb641869accd582c1b76eaa7d7087fe
+ 체인ID: 1
+ Decimals: 18
+
+[8] ALGOBEAR
+ 이름: 3X Short Algorand Token
+ 주소: 0x057fb10e3fec001a40e6b75d3a30b99e23e54107
+ 체인ID: 1
+ Decimals: 18
+
+[9] GORA
+ 이름: GoraToken
+ 주소: 0x3b9b5ad79cbb7649143decd5afc749a75f8e6c7f
+ 체인ID: 1
+ Decimals: 18
+
+[10] EURe
+ 이름: Monerium EUR emoney
+ 주소: 0x3231cb76718cdef2155fc47b5286d82e6eda273f
+ 체인ID: 1
+ Decimals: 18
+
+[11] wALGO
+ 이름: Wrapped Algorand
+ 주소: 0xb50cfe10fe1bb02426e12d1a61940cbe5130cb57
+ 체인ID: 1
+ Decimals: 6
+
+[12] algorandd
+ 이름: algorandd
+ 주소: 0xe9ff88efac12f664d9fe31793907e00d9b040756
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Soon. On Algorand. MONSTRS
+ 이름: Soon. On Algorand. MONSTRS
+ 주소: 0x4a511ac69276c1415cd1b4c76d7a004cdcd3b9fa
+ 체인ID: 8453
+ Decimals: 18
+
+[14] I, Algorand: Protocol Awakening
+ 이름: I, Algorand: Protocol Awakening
+ 주소: 0x83d7effaeb9347568797e39f85b43a3ab262b0c6
+ 체인ID: 8453
+ Decimals: 18
+
+[15] ?just won a bag of 15000 MONKO On Algorand and 333333333 PHIL On
+ 이름: @ just won a bag of 15000 MONKO On Algorand and 333333333 PHIL On
+ 주소: 0xa7acadde2be9075c6e670e4c8141ce2c4a1b6940
+ 체인ID: 8453
+ Decimals: 18

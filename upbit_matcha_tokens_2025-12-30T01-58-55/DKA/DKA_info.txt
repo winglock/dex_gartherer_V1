@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DKA
+원본 풀네임: dKargo
+검색 쿼리: DKA dKargo
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:53
+발견된 토큰 수: 15개
+전체 결과 수: 582개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] DKA dKargo
+ 이름: DKA dKargo On Binance Alpha
+ 주소: 0x8722aacee0a718ce724c9438065c42fb975f0cae
+ 체인ID: 56
+ Decimals: 18
+
+[2] DKA dKargo On Base
+ 이름: DKA dKargo On Base
+ 주소: 0x8d53b0dd8ddedc539310a462b86bda482900420f
+ 체인ID: 8453
+ Decimals: 18
+
+[3] STOCK DKA
+ 이름: STOCK DKA
+ 주소: 0xf12dfc7212c7c3df5f769694455d21cfe2b6baa3
+ 체인ID: 130
+ Decimals: 18
+
+[4] DKADKA
+ 이름: DKA dKargo Perpetual
+ 주소: 0x79938b5596faeb8a2214738396b1ff76ff50a4ec
+ 체인ID: 8453
+ Decimals: 18
+
+[5] DKA
+ 이름: dKargo
+ 주소: 0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0
+ 체인ID: 1
+ Decimals: 18
+
+[6] DKA
+ 이름: DKA
+ 주소: 0xe6e74dfacd8f5806e5f5cd762e6b6d6618dd2086
+ 체인ID: 8453
+ Decimals: 18
+
+[7] DKA
+ 이름: DKA
+ 주소: 0xd4c7f855dd5cad1b9ee5c66a9dcb1eb1cbd5db07
+ 체인ID: 8453
+ Decimals: 18
+
+[8] DKA
+ 이름: DKA
+ 주소: 0x58cb2140f9f6eb8d51b6754f44d9f20746498b07
+ 체인ID: 8453
+ Decimals: 18
+
+[9] DKA
+ 이름: DKA
+ 주소: 0x98a76577565cc293cf7c1ae60d6ec83c8cb68b07
+ 체인ID: 8453
+ Decimals: 18
+
+[10] dKargo DKA
+ 이름: dKargo DKA
+ 주소: 0x40f5e8026f9803767540cd32d3c7c7e847359a14
+ 체인ID: 130
+ Decimals: 18
+
+[11] dKargo DKA
+ 이름: dKargo DKA
+ 주소: 0x312625e3c31134b9dea70a4f4b2584d3d6adc31f
+ 체인ID: 130
+ Decimals: 18
+
+[12] dKargo DKA
+ 이름: dKargo DKA
+ 주소: 0xa036043de65e4a1f5095e83bb88fc509994887fe
+ 체인ID: 130
+ Decimals: 18
+
+[13] dKargo DKA
+ 이름: dKargo DKA
+ 주소: 0x42133919da6130d5e76f21aa6e0024b4ddfa1a63
+ 체인ID: 8453
+ Decimals: 18
+
+[14] DKA XRD
+ 이름: DKA XRD
+ 주소: 0xfe1586db73d8336c25ca39484f43f072b0edcbbc
+ 체인ID: 8453
+ Decimals: 18
+
+[15] XYO DKA
+ 이름: XYO DKA
+ 주소: 0xc2af2291b506a3b0e5bcf73066db4a75dfb0a7f8
+ 체인ID: 8453
+ Decimals: 18

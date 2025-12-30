@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: VET
+원본 풀네임: VeChain
+검색 쿼리: VET VeChain
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:03
+발견된 토큰 수: 15개
+전체 결과 수: 2741개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] VET
+ 이름: VeChain
+ 주소: 0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888
+ 체인ID: 56
+ Decimals: 18
+
+[2] ,VET VeChain: Secure the Future of Blockchain
+ 이름: ,VET VeChain: Secure the Future of Blockchain
+ 주소: 0x669fd277039651aa91005735c6d08259267670f6
+ 체인ID: 8453
+ Decimals: 18
+
+[3] VET VeChain 2026
+ 이름: VET VeChain 2026
+ 주소: 0x15ee4d375b686a5ba4c20a7d708eac40d41a9392
+ 체인ID: 56
+ Decimals: 18
+
+[4] VET VeChain On Base
+ 이름: VET VeChain On Base
+ 주소: 0xe1aab296951d239bd38978d35a39e8863d8ba97f
+ 체인ID: 8453
+ Decimals: 18
+
+[5] VET VeChain AI Presale v2
+ 이름: VET VeChain AI Presale v2
+ 주소: 0x13d5af4f914720323709d007715fed855c506698
+ 체인ID: 56
+ Decimals: 18
+
+[6] LGCT
+ 이름: LEGACY TOKEN
+ 주소: 0xd38b305cac06990c0887032a02c03d6839f770a8
+ 체인ID: 56
+ Decimals: 18
+
+[7] PAID
+ 이름: PAID Network
+ 주소: 0x655a51e6803faf50d4ace80fa501af2f29c856cf
+ 체인ID: 8453
+ Decimals: 18
+
+[8] SQR
+ 이름: Magic Square
+ 주소: 0x2b72867c32cf673f7b02d208b26889fed353b1f8
+ 체인ID: 56
+ Decimals: 8
+
+[9] PARA
+ 이름: ParaWerx
+ 주소: 0xd16fd95d949f996e3808eeea0e3881c59e76ef1e
+ 체인ID: 1
+ Decimals: 18
+
+[10] BTRST
+ 이름: BTRST
+ 주소: 0x799ebfabe77a6e34311eeee9825190b9ece32824
+ 체인ID: 1
+ Decimals: 18
+
+[11] VETVEC
+ 이름: VET VeChain Perpetual
+ 주소: 0xc6c8cde8ca0cdcc8fee6a9370f26be82998f8556
+ 체인ID: 8453
+ Decimals: 18
+
+[12] BOBA
+ 이름: Boba vet fund
+ 주소: 63fz29FNTmDjwhGajuY8v1hGAJmh3PH6TSPojmVLpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] Vet
+ 이름: Vet
+ 주소: 0x7ea4def2769445f45b0066f8fc3d54571f3ab21f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Vet
+ 이름: Vet
+ 주소: 0x3c2c601d699dade8dd3af0e6c73237dfebddae69
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Vet
+ 이름: Vet
+ 주소: 0x6372bd2769c74443fb7b8c89e0012334a5e0bca1
+ 체인ID: 8453
+ Decimals: 18

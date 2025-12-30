@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BEAM
+원본 풀네임: Beam
+검색 쿼리: BEAM Beam
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:41
+발견된 토큰 수: 15개
+전체 결과 수: 4426개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BEAM
+ 이름: Beam
+ 주소: 0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce
+ 체인ID: 1
+ Decimals: 18
+
+[2] What is Beam (BEAM)?...
+ 이름: What is Beam (BEAM)?...
+ 주소: 0x8108225cf035a9e573cdab2d8f3a3fd09e4689cb
+ 체인ID: 8453
+ Decimals: 18
+
+[3] BEAM
+ 이름: Beam
+ 주소: 0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce
+ 체인ID: 56
+ Decimals: 18
+
+[4] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0xb7bcde1943e91bd39d9ad73d2c82dfaf6ba561ab
+ 체인ID: 130
+ Decimals: 18
+
+[5] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0x2f3e108bd0b327b302a5a0d904a555d68e0d158d
+ 체인ID: 130
+ Decimals: 18
+
+[6] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0xf695d1d4de6e018cf73b2006e9f8b8cdd0e12a0c
+ 체인ID: 130
+ Decimals: 18
+
+[7] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0x7fda6f7e11b6fc102d7c194249172f51e4d19885
+ 체인ID: 130
+ Decimals: 18
+
+[8] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0xc952097aed8d4fd82e43dc4b08d7d67745f2dce7
+ 체인ID: 130
+ Decimals: 18
+
+[9] Beam BEAM
+ 이름: Beam BEAM
+ 주소: 0xced1ab99a1f75fac1adfeba578952afd7aedf939
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Beam BEAM
+ 이름: Beam BEAM 2026
+ 주소: 0x3332ac951eaea54fa8eda5fd15f1190f3a541573
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Beam BEAM
+ 이름: Beam BEAM v5
+ 주소: 0xea762fec1ee9c13b4bfeeb1162ef7d81ee50a789
+ 체인ID: 1
+ Decimals: 18
+
+[12] Beam BEAM
+ 이름: Beam BEAM 2026
+ 주소: 0xc05b14ece09b1e5b8175738a12ce7fb7271cc975
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Uni Beam BEAM
+ 이름: Uni Beam BEAM
+ 주소: 0x4f0bc5e378b382347cadeba3c094095fe67851e2
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Beam BEAM AI
+ 이름: Beam BEAM AI
+ 주소: 0x7f8b9f98e13714fec2ee74f2137e2c4bdffc3af9
+ 체인ID: 130
+ Decimals: 18
+
+[15] Beam BEAM 2028
+ 이름: Beam BEAM 2028
+ 주소: 0xe44fb96f0be8f6e499c162bd452f6ef815ee0ee7
+ 체인ID: 8453
+ Decimals: 18

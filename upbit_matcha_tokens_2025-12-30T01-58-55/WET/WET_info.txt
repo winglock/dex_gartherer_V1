@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WET
+원본 풀네임: HumidiFi
+검색 쿼리: WET HumidiFi
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:46
+발견된 토큰 수: 15개
+전체 결과 수: 5250개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] B🔊 $WET @humidifi is launching on Jupiter DTF todaySale format
+ 이름: B🔊 $WET @humidifi is launching on Jupiter DTF todaySale format
+ 주소: 0x320e9c50dd8a53bc8aacece4e172700b7c3b37f4
+ 체인ID: 8453
+ Decimals: 18
+
+[2] @WET @humidifi is launching on Jupiter DTF on 3rd December!  Sa
+ 이름: @WET @humidifi is launching on Jupiter DTF on 3rd December!  Sa
+ 주소: 0xba78715797e8bd4e02a469a0153b1941ec771e30
+ 체인ID: 8453
+ Decimals: 18
+
+[3] B🚨 $WET @humidifi : 4% Public Sale Supply went to just 10 wallet
+ 이름: B🚨 $WET @humidifi : 4% Public Sale Supply went to just 10 wallet
+ 주소: 0xfaaffc27ae1ba0c12e420b7ad7045ca12485b583
+ 체인ID: 8453
+ Decimals: 18
+
+[4] WET
+ 이름: HumidiFi Token
+ 주소: WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U
+ 체인ID: 1399811149
+ Decimals: 6
+
+[5] HumidiFi
+ 이름: HumidiFi
+ 주소: HxFW8f4XhGBmyKVt5x99rzEYcErLSh9vueKCRBRmDiX
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] Wet fart
+ 이름: Wet fart index
+ 주소: FZjuFEuCjPYsm1rN5h7u51Wa9MEHPWM8AdkBDxAWpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] Wet Fart
+ 이름: Wet Fart Index
+ 주소: 3WU9YPsVCMZztxPiCoHseQee7TzKYtbH8mqzrJMQpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] WET
+ 이름: wet bandits revenue share
+ 주소: GpLeirMhy87SDdQrpQsxYVYUiow1MUrHaWx3us81pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] WET
+ 이름: Weble Ecosystem Token
+ 주소: 0x632b8c4e95b2f8a9309417f8d990ab9c04c77369
+ 체인ID: 56
+ Decimals: 18
+
+[10] Wet wet wet
+ 이름: Wet wet wet
+ 주소: 0x5f7334fe5be130db4f9df50b2638797cf0c440fe
+ 체인ID: 8453
+ Decimals: 18
+
+[11] WET
+ 이름: Weble Ecosystem Token
+ 주소: 0x632b8c4e95b2f8a9309417f8d990ab9c04c77369
+ 체인ID: 137
+ Decimals: 18
+
+[12] Wet wet wet
+ 이름: Wet wet wet
+ 주소: 0x241478347123405c88fbd2f1df2e94dcda1a907d
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Wet wet wet.
+ 이름: Wet wet wet.
+ 주소: 0x5c0d7f6892dd7050340e3545226991657c624774
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Wet wet
+ 이름: Wet wet
+ 주소: 0x67545ce4038c4f15c6867c089adace71139f3f3f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Wet
+ 이름: Wet
+ 주소: 0xe63a280835dd96859c42ade456e20b35ccc56961
+ 체인ID: 8453
+ Decimals: 18

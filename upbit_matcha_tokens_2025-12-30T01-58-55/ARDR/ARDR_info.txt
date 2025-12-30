@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ARDR
+원본 풀네임: Ardor
+검색 쿼리: ARDR Ardor
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:41
+발견된 토큰 수: 15개
+전체 결과 수: 512개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ardoreros
+ 이름: ardoreros
+ 주소: 0x5b837bf7697110fb93c29c1d82c6ec6d7e602864
+ 체인ID: 8453
+ Decimals: 18
+
+[2] MEME•ECONOMICS Ardor
+ 이름: MEME•ECONOMICS Ardor
+ 주소: 0xf1d1b7e906bfaa2570e92313e79c6c3187dbdb28
+ 체인ID: 130
+ Decimals: 18
+
+[3] Ardor ARDR Ripple XRP On Base
+ 이름: ARDORA
+ 주소: 0xb7013f698bbfc85e7c9270751ad64c21b2960e51
+ 체인ID: 8453
+ Decimals: 9
+
+[4] ARDORA
+ 이름: Ardor ARDR
+ 주소: 0x8e4fdca0e3bcab7aca2a7a1a945b259a8e200cfb
+ 체인ID: 8453
+ Decimals: 9
+
+[5] Ardor ARDR
+ 이름: Ardor ARDR
+ 주소: 0xb507db92ccffdbe066365b9f3db0ece03bc25427
+ 체인ID: 130
+ Decimals: 18
+
+[6] Ardor Woja
+ 이름: Ardor Wojak Finance
+ 주소: 0xd3bfe0bc2d2ce8901fc209e78bc24f5d0ad9e7ba
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Ardor AI
+ 이름: Ardor AI
+ 주소: 0x087e486185b4d2003e274da2a57f2b5fe075cd1e
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Ardor SILVA
+ 이름: Ardor SILVA
+ 주소: 0xcfcb8b0ee371acc699ed3af14fff34903675beb0
+ 체인ID: 130
+ Decimals: 18
+
+[9] Decred Ardor
+ 이름: Decred Ardor
+ 주소: 0x08cc1211c6a1ff55af005fb83b77355e76849c4b
+ 체인ID: 130
+ Decimals: 18
+
+[10] Ardor Mars Ecosystem Token
+ 이름: ARDORM
+ 주소: 0x9965757f87240de88dc28cf6bf1b443be30a8bc9
+ 체인ID: 8453
+ Decimals: 9
+
+[11] Ardor Unizen
+ 이름: Ardor Unizen
+ 주소: 0x09c911e29f1c01e66c4759d8bf61ab4b4a431644
+ 체인ID: 130
+ Decimals: 18
+
+[12] Ardor Wojak Finance
+ 이름: ARDORW
+ 주소: 0x71b2aec4ceb053748d817150d579f86d8238ce21
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Ardor Keep3rV1
+ 이름: Ardor Keep3rV1
+ 주소: 0x1855b418dd706c00bd916a57a0096490441de723
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Ardor ARDR
+ 이름: Ardor ARDR
+ 주소: 0x260bfa28788883c394e514cff5233f590e13d966
+ 체인ID: 130
+ Decimals: 18
+
+[15] Ardor
+ 이름: Ardor Protocol
+ 주소: 0x0e1bb1a4bdf920553f0e213bda0145f130de3ea1
+ 체인ID: 56
+ Decimals: 18

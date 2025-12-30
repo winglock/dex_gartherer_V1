@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: KITE
+원본 풀네임: Kite
+검색 쿼리: KITE Kite
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:37
+발견된 토큰 수: 15개
+전체 결과 수: 3178개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] quota kite kite
+ 이름: quota kite kite
+ 주소: 0x0b3e2caa8bc250b1d13a80466b435b6a8aadbdba
+ 체인ID: 8453
+ Decimals: 18
+
+[2] #KITE $KITE @GOKITEAI I, COINTAG
+ 이름: #KITE $KITE @GOKITEAI I, COINTAG
+ 주소: 0x92fe13132f3cabf6956688ba565afbc8b3b00c29
+ 체인ID: 8453
+ Decimals: 18
+
+[3] @Introducing Kite (KITE) on Binance Launchpool! Farm KITE by Lock
+ 이름: @Introducing Kite (KITE) on Binance Launchpool! Farm KITE by Lock
+ 주소: 0x77b8aae85f5e38875fe91033d0d2b514e973ec4a
+ 체인ID: 8453
+ Decimals: 18
+
+[4] 9Kite AI Update Introducing Kite (KITE) on Binance Launch
+ 이름: 9Kite AI Update Introducing Kite (KITE) on Binance Launch
+ 주소: 0x24e5f2fbe383629d458859ab93016d0e25e5231b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] KITE
+ 이름: Kite
+ 주소: 0x904567252d8f48555b7447c67dca23f0372e16be
+ 체인ID: 1
+ Decimals: 18
+
+[6] ?Binance Alpha will be the first platform to feature Kite (KITE)
+ 이름: @Binance Alpha will be the first platform to feature Kite (KITE)
+ 주소: 0x16897bf557374a40b5e43cfc3023cfcb66abb9e1
+ 체인ID: 8453
+ Decimals: 18
+
+[7] G⚠️ Airdrop Starting Soon!📛 Name: Kite (KITE)🧩 Phase: Round
+ 이름: H⚠️ Airdrop Starting Soon!📛 Name: Kite (KITE)🧩 Phase: Round
+ 주소: 0xeeb8c07a9cfad5aa9b763dc8bbd4b5549684ff25
+ 체인ID: 8453
+ Decimals: 18
+
+[8] E🚀 New Airdrop Alert!📛 Name: Kite (KITE)📅 Date: 2025-11-03
+ 이름: F🚀 New Airdrop Alert!📛 Name: Kite (KITE)📅 Date: 2025-11-03
+ 주소: 0x266cc2fc835de72c69a5e7cba74ee33a150349a7
+ 체인ID: 8453
+ Decimals: 18
+
+[9] KITE-KITE
+ 이름: KITE-KITE
+ 주소: 0xf490a7b582fadb833e48e716bc04902721c1ee3d
+ 체인ID: 56
+ Decimals: 18
+
+[10] kite-KITE-BNB-K
+ 이름: kite-KITE-BNB-K
+ 주소: 0x6932daea0dec6c758bceec2798a70bdb2b46e9db
+ 체인ID: 56
+ Decimals: 18
+
+[11] kite-KITE-BUSD-K
+ 이름: kite-KITE-BUSD-K
+ 주소: 0x16805a74f0e27869b2da7fc43f8732bd4e4916dd
+ 체인ID: 56
+ Decimals: 18
+
+[12] KITE
+ 이름: Kite
+ 주소: 0x904567252d8f48555b7447c67dca23f0372e16be
+ 체인ID: 56
+ Decimals: 18
+
+[13] Kite
+ 이름: Kite-kite
+ 주소: 0x2303a0b8aef1c63c488e6898d0d1e09e67f94581
+ 체인ID: 8453
+ Decimals: 18
+
+[14] KITE
+ 이름: Kite AI
+ 주소: 0x623a7fd253b9f76a622dedcdd2531f47f7f3837f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] KITE
+ 이름: KITE- AI 💥💰💰💰
+ 주소: 7jZDabw38hsY8tuhfuw4aZRCXGgXtkxXGujQumbppoBY
+ 체인ID: 1399811149
+ Decimals: 6

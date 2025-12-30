@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BLUR
+원본 풀네임: Blur
+검색 쿼리: BLUR Blur
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:35
+발견된 토큰 수: 15개
+전체 결과 수: 4919개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Blur blur
+ 이름: Blur blur
+ 주소: 0x62f92af992ee969a74e129dca1912a68d0842c73
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Blur blur
+ 이름: Blur blur
+ 주소: 0x5ff1ad7aec645d7436d20013a91206ac28228d77
+ 체인ID: 8453
+ Decimals: 18
+
+[3] What is Blur (BLUR)?...
+ 이름: What is Blur (BLUR)?...
+ 주소: 0x23a32399c11ce737e4a82bd485e6923c20678fee
+ 체인ID: 8453
+ Decimals: 18
+
+[4] BLUR
+ 이름: Blur
+ 주소: 0x5283d291dbcf85356a21ba090e6db59121208b44
+ 체인ID: 1
+ Decimals: 18
+
+[5] Blur BLUR
+ 이름: Blur BLUR
+ 주소: 0x904845e166c48043cf6bd32bac26bdb86e889133
+ 체인ID: 130
+ Decimals: 18
+
+[6] Blur BLUR
+ 이름: Blur BLUR
+ 주소: 0x968e5337e3e2ab984417cba7788f3fb72e69aae8
+ 체인ID: 130
+ Decimals: 18
+
+[7] Blur BLUR
+ 이름: Blur BLUR
+ 주소: 0xec26e2b55a193e5042522b29696188353e9f89fe
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Blur BLUR
+ 이름: Blur BLUR
+ 주소: 0x90b5762c8c07a1ea3ee29c9715ca51e021c4a43e
+ 체인ID: 8453
+ Decimals: 9
+
+[9] Blur BLUR
+ 이름: Blur BLUR
+ 주소: 0x57519fc91f53c7737047c5c039287288cf1225cd
+ 체인ID: 130
+ Decimals: 18
+
+[10] Blur BLUR
+ 이름: Blur BLUR 2026
+ 주소: 0xefe7077046900c8133efa911a1c7e3d140f83652
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Blur BLUR coin
+ 이름: Blur BLUR coin
+ 주소: 0xfdca3e0a4b6d8e1fea71600d5d2518d453abd1b5
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Trump - Blur BLUR
+ 이름: Trump - Blur BLUR
+ 주소: 0xa55689b4db080491b4c1ab0d3baa08443c431a27
+ 체인ID: 8453
+ Decimals: 9
+
+[13] Blur BLUR V2
+ 이름: Blur BLUR V2
+ 주소: 0x77f31adad17aa1132bf60cfd74a528a71e02da20
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Blur BLUR Reserve
+ 이름: Blur BLUR Reserve
+ 주소: 0xdf33ea6bad6060e270dbbe29d40f75d0b72f6c69
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Blur BLUR AI
+ 이름: Blur BLUR AI
+ 주소: 0xf1983545a3eeafdff1058b409d0d55fa277f66fb
+ 체인ID: 8453
+ Decimals: 18

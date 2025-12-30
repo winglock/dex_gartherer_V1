@@ -1,0 +1,276 @@
+{
+  "originalSymbol": "CVC",
+  "originalFullName": "Civic",
+  "searchedQuery": "CVC Civic",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 2474,
+  "tokens": [
+    {
+      "address": "0x719ae5b608f3ee5cb3da822836ee39673535a644",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CVC Civic On Base",
+      "symbol": "CVC Civic On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x719ae5b608f3ee5cb3da822836ee39673535a644"
+    },
+    {
+      "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+      "chainId": 1,
+      "decimals": 8,
+      "name": "Civic",
+      "symbol": "CVC",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 1,
+      "flagListsCount": 0,
+      "importedListsCount": 4,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 1,
+      "transactionsWeekly": 8,
+      "transactionsMonthly": 32,
+      "volumeUsdHourly": 6.97934792664367,
+      "volumeUsdDaily": 6.97934792664367,
+      "volumeUsdWeekly": 1134.3111459135755,
+      "volumeUsdMonthly": 3109.415898422159,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x41e5560054824ea6b0732e656e3ad64e20e94e45"
+    },
+    {
+      "address": "0x7615353bb6ae3dde3c01ec1b9dcd964534cc7551",
+      "chainId": 130,
+      "decimals": 18,
+      "name": "Seedify.fund CVC",
+      "symbol": "Seedify.fund CVC",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/130/0x7615353bb6ae3dde3c01ec1b9dcd964534cc7551"
+    },
+    {
+      "address": "0x484232aa6933b49cfc5acadcf6d62721d918ebe8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CVC Civic Perpetual",
+      "symbol": "CVCCIV",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x484232aa6933b49cfc5acadcf6d62721d918ebe8"
+    },
+    {
+      "address": "0xf8f0b0cdc0da4de0250a57bfadd01c8fbd7b1832",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CvC",
+      "symbol": "CvC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf8f0b0cdc0da4de0250a57bfadd01c8fbd7b1832"
+    },
+    {
+      "address": "0xd84bf349dc919f37e0fca4e3f13e076ae6aa2754",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cvc",
+      "symbol": "cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd84bf349dc919f37e0fca4e3f13e076ae6aa2754"
+    },
+    {
+      "address": "0x5ec7c4b9e7dd38b58ab912356e5c44e6a853c2a7",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CVC",
+      "symbol": "CVC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x5ec7c4b9e7dd38b58ab912356e5c44e6a853c2a7"
+    },
+    {
+      "address": "0x13dbc678c2bd0882489eda17000287892c4942ff",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CVC",
+      "symbol": "CVC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x13dbc678c2bd0882489eda17000287892c4942ff"
+    },
+    {
+      "address": "0x921180e3e8e4262a5f228607aeec3396b1ce21c6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cvc",
+      "symbol": "cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x921180e3e8e4262a5f228607aeec3396b1ce21c6"
+    },
+    {
+      "address": "0xe611fd5acc05db58285cc465b6367bd6da50cf04",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Cvc",
+      "symbol": "Cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe611fd5acc05db58285cc465b6367bd6da50cf04"
+    },
+    {
+      "address": "0x1b9ce35a9002f3c59438e8c7eb422b96aac52bc7",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cvc",
+      "symbol": "cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x1b9ce35a9002f3c59438e8c7eb422b96aac52bc7"
+    },
+    {
+      "address": "0x9c91dad0a1a4568251d7f769243eef921135dd3c",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Cvc",
+      "symbol": "Cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9c91dad0a1a4568251d7f769243eef921135dd3c"
+    },
+    {
+      "address": "0x69cfb98a53f2d9d92802f83ed79cff7d7ec3847f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cvc",
+      "symbol": "cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x69cfb98a53f2d9d92802f83ed79cff7d7ec3847f"
+    },
+    {
+      "address": "0xe2fad86899eda01a928286087428da13e65569d8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cvc",
+      "symbol": "cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe2fad86899eda01a928286087428da13e65569d8"
+    },
+    {
+      "address": "0x268076878a229f41a0d9148a0e4e64968d042148",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Cvc",
+      "symbol": "Cvc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x268076878a229f41a0d9148a0e4e64968d042148"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:44.881Z",
+  "error": null
+}

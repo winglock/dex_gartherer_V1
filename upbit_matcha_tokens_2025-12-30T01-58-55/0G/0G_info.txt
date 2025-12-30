@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: 0G
+원본 풀네임: 0G
+검색 쿼리: 0G 0G
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:36
+발견된 토큰 수: 15개
+전체 결과 수: 3236개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] 0g 0g
+ 이름: 0g 0g
+ 주소: 0xf44561a41db80e9bd137010b59816e134f408914
+ 체인ID: 8453
+ Decimals: 18
+
+[2] @Introducing 0G (0G) on Binance HODLer Airdrops! Earn 0G With Ret
+ 이름: @Introducing 0G (0G) on Binance HODLer Airdrops! Earn 0G With Ret
+ 주소: 0xffcb63923168affd5892e1e578cbadb6ed4578dd
+ 체인ID: 8453
+ Decimals: 18
+
+[3] 0G
+ 이름: 0G
+ 주소: 0x4b948d64de1f71fcd12fb586f4c776421a35b3ee
+ 체인ID: 56
+ Decimals: 18
+
+[4] 0G 0G on Binance Alpha
+ 이름: 0G 0G on Binance Alpha
+ 주소: 0x493a6e50375dd7311933d91b73eff8a8ef2acf4b
+ 체인ID: 56
+ Decimals: 9
+
+[5] AI 0G 0G on Binance Alpha
+ 이름: AI 0G 0G on Binance Alpha
+ 주소: 0xdc9d9ed69ff9c676884b5459d92e2c8f68abcf77
+ 체인ID: 56
+ Decimals: 9
+
+[6] 0G
+ 이름: 0G
+ 주소: 0x4b948d64de1f71fcd12fb586f4c776421a35b3ee
+ 체인ID: 1
+ Decimals: 18
+
+[7] 0G 0G
+ 이름: 0G 0G
+ 주소: 0x8a2f1d57aa04912197696601bac36868eb5cf627
+ 체인ID: 1
+ Decimals: 18
+
+[8] 0G
+ 이름: 0G
+ 주소: 0x136c37370f04ae4273cd5e04232e7ceae28012cf
+ 체인ID: 8453
+ Decimals: 18
+
+[9] 0g
+ 이름: 0g
+ 주소: 0xbe8e42c5e492068625155e8bf8a9bf94ba9464b8
+ 체인ID: 8453
+ Decimals: 18
+
+[10] 0g
+ 이름: 0g
+ 주소: 0xa9fea9ec2c07658ec4490988cfca578b62b977ec
+ 체인ID: 8453
+ Decimals: 18
+
+[11] 0g
+ 이름: 0g
+ 주소: 0xfe006208312987d7ed95389a03741f4f369d746a
+ 체인ID: 8453
+ Decimals: 18
+
+[12] 0g
+ 이름: 0g
+ 주소: 0x624471529430fab0c6a53177a5ff238a74147dc1
+ 체인ID: 8453
+ Decimals: 18
+
+[13] 0G
+ 이름: 0G
+ 주소: 0x59e3d2f1f8e29354d90681141571c6c3781fbf20
+ 체인ID: 8453
+ Decimals: 18
+
+[14] 0G
+ 이름: 0G
+ 주소: 0xc870bbd2c8dd53fd36cc04c0af6874179e497985
+ 체인ID: 8453
+ Decimals: 18
+
+[15] 0G
+ 이름: 0G
+ 주소: 0xc46ca93f0dc9c5fbabea206b17934d3c6cbdaa7c
+ 체인ID: 8453
+ Decimals: 18

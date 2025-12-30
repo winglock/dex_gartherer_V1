@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BONK
+원본 풀네임: Bonk
+검색 쿼리: BONK Bonk
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:05
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BONK
+ 이름: Bonk
+ 주소: 0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Bonk
+ 이름: Bonk
+ 주소: 0x1151cb3d861920e07a38e03eead12c32178567f6
+ 체인ID: 1
+ Decimals: 5
+
+[3] Bonk
+ 이름: Bonk
+ 주소: 0xa697e272a73744b343528c3bc4702f2565b2f422
+ 체인ID: 56
+ Decimals: 5
+
+[4] Bonk
+ 이름: Bonk
+ 주소: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+ 체인ID: 1399811149
+ Decimals: 5
+
+[5] bonk bonk bonk bonk bonk bonk
+ 이름: bonk bonk bonk bonk bonk bonk
+ 주소: 0xb4f783d960dd85d9355ce98f7dd988deed32f87e
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Bonk (BONK)
+ 이름: Bonk (BONK)
+ 주소: 0xfd92182f1fa1ec18071f61d576fc2e4f69f50a83
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Bonk #BONK
+ 이름: Bonk #BONK
+ 주소: 0x729c8bcac54d1845dbf8341af1d1f6c83e6fe57f
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Bonk Bonk Bonk Sahur
+ 이름: Bonk Bonk Bonk Sahur
+ 주소: 0x201dae4f28c65296b263b743da02be5ecf1ead21
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Bonk (BONK) NFT Art
+ 이름: Bonk (BONK) NFT Art
+ 주소: 0x7d3fc5a34c939112c14a5132be07470f844d0e4d
+ 체인ID: 8453
+ Decimals: 18
+
+[10] What is Bonk (BONK)?...
+ 이름: What is Bonk (BONK)?...
+ 주소: 0xe95f2a192d9e9b3ba7b53de262a8b4421b16d929
+ 체인ID: 8453
+ Decimals: 18
+
+[11] BONK($BONK)PricePrediction2025
+ 이름: @BONK ($BONK) Price Prediction 2025: Regulated SIX ETP Launch Boo
+ 주소: 0xfe246d17a29b682d81f9525db4c34b18506c9abb
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Bonk
+ 이름: Bonk
+ 주소: 0xe5b49820e5a1063f6f4ddf851327b5e8b2301048
+ 체인ID: 137
+ Decimals: 5
+
+[13] Bonk BONK
+ 이름: Bonk BONK
+ 주소: 0x6fabd9fc3fdc10701e61c4ec8fa6b3865e900834
+ 체인ID: 130
+ Decimals: 18
+
+[14] BONK BONK
+ 이름: BONK BONK
+ 주소: 2mp1SjYSgx7Ssf2Dz2LQ8d6iS3z3mciraRVvva7wyR9w
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] Bonk Bonk
+ 이름: Bonk Bonk
+ 주소: 0x233b73b9b2280f47951c50c920e9361d6f070d63
+ 체인ID: 8453
+ Decimals: 18

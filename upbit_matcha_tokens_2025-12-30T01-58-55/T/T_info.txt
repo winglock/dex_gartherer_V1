@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: T
+원본 풀네임: Threshold
+검색 쿼리: T Threshold
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:45
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] T
+ 이름: Triple T
+ 주소: JAbECzHVVW66AtTgReU6X9PcpS7kzqxmonkre7Cgpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] T
+ 이름: T
+ 주소: 0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9
+ 체인ID: 42161
+ Decimals: 9
+
+[3] RIZE
+ 이름: RIZE
+ 주소: 0x9818b6c09f5ecc843060927e8587c427c7c93583
+ 체인ID: 8453
+ Decimals: 18
+
+[4] ,Sigil of Emergence – OpF(t) Threshold Seal
+ 이름: ,Sigil of Emergence – OpF(t) Threshold Seal
+ 주소: 0x25fb8a48142902aa011df7fb2176f7b6ebf7bcc9
+ 체인ID: 8453
+ Decimals: 18
+
+[5] CEEK
+ 이름: CEEK
+ 주소: 0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66
+ 체인ID: 56
+ Decimals: 18
+
+[6] tBTC
+ 이름: tBTC v2
+ 주소: 0x18084fba666a33d37592fa2633fd49a74dd93a88
+ 체인ID: 1
+ Decimals: 18
+
+[7] CELL
+ 이름: Cellframe Token
+ 주소: 0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099
+ 체인ID: 1
+ Decimals: 18
+
+[8] T Threshold On Base
+ 이름: T Threshold On Base
+ 주소: 0x1d60f4fd3533f51133d735a764bf6cd9717a9af9
+ 체인ID: 8453
+ Decimals: 18
+
+[9] T Threshold AI Presale v2
+ 이름: T Threshold AI Presale v2
+ 주소: 0xb182818f307ee7e02944b280e087f38db0831823
+ 체인ID: 56
+ Decimals: 9
+
+[10] tBTC
+ 이름: Base tBTC v2
+ 주소: 0x236aa50979d5f3de3bd1eeb40e81137f22ab794b
+ 체인ID: 8453
+ Decimals: 18
+
+[11] T
+ 이름: Threshold Network Token
+ 주소: 0xcdf7028ceab81fa0c6971208e83fa7872994bee5
+ 체인ID: 1
+ Decimals: 18
+
+[12] TripleT
+ 이름: T To The Three
+ 주소: FDZ4M2qxPBZJHU1FUcSYi3iZGj72433obMZhhUCnpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] USTBL
+ 이름: "Spiko US T-Bills Money Market Fund
+ 주소: 0x021289588cd81dc1ac87ea91e91607eef68303f5
+ 체인ID: 42161
+ Decimals: 5
+
+[14] USTBL
+ 이름: "Spiko US T-Bills Money Market Fund
+ 주소: 0xe4880249745eac5f1ed9d8f7df844792d560e750
+ 체인ID: 1
+ Decimals: 5
+
+[15] bZPR1
+ 이름: Backed $ ZPR1 1-3 Month T-Bill
+ 주소: 0xade6057fcafa57d6d51ffa341c64ce4814995995
+ 체인ID: 1
+ Decimals: 18

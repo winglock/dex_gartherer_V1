@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CTC
+원본 풀네임: Creditcoin
+검색 쿼리: CTC Creditcoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:20
+발견된 토큰 수: 15개
+전체 결과 수: 2359개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] CTC (Creditcoin) NFT
+ 이름: CTC (Creditcoin) NFT
+ 주소: 0xd6f045869222cc48b475051690f5c60716a5c392
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CTC Creditcoin On Base
+ 이름: CTC Creditcoin On Base
+ 주소: 0x5aeb8f52b0042d69358f9aaf2eb0e7d7b6e7a202
+ 체인ID: 8453
+ Decimals: 18
+
+[3] CTC Creditcoin AI Presale v2
+ 이름: CTC Creditcoin AI Presale v2
+ 주소: 0x0d4b3d3cf5becc4e57e16ce2e1a62d4f2ac5fbe9
+ 체인ID: 56
+ Decimals: 9
+
+[4] CTCP
+ 이름: CTC PLUS
+ 주소: 0xb86414afc434345a91ca80a889d73fd1e8155b4b
+ 체인ID: 56
+ Decimals: 18
+
+[5] G-CRE
+ 이름: Gluwa Creditcoin Vesting Token
+ 주소: 0xa3ee21c306a700e682abcdfe9baa6a08f3820419
+ 체인ID: 1
+ Decimals: 18
+
+[6] wCTC
+ 이름: wCTC
+ 주소: 0xaafec8e08d524d534327fa13fb306f440b5f88eb
+ 체인ID: 1
+ Decimals: 18
+
+[7] CTC
+ 이름: CTC
+ 주소: 0x7921f18d516b42fc8bf26c13c363cac63c22f3c4
+ 체인ID: 56
+ Decimals: 18
+
+[8] WCTC
+ 이름: Wrapped CTC
+ 주소: 0xeb32ad88b09fb94129a8b972876ad02eaac91e53
+ 체인ID: 56
+ Decimals: 18
+
+[9] CTC Credit
+ 이름: CTC Creditcoin On Binance Alpha
+ 주소: 0x31ce26846c2fb9327fbf35f7240f824fb836cb37
+ 체인ID: 56
+ Decimals: 18
+
+[10] CTCCRE
+ 이름: CTC Creditcoin Perpetual
+ 주소: 0xc9aa6ed46b81101e02670d715bf6c7e3da101a44
+ 체인ID: 8453
+ Decimals: 18
+
+[11] CTC
+ 이름: CTC
+ 주소: 0xe0359f2d06cb5dc8cc80f1c0d0fd6ce19f7a3b54
+ 체인ID: 8453
+ Decimals: 18
+
+[12] CTC
+ 이름: CTC
+ 주소: 0x4dd2540935e07a019351f07c0355cd6f432757f5
+ 체인ID: 8453
+ Decimals: 18
+
+[13] CTC
+ 이름: CTC
+ 주소: 0x0e2ee616290a7b970bba772cd33b60af8821d949
+ 체인ID: 8453
+ Decimals: 18
+
+[14] CTC
+ 이름: CTC
+ 주소: 0xb01e266b97146e126a437cd987098c9933f62d97
+ 체인ID: 8453
+ Decimals: 18
+
+[15] CTC
+ 이름: CTC
+ 주소: 0x4b98890aee3dc04a487c065b74bf96da3e07da62
+ 체인ID: 8453
+ Decimals: 18

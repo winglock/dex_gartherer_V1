@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: API3
+원본 풀네임: API3
+검색 쿼리: API3 API3
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:22
+발견된 토큰 수: 15개
+전체 결과 수: 637개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] API3
+ 이름: API3
+ 주소: 0x0b38210ea11411557c13457d4da7dc6ea731b88a
+ 체인ID: 1
+ Decimals: 18
+
+[2] What is API3 (API3)?...
+ 이름: What is API3 (API3)?...
+ 주소: 0x4d2b816a0bd4a6c0859fe9d42039a1f94588c760
+ 체인ID: 8453
+ Decimals: 18
+
+[3] API3 API3
+ 이름: API3 API3
+ 주소: 0xf39c0d30974f18311d4adadbf45e40d1f6d23c96
+ 체인ID: 8453
+ Decimals: 18
+
+[4] API3 API3
+ 이름: API3 API3
+ 주소: 0x84128814a46594efba6b8361cafe43c76a35d071
+ 체인ID: 8453
+ Decimals: 18
+
+[5] API3 API3
+ 이름: API3 API3
+ 주소: 0x9239ef90e9bd14f825d34bca1635dc06074eeb4d
+ 체인ID: 8453
+ Decimals: 9
+
+[6] API3 API3
+ 이름: API3 API3
+ 주소: 0x2f4e00a19ecc43b4f34cd26cf0f5d86327381f0e
+ 체인ID: 8453
+ Decimals: 18
+
+[7] API3 API3
+ 이름: API3 API3
+ 주소: 0xbc620f0d77617c3fe9a5aca9be0cd23860f873c1
+ 체인ID: 130
+ Decimals: 18
+
+[8] API3 API3
+ 이름: API3 API3
+ 주소: 0x681194997401e21db1b1acd4085dd86e65a06e0e
+ 체인ID: 130
+ Decimals: 18
+
+[9] API3 API3
+ 이름: API3 API3
+ 주소: 0x2bfde87cb5a29fa0dc389cf1925324a80b2be6cf
+ 체인ID: 8453
+ Decimals: 9
+
+[10] API3 API3
+ 이름: API3 API3
+ 주소: 0x00b2a9deb75695118b6b0a72cdabb2a0d1e04ed0
+ 체인ID: 130
+ Decimals: 18
+
+[11] API3 API3
+ 이름: API3 API3
+ 주소: 0xcea8c97fd6cd5a7157ff008c477e73c3525c9e37
+ 체인ID: 8453
+ Decimals: 9
+
+[12] API3 API3
+ 이름: API3 API3
+ 주소: 0x16863824b9d5c22cf4ae2ad67cd71fa4bdc06195
+ 체인ID: 8453
+ Decimals: 18
+
+[13] API3 API3
+ 이름: API3 API3
+ 주소: 0xc1eefa9bf18bdbe4c00e857cae8b92ed816173d7
+ 체인ID: 8453
+ Decimals: 18
+
+[14] API3 API3
+ 이름: API3 API3
+ 주소: 0x7b0c52ac43dcc7cec47b2ba1d0b941cf6c8ad99f
+ 체인ID: 130
+ Decimals: 18
+
+[15] API3 API3
+ 이름: API3 API3
+ 주소: 0x3e6974f5e6390cc94e2cea260fef38ea0c82c8fa
+ 체인ID: 8453
+ Decimals: 18

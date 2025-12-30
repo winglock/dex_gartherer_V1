@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BLAST
+원본 풀네임: Blast
+검색 쿼리: BLAST Blast
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:52
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 81457
+ Decimals: 18
+
+[2] USD+
+ 이름: USD+
+ 주소: 0xb79dd08ea68a908a97220c76d19a6aa9cbde4376
+ 체인ID: 8453
+ Decimals: 6
+
+[3] Blast blast go
+ 이름: Blast blast go
+ 주소: 0xa54942ccdeefe471ff747f738a921d3500862787
+ 체인ID: 8453
+ Decimals: 18
+
+[4] USDB
+ 이름: USDB
+ 주소: 0x4300000000000000000000000000000000000003
+ 체인ID: 81457
+ Decimals: 18
+
+[5] Blast BLAST
+ 이름: Blast BLAST
+ 주소: 0x37563c3c881c60b91997befde3f9d0bfbe41018b
+ 체인ID: 130
+ Decimals: 18
+
+[6] Blast BLAST
+ 이름: Blast BLAST
+ 주소: 0xc16f1c480846420fc9b47291df9d402ac994c8da
+ 체인ID: 130
+ Decimals: 18
+
+[7] Blast BLAST
+ 이름: Blast BLAST
+ 주소: 0x1a2fc2ad4606c3a5f45275fc33971a2e4a385abb
+ 체인ID: 130
+ Decimals: 18
+
+[8] Blast BLAST
+ 이름: Blast BLAST
+ 주소: 0x4823c57d7b08f50dd3ce80a094de6e6930734bfe
+ 체인ID: 130
+ Decimals: 18
+
+[9] Trump - Blast BLAST
+ 이름: Trump - Blast BLAST
+ 주소: 0x87ef9330fa239d4ab87b4aef04363fab3d4a7d46
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Blast BLAST - AI
+ 이름: Blast BLAST - AI
+ 주소: 0x97412317f09874e22aa44fa746a0756c2da1c8fc
+ 체인ID: 8453
+ Decimals: 9
+
+[11] Blast BLAST V3
+ 이름: Blast BLAST V3
+ 주소: 0xa374f5e021349517dc1d87abf6468a65a6580fee
+ 체인ID: 130
+ Decimals: 18
+
+[12] Blast BLAST Red
+ 이름: Blast BLAST Red
+ 주소: 0x4961c2bdd28a62c3d53a6653137e0aae4deb6b86
+ 체인ID: 8453
+ Decimals: 9
+
+[13] Blast BLAST - Free
+ 이름: Blast BLAST - Free
+ 주소: 0x0cee3cb997ae9c94428b301aafe83d84111dc00e
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Blast BLAST V2
+ 이름: Blast BLAST V2
+ 주소: 0x0d74805f20ed2edbc6ef5f1533c4b4f603402f89
+ 체인ID: 130
+ Decimals: 18
+
+[15] Blast BLAST AI
+ 이름: Blast BLAST AI
+ 주소: 0x235687b85ec38b6757e0a031ffe7d77288593953
+ 체인ID: 130
+ Decimals: 18

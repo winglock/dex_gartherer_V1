@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WAL
+원본 풀네임: Walrus
+검색 쿼리: WAL Walrus
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:34
+발견된 토큰 수: 15개
+전체 결과 수: 2837개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] wal wal ~!
+ 이름: wal wal ~!
+ 주소: 0x00892c19dc99bbbda103f1d6f2195797821e3f22
+ 체인ID: 8453
+ Decimals: 18
+
+[2] WSHARE
+ 이름: Frozen Walrus Share
+ 주소: 0xe6d1afea0b76c8f51024683dd27fa446ddaf34b6
+ 체인ID: 43114
+ Decimals: 18
+
+[3] $WAL
+ 이름: $WAL
+ 주소: 0x638f357e36e25bd01b18e4724fd170ae25dea981
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Wal
+ 이름: Wal
+ 주소: 0x99083eadf2d3c346e73265c98d78795b1ddccb31
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Wal
+ 이름: Wal
+ 주소: 0x40f1e6b2232cb320cb83cc5f841629a4ee6e5df6
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Wal
+ 이름: Wal
+ 주소: 0x4b182ace649e71e3c860824a0b0579c5a01ccd7b
+ 체인ID: 8453
+ Decimals: 18
+
+[7] $WAL
+ 이름: $WAL
+ 주소: 0x74e4b859f207edda5f3bb0cac4f1934d0e73eae4
+ 체인ID: 8453
+ Decimals: 18
+
+[8] $wal
+ 이름: $wal
+ 주소: 0xc8d6dac5dd47dbc53ad961621fb05edfc7999538
+ 체인ID: 8453
+ Decimals: 18
+
+[9] wal
+ 이름: wal
+ 주소: 0xedfa88efdb78e76ab6b8d7d88d5275e341e1f90f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] $WAL
+ 이름: $WAL
+ 주소: 0x05357dcdae031944c768b8d45ef62fe3a635c0db
+ 체인ID: 8453
+ Decimals: 18
+
+[11] WAL
+ 이름: WAL
+ 주소: 0x45fe342316647243259bae6269fd2590cf3aa6de
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Wal
+ 이름: Wal
+ 주소: 0xd7ebc61098c0fca71dc9029347716aa91e0dfc81
+ 체인ID: 8453
+ Decimals: 18
+
+[13] wal
+ 이름: wal
+ 주소: 0xff3d6405ef9fde870681a364b1bfc98a85313b1f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] WAL
+ 이름: WAL
+ 주소: 0x8012f2eeafc528ee60215a241a93d90b900d056b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WAL
+ 이름: WAL
+ 주소: 0x00daecc0741cdfbebe06db1090d44c2280562547
+ 체인ID: 8453
+ Decimals: 18

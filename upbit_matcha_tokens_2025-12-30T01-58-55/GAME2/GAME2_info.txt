@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: GAME2
+원본 풀네임: Game2
+검색 쿼리: GAME2 Game2
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:44
+발견된 토큰 수: 15개
+전체 결과 수: 137개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Game2
+ 이름: Game2
+ 주소: 0x4477b53c7adcb64e85d38f0fd90c0b7b7685e58e
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Game2
+ 이름: Game 2!
+ 주소: 0xf3f03702c132a970be308b833f28629a3fc074d2
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Game2
+ 이름: Game2
+ 주소: 0x90cd3ed409647b68ad114b2420f13831c10ac458
+ 체인ID: 56
+ Decimals: 6
+
+[4] Game2
+ 이름: Game2
+ 주소: 0x70971bd137c8e93aa1e996f7f95af43240adfd90
+ 체인ID: 56
+ Decimals: 6
+
+[5] GAME2
+ 이름: GAME2
+ 주소: 0xbb5b3f75f6878fb356062510661ee1bfb6745e9e
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Game2
+ 이름: Game2
+ 주소: 0xdb8366dcf90dd8f4a9301ddf320e4436a9ffe953
+ 체인ID: 56
+ Decimals: 6
+
+[7] GAME2
+ 이름: GAME2
+ 주소: 0x66571377d84742ccc9973fc2082c13fe984cbcb0
+ 체인ID: 56
+ Decimals: 18
+
+[8] Game2
+ 이름: Game2
+ 주소: 0xe057d132129a9c0a036e53208dd6b54ae79228fa
+ 체인ID: 56
+ Decimals: 9
+
+[9] Game2
+ 이름: Game2
+ 주소: 0x76b08bedd9f8de09b98d7aa3f3bf0ad1f9cd8881
+ 체인ID: 56
+ Decimals: 6
+
+[10] Game2
+ 이름: Game2
+ 주소: 0x09eace799954e3bb09cee81549d6253adb9b3abd
+ 체인ID: 56
+ Decimals: 6
+
+[11] Game2
+ 이름: Game2
+ 주소: 0xc9b09a84cd0ff62313aff14f6ea2bd75530d7839
+ 체인ID: 56
+ Decimals: 6
+
+[12] Game2
+ 이름: Game2
+ 주소: 0x8157fac01a25403aa1931326916fbe671f5a6232
+ 체인ID: 56
+ Decimals: 6
+
+[13] GAME2
+ 이름: SQUID GAME2
+ 주소: 2F91GQ11hYrB9PnLPjsTod1ztgaar9sQvfmfzu97pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] SQUID GAME2
+ 이름: SQUID GAME2
+ 주소: 0x27d2ccf9924e7893f5eb9b04fd5f9af7b8e40249
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WHY GAME2
+ 이름: WHY GAME2
+ 주소: 0x8a68cb95ada4d29d8919e582de617b7196f74444
+ 체인ID: 56
+ Decimals: 18

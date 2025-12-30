@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: INJ
+원본 풀네임: Injective
+검색 쿼리: INJ Injective
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:51
+발견된 토큰 수: 15개
+전체 결과 수: 2688개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] INJ
+ 이름: Injective Protocol
+ 주소: 0xa2b726b1145a4773f68593cf171187d8ebe4d495
+ 체인ID: 56
+ Decimals: 18
+
+[2] !CLAIMYOURREWARD$INJ#INJECTIVE#İN
+ 이름: !CLAIMYOURREWARD$INJ#INJECTIVE#İN
+ 주소: 0x7ce75f276e6185d024dd281a107efee54624bf94
+ 체인ID: 8453
+ Decimals: 18
+
+[3] INJ
+ 이름: Injective Token
+ 주소: 0xe28b3b32b6c345a34ff64674606124dd5aceca30
+ 체인ID: 1
+ Decimals: 18
+
+[4] B$INJ (Injective) live price: ≈ $5.44 USD (CoinMarketCap). Buil
+ 이름: B$INJ (Injective) live price: ≈ $5.44 USD (CoinMarketCap). Buil
+ 주소: 0x2b46b68d3edc3b85f2d98a4836fd86eda52100e6
+ 체인ID: 8453
+ Decimals: 18
+
+[5] INJ Injective On Base
+ 이름: INJ Injective On Base
+ 주소: 0xc3d591843ea56e500fe4fbfd207fb4060fb44146
+ 체인ID: 8453
+ Decimals: 18
+
+[6] INJ Injective AI Presale v2
+ 이름: INJ Injective AI Presale v2
+ 주소: 0x8f03f6945ea52f9652d5e8dcb5a684c62658207c
+ 체인ID: 56
+ Decimals: 9
+
+[7] BEATS
+ 이름: BEATS on BASE
+ 주소: 0x315b8c9a1123c10228d469551033440441b41f0b
+ 체인ID: 8453
+ Decimals: 18
+
+[8] TRUST
+ 이름: $TRUST ME BROs by Virtuals
+ 주소: 0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a
+ 체인ID: 8453
+ Decimals: 18
+
+[9] BBB
+ 이름: Based Baby
+ 주소: 0xd5b70ed3f2ba01bfaaa3beb09e31fe11f833b85f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] jnj
+ 이름: inj
+ 주소: 0xeb9a1faec5e2049e560b7fba475212091ab94aa5
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Basis Share Inj
+ 이름: Basis Share Inj
+ 주소: 0xb40bbab775a317210d0c353949be1fe4e09f695e
+ 체인ID: 130
+ Decimals: 18
+
+[12] Index Cooperative INJ
+ 이름: Index Cooperative INJ
+ 주소: 0x0dfc78ab6adbb0748d012f05664fc41263cfcb4d
+ 체인ID: 8453
+ Decimals: 18
+
+[13] INJINJ
+ 이름: INJ Injective Perpetual
+ 주소: 0xfa721312793166ccadca430c5a685144be0aa5fb
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Mithril Share Stride Staked Inj
+ 이름: Mithril Share Stride Staked Inj
+ 주소: 0x94e5eaa67fddff4d89b182b1bdab0049bffcc054
+ 체인ID: 8453
+ Decimals: 9
+
+[15] Inj
+ 이름: Inj
+ 주소: 0xffde54f5794432b2c3518957ff4c65a79e79fe82
+ 체인ID: 8453
+ Decimals: 18

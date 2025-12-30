@@ -1,0 +1,288 @@
+{
+  "originalSymbol": "ASTR",
+  "originalFullName": "Astar",
+  "searchedQuery": "ASTR Astar",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 2613,
+  "tokens": [
+    {
+      "address": "0xe5751980bb3c47a4fe26eecf150917df13343309",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR Astar On Base",
+      "symbol": "ASTR Astar On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe5751980bb3c47a4fe26eecf150917df13343309"
+    },
+    {
+      "address": "0xf27441230eadeac85b764610325cc9a0d7859689",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Astar Token",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 1,
+      "transactionsWeekly": 4,
+      "transactionsMonthly": 19,
+      "volumeUsdHourly": 650.488026020633,
+      "volumeUsdDaily": 650.428874750254,
+      "volumeUsdWeekly": 1076.3562543399462,
+      "volumeUsdMonthly": 2806.074681453485,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0xf27441230eadeac85b764610325cc9a0d7859689"
+    },
+    {
+      "address": "0xacd5fea769c5629c57c012ec0643b629f37a6172",
+      "chainId": 130,
+      "decimals": 18,
+      "name": "50x Astr",
+      "symbol": "50x Astr",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/130/0xacd5fea769c5629c57c012ec0643b629f37a6172"
+    },
+    {
+      "address": "0xabf5df36b0d0f73d5b41aef142dbeddf0a897698",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR Astar Perpetual",
+      "symbol": "ASTRAS",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xabf5df36b0d0f73d5b41aef142dbeddf0a897698"
+    },
+    {
+      "address": "0xb4e5cf44b9f9fb5a916b9e5f8a5c33486faa798a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb4e5cf44b9f9fb5a916b9e5f8a5c33486faa798a"
+    },
+    {
+      "address": "0x901a8db25b1fbc8d910332e20b65465365a152bf",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "astr",
+      "symbol": "astr",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x901a8db25b1fbc8d910332e20b65465365a152bf"
+    },
+    {
+      "address": "0x4a9115d59be98758f4e29f98959c668662b4ff35",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x4a9115d59be98758f4e29f98959c668662b4ff35"
+    },
+    {
+      "address": "0x31b622336a21745e404f363101ad8cca0d6918a8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$ASTR",
+      "symbol": "$ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x31b622336a21745e404f363101ad8cca0d6918a8"
+    },
+    {
+      "address": "0xdeb312806a7a3c1df78ba645d486fe377f41bb5a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdeb312806a7a3c1df78ba645d486fe377f41bb5a"
+    },
+    {
+      "address": "0x2e2b53e47567b3a94e515867a7af763e2dfa9d3b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "astr",
+      "symbol": "astr",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x2e2b53e47567b3a94e515867a7af763e2dfa9d3b"
+    },
+    {
+      "address": "0xcb44eebf67a78b17c912f109f825b0da5b33ff50",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xcb44eebf67a78b17c912f109f825b0da5b33ff50"
+    },
+    {
+      "address": "0x0bedb245267859811d5824dc84aadcb1c8d2fc0e",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$ASTR",
+      "symbol": "$ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0bedb245267859811d5824dc84aadcb1c8d2fc0e"
+    },
+    {
+      "address": "0xcc44c91f69e6e9f419cad806afcb7da66bd27ce4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ASTR",
+      "symbol": "ASTR",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xcc44c91f69e6e9f419cad806afcb7da66bd27ce4"
+    },
+    {
+      "address": "0x27858b615c52dacdea7e43b58ba97c48e9fd6fc7",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Astr project",
+      "symbol": "Astr project",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x27858b615c52dacdea7e43b58ba97c48e9fd6fc7"
+    },
+    {
+      "address": "0x595f8e59a731de4d5689647a7120de59fa503c7e",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "What is Astar (ASTR)?...",
+      "symbol": "What is Astar (ASTR)?...",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x595f8e59a731de4d5689647a7120de59fa503c7e"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:06.715Z",
+  "error": null
+}

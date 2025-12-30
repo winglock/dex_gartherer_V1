@@ -17,17 +17,32 @@ impl PoolFilter {
         }
     }
 
-    /// 풀 유효성 검사 (스캠/허니팟 필터)
+    /// 풀 유효성 검사 (디버깅 모드 - 완화된 필터)
     pub fn is_valid(&self, pool: &PoolData) -> bool {
+        // 🔥 임시: 가격만 있으면 일단 통과 (Aggregator 테스트용)
+        if pool.price_usd > 0.0 {
+            tracing::trace!("    ✓ 가격 기반 필터 통과: {} @ {} (${:.4})", 
+                pool.symbol, pool.dex, pool.price_usd);
+            return true;
+        }
+        
+        // 원래 LP 기반 필터 (가격이 0일 때만 적용)
         // LP가 충분한 경우
         if pool.lp_reserve_usd >= self.min_lp {
-            return pool.volume_24h >= self.min_volume;
+            let valid = pool.volume_24h >= self.min_volume;
+            if valid {
+                tracing::trace!("    ✓ LP 기반 필터 통과: {} (LP=${:.0}, Vol=${:.0})",
+                    pool.dex, pool.lp_reserve_usd, pool.volume_24h);
+            }
+            return valid;
         }
 
         // LP가 낮아도 거래량이 있으면 거래 가능
         // (동적 LP 계산: LP의 2% 이상 거래 가능 시 유효)
         let tradeable = pool.lp_reserve_usd * 0.02;
         if tradeable >= 100.0 && pool.volume_24h >= self.min_volume {
+            tracing::trace!("    ✓ 동적 LP 필터 통과: {} (거래가능=${:.0})",
+                pool.dex, tradeable);
             return true;
         }
 

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZKP
+원본 풀네임: zkPass
+검색 쿼리: ZKP zkPass
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:00
+발견된 토큰 수: 15개
+전체 결과 수: 955개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] $ZKP
+ 이름: $ZKP Token
+ 주소: 0x9a06db14d639796b25a6cec6a1bf614fd98815ec
+ 체인ID: 137
+ Decimals: 18
+
+[2] ZKP
+ 이름: zkPass
+ 주소: 0xe1be424f442d0687129128c6c38aace44f8c8dbc
+ 체인ID: 1
+ Decimals: 18
+
+[3] LATEGM-$ZKP(ZKPASS)LISTINGTODAY-
+ 이름: LATEGM-$ZKP(ZKPASS)LISTINGTODAY-
+ 주소: 0xf4602c8f2bc2a8cc54ba4ed5ef79393c1f7a2751
+ 체인ID: 8453
+ Decimals: 18
+
+[4] WRBNT
+ 이름: Wrapped RBNT
+ 주소: 0xb45ffb51984d626ee758b336c61cf20990c6bf13
+ 체인ID: 1
+ Decimals: 18
+
+[5] ZKP
+ 이름: zkPass
+ 주소: 0xd89b7dd376e671c124352267516bef1c2cc231a3
+ 체인ID: 56
+ Decimals: 18
+
+[6] $ZKP
+ 이름: $ZKP Token
+ 주소: 0x909e34d3f6124c324ac83dcca84b74398a6fa173
+ 체인ID: 1
+ Decimals: 18
+
+[7] EXMPLR
+ 이름: Exmplr.ai by Virtuals
+ 주소: 0xc95e16f99267d6112eadaa46140bea095c8c7ba5
+ 체인ID: 8453
+ Decimals: 18
+
+[8] zkp
+ 이름: zkp
+ 주소: 0xe4ec4a3fcd307e9b97a8746fa501078863501371
+ 체인ID: 8453
+ Decimals: 18
+
+[9] $ZKP
+ 이름: $ZKP
+ 주소: 0x937169e0c0ae02e6c6a11eac624d57eef75daa0e
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ZKP
+ 이름: ZKP
+ 주소: 0xdee10186dccd66638b15fdd94fd4a6d62368e3ea
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ZKP
+ 이름: ZKP
+ 주소: 0x65db06951f2f06a4c3d9697f7467e8381913a6f8
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ZKP
+ 이름: ZKP
+ 주소: 0x3682792fbc87d98dfcdf0440dce2215cad531384
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ZKPBENCH
+ 이름: Benchmarking ZKP Systems
+ 주소: 0xb1ffea609e509ae2ca43190f1156b9767037d37c
+ 체인ID: 8453
+ Decimals: 18
+
+[14] zkp
+ 이름: zkp
+ 주소: 0x1e873457f6d52c634c27004acfc3bf9305d2f1bb
+ 체인ID: 8453
+ Decimals: 18
+
+[15] ZKP
+ 이름: ZKP
+ 주소: 0xd174f5d75bacc97d7ec73a3404303e1d4123b9bf
+ 체인ID: 8453
+ Decimals: 18

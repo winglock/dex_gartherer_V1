@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BIGTIME
+원본 풀네임: Big Time
+검색 쿼리: BIGTIME Big Time
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:32
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] HEX
+ 이름: HEX
+ 주소: 0x2b591e99afe9f32eaa6214f7b7629768c40eeb39
+ 체인ID: 1
+ Decimals: 8
+
+[2] SHIB
+ 이름: SHIBA INU
+ 주소: 0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+ 체인ID: 1
+ Decimals: 18
+
+[3] BNB
+ 이름: BNB
+ 주소: 0xb8c77482e45f1f44de1745f52c74426c631bdd52
+ 체인ID: 1
+ Decimals: 18
+
+[4] USDC
+ 이름: USD Coin
+ 주소: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
+ 체인ID: 10
+ Decimals: 6
+
+[5] USDbC
+ 이름: USD Base Coin
+ 주소: 0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca
+ 체인ID: 8453
+ Decimals: 6
+
+[6] BTT
+ 이름: BitTorrent
+ 주소: 0x352cb5e19b12fc216548a2677bd0fce83bae434b
+ 체인ID: 56
+ Decimals: 18
+
+[7] BTT
+ 이름: BitTorrent
+ 주소: 0x8595f9da7b868b1822194faed312235e43007b49
+ 체인ID: 56
+ Decimals: 18
+
+[8] BTT
+ 이름: BitTorrent
+ 주소: 0xc669928185dbce49d2230cc9b0979be6dc797957
+ 체인ID: 1
+ Decimals: 18
+
+[9] PENDLE
+ 이름: Pendle
+ 주소: 0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8
+ 체인ID: 42161
+ Decimals: 18
+
+[10] Yee
+ 이름: Yee Token
+ 주소: 0x9ac9468e7e3e1d194080827226b45d0b892c77fd
+ 체인ID: 1
+ Decimals: 9
+
+[11] IXT
+ 이름: PlanetIX
+ 주소: 0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe
+ 체인ID: 137
+ Decimals: 18
+
+[12] BAT
+ 이름: Basic Attention Token
+ 주소: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+ 체인ID: 1
+ Decimals: 18
+
+[13] uSOL
+ 이름: Solana (Universal)
+ 주소: 0x9b8df6e244526ab5f6e6400d331db28c8fdddb55
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MAG7.ssi
+ 이름: MAG7.ssi
+ 주소: 0x9e6a46f294bb67c20f1d1e7afb0bbef614403b55
+ 체인ID: 8453
+ Decimals: 8
+
+[15] BFT
+ 이름: The Big Five Token
+ 주소: 0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8
+ 체인ID: 56
+ Decimals: 9

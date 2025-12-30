@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PEPE
+원본 풀네임: Pepe
+검색 쿼리: PEPE Pepe
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:03
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] PEPE
+ 이름: Pepe
+ 주소: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+ 체인ID: 1
+ Decimals: 18
+
+[2] BRETT
+ 이름: Brett
+ 주소: 0x532f27101965dd16442e59d40670faf5ebb142e4
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Yee
+ 이름: Yee Token
+ 주소: 0x9ac9468e7e3e1d194080827226b45d0b892c77fd
+ 체인ID: 1
+ Decimals: 9
+
+[4] PEPE
+ 이름: BasedPepe
+ 주소: 0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] PEPE
+ 이름: Pepe
+ 주소: 0x698dc45e4f10966f6d1d98e3bfd7071d8144c233
+ 체인ID: 8453
+ Decimals: 9
+
+[6] BABYPEPE
+ 이름: Baby Pepe
+ 주소: 0x69babe9811cc86dcfc3b8f9a14de6470dd18eda4
+ 체인ID: 1
+ Decimals: 9
+
+[7] PEPE
+ 이름: Pepe
+ 주소: 0x25d887ce7a35172c62febfd67a1856f20faebb00
+ 체인ID: 56
+ Decimals: 18
+
+[8] PEPE
+ 이름: Pepe on Monad
+ 주소: 0xc09c8242eb21b24298303799bb5af402a2957777
+ 체인ID: 143
+ Decimals: 18
+
+[9] KEKIUS
+ 이름: Kekius Maximus
+ 주소: 0x26e550ac11b26f78a04489d5f20f24e3559f7dd9
+ 체인ID: 1
+ Decimals: 9
+
+[10] BNB PEPE
+ 이름: BNB PEPE
+ 주소: 0x31927a3d243b06e823407763f6940c62c4679ee5
+ 체인ID: 56
+ Decimals: 18
+
+[11] PEPE (PEPE)
+ 이름: PEPE (PEPE)
+ 주소: 0xfc8349df78c7c3e17e4626f8eef855d455f0eda8
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Pepe #PEPE
+ 이름: Pepe #PEPE
+ 주소: 0x836d65605048fd1b160b26ea16aa7ea0c5dc70f7
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Pepe (PEPE)
+ 이름: Pepe (PEPE)
+ 주소: 0x5a6dbdd21334c17f6f8262b9862e5c18d3f8d69f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] PEIPEI
+ 이름: PeiPei
+ 주소: 0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790
+ 체인ID: 1
+ Decimals: 18
+
+[15] ZEUS
+ 이름: Pepes Dog
+ 주소: 0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8
+ 체인ID: 1
+ Decimals: 9

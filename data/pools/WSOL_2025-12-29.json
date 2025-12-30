@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WSOL",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "AvSUmeK93LAo2DGZaojQuU3WFCGB895L2CzUgdEewZEX",
+    "pair": "WSOL/USD",
+    "price_usd": 1.0005,
+    "lp_reserve_usd": 1000495537.55,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052741
+  },
+  {
+    "symbol": "WSOL",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "2ar62zucYAo98WcabNsncVxTfGznNG7CC7eiz4x15JVH",
+    "pair": "WSOL/USD",
+    "price_usd": 3.556e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 1.74,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052741
+  },
+  {
+    "symbol": "WSOL",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "7FJYKydPQw9xDfPCTdvpUGabTpnXwkJYgJHn9VP7LMGJ",
+    "pair": "WSOL/USD",
+    "price_usd": 1.024e-6,
+    "lp_reserve_usd": 1452.87,
+    "volume_24h": 0.16,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052741
+  },
+  {
+    "symbol": "WSOL",
+    "chain": "multiversx",
+    "dex": "xexchange",
+    "pool_address": "erd1qqqqqqqqqqqqqpgqs5mnqrzvvewxrq2m9f8r4jekz9cp6fwe2jps68du5z",
+    "pair": "WSOL/USD",
+    "price_usd": 120.95,
+    "lp_reserve_usd": 1693.02,
+    "volume_24h": 31.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052741
+  },
+  {
+    "symbol": "WSOL",
+    "chain": "multiversx",
+    "dex": "onedex",
+    "pool_address": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc-WSOLWEGLD-9c6fdb",
+    "pair": "WSOL/USD",
+    "price_usd": 120.59,
+    "lp_reserve_usd": 348.13,
+    "volume_24h": 6.73,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052741
+  }
+]

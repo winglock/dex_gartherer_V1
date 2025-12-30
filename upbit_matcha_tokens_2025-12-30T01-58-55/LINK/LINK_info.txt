@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LINK
+원본 풀네임: Chainlink
+검색 쿼리: LINK Chainlink
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:05
+발견된 토큰 수: 15개
+전체 결과 수: 5189개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] LINK
+ 이름: ChainLink Token
+ 주소: 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd
+ 체인ID: 56
+ Decimals: 18
+
+[2] LINK
+ 이름: ChainLink Token
+ 주소: 0xf97f4df75117a78c1a5a0dbb814af92458539fb4
+ 체인ID: 42161
+ Decimals: 18
+
+[3] LINK
+ 이름: ChainLink Token
+ 주소: 0x514910771af9ca656af840dff83e8264ecf986ca
+ 체인ID: 1
+ Decimals: 18
+
+[4] LINK
+ 이름: ChainLink Token
+ 주소: 0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39
+ 체인ID: 137
+ Decimals: 18
+
+[5] sUSD
+ 이름: Synth sUSD
+ 주소: 0x57ab1ec28d129707052df4df418d58a2d46d5f51
+ 체인ID: 1
+ Decimals: 18
+
+[6] LINK
+ 이름: ChainLink Token
+ 주소: 0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196
+ 체인ID: 8453
+ Decimals: 18
+
+[7] LINK.e
+ 이름: Chainlink Token
+ 주소: 0x5947bb275c521040051d82396192181b413227a3
+ 체인ID: 43114
+ Decimals: 18
+
+[8] LINK
+ 이름: ChainLink Token
+ 주소: 0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6
+ 체인ID: 10
+ Decimals: 18
+
+[9] XSWAP
+ 이름: XSwap
+ 주소: 0x8fe815417913a93ea99049fc0718ee1647a2a07c
+ 체인ID: 8453
+ Decimals: 18
+
+[10] CSWAP
+ 이름: ChainSwap
+ 주소: 0xae41b275aaaf484b541a5881a2dded9515184cca
+ 체인ID: 1
+ Decimals: 18
+
+[11] POLLO
+ 이름: PolloPal by Virtuals
+ 주소: 0x10ac13e54218470eed360d13a38c2bbafacb6167
+ 체인ID: 8453
+ Decimals: 18
+
+[12] TUSD
+ 이름: TrueUSD
+ 주소: 0x0000000000085d4780b73119b644ae5ecd22b376
+ 체인ID: 1
+ Decimals: 18
+
+[13] uLINK
+ 이름: Chainlink (Universal)
+ 주소: 0xd403d1624daef243fbcbd4a80d8a6f36affe32b2
+ 체인ID: 8453
+ Decimals: 18
+
+[14] TUSD
+ 이름: TrueUSD
+ 주소: 0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9
+ 체인ID: 56
+ Decimals: 18
+
+[15] XSWAP
+ 이름: XSwap
+ 주소: 0x8fe815417913a93ea99049fc0718ee1647a2a07c
+ 체인ID: 1
+ Decimals: 18

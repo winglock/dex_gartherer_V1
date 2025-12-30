@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: IP
+원본 풀네임: Story
+검색 쿼리: IP Story
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:30
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MIGGLES
+ 이름: Mister Miggles
+ 주소: 0xb1a03eda10342529bbf8eb700a06c60441fef25d
+ 체인ID: 8453
+ Decimals: 18
+
+[2] BIO
+ 이름: BIO
+ 주소: 0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2
+ 체인ID: 8453
+ Decimals: 18
+
+[3] IP Story
+ 이름: IP Story
+ 주소: 0x834833e35b7a68bf9c4e5486a2398ff385bd23f2
+ 체인ID: 8453
+ Decimals: 18
+
+[4] IP (Story Protocol)
+ 이름: IP (Story Protocol)
+ 주소: 0x9facfce553444499f7e8d23b02a60c6db0044e92
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MOCHI
+ 이름: Mochi
+ 주소: 0xf6e932ca12afa26665dc4dde7e27be02a7c02e50
+ 체인ID: 8453
+ Decimals: 18
+
+[6] OMI
+ 이름: OMI Token
+ 주소: 0x3792dbdd07e87413247df995e692806aa13d3299
+ 체인ID: 8453
+ Decimals: 18
+
+[7] CAT
+ 이름: Simons Cat
+ 주소: 0x6894cde390a3f51155ea41ed24a33a4827d3063d
+ 체인ID: 56
+ Decimals: 18
+
+[8] BIO
+ 이름: BIO
+ 주소: 0xcb1592591996765ec0efc1f92599a19767ee5ffa
+ 체인ID: 1
+ Decimals: 18
+
+[9] OMI
+ 이름: OMI Token
+ 주소: 0xed35af169af46a02ee13b9d79eb57d6d68c1749e
+ 체인ID: 1
+ Decimals: 18
+
+[10] DOG
+ 이름: The Doge NFT
+ 주소: 0xafb89a09d82fbde58f18ac6437b3fc81724e4df6
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ZENT
+ 이름: Zentry
+ 주소: 0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa
+ 체인ID: 1
+ Decimals: 18
+
+[12] BITCOIN
+ 이름: HarryPotterObamaSonic10Inu
+ 주소: 0x72e4f9f808c49a2a61de9c5896298920dc4eeea9
+ 체인ID: 1
+ Decimals: 8
+
+[13] RMV
+ 이름: RealityMetaverse(PoS)
+ 주소: 0xf0949dd87d2531d665010d6274f06a357669457a
+ 체인ID: 137
+ Decimals: 18
+
+[14] IP Story On Base
+ 이름: IP Story On Base
+ 주소: 0x01fb3b96120b10f5aaa38a300efccd3fc6b7d0fe
+ 체인ID: 8453
+ Decimals: 18
+
+[15] IP Story AI Presale v2
+ 이름: IP Story AI Presale v2
+ 주소: 0x9c6e44389922d65a30e5ae3edade7554efd937ea
+ 체인ID: 56
+ Decimals: 9

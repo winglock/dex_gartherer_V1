@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: A
+원본 풀네임: A
+검색 쿼리: A A
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:14
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] AUSD
+ 이름: AUSD
+ 주소: 0x00000000efe302beaa2b3e6e1b18d08d69a9012a
+ 체인ID: 143
+ Decimals: 6
+
+[2] AVAX
+ 이름: Avalanche
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 43114
+ Decimals: 18
+
+[3] ADA
+ 이름: Cardano Token
+ 주소: 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47
+ 체인ID: 56
+ Decimals: 18
+
+[4] ARB
+ 이름: Arbitrum
+ 주소: 0x912ce59144191c1204e64559fe8253a0e49e6548
+ 체인ID: 42161
+ Decimals: 18
+
+[5] AVAX
+ 이름: Avalanche
+ 주소: 0x1ce0c2827e2ef14d5c4f29a091d735a204794041
+ 체인ID: 56
+ Decimals: 18
+
+[6] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[7] ATOM
+ 이름: Cosmos Token
+ 주소: 0x0eb3a705fc54725037cc9e008bdede697f62f335
+ 체인ID: 56
+ Decimals: 18
+
+[8] AERO
+ 이름: Aerodrome
+ 주소: 0x940181a94a35a4569e4529a3cdfb74e38fd98631
+ 체인ID: 8453
+ Decimals: 18
+
+[9] AAVE
+ 이름: Aave (PoS)
+ 주소: 0xd6df932a45c0f255f85145f286ea0b292b21c90b
+ 체인ID: 137
+ Decimals: 18
+
+[10] AVNT
+ 이름: Avantis
+ 주소: 0x696f9436b67233384889472cd7cd58a6fb5df4f1
+ 체인ID: 8453
+ Decimals: 18
+
+[11] AAPLx
+ 이름: Apple xStock
+ 주소: XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp
+ 체인ID: 1399811149
+ Decimals: 8
+
+[12] AXS
+ 이름: Axie Infinity Shard
+ 주소: 0x715d400f88c167884bbcc41c5fea407ed4d2f8a0
+ 체인ID: 56
+ Decimals: 18
+
+[13] ASTER
+ 이름: Aster
+ 주소: 0x000ae314e2a2172a039b26378814c252734f556a
+ 체인ID: 56
+ Decimals: 18
+
+[14] WAVAX
+ 이름: Wrapped AVAX
+ 주소: 0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7
+ 체인ID: 43114
+ Decimals: 18
+
+[15] APD
+ 이름: APD
+ 주소: 0x001208f7f53f78db2b32e1c68198d3e8f320aa23
+ 체인ID: 56
+ Decimals: 9

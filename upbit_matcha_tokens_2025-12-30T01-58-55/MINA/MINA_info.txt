@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MINA
+원본 풀네임: Mina
+검색 쿼리: MINA Mina
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:37
+발견된 토큰 수: 15개
+전체 결과 수: 4234개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BNBTC
+ 이름: (BNbitcoin Token - minable bitcoin on BSC
+ 주소: 0xe7cb24f449973d5b3520e5b93d88b405903c75fb
+ 체인ID: 56
+ Decimals: 8
+
+[2] MNTO
+ 이름: Minato
+ 주소: 0x97a9bac06f90940bce9caec2b880ff17707519e4
+ 체인ID: 1
+ Decimals: 18
+
+[3] HDRN
+ 이름: Hedron
+ 주소: 0x3819f64f282bf135d62168c1e513280daf905e06
+ 체인ID: 1
+ Decimals: 9
+
+[4] MINA
+ 이름: Minapool
+ 주소: 0xf2185b1c3e8c5d24399d4ec0716e0e5b63be5b07
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MNTO
+ 이름: Minato
+ 주소: 0x854a63b35b70a7becbed508ff0b6ff5038d0c917
+ 체인ID: 56
+ Decimals: 18
+
+[6] MNTO
+ 이름: Minato (PoS)
+ 주소: 0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8
+ 체인ID: 137
+ Decimals: 18
+
+[7] MNTO
+ 이름: Minato
+ 주소: 0xf0dfad1817b5ba73726b02ab34dd4b4b00bcd392
+ 체인ID: 42161
+ Decimals: 18
+
+[8] Minar Apple
+ 이름: Minar Apple
+ 주소: 0x19100a010deff47cc1178e14db90f56acab295d3
+ 체인ID: 8453
+ Decimals: 9
+
+[9] MINA Seedify.fund
+ 이름: MINA Seedify.fund
+ 주소: 0xbc1edae5c1babfc356e7c1d735294d0a7f384a36
+ 체인ID: 130
+ Decimals: 18
+
+[10] MINATI
+ 이름: Minati Coin Dynamic Crypto Index
+ 주소: 0x8594c2692b602aa5ba3132258bb68d5eb06ae7a5
+ 체인ID: 8453
+ Decimals: 9
+
+[11] H2o Securities Minar
+ 이름: H2o Securities Minar
+ 주소: 0x2f6666d2617fa02e68b729edd0669c5b27d4cddc
+ 체인ID: 130
+ Decimals: 18
+
+[12] NICKYASS
+ 이름: NICKY MINAJ GOOGLE ASS
+ 주소: 8jShWzzvs8weYYn8yACd9sqqsyP1ST9hx9HF3gyfKQiZ
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] M&H
+ 이름: Minato and Hura Google Companion
+ 주소: BRxZcgNqhJbdmhTJqjoqtRNDZFS14pqfHmYdDeirJixH
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] MINARA
+ 이름: MINARA
+ 주소: 0x4f0ffc13be6e72d0a4df1acb6db448209aa3d441
+ 체인ID: 8453
+ Decimals: 18
+
+[15] minapp
+ 이름: minapp
+ 주소: 0xd60c6710d7a9d2760f43f51c04d6c0245c8a029c
+ 체인ID: 8453
+ Decimals: 18

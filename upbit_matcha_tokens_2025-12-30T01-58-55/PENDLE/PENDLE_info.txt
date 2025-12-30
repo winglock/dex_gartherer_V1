@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PENDLE
+원본 풀네임: Pendle
+검색 쿼리: PENDLE Pendle
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:35
+발견된 토큰 수: 15개
+전체 결과 수: 3254개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] PENDLE
+ 이름: Pendle
+ 주소: 0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8
+ 체인ID: 42161
+ Decimals: 18
+
+[2] PENDLE
+ 이름: Pendle
+ 주소: 0xa99f6e6785da0f5d6fb42495fe424bce029eeb3e
+ 체인ID: 8453
+ Decimals: 18
+
+[3] PENDLE
+ 이름: Pendle
+ 주소: 0x808507121b80c02388fad14726482e061b8da827
+ 체인ID: 1
+ Decimals: 18
+
+[4] Pendle (PENDLE)
+ 이름: Pendle (PENDLE)
+ 주소: 0x9d421417fa7801c026d2577dd5e3fdb03e03a304
+ 체인ID: 8453
+ Decimals: 18
+
+[5] What is Pendle (PENDLE)?...
+ 이름: What is Pendle (PENDLE)?...
+ 주소: 0xe3f165c7ab2d144b77fb1fef9ce35a0674916f8a
+ 체인ID: 8453
+ Decimals: 18
+
+[6] PENDLE
+ 이름: Pendle
+ 주소: 0xb3ed0a426155b79b898849803e3b36552f7ed507
+ 체인ID: 56
+ Decimals: 18
+
+[7] SYRUP
+ 이름: Syrup Token
+ 주소: 0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66
+ 체인ID: 1
+ Decimals: 18
+
+[8] @Here's the Analysis of #PENDLE :#PENDLE flipped the major area
+ 이름: @Here's the Analysis of #PENDLE :#PENDLE flipped the major area
+ 주소: 0x56e8bf47a013879c9525f12fbe49f1f0dadf1336
+ 체인ID: 8453
+ Decimals: 18
+
+[9] SYRUP
+ 이름: Syrup Token
+ 주소: 0x688aee022aa544f150678b8e5720b6b96a9e9a2f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] RED
+ 이름: Redstone
+ 주소: 0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de
+ 체인ID: 1
+ Decimals: 18
+
+[11] reUSD
+ 이름: Re Protocol Deposit Token
+ 주소: 0x5086bf358635b81d8c47c66d1c8b9e567db70c72
+ 체인ID: 1
+ Decimals: 18
+
+[12] Pendle PENDLE
+ 이름: Pendle PENDLE
+ 주소: 0x701aab8cf8da5bd6456458b479e68bde1bbe8cca
+ 체인ID: 8453
+ Decimals: 9
+
+[13] Pendle PENDLE
+ 이름: Pendle PENDLE
+ 주소: 0xf32216d8e13d8c1def7739e72db7676dddb223a4
+ 체인ID: 130
+ Decimals: 18
+
+[14] Pendle PENDLE
+ 이름: Pendle PENDLE
+ 주소: 0x215e7fcb45ebd040da0c379ebae5e273ebe5c181
+ 체인ID: 130
+ Decimals: 18
+
+[15] Pendle PENDLE
+ 이름: Pendle PENDLE
+ 주소: 0x1e0f80751c8cc47f7d113d1ddad42e3a09eddf14
+ 체인ID: 130
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CHZ
+원본 풀네임: Chiliz
+검색 쿼리: CHZ Chiliz
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:06
+발견된 토큰 수: 15개
+전체 결과 수: 1659개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] CHZ (Chiliz) NFT
+ 이름: CHZ (Chiliz) NFT
+ 주소: 0xdb3def557c008e870348c8ab07745fb241815586
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CHZ Chiliz On Base
+ 이름: CHZ Chiliz On Base
+ 주소: 0x82fcfe0ab2ccd401c264cf688c210a0a8dbeafc1
+ 체인ID: 8453
+ Decimals: 18
+
+[3] CHZ Chiliz AI Presale v2
+ 이름: CHZ Chiliz AI Presale v2
+ 주소: 0x79d66987e654c284aad322a6e1cf91f0d5b3e78b
+ 체인ID: 56
+ Decimals: 9
+
+[4] CHZ
+ 이름: chiliZ
+ 주소: 0x3506424f91fd33084466f402d5d97f05f8e3b4af
+ 체인ID: 1
+ Decimals: 18
+
+[5] CHZCHI
+ 이름: CHZ Chiliz Perpetual
+ 주소: 0x27efa910930510b9a782b9c29ddfea92de384191
+ 체인ID: 8453
+ Decimals: 18
+
+[6] CHZ
+ 이름: CHZ
+ 주소: 0xfd6f979f61f2489b135bc539cd5677410ad07e59
+ 체인ID: 8453
+ Decimals: 18
+
+[7] CHZ
+ 이름: CHZ
+ 주소: 0x6b29665bdab47f5ea5181e3a62220d6652d66959
+ 체인ID: 8453
+ Decimals: 18
+
+[8] CHZ
+ 이름: Chz
+ 주소: 0xa8de2e540bab162170966f021c59a9c2ee81f946
+ 체인ID: 8453
+ Decimals: 18
+
+[9] CHZ
+ 이름: CHZ
+ 주소: 0x270708b3f9b905aa37b1c612f8d7f94e60333011
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Chz
+ 이름: Chz
+ 주소: 0x3126b2817039e0a8617275704a19eda2410415d6
+ 체인ID: 8453
+ Decimals: 18
+
+[11] CHZ
+ 이름: CHZ
+ 주소: 0xc09fcfc06a61a2ac6446da0c164963f3cd628e75
+ 체인ID: 8453
+ Decimals: 18
+
+[12] chz
+ 이름: chz
+ 주소: 0x27a3eea6cf21053e39afdb513a981e3b113bff6f
+ 체인ID: 8453
+ Decimals: 18
+
+[13] CHZ
+ 이름: GRLD CHZ
+ 주소: 0x389e05632c235a4956cbe06014b19b5cab5fb28e
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Chz 🚀
+ 이름: Chz 🚀
+ 주소: 0x0e2941b2e2029e8f66a16e4aa04ce3f28a751f4f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] DevilBunnyBrat
+ 이름: Chz
+ 주소: 0x497a557c2da4b5d64d4ec4c79deb21f61651e2e4
+ 체인ID: 8453
+ Decimals: 18

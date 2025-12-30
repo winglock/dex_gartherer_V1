@@ -1,0 +1,300 @@
+{
+  "originalSymbol": "ZBT",
+  "originalFullName": "ZEROBASE",
+  "searchedQuery": "ZBT ZEROBASE",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 680,
+  "tokens": [
+    {
+      "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "ZEROBASE",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 22,
+      "transactionsWeekly": 67,
+      "transactionsMonthly": 102,
+      "volumeUsdHourly": 212.6672396489,
+      "volumeUsdDaily": 3410.6327600928935,
+      "volumeUsdWeekly": 13099.085476964578,
+      "volumeUsdMonthly": 15719.475580431184,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0xfab99fcf605fd8f4593edb70a43ba56542777777"
+    },
+    {
+      "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ZEROBASE",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 1,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 3,
+      "transactionsDaily": 16,
+      "transactionsWeekly": 46,
+      "transactionsMonthly": 144,
+      "volumeUsdHourly": 5.759481722236895,
+      "volumeUsdDaily": 192.7459990237487,
+      "volumeUsdWeekly": 763.3421518009804,
+      "volumeUsdMonthly": 939.0949647124172,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0xfab99fcf605fd8f4593edb70a43ba56542777777"
+    },
+    {
+      "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZEROBASE",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 1,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 3,
+      "transactionsDaily": 12,
+      "transactionsWeekly": 53,
+      "transactionsMonthly": 66,
+      "volumeUsdHourly": 30.93442343044835,
+      "volumeUsdDaily": 410.74585461258954,
+      "volumeUsdWeekly": 831.2640374178087,
+      "volumeUsdMonthly": 1023.5771034395244,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xfab99fcf605fd8f4593edb70a43ba56542777777"
+    },
+    {
+      "address": "0x7d7f4867117599ec53a632d34d0c4f448a50e48d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "zbt",
+      "symbol": "zbt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x7d7f4867117599ec53a632d34d0c4f448a50e48d"
+    },
+    {
+      "address": "0x75d3a07cca4d60d1fd64546f955b2c8929f9dade",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZBT",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x75d3a07cca4d60d1fd64546f955b2c8929f9dade"
+    },
+    {
+      "address": "0xcea1775dd4a2f3fe7b77d8577ed479d301e3e6ab",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Zbt",
+      "symbol": "Zbt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xcea1775dd4a2f3fe7b77d8577ed479d301e3e6ab"
+    },
+    {
+      "address": "0xf8b24fd5e8b28fc874d378d7d8bffde0a74e8855",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZBT",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf8b24fd5e8b28fc874d378d7d8bffde0a74e8855"
+    },
+    {
+      "address": "0xe18b8ea8c84a6f797d37e82e4eecedd88b5392ce",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZBT",
+      "symbol": "ZBT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xe18b8ea8c84a6f797d37e82e4eecedd88b5392ce"
+    },
+    {
+      "address": "0x00c278c196a1dc513d0f549afec9f278494f8a23",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Zbt",
+      "symbol": "Zbt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x00c278c196a1dc513d0f549afec9f278494f8a23"
+    },
+    {
+      "address": "0xd4b26253ed1222654e2be5f11e22175d5cd75da9",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$ZBT",
+      "symbol": "ZBT/USDT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd4b26253ed1222654e2be5f11e22175d5cd75da9"
+    },
+    {
+      "address": "0x29c2e43d5bb8e2c56767f43f2cbb6172e4ec27b3",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$ZBT",
+      "symbol": "ZBT/USDT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x29c2e43d5bb8e2c56767f43f2cbb6172e4ec27b3"
+    },
+    {
+      "address": "0x0538a0d6417523629bc82e190b6c4b1e0fd36f50",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZEROBASE(ZBT)",
+      "symbol": "ZEROBASE(ZBT)",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0538a0d6417523629bc82e190b6c4b1e0fd36f50"
+    },
+    {
+      "address": "0x8180df46f0fa46e63077cb130a155612dac3d6bd",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZEROBASE & ZBT",
+      "symbol": "ZEROBASE & ZBT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8180df46f0fa46e63077cb130a155612dac3d6bd"
+    },
+    {
+      "address": "0x78f2e3daae76f10b6ed7bb3206a57850e77e8a57",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "#ZBT 🚀",
+      "symbol": "#ZBT 🚀",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x78f2e3daae76f10b6ed7bb3206a57850e77e8a57"
+    },
+    {
+      "address": "0x54f6b9a5ce1be3faf5d6e7eb34732850ef9ac668",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZBT TRADE",
+      "symbol": "ZBT TRADE",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x54f6b9a5ce1be3faf5d6e7eb34732850ef9ac668"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:50.361Z",
+  "error": null
+}

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: RED
+원본 풀네임: RedStone
+검색 쿼리: RED RedStone
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:20
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ESMX
+ 이름: ESM X Token
+ 주소: 0xfadb26be94c1f959f900bf88cd396b3e803481d6
+ 체인ID: 8453
+ Decimals: 18
+
+[2] REKT
+ 이름: Rekt
+ 주소: 0xdd3b11ef34cd511a2da159034a05fcb94d806686
+ 체인ID: 1
+ Decimals: 18
+
+[3] REKT
+ 이름: Rekt
+ 주소: 0xb3e3c89b8d9c88b1fe96856e382959ee6291ebba
+ 체인ID: 8453
+ Decimals: 18
+
+[4] RED
+ 이름: Redstone
+ 주소: 0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de
+ 체인ID: 1
+ Decimals: 18
+
+[5] REKT
+ 이름: Rekt
+ 주소: 0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c
+ 체인ID: 56
+ Decimals: 18
+
+[6] PHA
+ 이름: Phala
+ 주소: 0x6c5ba91642f10282b576d91922ae6448c9d52f4e
+ 체인ID: 1
+ Decimals: 18
+
+[7] RED RedStone On Base
+ 이름: RED RedStone On Base
+ 주소: 0xda08d797f62030de9e3e2b6efe00c2ef5bb1af25
+ 체인ID: 8453
+ Decimals: 18
+
+[8] RED RedStone AI Presale v2
+ 이름: RED RedStone AI Presale v2
+ 주소: 0x2c0503ab9be388ce655c588cbc29cc4626a46f2d
+ 체인ID: 56
+ Decimals: 9
+
+[9] pƎpOƆ
+ 이름: Code Red
+ 주소: EksrhEUJ59JTDssWovhPE19mKRriUZHo6paX9KGdpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] RED
+ 이름: Redstone
+ 주소: 0x4eb92702ba4cfbf80561bad64d89c706ac824960
+ 체인ID: 8453
+ Decimals: 18
+
+[11] FAN
+ 이름: FAN
+ 주소: 0x3b9e9100db1389c518d47c635d80a90ad4c4f41b
+ 체인ID: 137
+ Decimals: 8
+
+[12] TYLER
+ 이름: Tyler
+ 주소: 0x85645b86243886b7c7c1da6288571f8bea6fc035
+ 체인ID: 8453
+ Decimals: 9
+
+[13] RED
+ 이름: RED TOKEN
+ 주소: 0xc744df3419a8c9bd4d6b9852a503eb1c5308a326
+ 체인ID: 1
+ Decimals: 18
+
+[14] RED
+ 이름: Red Wave
+ 주소: 0x0813b56d5261051c1564b3591e5ab2f0966591e9
+ 체인ID: 8453
+ Decimals: 18
+
+[15] RED HAIR ZOE
+ 이름: Dyed my hair red!
+ 주소: 0x979ff20c5101639ec5ffee11aeea061035802f68
+ 체인ID: 8453
+ Decimals: 18

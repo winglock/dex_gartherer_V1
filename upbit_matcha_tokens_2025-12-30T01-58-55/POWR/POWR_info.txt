@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: POWR
+원본 풀네임: Power ledger
+검색 쿼리: POWR Power ledger
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:11
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ATOM
+ 이름: Cosmos Token
+ 주소: 0x0eb3a705fc54725037cc9e008bdede697f62f335
+ 체인ID: 56
+ Decimals: 18
+
+[2] AERO
+ 이름: Aerodrome
+ 주소: 0x940181a94a35a4569e4529a3cdfb74e38fd98631
+ 체인ID: 8453
+ Decimals: 18
+
+[3] XAVA
+ 이름: Avalaunch
+ 주소: 0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4
+ 체인ID: 43114
+ Decimals: 18
+
+[4] Power/SOL
+ 이름: Power Protocol 🎮
+ 주소: Cf735zbpRdPWC1B3AGCVaBTizPsnbGz3GbWb1zj3EGun
+ 체인ID: 1399811149
+ Decimals: 6
+
+[5] POWER-sol
+ 이름: Power Protocol
+ 주소: GghKtazEdjqRJmckwXnSuuqtdhkoHfFwAsSFBampwAL8
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] CREPE
+ 이름: CREPE
+ 주소: 0xeb2b7d5691878627eff20492ca7c9a71228d931d
+ 체인ID: 56
+ Decimals: 9
+
+[7] DEGEN
+ 이름: Degen
+ 주소: 0x4ed4e862860bed51a9570b96d89af5e1b0efefed
+ 체인ID: 8453
+ Decimals: 18
+
+[8] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 8453
+ Decimals: 18
+
+[9] KAITO
+ 이름: KAITO
+ 주소: 0x98d0baa52b2d063e780de12f615f963fe8537553
+ 체인ID: 8453
+ Decimals: 18
+
+[10] PEPE
+ 이름: Pepe
+ 주소: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+ 체인ID: 1
+ Decimals: 18
+
+[11] wTAO
+ 이름: Wrapped TAO
+ 주소: 0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44
+ 체인ID: 1
+ Decimals: 9
+
+[12] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 56
+ Decimals: 18
+
+[13] JOE
+ 이름: JoeToken
+ 주소: 0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd
+ 체인ID: 43114
+ Decimals: 18
+
+[14] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[15] GIZA
+ 이름: Giza
+ 주소: 0x590830dfdf9a3f68afcdde2694773debdf267774
+ 체인ID: 8453
+ Decimals: 18

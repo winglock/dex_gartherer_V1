@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: APT
+원본 풀네임: Aptos
+검색 쿼리: APT Aptos
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:21
+발견된 토큰 수: 15개
+전체 결과 수: 4646개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MON
+ 이름: MON
+ 주소: 0xc555d625828c4527d477e595ff1dd5801b4a600e
+ 체인ID: 1
+ Decimals: 18
+
+[2] uAPT
+ 이름: Aptos (Universal)
+ 주소: 0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337
+ 체인ID: 8453
+ Decimals: 18
+
+[3] BENJI
+ 이름: +Franklin OnChain U.S. Government Money Fund
+ 주소: 0x3ddc84940ab509c11b20b76b466933f40b750dc9
+ 체인ID: 1
+ Decimals: 18
+
+[4] WAPT
+ 이름: WAPT
+ 주소: 0x2b2af8292dfbc937bbc095e4a5442e47558131ea
+ 체인ID: 8453
+ Decimals: 18
+
+[5] INFRA.e
+ 이름: Bware
+ 주소: 0xa4fb4f0ff2431262d236778495145ecbc975c38b
+ 체인ID: 43114
+ Decimals: 18
+
+[6] Aptos Optionpanda
+ 이름: Aptos Optionpanda
+ 주소: 0xf7cbdd4d32c56bbe3853d803aa31cd54d65cb73e
+ 체인ID: 130
+ Decimals: 18
+
+[7] Aptos Frax Share
+ 이름: Aptos Frax Share
+ 주소: 0xd3391609282ca9387d1e1049a18d2ae703fbe30d
+ 체인ID: 130
+ Decimals: 18
+
+[8] Ditto Staked Aptos SHARE
+ 이름: Ditto Staked Aptos SHARE
+ 주소: 0xc0ea37f6acbd1a3700d37bc12787478df3989067
+ 체인ID: 8453
+ Decimals: 18
+
+[9] bAptos
+ 이름: Baby Aptos
+ 주소: 0x31b79e34b32239f0c3604db4a451ce9256b92919
+ 체인ID: 56
+ Decimals: 9
+
+[10] MAPT
+ 이름: Microsoft Aptos
+ 주소: 0xa396332dc552f158fc242ed2ea6f122954d38f48
+ 체인ID: 1
+ Decimals: 18
+
+[11] OR7
+ 이름: *aptos.com || Ethereum Markets 7X Series 25
+ 주소: 0x76ddbe4b95cb7389e52f66ccecfbc95c089fda7f
+ 체인ID: 8453
+ Decimals: 18
+
+[12] K92XE
+ 이름: )aptos.com || Mantle Treasury 3X Series 89
+ 주소: 0xc217aacc8003bcf0c0a0e49918aee7c63a282d97
+ 체인ID: 8453
+ Decimals: 18
+
+[13] MAPT
+ 이름: Microsoft Aptos
+ 주소: 0xa90706395bd260052d0a76aa452da83a20cca429
+ 체인ID: 1
+ Decimals: 9
+
+[14] XAZ
+ 이름: 7avalanche.network || Aptos Factory 3X Series 69 (Aptos)
+ 주소: 0xcec2835d75afa7bfa274a122fac45bb47622593a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] XWF
+ 이름: 'aptos.com || Near Research 3X Series 21
+ 주소: 0xde0896c2ea3e6d4589888ef6922808cc17bf9d55
+ 체인ID: 8453
+ Decimals: 18

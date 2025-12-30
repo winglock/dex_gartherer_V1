@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BORA
+원본 풀네임: BORA
+검색 쿼리: BORA BORA
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:37
+발견된 토큰 수: 15개
+전체 결과 수: 2464개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Bora Bora
+ 이름: Bora Bora
+ 주소: 0x10a0ad7b105bc3648b93f81c810b7e6c9e281dfb
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Bora Bora
+ 이름: Bora Bora
+ 주소: 0xea889f9da7df3e89279947cd8ee15f2819f7a8bd
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Bora bora
+ 이름: Bora bora
+ 주소: 0xa6d6fe95efc00c4f7b33d0c6eeeffeb365602bf8
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Bora bora
+ 이름: Bora bora
+ 주소: 0x96b3d6d19dcbafd56b7fefd6e6abb3494fbf691d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Bora Bora
+ 이름: Bora Bora
+ 주소: 0x81446345a2d9a4ac2a776816f1d0fdbbd28139a8
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Bora-Bora
+ 이름: Bora-Bora
+ 주소: 0x63e2a9538a39e7dba72cebf2908cc424c3ae1f15
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Bora bora!!!
+ 이름: Bora bora!!!
+ 주소: 0x91789d489a275637f839af3e80b064cae5985e5a
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Bora bora
+ 이름: Bora bora
+ 주소: 0x76bf90d02aad6b3400c7b19ad1186125299c1176
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Bora Bora
+ 이름: Bora Bora
+ 주소: 0x0b1dec24860566bef9d66370ae89f2889e5e4b4b
+ 체인ID: 8453
+ Decimals: 18
+
+[10] bora bora
+ 이름: bora bora
+ 주소: 0xb1cf1fcadc3d08a904c3b6b0e7b5c4d010193213
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Bora bora
+ 이름: Bora bora
+ 주소: 0x315e9a0a7b0647d9b01b9f05b35d204df9786bfd
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Bora Bora
+ 이름: Bora Bora
+ 주소: 0x211fb4db37a6d36b8cc0049a66ec4be852e8e1ef
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Bora Bora
+ 이름: Bora Bora
+ 주소: 0x9193dc04021eaa112b4eacf880885941b3a11c7f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Bora bora 🌴
+ 이름: Bora bora 🌴
+ 주소: 0xcc714d349480b95625183ae923ef3fdb783b932a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Westin Bora Bora
+ 이름: Westin Bora Bora
+ 주소: 0x83f9ceb9fea6c8fdd6a8119dced10913b54a26ac
+ 체인ID: 8453
+ Decimals: 18

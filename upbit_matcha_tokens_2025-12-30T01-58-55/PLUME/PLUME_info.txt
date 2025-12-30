@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PLUME
+원본 풀네임: Plume
+검색 쿼리: PLUME Plume
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:25
+발견된 토큰 수: 15개
+전체 결과 수: 2052개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] P
+ 이름: Plume
+ 주소: 0x4c1746a800d224393fe2470c70a35717ed4ea5f1
+ 체인ID: 1
+ Decimals: 18
+
+[2] ?Coinbase has added Humidifi (WET), zkPass (ZKP), Plume (PLUME),
+ 이름: @Coinbase has added Humidifi (WET), zkPass (ZKP), Plume (PLUME),
+ 주소: 0x29612cbda9ecd0f0a6deef99de114ba8024589b1
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x9408d5a8d5fe5c8f497e6ecd952327482cc265aa
+ 체인ID: 8453
+ Decimals: 9
+
+[4] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x3ee953b0b8f4978666442d9145e52cd8bc069c24
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0xf4e979c887f78e0f74c6a5d12d3257c264aa255a
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x457134472ef2ec4ad31b881a521721f9bd1cd211
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0xfac30c74f92d5a79b40284e2f5bef57eb414c5d0
+ 체인ID: 130
+ Decimals: 18
+
+[8] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0xeff693edb5b60f29fa8a7dd20e0038bfc6d993c7
+ 체인ID: 8453
+ Decimals: 9
+
+[9] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0xf980158adf0edb286a724e5e8994bdd625543d1a
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x3f3763ecdd24d25bb238fe56940bef724c1d356c
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0xf9cb9c972a9daa7dac40734e3308bbc39d0a726e
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x357dc7802d7eac569dccf81baf5e51ba0f2f0705
+ 체인ID: 130
+ Decimals: 18
+
+[13] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x8cacd9845e99ef415fa860523f2c23e9898a2a35
+ 체인ID: 130
+ Decimals: 18
+
+[14] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x9979f0e3ee979119b8016559a94a63330262a902
+ 체인ID: 130
+ Decimals: 18
+
+[15] Plume PLUME
+ 이름: Plume PLUME
+ 주소: 0x3c3f5bc631b39c3367766291ff378d9534c8217b
+ 체인ID: 8453
+ Decimals: 9

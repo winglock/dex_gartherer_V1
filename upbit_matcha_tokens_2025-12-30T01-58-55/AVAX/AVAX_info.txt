@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AVAX
+원본 풀네임: Avalanche
+검색 쿼리: AVAX Avalanche
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:49
+발견된 토큰 수: 15개
+전체 결과 수: 8234개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WAVAX
+ 이름: Wrapped AVAX
+ 주소: 0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7
+ 체인ID: 43114
+ Decimals: 18
+
+[2] AVAX
+ 이름: Avalanche
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 43114
+ Decimals: 18
+
+[3] AVAX
+ 이름: Avalanche
+ 주소: 0x1ce0c2827e2ef14d5c4f29a091d735a204794041
+ 체인ID: 56
+ Decimals: 18
+
+[4] VCNT
+ 이름: ViciCoin
+ 주소: 0xdcf5130274753c8050ab061b1a1dcbf583f5bfd0
+ 체인ID: 8453
+ Decimals: 18
+
+[5] XAVA
+ 이름: Avalaunch
+ 주소: 0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4
+ 체인ID: 43114
+ Decimals: 18
+
+[6] MATIC
+ 이름: Matic Token
+ 주소: 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+ 체인ID: 1
+ Decimals: 18
+
+[7] JOE
+ 이름: JoeToken
+ 주소: 0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd
+ 체인ID: 43114
+ Decimals: 18
+
+[8] USDC.e
+ 이름: USD Coin
+ 주소: 0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664
+ 체인ID: 43114
+ Decimals: 6
+
+[9] GMX
+ 이름: GMX
+ 주소: 0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a
+ 체인ID: 42161
+ Decimals: 18
+
+[10] BTC.b
+ 이름: Bitcoin
+ 주소: 0x152b9d0fdc40c096757f570a51e494bd4b943e50
+ 체인ID: 43114
+ Decimals: 8
+
+[11] PNG
+ 이름: Pangolin
+ 주소: 0x60781c2586d68229fde47564546784ab3faca982
+ 체인ID: 43114
+ Decimals: 18
+
+[12] VCNT
+ 이름: ViciCoin
+ 주소: 0x8a16d4bf8a0a716017e8d2262c4ac32927797a2f
+ 체인ID: 137
+ Decimals: 18
+
+[13] KYVE
+ 이름: KYVE Network
+ 주소: 0xad13bce42394add02e6c215a40e582309b7975c7
+ 체인ID: 8453
+ Decimals: 6
+
+[14] ARENA
+ 이름: ArenaToken
+ 주소: 0xb8d7710f7d8349a506b75dd184f05777c82dad0c
+ 체인ID: 43114
+ Decimals: 18
+
+[15] WAVAX
+ 이름: Wrapped AVAX
+ 주소: 0x85f138bfee4ef8e540890cfb48f620571d67eda3
+ 체인ID: 1
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: BARD
+원본 풀네임: Lombard
+검색 쿼리: BARD Lombard
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:14
+발견된 토큰 수: 15개
+전체 결과 수: 1611개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] LBTC
+ 이름: Lombard Staked Bitcoin
+ 주소: 0x8236a87084f8b84306f72007f36f2618a5634494
+ 체인ID: 1
+ Decimals: 8
+
+[2] $BARD LOMBARD$BARD
+ 이름: $BARD LOMBARD$BARD
+ 주소: 0x4fe09a4692fb5ad9f3c3f29eb6d3536fff583dd1
+ 체인ID: 8453
+ Decimals: 18
+
+[3] $BARD $LOMBARD
+ 이름: $BARD $LOMBARD
+ 주소: 0x0bb086a96a0d3080a2f3c7aedb684ad9e96d4691
+ 체인ID: 8453
+ Decimals: 18
+
+[4] LBTC
+ 이름: Lombard Staked Bitcoin
+ 주소: 0xecac9c5f704e954931349da37f60e39f515c11c1
+ 체인ID: 8453
+ Decimals: 8
+
+[5] BARD
+ 이름: Lombard
+ 주소: 0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754
+ 체인ID: 1
+ Decimals: 18
+
+[6] RED
+ 이름: Redstone
+ 주소: 0xc43c6bfeda065fe2c4c11765bf838789bd0bb5de
+ 체인ID: 1
+ Decimals: 18
+
+[7] AI
+ 이름: AI PIN
+ 주소: 0xbc544207ff1c5b2bc47a35f745010b603b97e99e
+ 체인ID: 1
+ Decimals: 18
+
+[8] BARD
+ 이름: Lombard
+ 주소: 0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a
+ 체인ID: 56
+ Decimals: 18
+
+[9] eBTC
+ 이름: ether.fi BTC
+ 주소: 0x657e8c867d8b37dcc18fa4caead9c45eb088c642
+ 체인ID: 1
+ Decimals: 8
+
+[10] BARD
+ 이름: BARD
+ 주소: 0xffef543fb68d5129a13b670654ccd0e8ea4b9442
+ 체인ID: 8453
+ Decimals: 18
+
+[11] BARD
+ 이름: BARD
+ 주소: 0x1fb389cd55ed320b2210d75fa12a5619812e0cea
+ 체인ID: 8453
+ Decimals: 18
+
+[12] BARD
+ 이름: Bard Protocol
+ 주소: 0x9e7e87608a34bc66396d53e69b9495bd8f5414df
+ 체인ID: 1
+ Decimals: 9
+
+[13] BARD
+ 이름: BARD
+ 주소: 0x704d8ef9dc0c9bdf289f60e75e1a7bc2c39bdc31
+ 체인ID: 8453
+ Decimals: 18
+
+[14] BARD
+ 이름: BARD
+ 주소: 0xb993deb0798f1eae6404da246e8d6831e620bddf
+ 체인ID: 8453
+ Decimals: 18
+
+[15] BARD
+ 이름: Bard
+ 주소: 0xe05c99fd798c09c066b87d841ecf89dac4b4856e
+ 체인ID: 1
+ Decimals: 4

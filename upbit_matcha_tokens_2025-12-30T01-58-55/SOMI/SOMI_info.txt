@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SOMI
+원본 풀네임: Somi
+검색 쿼리: SOMI Somi
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:53
+발견된 토큰 수: 15개
+전체 결과 수: 596개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SOMI
+ 이름: SomniaOFT
+ 주소: 0xa9616e5e23ec1582c2828b025becf3ef610e266f
+ 체인ID: 56
+ Decimals: 18
+
+[2] SOMI SOMI
+ 이름: SOMI SOMI
+ 주소: 0x0bdd19d02feed5138773f26a8b69695ea40ab6f5
+ 체인ID: 130
+ Decimals: 18
+
+[3] SOMI SOMI
+ 이름: SOMI SOMI
+ 주소: 0x99c46d3ee01a001331be8ab08568dcfb6522820a
+ 체인ID: 8453
+ Decimals: 18
+
+[4] SOMI
+ 이름: SomniaOFT
+ 주소: 0x47636b3188774a3e7273d85a537b9ba4ee7b2535
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SOMI
+ 이름: SomniaOFT
+ 주소: 0x1b0f6590d21dc02b92ad3a7d00f8884dc4f1aed9
+ 체인ID: 1
+ Decimals: 18
+
+[6] SOMILIANS PAY CASH FOR HOMES IN
+ 이름: SOMILIANS PAY CASH FOR HOMES IN
+ 주소: 0x5a3e353133d733d45b1f8826a0d54540a093d032
+ 체인ID: 8453
+ Decimals: 18
+
+[7] YALY
+ 이름: SOMI
+ 주소: 0x3e138920c1388e84763c1b80e871c83ec9b4e6d4
+ 체인ID: 8453
+ Decimals: 18
+
+[8] SOMI
+ 이름: SOMI
+ 주소: 0x1689dd3c4e94efdb8d3d84de2ba0da70eab0e03c
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Somi
+ 이름: Somi
+ 주소: 0xf02622e12a2252ca0edcf3fa6b40b83e4628d97a
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Somi
+ 이름: Somi
+ 주소: 0x4b385284ef42f268d7432388e2580879dbd7fc01
+ 체인ID: 8453
+ Decimals: 18
+
+[11] SOMI
+ 이름: SOMI
+ 주소: 0x0705e04c84f37464dd12514794629ef6f69f9802
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Somi
+ 이름: Somi
+ 주소: 0xf742a979e826d15a48513e97bf6b93212682cac8
+ 체인ID: 8453
+ Decimals: 18
+
+[13] somi
+ 이름: somi
+ 주소: 0x1421d066396419d5a1944c657623b60eafb8b3b8
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $SOMI
+ 이름: $SOMI
+ 주소: 0x26790eb56bcf6783c73aed25b69358aac01e6bb1
+ 체인ID: 8453
+ Decimals: 18
+
+[15] SOMI
+ 이름: SOMI
+ 주소: 0x5817d3cb36278bcfe88b8ef7830c8cc5e83ee5af
+ 체인ID: 8453
+ Decimals: 18

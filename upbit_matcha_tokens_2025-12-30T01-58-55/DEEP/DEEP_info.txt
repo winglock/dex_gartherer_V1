@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DEEP
+원본 풀네임: Deep
+검색 쿼리: DEEP Deep
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:53
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XAVA
+ 이름: Avalaunch
+ 주소: 0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4
+ 체인ID: 43114
+ Decimals: 18
+
+[2] Deep deep
+ 이름: Deep deep
+ 주소: 0x1410da263033778575913c13826553274114cc8c
+ 체인ID: 8453
+ Decimals: 18
+
+[3] VVV
+ 이름: Venice Token
+ 주소: 0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf
+ 체인ID: 8453
+ Decimals: 18
+
+[4] WOO
+ 이름: Wootrade Network
+ 주소: 0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b
+ 체인ID: 42161
+ Decimals: 18
+
+[5] KEEP
+ 이름: KEEP Token
+ 주소: 0x85eee30c52b0b379b046fb0f85f4f3dc3009afec
+ 체인ID: 1
+ Decimals: 18
+
+[6] ZEUS
+ 이름: Pepes Dog
+ 주소: 0x0f7dc5d02cc1e1f5ee47854d534d332a1081ccc8
+ 체인ID: 1
+ Decimals: 9
+
+[7] SPK
+ 이름: Spark
+ 주소: 0xc20059e0317de91738d13af027dfc4a50781b066
+ 체인ID: 1
+ Decimals: 18
+
+[8] RFL
+ 이름: Reflect
+ 주소: 0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Mubarakah
+ 이름: Mubarakah
+ 주소: 0x3199a64bc8aabdfd9a3937a346cc59c3d81d8a9a
+ 체인ID: 56
+ Decimals: 18
+
+[10] ANZ
+ 이름: Anzen Token
+ 주소: 0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ZENT
+ 이름: Zentu
+ 주소: 0x3e985250cb137fc1ff55922116934c5982d29f85
+ 체인ID: 1
+ Decimals: 18
+
+[12] WAGMIGAMES
+ 이름: WAGMI GAMES
+ 주소: 0x3b604747ad1720c01ded0455728b62c0d2f100f0
+ 체인ID: 1
+ Decimals: 18
+
+[13] NEXO
+ 이름: Nexo
+ 주소: 0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
+ 체인ID: 1
+ Decimals: 18
+
+[14] DEEPAI
+ 이름: Deep Whales
+ 주소: 0x18bc66f0c15e27179dd8e2277c1c9c056df0a14d
+ 체인ID: 1
+ Decimals: 18
+
+[15] MIN
+ 이름: MetaInside by Virtuals
+ 주소: 0xbb59167235bf3588b357de6cd98ca6f94d753c76
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ELF
+원본 풀네임: aelf
+검색 쿼리: ELF aelf
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:22
+발견된 토큰 수: 15개
+전체 결과 수: 5660개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ELF
+ 이름: ELF Token
+ 주소: 0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9
+ 체인ID: 56
+ Decimals: 18
+
+[2] ELF aelf On Base
+ 이름: ELF aelf On Base
+ 주소: 0xe3aa4bdbcc5d6ac527346375b471b3b5fa7c7d9d
+ 체인ID: 8453
+ Decimals: 18
+
+[3] ELF aelf AI Presale v2
+ 이름: ELF aelf AI Presale v2
+ 주소: 0x54487bb0b72a77f6955f78b880154f309832e2bf
+ 체인ID: 56
+ Decimals: 9
+
+[4] ELF
+ 이름: ELF Token
+ 주소: 0xbf2179859fc6d5bee9bf9158632dc51678a4100e
+ 체인ID: 1
+ Decimals: 18
+
+[5] ELF
+ 이름: ELF
+ 주소: FVcMs7GEVWmcs9beeaSxz6VhqJUGukEfTBsNGGfKpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[6] ELF
+ 이름: Easy Long Flips
+ 주소: GecduTvemAdA12kR4oGfYdBcTzk7AQsxddQnHLgqpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] ELF
+ 이름: ELF
+ 주소: 3m5krCFyhRqLibVSVKvvjZ4xWd4P3iSn4SJvpvLcqdDc
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] ELF
+ 이름: ELF
+ 주소: 0x8a13f32e2a556830f3a5e97a96ae941abfcb1d5c
+ 체인ID: 1
+ Decimals: 18
+
+[9] Elf Wallet Long
+ 이름: Elf Wallet Long
+ 주소: 0x11399518d50eb99f0844ed50e049c9ac363c1583
+ 체인ID: 130
+ Decimals: 18
+
+[10] BUDDY
+ 이름: Buddy the Elf
+ 주소: HPhBHm4bE7JZ2avKiuG4wWEQEDX3bxegtavC3adXzZMD
+ 체인ID: 1399811149
+ Decimals: 9
+
+[11] ELFAEL
+ 이름: ELF aelf Perpetual
+ 주소: 0xd0135594665dfbb6aecdd602a5fb540408e777f7
+ 체인ID: 8453
+ Decimals: 18
+
+[12] AIELF
+ 이름: Google's AI Elf
+ 주소: 3o3uBmAXMiyZKS8yZQsPq2czTgWHjYEiEjaJAUegpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] JOY
+ 이름: Google Santa Elf
+ 주소: 6bJn8kkvcQfUf3DrRKpmc3Yic5GinZ8kjQaHE86Spump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] The Land Elf Crossing Optionroom
+ 이름: The Land Elf Crossing Optionroom
+ 주소: 0x976665ee25b6794739bec77852f33e423c11c2db
+ 체인ID: 130
+ Decimals: 18
+
+[15] Elf Wallet Yi Long Ma
+ 이름: Elf Wallet Yi Long Ma
+ 주소: 0xbf7ec32fa18a38ce53f274f380b7845e516830d3
+ 체인ID: 130
+ Decimals: 18

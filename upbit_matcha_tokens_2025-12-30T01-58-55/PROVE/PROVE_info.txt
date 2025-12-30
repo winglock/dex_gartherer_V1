@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PROVE
+원본 풀네임: Prove
+검색 쿼리: PROVE Prove
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:45
+발견된 토큰 수: 15개
+전체 결과 수: 5009개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MATIC
+ 이름: Matic Token
+ 주소: 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+ 체인ID: 1
+ Decimals: 18
+
+[2] WLD
+ 이름: Worldcoin
+ 주소: 0x163f8c2467924be0ae7b5347228cabf260318753
+ 체인ID: 1
+ Decimals: 18
+
+[3] BOB
+ 이름: Build On BNB
+ 주소: 0x51363f073b1e4920fda7aa9e9d84ba97ede1560e
+ 체인ID: 56
+ Decimals: 18
+
+[4] $ZKP
+ 이름: $ZKP Token
+ 주소: 0x9a06db14d639796b25a6cec6a1bf614fd98815ec
+ 체인ID: 137
+ Decimals: 18
+
+[5] AUTOS
+ 이름: CryptoAutos
+ 주소: 0xf477ac7719e2e659001455cdda0cc8f3ad10b604
+ 체인ID: 1
+ Decimals: 18
+
+[6] MAMO
+ 이름: Mamo
+ 주소: 0x7300b37dfdfab110d83290a29dfb31b1740219fe
+ 체인ID: 8453
+ Decimals: 18
+
+[7] PROVE PROVE
+ 이름: PROVE PROVE
+ 주소: 0xce870fdf210d577fc5f368d8b9007dd69ba30c9c
+ 체인ID: 8453
+ Decimals: 18
+
+[8] PROVE PROVE
+ 이름: PROVE PROVE
+ 주소: 0xc9a2b8db3a51a0359f5fafade2ece467ef6ef596
+ 체인ID: 130
+ Decimals: 18
+
+[9] SHIRO
+ 이름: Shiro Neko
+ 주소: 0xb0ac2b5a73da0e67a8e5489ba922b3f8d582e058
+ 체인ID: 1
+ Decimals: 18
+
+[10] PROVE
+ 이름: Succinct
+ 주소: 0x6bef15d938d4e72056ac92ea4bdd0d76b1c4ad29
+ 체인ID: 1
+ Decimals: 18
+
+[11] RLUSD
+ 이름: RLUSD
+ 주소: 0x8292bb45bf1ee4d140127049757c2e0ff06317ed
+ 체인ID: 1
+ Decimals: 18
+
+[12] FLIGHT
+ 이름: FLIGHT COIN
+ 주소: 0x069b5b0a1ea30a08f47ff9efd23abd0cb56f5689
+ 체인ID: 56
+ Decimals: 4
+
+[13] KISHU
+ 이름: Kishu Inu
+ 주소: 0xa2b4c0af19cc16a6cfacce81f192b024d625817d
+ 체인ID: 1
+ Decimals: 9
+
+[14] CRO
+ 이름: CRO
+ 주소: 0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b
+ 체인ID: 1
+ Decimals: 8
+
+[15] DOG
+ 이름: The Doge NFT
+ 주소: 0xafb89a09d82fbde58f18ac6437b3fc81724e4df6
+ 체인ID: 8453
+ Decimals: 18

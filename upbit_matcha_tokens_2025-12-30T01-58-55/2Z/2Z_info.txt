@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: 2Z
+원본 풀네임: DoubleZero
+검색 쿼리: 2Z DoubleZero
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:48
+발견된 토큰 수: 15개
+전체 결과 수: 876개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] 2Z
+ 이름: DoubleZero
+ 주소: J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd
+ 체인ID: 1399811149
+ Decimals: 8
+
+[2] 2Z
+ 이름: 2Z
+ 주소: 0x654a5222f001c8acfd093c171f27ec56e6a598a5
+ 체인ID: 8453
+ Decimals: 18
+
+[3] 2Z
+ 이름: DoubleZero
+ 주소: 0x334e1cf485c72a0ad433fe3c90cbdba55178e059
+ 체인ID: 1
+ Decimals: 18
+
+[4] 2Z
+ 이름: 2Z
+ 주소: 0xcb52aeb0456c5ba3bd61273fc64ff15162e87a15
+ 체인ID: 8453
+ Decimals: 18
+
+[5] 2z
+ 이름: 2z
+ 주소: 0x8767c5120dace156119ebd605e1770e7561232f4
+ 체인ID: 8453
+ Decimals: 18
+
+[6] 2Z
+ 이름: 2Z
+ 주소: 0x88bd8e20d6f49f05190a7850c3e48dfacdf8c0d8
+ 체인ID: 8453
+ Decimals: 18
+
+[7] 2z
+ 이름: 2z
+ 주소: 0xc90c1f1d873af5dd0d0cb97fce199be4f0cf761e
+ 체인ID: 8453
+ Decimals: 18
+
+[8] DoubleZero (2Z)
+ 이름: DoubleZero (2Z)
+ 주소: 0xb8465f9dbe4ad6cd00b3aff33b50ae48622d907f
+ 체인ID: 8453
+ Decimals: 18
+
+[9] 2Z🔥
+ 이름: 2Z🔥
+ 주소: 0x9b5484c45ce211eabf750ccf6b1be9df452f90cf
+ 체인ID: 8453
+ Decimals: 18
+
+[10] YEAR
+ 이름: 2027:2Z
+ 주소: 0xc0f7a4314a9505c6341b455223258f9bd414b0c4
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Spin
+ 이름: 623-2Z / LHT23
+ 주소: 0xc398d237543944b477c3ffa5f9f20e43b607c4f6
+ 체인ID: 8453
+ Decimals: 18
+
+[12] 2Z
+ 이름: 2Z
+ 주소: 0x989bd054e2a25adc2f8b4352e4bef14379803862
+ 체인ID: 8453
+ Decimals: 18
+
+[13] 2Z
+ 이름: Short To Double Zero
+ 주소: L7DLAXuSgopFMQPGefuNNz9xXUMA1tgc7HM8YMppump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] DBinance Alpha Update• DoubleZero (2Z) Oct 2• Openverse Networ
+ 이름: DBinance Alpha Update• DoubleZero (2Z) Oct 2• Openverse Networ
+ 주소: 0x64abe75b474bb46a9adfe9af7dfdcdd7b4e6c5f3
+ 체인ID: 8453
+ Decimals: 18
+
+[15] @Landmark sec letter rewrites crypto future with doublezero 2z br
+ 이름: @Landmark sec letter rewrites crypto future with doublezero 2z br
+ 주소: 0x30e9c6758c5c46fae721b126fa1acdd498ad4277
+ 체인ID: 8453
+ Decimals: 18

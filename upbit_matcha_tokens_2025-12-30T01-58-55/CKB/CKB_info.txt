@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CKB
+원본 풀네임: Nervos Network
+검색 쿼리: CKB Nervos Network
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:12
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[2] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[3] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[4] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[5] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[6] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[7] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[8] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[9] LINK
+ 이름: ChainLink Token
+ 주소: 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd
+ 체인ID: 56
+ Decimals: 18
+
+[10] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+ 체인ID: 1
+ Decimals: 8
+
+[11] LINK
+ 이름: ChainLink Token
+ 주소: 0xf97f4df75117a78c1a5a0dbb814af92458539fb4
+ 체인ID: 42161
+ Decimals: 18
+
+[12] WBTC
+ 이름: (PoS) Wrapped BTC
+ 주소: 0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6
+ 체인ID: 137
+ Decimals: 8
+
+[13] TWT
+ 이름: Trust Wallet
+ 주소: 0x4b0f1812e5df2a09796481ff14017e6005508003
+ 체인ID: 56
+ Decimals: 18
+
+[14] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 130
+ Decimals: 18
+
+[15] ARB
+ 이름: Arbitrum
+ 주소: 0x912ce59144191c1204e64559fe8253a0e49e6548
+ 체인ID: 42161
+ Decimals: 18

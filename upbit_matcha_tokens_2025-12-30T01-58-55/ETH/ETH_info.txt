@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ETH
+원본 풀네임: Ethereum
+검색 쿼리: ETH Ethereum
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:29
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[3] WETH
+ 이름: Wrapped Ether
+ 주소: 0x82af49447d8a07e3bd95bd0d56f35241523fbab1
+ 체인ID: 42161
+ Decimals: 18
+
+[4] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[5] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[6] WETH
+ 이름: Wrapped Ether
+ 주소: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+ 체인ID: 1
+ Decimals: 18
+
+[7] WETH
+ 이름: Wrapped Ether
+ 주소: 0xee8c0e9f1bffb4eb878d8f15f368a02a35481242
+ 체인ID: 143
+ Decimals: 18
+
+[8] WETH
+ 이름: Wrapped Ether
+ 주소: 0x7ceb23fd6bc0add59e62ac25578270cff1b9f619
+ 체인ID: 137
+ Decimals: 18
+
+[9] ETH
+ 이름: Ethereum Token
+ 주소: 0x2170ed0880ac9a755fd29b2688956bd959f933f8
+ 체인ID: 56
+ Decimals: 18
+
+[10] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 130
+ Decimals: 18
+
+[11] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[12] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 59144
+ Decimals: 18
+
+[13] WETH
+ 이름: Wrapped Ether
+ 주소: 0x4200000000000000000000000000000000000006
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[15] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18

@@ -1,0 +1,303 @@
+{
+  "originalSymbol": "WAL",
+  "originalFullName": "Walrus",
+  "searchedQuery": "WAL Walrus",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 2837,
+  "tokens": [
+    {
+      "address": "0x00892c19dc99bbbda103f1d6f2195797821e3f22",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "wal wal ~!",
+      "symbol": "wal wal ~!",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x00892c19dc99bbbda103f1d6f2195797821e3f22"
+    },
+    {
+      "address": "0xe6d1afea0b76c8f51024683dd27fa446ddaf34b6",
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "Frozen Walrus Share",
+      "symbol": "WSHARE",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/43114/0xe6d1afea0b76c8f51024683dd27fa446ddaf34b6"
+    },
+    {
+      "address": "0x638f357e36e25bd01b18e4724fd170ae25dea981",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$WAL",
+      "symbol": "$WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x638f357e36e25bd01b18e4724fd170ae25dea981"
+    },
+    {
+      "address": "0x99083eadf2d3c346e73265c98d78795b1ddccb31",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wal",
+      "symbol": "Wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x99083eadf2d3c346e73265c98d78795b1ddccb31"
+    },
+    {
+      "address": "0x40f1e6b2232cb320cb83cc5f841629a4ee6e5df6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wal",
+      "symbol": "Wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x40f1e6b2232cb320cb83cc5f841629a4ee6e5df6"
+    },
+    {
+      "address": "0x4b182ace649e71e3c860824a0b0579c5a01ccd7b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wal",
+      "symbol": "Wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x4b182ace649e71e3c860824a0b0579c5a01ccd7b"
+    },
+    {
+      "address": "0x74e4b859f207edda5f3bb0cac4f1934d0e73eae4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$WAL",
+      "symbol": "$WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x74e4b859f207edda5f3bb0cac4f1934d0e73eae4"
+    },
+    {
+      "address": "0xc8d6dac5dd47dbc53ad961621fb05edfc7999538",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$wal",
+      "symbol": "$wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xc8d6dac5dd47dbc53ad961621fb05edfc7999538"
+    },
+    {
+      "address": "0xedfa88efdb78e76ab6b8d7d88d5275e341e1f90f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "wal",
+      "symbol": "wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xedfa88efdb78e76ab6b8d7d88d5275e341e1f90f"
+    },
+    {
+      "address": "0x05357dcdae031944c768b8d45ef62fe3a635c0db",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$WAL",
+      "symbol": "$WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x05357dcdae031944c768b8d45ef62fe3a635c0db"
+    },
+    {
+      "address": "0x45fe342316647243259bae6269fd2590cf3aa6de",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "WAL",
+      "symbol": "WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x45fe342316647243259bae6269fd2590cf3aa6de"
+    },
+    {
+      "address": "0xd7ebc61098c0fca71dc9029347716aa91e0dfc81",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wal",
+      "symbol": "Wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd7ebc61098c0fca71dc9029347716aa91e0dfc81"
+    },
+    {
+      "address": "0xff3d6405ef9fde870681a364b1bfc98a85313b1f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "wal",
+      "symbol": "wal",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xff3d6405ef9fde870681a364b1bfc98a85313b1f"
+    },
+    {
+      "address": "0x8012f2eeafc528ee60215a241a93d90b900d056b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "WAL",
+      "symbol": "WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8012f2eeafc528ee60215a241a93d90b900d056b"
+    },
+    {
+      "address": "0x00daecc0741cdfbebe06db1090d44c2280562547",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "WAL",
+      "symbol": "WAL",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x00daecc0741cdfbebe06db1090d44c2280562547"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:34.773Z",
+  "error": null
+}

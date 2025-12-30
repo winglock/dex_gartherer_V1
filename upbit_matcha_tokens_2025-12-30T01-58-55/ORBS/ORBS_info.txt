@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ORBS
+원본 풀네임: Orbs
+검색 쿼리: ORBS Orbs
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:25
+발견된 토큰 수: 15개
+전체 결과 수: 1072개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WLD
+ 이름: Worldcoin
+ 주소: 0x163f8c2467924be0ae7b5347228cabf260318753
+ 체인ID: 1
+ Decimals: 18
+
+[2] Orbs ORBS
+ 이름: Orbs ORBS
+ 주소: 0x8f4535bdc77c29fbb49782f4ea78d7d03edbabfe
+ 체인ID: 130
+ Decimals: 18
+
+[3] Orbs ORBS
+ 이름: Orbs ORBS
+ 주소: 0x32fd649ae6a7314915513f026294e77ea43ec980
+ 체인ID: 130
+ Decimals: 18
+
+[4] ORBS
+ 이름: Orbs
+ 주소: 0x43a8cab15d06d3a5fe5854d714c37e7e9246f170
+ 체인ID: 56
+ Decimals: 18
+
+[5] Orbs ORBS
+ 이름: Orbs ORBS
+ 주소: 0xea03507092c7333814a51da69d3dfe86f9cad87a
+ 체인ID: 130
+ Decimals: 18
+
+[6] Orbs ORBS
+ 이름: Orbs ORBS 2026
+ 주소: 0x76d2d09fbf020c7e7e470f5866b140afe44ce2c7
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Orbs ORBS Reserve
+ 이름: Orbs ORBS Reserve
+ 주소: 0x5d6dd28a266ecc05670d045cbbcd46e6ed6ae796
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Orbs ORBS - Free
+ 이름: Orbs ORBS - Free
+ 주소: 0x1f14e7e5d1ae53c5edf9620dc14c3c97bd15d6e3
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Trump - Orbs ORBS
+ 이름: Trump - Orbs ORBS
+ 주소: 0x3979964cc3d9982279deb91c15e5808ca2755994
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Orbs ORBS V3
+ 이름: Orbs ORBS V3
+ 주소: 0x70fe11aff16f3b9f36b271d815e8ad30f13b6665
+ 체인ID: 130
+ Decimals: 18
+
+[11] Orbs ORBS AI
+ 이름: Orbs ORBS AI
+ 주소: 0x311281a1027dd8ab8170368d78117db5d115cf18
+ 체인ID: 130
+ Decimals: 18
+
+[12] Orbs ORBS V2
+ 이름: Orbs ORBS V2
+ 주소: 0x4b3c59d0a216c4cdfd607886a2832e974a7b1f5d
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Orbs ORBS Red
+ 이름: Orbs ORBS Red
+ 주소: 0x769b3bcdcff2609a9e44bef078bddd6a359da198
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Orbs ORBS - AI
+ 이름: Orbs ORBS - AI
+ 주소: 0x1bcbfc6d53c445b551bd5699a2925664fc5a1769
+ 체인ID: 8453
+ Decimals: 9
+
+[15] Orbs ORBS V2
+ 이름: Orbs ORBS V2
+ 주소: 0x1bf69c82d221db6d2e02cf98336c085bc65ca763
+ 체인ID: 130
+ Decimals: 18

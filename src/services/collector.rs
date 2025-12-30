@@ -93,15 +93,36 @@ impl PoolCollector {
                 async move {
                     let _permit = semaphore.acquire().await.unwrap();
                     
+                    // 🔥 디버그: 토큰 처리 시작
+                    tracing::debug!("\n🔍 처리 중: {}", symbol);
+                    
                     for source in sources.iter() {
                         match tokio::time::timeout(
                             Duration::from_secs(10),
                             source.fetch_pools(&symbol)
                         ).await {
                             Ok(Ok(pools)) => {
+                                // 🔥 디버그: 소스별 결과
+                                tracing::info!("  ✅ {}: {}에서 {}개 풀 수신", 
+                                    symbol, source.name(), pools.len());
+                                
+                                let before_filter = pools.len();
                                 let filtered: Vec<_> = pools.into_iter()
-                                    .filter(|p| filter.is_valid(p))
+                                    .filter(|p| {
+                                        let valid = filter.is_valid(p);
+                                        // 🔥 디버그: 필터링된 풀 상세
+                                        if !valid {
+                                            tracing::debug!("    ⏭️ 필터됨: {} @ {} (가격=${:.4}, LP=${:.0}, Vol=${:.0})",
+                                                p.symbol, p.dex, p.price_usd, p.lp_reserve_usd, p.volume_24h);
+                                        }
+                                        valid
+                                    })
                                     .collect();
+                                
+                                let after_filter = filtered.len();
+                                // 🔥 디버그: 필터 결과 요약
+                                tracing::info!("    → 필터: {}/{} 통과 ({}개 제거)", 
+                                    after_filter, before_filter, before_filter - after_filter);
                                 
                                 for pool in filtered {
                                     let key = format!("{}:{}:{}", pool.source, pool.chain, pool.pool_address);
@@ -110,21 +131,30 @@ impl PoolCollector {
                                 }
                                 successful.fetch_add(1, Ordering::Relaxed);
                             }
-                            Ok(Err(_)) | Err(_) => {
+                            Ok(Err(e)) => {
+                                // 🔥 디버그: API 에러
+                                tracing::warn!("  ❌ {}: {} 실패 - {}", 
+                                    symbol, source.name(), e);
+                                failed.fetch_add(1, Ordering::Relaxed);
+                            }
+                            Err(_) => {
+                                // 🔥 디버그: 타임아웃
+                                tracing::warn!("  ⏱️ {}: {} 타임아웃 (10초)", 
+                                    symbol, source.name());
                                 failed.fetch_add(1, Ordering::Relaxed);
                             }
                         }
                     }
 
                     pb.inc(1);
-                    pb.set_message(format!("{}: {} pools", symbol, total_pools.load(Ordering::Relaxed)));
+                    pb.set_message(format!("{}: {}개 풀", symbol, total_pools.load(Ordering::Relaxed)));
                 }
             })
             .buffer_unordered(5)
             .collect::<Vec<_>>()
             .await;
 
-        pb_total.finish_with_message(format!("✓ {} pools collected", total_pools.load(Ordering::Relaxed)));
+        pb_total.finish_with_message(format!("✓ {}개 풀 수집 완료", total_pools.load(Ordering::Relaxed)));
 
         CollectorResult {
             total: total_pools.load(Ordering::Relaxed),

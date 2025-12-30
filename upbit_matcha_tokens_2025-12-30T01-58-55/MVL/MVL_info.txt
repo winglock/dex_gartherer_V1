@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MVL
+원본 풀네임: MVL
+검색 쿼리: MVL MVL
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:52
+발견된 토큰 수: 15개
+전체 결과 수: 760개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MVL MVL
+ 이름: MVL MVL
+ 주소: 0xd3873dc4762480d5803f58d4296b26546eaa7489
+ 체인ID: 130
+ Decimals: 18
+
+[2] MVL MVL
+ 이름: MVL MVL
+ 주소: 0x47017fc7bbf490fd94ef4c31eb975521d1799c43
+ 체인ID: 130
+ Decimals: 18
+
+[3] MVL MVL
+ 이름: MVL MVL
+ 주소: 0x2f5ecc1afea5a13f76169160221989d6d8515f2a
+ 체인ID: 130
+ Decimals: 18
+
+[4] MVL MVL - AI
+ 이름: MVL MVL - AI
+ 주소: 0xc841bb9756433ae33c36fce63b4c4a121b14f44b
+ 체인ID: 8453
+ Decimals: 9
+
+[5] MVL MVL Unichain
+ 이름: MVL MVL Unichain
+ 주소: 0xb40c0446ca63ad1f49f82b1c34e7499bc0cbedce
+ 체인ID: 130
+ Decimals: 18
+
+[6] MVL MVL Reserve
+ 이름: MVL MVL Reserve
+ 주소: 0x6887be56362e544e23ec3f9e19edd6dadd6dc450
+ 체인ID: 8453
+ Decimals: 18
+
+[7] MVL MVL AI
+ 이름: MVL MVL AI
+ 주소: 0x0438217a4457c778d86b50e773f1bd95112f5d8b
+ 체인ID: 8453
+ Decimals: 18
+
+[8] MVL MVL AI
+ 이름: MVL MVL AI
+ 주소: 0x6aecd270c07ad642efcdd62027d92cf2b993617c
+ 체인ID: 130
+ Decimals: 18
+
+[9] MVL MVL V2
+ 이름: MVL MVL V2
+ 주소: 0x8b61bf3aa17cdea2d4ce5760be027140da7f62a0
+ 체인ID: 130
+ Decimals: 18
+
+[10] MVL MVL 20
+ 이름: MVL MVL 2026
+ 주소: 0xe4a96278d906e8fd6fe478e221b7c70b8dbe47ef
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Trump - MVL MVL
+ 이름: Trump - MVL MVL
+ 주소: 0x050bf61c6ee3d7905088bfe8a83de621b398b226
+ 체인ID: 8453
+ Decimals: 9
+
+[12] MVL MVL Red
+ 이름: MVL MVL Red
+ 주소: 0x935602512fc758e0a066d62eaf629345b4549f50
+ 체인ID: 8453
+ Decimals: 9
+
+[13] MVL MVL - Free
+ 이름: MVL MVL - Free
+ 주소: 0x3e11a66da976b26f048f87adcadd1981e1792e9f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MVL MVL Mobile
+ 이름: MVL MVL Mobile
+ 주소: 0x7f342b2ac473052980074993b16e5d79019362c9
+ 체인ID: 8453
+ Decimals: 9
+
+[15] MVL MVL V3
+ 이름: MVL MVL V3
+ 주소: 0x0c524719b5f65600d5396365b481edf51b1c2bf6
+ 체인ID: 8453
+ Decimals: 18

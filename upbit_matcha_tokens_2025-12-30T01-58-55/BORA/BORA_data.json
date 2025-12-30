@@ -1,0 +1,297 @@
+{
+  "originalSymbol": "BORA",
+  "originalFullName": "BORA",
+  "searchedQuery": "BORA BORA",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 2464,
+  "tokens": [
+    {
+      "address": "0x10a0ad7b105bc3648b93f81c810b7e6c9e281dfb",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x10a0ad7b105bc3648b93f81c810b7e6c9e281dfb"
+    },
+    {
+      "address": "0xea889f9da7df3e89279947cd8ee15f2819f7a8bd",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xea889f9da7df3e89279947cd8ee15f2819f7a8bd"
+    },
+    {
+      "address": "0xa6d6fe95efc00c4f7b33d0c6eeeffeb365602bf8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora",
+      "symbol": "Bora bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xa6d6fe95efc00c4f7b33d0c6eeeffeb365602bf8"
+    },
+    {
+      "address": "0x96b3d6d19dcbafd56b7fefd6e6abb3494fbf691d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora",
+      "symbol": "Bora bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x96b3d6d19dcbafd56b7fefd6e6abb3494fbf691d"
+    },
+    {
+      "address": "0x81446345a2d9a4ac2a776816f1d0fdbbd28139a8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x81446345a2d9a4ac2a776816f1d0fdbbd28139a8"
+    },
+    {
+      "address": "0x63e2a9538a39e7dba72cebf2908cc424c3ae1f15",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora-Bora",
+      "symbol": "Bora-Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x63e2a9538a39e7dba72cebf2908cc424c3ae1f15"
+    },
+    {
+      "address": "0x91789d489a275637f839af3e80b064cae5985e5a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora!!!",
+      "symbol": "Bora bora!!!",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x91789d489a275637f839af3e80b064cae5985e5a"
+    },
+    {
+      "address": "0x76bf90d02aad6b3400c7b19ad1186125299c1176",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora",
+      "symbol": "Bora bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x76bf90d02aad6b3400c7b19ad1186125299c1176"
+    },
+    {
+      "address": "0x0b1dec24860566bef9d66370ae89f2889e5e4b4b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0b1dec24860566bef9d66370ae89f2889e5e4b4b"
+    },
+    {
+      "address": "0xb1cf1fcadc3d08a904c3b6b0e7b5c4d010193213",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "bora bora",
+      "symbol": "bora bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb1cf1fcadc3d08a904c3b6b0e7b5c4d010193213"
+    },
+    {
+      "address": "0x315e9a0a7b0647d9b01b9f05b35d204df9786bfd",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora",
+      "symbol": "Bora bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x315e9a0a7b0647d9b01b9f05b35d204df9786bfd"
+    },
+    {
+      "address": "0x211fb4db37a6d36b8cc0049a66ec4be852e8e1ef",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x211fb4db37a6d36b8cc0049a66ec4be852e8e1ef"
+    },
+    {
+      "address": "0x9193dc04021eaa112b4eacf880885941b3a11c7f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora Bora",
+      "symbol": "Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9193dc04021eaa112b4eacf880885941b3a11c7f"
+    },
+    {
+      "address": "0xcc714d349480b95625183ae923ef3fdb783b932a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bora bora 🌴",
+      "symbol": "Bora bora 🌴",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xcc714d349480b95625183ae923ef3fdb783b932a"
+    },
+    {
+      "address": "0x83f9ceb9fea6c8fdd6a8119dced10913b54a26ac",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Westin Bora Bora",
+      "symbol": "Westin Bora Bora",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x83f9ceb9fea6c8fdd6a8119dced10913b54a26ac"
+    }
+  ],
+  "searchTime": "2025-12-30T01:56:37.112Z",
+  "error": null
+}

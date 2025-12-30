@@ -1,15 +1,15 @@
 [
   {
-    "symbol": "flow",
+    "symbol": "Flow",
     "chain": "solana",
-    "dex": "pumpswap",
-    "pool_address": "9WEiahk4KxZ3HGpPijbtBzcZqKWEerKc2dA78C44BVH2",
+    "dex": "pumpfun",
+    "pool_address": "837HoUZ6URTqxTLZVmjvWB3vMYco25cn8YiKzEW7LxKp",
     "pair": "FLOW/USD",
-    "price_usd": 0.0000414,
-    "lp_reserve_usd": 29167.26,
-    "volume_24h": 1342.95,
+    "price_usd": 3.564e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 45368.1,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023838
+    "timestamp": 1767049460
   }
 ]

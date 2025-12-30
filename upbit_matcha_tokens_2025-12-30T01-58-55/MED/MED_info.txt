@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MED
+원본 풀네임: MediBloc
+검색 쿼리: MED MediBloc
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:23
+발견된 토큰 수: 15개
+전체 결과 수: 1442개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MED MediBloc On Base
+ 이름: MED MediBloc On Base
+ 주소: 0xc14190266170524109c4c40db5ca05339c3c864b
+ 체인ID: 8453
+ Decimals: 18
+
+[2] MED MediBloc AI Presale v2
+ 이름: MED MediBloc AI Presale v2
+ 주소: 0x11a7d418d8528fbc7ae058e1d15f8d5606472f4c
+ 체인ID: 56
+ Decimals: 9
+
+[3] PRMEDMC
+ 이름: Med Mc
+ 주소: 0xdbfb751939dd4dcf3f0573d1e8890bfd3d1fc38d
+ 체인ID: 8453
+ Decimals: 18
+
+[4] MED
+ 이름: MED Index
+ 주소: 0xde16715d5314113b3bbf8614df36ebe096a315b7
+ 체인ID: 1
+ Decimals: 18
+
+[5] MED
+ 이름: MED Index
+ 주소: 0x0b77590cf21a5b6541947ff4d9b3feba40872b0b
+ 체인ID: 137
+ Decimals: 18
+
+[6] MEDMED
+ 이름: MED MediBloc Perpetual
+ 주소: 0x28c4e33a44dc7de07c71afc819e22567ac393027
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ₵
+ 이름: Med. Cannabis Note
+ 주소: 0x7f77a0cc3cace8c58cce9d153c070f312d1a1088
+ 체인ID: 1
+ Decimals: 4
+
+[8] Med
+ 이름: Med
+ 주소: 0xad9d6472a910ea6602f1c863bc941aceca9fa08f
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Med
+ 이름: Med
+ 주소: 0xddb470d709299f18e97e224af1edb985b2b41200
+ 체인ID: 8453
+ Decimals: 18
+
+[10] MED
+ 이름: MED
+ 주소: 0xd732950ef1fb72145e9652576a9135879db9a4b8
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Med
+ 이름: Med
+ 주소: 0x47d33c21112b5e557d68423d63b70726b7ad1144
+ 체인ID: 8453
+ Decimals: 18
+
+[12] MED
+ 이름: MED
+ 주소: 0x81fff509bd572e2db024f54d5bcf07ad9bbf36ae
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Med
+ 이름: Med
+ 주소: 0xad289d971e895cd0dc7af8544d3b48ab83146b50
+ 체인ID: 8453
+ Decimals: 18
+
+[14] med
+ 이름: med
+ 주소: 0xe66e83eb22c24e246fb0b9157d4b3f981d2fb572
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Med
+ 이름: Med
+ 주소: 0x8bf50a22d4b21381a747d50d96a9729f25f2ef8d
+ 체인ID: 8453
+ Decimals: 18

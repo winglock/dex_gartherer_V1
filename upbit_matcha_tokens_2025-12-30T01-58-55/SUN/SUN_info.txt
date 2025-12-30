@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SUN
+원본 풀네임: SUN
+검색 쿼리: SUN SUN
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:49
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] GEOD
+ 이름: Geodnet Token
+ 주소: 0xac0f66379a6d7801d7726d5a943356a172549adb
+ 체인ID: 137
+ Decimals: 18
+
+[2] Sun sun sun
+ 이름: Sun sun sun
+ 주소: 0x8500227e0cfcbe94d95496a82f6099d3302fdf3c
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Sun sun sun
+ 이름: Sun sun sun
+ 주소: 0x8435341a4b22447898e36b2d10479962939f2991
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Sun Sun
+ 이름: Sun Sun
+ 주소: 0x87fae3d9af7a81eb8dcb6a742481d349629eaba2
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SUN SUN
+ 이름: SUN SUN
+ 주소: 0x8c680c459af814d103e4e89db0f6977ff6296a99
+ 체인ID: 8453
+ Decimals: 18
+
+[6] SUN SUN
+ 이름: SUN SUN
+ 주소: 0x1b088fdd23a49e0e9fc5d7240e0f3685a3552663
+ 체인ID: 8453
+ Decimals: 18
+
+[7] sun sun sun ily..
+ 이름: sun sun sun ily..
+ 주소: 0x7d88f41b1097998ac8d4b21f0c4c8bbd1948a0d1
+ 체인ID: 8453
+ Decimals: 18
+
+[8] usn sun sun
+ 이름: usn sun sun
+ 주소: 0x532ee25f6c64a13671462b0b93c17488038505b8
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Sun sun down
+ 이름: Sun sun down
+ 주소: 0x0fcfd48b4dbba8323b44a97f62e6e6554ef90ca6
+ 체인ID: 8453
+ Decimals: 18
+
+[10] @SUN (SUN) Lists on Kraken With a $90,000 Reef Program Airdrop Un
+ 이름: @SUN (SUN) Lists on Kraken With a $90,000 Reef Program Airdrop Un
+ 주소: 0x1749fd4e7e1be9abaf171dc269317999c998f59b
+ 체인ID: 8453
+ Decimals: 18
+
+[11] FLOWER
+ 이름: Flower
+ 주소: 0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380
+ 체인ID: 8453
+ Decimals: 18
+
+[12] OMIKAMI
+ 이름: AMATERASU OMIKAMI
+ 주소: 0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3
+ 체인ID: 1
+ Decimals: 9
+
+[13] Edge  SUN SUN
+ 이름: Edge  SUN SUN
+ 주소: 0x947f747b5a3990d66fef5b1c8d4f807314626cb9
+ 체인ID: 8453
+ Decimals: 9
+
+[14] SUN Sun New On Base
+ 이름: SUN Sun New On Base
+ 주소: 0xcbbe76231da8c1651fee146ca996bbd920239e5a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] SUN Sun Ne
+ 이름: SUN Sun New On Binance Alpha
+ 주소: 0x71f06f4644c0008d8c49316fce58815e8f4527a0
+ 체인ID: 56
+ Decimals: 18

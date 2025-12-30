@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZORA
+원본 풀네임: Zora
+검색 쿼리: ZORA Zora
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:39
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ZORA
+ 이름: Zora
+ 주소: 0x1111111111166b7fe7bd91427724b487980afc69
+ 체인ID: 8453
+ Decimals: 18
+
+[2] jesse
+ 이름: jesse
+ 주소: 0x50f88fe97f72cd3e75b9eb4f747f59bceba80d59
+ 체인ID: 8453
+ Decimals: 18
+
+[3] dockerzxbt
+ 이름: dockerzxbt
+ 주소: 0x56f8ad6112c2db9f9848243531b277ce1c3be30c
+ 체인ID: 8453
+ Decimals: 18
+
+[4] lilmiquela.base.eth
+ 이름: lilmiquela.base.eth
+ 주소: 0xf5a346ab106042d19743532162c2b07d22414557
+ 체인ID: 8453
+ Decimals: 18
+
+[5] coinage
+ 이름: coinage
+ 주소: 0xf4d7fd100b5b03e51261a2e6a673632ef2c68896
+ 체인ID: 8453
+ Decimals: 18
+
+[6] 'zora zora zora zora zora zora zora zora
+ 이름: (zora zora zora zora zora zora zora zora
+ 주소: 0xbdb551e5e676d75a3ce84310d85423b7bf256d33
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Zora Zora Zora Zora Zora
+ 이름: Zora Zora Zora Zora Zora
+ 주소: 0x23bc66678b7461a5b98305c957b6449399279252
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Zora zora zora zora
+ 이름: Zora zora zora zora
+ 주소: 0xd2fea9a34f82ba02fad825c213a95fd937d8a70b
+ 체인ID: 8453
+ Decimals: 18
+
+[9] zora zora zora zora zora
+ 이름: zora zora zora zora zora
+ 주소: 0x1ceb27c6cbeb7ddf1749ab981c9fce76ace607bd
+ 체인ID: 8453
+ Decimals: 18
+
+[10] QZora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora ONLY (ZORA)
+ 이름: QZora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora Zora ONLY (ZORA)
+ 주소: 0xb9cf7b4ca1d4756185c348c8c04758337794e90f
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ZORA ZORA ZORA ZORA
+ 이름: ZORA ZORA ZORA ZORA
+ 주소: 0xb1b968b79b1224b71edd4d06951f68e7add49076
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Zora Zora Zora
+ 이름: Zora Zora Zora
+ 주소: 0xbfa3467bd80a39b9c2aea58e5ef38bdc6a6e344e
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Zora Zora Zora
+ 이름: Zora Zora Zora
+ 주소: 0xb593a42de9ed84386289730aefc9df338cde9db7
+ 체인ID: 8453
+ Decimals: 18
+
+[14] zora zora zora
+ 이름: zora zora zora
+ 주소: 0xe9cfb6ebaee55e28d7d39c6c305b6c67ba1d4e4b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Zora zora zora
+ 이름: Zora zora zora
+ 주소: 0xa426d3c982896f0e9e7b9c41bb4f0e6c80f6d62a
+ 체인ID: 8453
+ Decimals: 18

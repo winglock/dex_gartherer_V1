@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WLFI
+원본 풀네임: World Liberty Financial
+검색 쿼리: WLFI World Liberty Financial
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:59
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[4] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[5] USD1
+ 이름: World Liberty Financial USD
+ 주소: 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d
+ 체인ID: 56
+ Decimals: 18
+
+[6] USD1
+ 이름: World Liberty Financial USD
+ 주소: 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d
+ 체인ID: 1
+ Decimals: 18
+
+[7] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[8] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[9] LINK
+ 이름: ChainLink Token
+ 주소: 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd
+ 체인ID: 56
+ Decimals: 18
+
+[10] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6
+
+[11] LINK
+ 이름: ChainLink Token
+ 주소: 0xf97f4df75117a78c1a5a0dbb814af92458539fb4
+ 체인ID: 42161
+ Decimals: 18
+
+[12] LINK
+ 이름: ChainLink Token
+ 주소: 0x514910771af9ca656af840dff83e8264ecf986ca
+ 체인ID: 1
+ Decimals: 18
+
+[13] LINK
+ 이름: ChainLink Token
+ 주소: 0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39
+ 체인ID: 137
+ Decimals: 18
+
+[14] SHIB
+ 이름: SHIBA INU
+ 주소: 0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+ 체인ID: 1
+ Decimals: 18
+
+[15] WLFI
+ 이름: World Liberty Financial
+ 주소: 0xda5e1988097297dcdc1f90d4dfe7909e847cbef6
+ 체인ID: 1
+ Decimals: 18

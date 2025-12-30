@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: GRS
+원본 풀네임: Groestlcoin
+검색 쿼리: GRS Groestlcoin
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:09
+발견된 토큰 수: 15개
+전체 결과 수: 243개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Nvidia Inu Groestlcoin
+ 이름: Nvidia Inu Groestlcoin
+ 주소: 0x8b2b2b02bd69676f0122acf864061a874ebe0b53
+ 체인ID: 130
+ Decimals: 18
+
+[2] Groestlcoin GRS V2
+ 이름: Groestlcoin GRS V2
+ 주소: 0x990ccaf6742d5ada159f7952a1d1cf246bd9c13f
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Groestlcoin Moonsama
+ 이름: Groestlcoin Moonsama
+ 주소: 0xf6ab304065e1dba023a4baf0e43da8e8dbeaf665
+ 체인ID: 130
+ Decimals: 18
+
+[4] TRUMP2024 Groestlcoin
+ 이름: TRUMP2024 Groestlcoin
+ 주소: 0x0f6cb4e9993be6df5b6f70577c6a1bd78a8a66b6
+ 체인ID: 130
+ Decimals: 18
+
+[5] !Strategic Groestlcoin GRS Reserve
+ 이름: !Strategic Groestlcoin GRS Reserve
+ 주소: 0xcfa7422bd64224c8a89ec9bc1a74269aabb2b694
+ 체인ID: 8453
+ Decimals: 9
+
+[6] Groestlcoin
+ 이름: Groestlcoin
+ 주소: 0xc5e898978789d51a5d43dee33b229a4cc9e3ce5b
+ 체인ID: 8453
+ Decimals: 9
+
+[7] Groestlcoin EGG SOL
+ 이름: Groestlcoin EGG SOL
+ 주소: 0x37a43b836078a4891e754c5bbf487f6140722ff5
+ 체인ID: 130
+ Decimals: 18
+
+[8] GMT Groestlcoin
+ 이름: GMT Groestlcoin
+ 주소: 0xb6536341b7f5178181278a0240582c8697dc3c68
+ 체인ID: 130
+ Decimals: 18
+
+[9] Mars Groestlcoin
+ 이름: Mars Groestlcoin
+ 주소: 0x0469f7469007b2146373e6705ed8a95acd61c546
+ 체인ID: 130
+ Decimals: 18
+
+[10] Groestlcoin Donke
+ 이름: Groestlcoin Donke
+ 주소: 0x75ada11b566934ed455eb7166df9ef1e8ddb2163
+ 체인ID: 130
+ Decimals: 18
+
+[11] Groestlcoin GRS V3
+ 이름: Groestlcoin GRS V3
+ 주소: 0xd4c34a439abdbdbd1b4cf54d91a760884b105061
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Groestlcoin Halloween
+ 이름: Groestlcoin Halloween
+ 주소: 0x0c78498ada9948c99cd81ac34d4bc18e9bda81d1
+ 체인ID: 130
+ Decimals: 18
+
+[13] Sdt Groestlcoin
+ 이름: Sdt Groestlcoin
+ 주소: 0x0ff524c1a9630dba8a93f3fc4c912e0c2a3adde9
+ 체인ID: 130
+ Decimals: 18
+
+[14] Boring Protocol Groestlcoin
+ 이름: Boring Protocol Groestlcoin
+ 주소: 0xc28d2a570df0a9c28ecc58d3565e30a919212957
+ 체인ID: 130
+ Decimals: 18
+
+[15] Ecosmart Groestlcoin
+ 이름: Ecosmart Groestlcoin
+ 주소: 0xf81d4a6b7310af3cc893f6810858d54e4c7d4ba8
+ 체인ID: 130
+ Decimals: 18

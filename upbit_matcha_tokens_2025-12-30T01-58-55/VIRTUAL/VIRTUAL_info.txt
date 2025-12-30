@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: VIRTUAL
+원본 풀네임: Virtuals Protocol
+검색 쿼리: VIRTUAL Virtuals Protocol
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:29
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[2] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[3] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[4] VIRTUAL
+ 이름: Virtual Protocol
+ 주소: 0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[6] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[7] WETH
+ 이름: Wrapped Ether
+ 주소: 0x82af49447d8a07e3bd95bd0d56f35241523fbab1
+ 체인ID: 42161
+ Decimals: 18
+
+[8] USDC
+ 이름: USD Coin
+ 주소: 0x0b2c639c533813f4aa9d7837caf62653d097ff85
+ 체인ID: 10
+ Decimals: 6
+
+[9] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18
+
+[10] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[11] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[12] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[13] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+ 체인ID: 1
+ Decimals: 8
+
+[14] TIBBIR
+ 이름: Ribbita by Virtuals
+ 주소: 0xa4a2e2ca3fbfe21aed83471d28b6f65a233c6e00
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WBTC
+ 이름: (PoS) Wrapped BTC
+ 주소: 0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6
+ 체인ID: 137
+ Decimals: 8

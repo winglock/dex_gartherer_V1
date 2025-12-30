@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DRIFT
+원본 풀네임: Drift
+검색 쿼리: DRIFT Drift
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:01
+발견된 토큰 수: 15개
+전체 결과 수: 5924개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] キタ、drift, drift, drift
+ 이름: キタ、drift, drift, drift
+ 주소: 0xed487ea044bcec71754c3dbff583cb07236bab45
+ 체인ID: 8453
+ Decimals: 18
+
+[2] DRIFT
+ 이름: Drift
+ 주소: DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7
+ 체인ID: 1399811149
+ Decimals: 6
+
+[3] Drift DRIFT
+ 이름: Drift DRIFT
+ 주소: 0x4c5f8e66f7852d59ba5a26ca333155db93b61d04
+ 체인ID: 130
+ Decimals: 18
+
+[4] Drift DRIFT
+ 이름: Drift DRIFT
+ 주소: 0x30d07d32e89b7ea28c80d1d37caccdfd0c575b3f
+ 체인ID: 130
+ Decimals: 18
+
+[5] Drift DRIFT
+ 이름: Drift DRIFT
+ 주소: 0x43d68314405b29d2ebda28d24bb6da4b54b1f9a8
+ 체인ID: 130
+ Decimals: 18
+
+[6] Drift DRIFT V2
+ 이름: Drift DRIFT V2
+ 주소: 0xce4bcbd9b9b35b67fbf3f29357a73edd20a833fc
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Trump - Drift DRIFT
+ 이름: Trump - Drift DRIFT
+ 주소: 0xa4d3b394844ffaf06e89d17cb6e3b21036695869
+ 체인ID: 8453
+ Decimals: 9
+
+[8] Drift DRIFT Reserve
+ 이름: Drift DRIFT Reserve
+ 주소: 0xe2c0c505d757d1113fda5d75c394dfd469dcea6e
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Drift DRIFT V3
+ 이름: Drift DRIFT V3
+ 주소: 0x56bf0e2f484682ab5767f245d24fbd67d6a11adb
+ 체인ID: 130
+ Decimals: 18
+
+[10] Drift DRIFT TV
+ 이름: Drift DRIFT TV
+ 주소: 0x73c10493e94120014b945a20c6d93eda8813e46f
+ 체인ID: 8453
+ Decimals: 9
+
+[11] PERP DRIFT DRIFT
+ 이름: Perp Drift DRIFT
+ 주소: 0x712cdbdb3e593526dfc3440e7df0eca1e1e73797
+ 체인ID: 56
+ Decimals: 9
+
+[12] Drift DRIFT - AI
+ 이름: Drift DRIFT - AI
+ 주소: 0xbedb5b90e53310643bcf6520cc4b06ad7e5a46ab
+ 체인ID: 8453
+ Decimals: 9
+
+[13] AI DRIFT DRIFT
+ 이름: AI Drift DRIFT
+ 주소: 0x602f9dc7b0c3435bfe24e1061865c3a3377fe0e3
+ 체인ID: 56
+ Decimals: 9
+
+[14] Drift DRIFT Mobile
+ 이름: Drift DRIFT Mobile
+ 주소: 0x05a29cb407e62e6cdf8adfa5037b41e31f0a0121
+ 체인ID: 8453
+ Decimals: 9
+
+[15] Drift DRIFT AI
+ 이름: Drift DRIFT AI
+ 주소: 0x4542cfefb01b69907850edd20eb16e2a3b6fc7b9
+ 체인ID: 130
+ Decimals: 18

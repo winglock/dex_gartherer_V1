@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: IMX
+원본 풀네임: Immutable
+검색 쿼리: IMX Immutable
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:50
+발견된 토큰 수: 15개
+전체 결과 수: 2330개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] IMX
+ 이름: Immutable X
+ 주소: 0xf57e7e7c23978c3caec3c3548e3d615c346e79ff
+ 체인ID: 1
+ Decimals: 18
+
+[2] MORPHO
+ 이름: Morpho Token
+ 주소: 0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842
+ 체인ID: 8453
+ Decimals: 18
+
+[3] PEPE
+ 이름: Pepe
+ 주소: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+ 체인ID: 1
+ Decimals: 18
+
+[4] IMX Immutable On Base
+ 이름: IMX Immutable On Base
+ 주소: 0x712f93845aff35904bd014a986d84ad0c931d503
+ 체인ID: 8453
+ Decimals: 18
+
+[5] IMX Immutable AI Presale v2
+ 이름: IMX Immutable AI Presale v2
+ 주소: 0x14e9f09f4ff3588e983526d5650c4360eff3aecf
+ 체인ID: 56
+ Decimals: 9
+
+[6] XEN
+ 이름: XEN Crypto
+ 주소: 0x06450dee7fd2fb8e39061434babcfc05599a6fb8
+ 체인ID: 1
+ Decimals: 18
+
+[7] MORPHO
+ 이름: Morpho Token
+ 주소: 0x58d97b57bb95320f9a05dc918aef65434969c2b2
+ 체인ID: 1
+ Decimals: 18
+
+[8] PEPE
+ 이름: Pepe
+ 주소: 0x25d887ce7a35172c62febfd67a1856f20faebb00
+ 체인ID: 56
+ Decimals: 18
+
+[9] $ZKP
+ 이름: $ZKP Token
+ 주소: 0x9a06db14d639796b25a6cec6a1bf614fd98815ec
+ 체인ID: 137
+ Decimals: 18
+
+[10] KYVE
+ 이름: KYVE Network
+ 주소: 0xad13bce42394add02e6c215a40e582309b7975c7
+ 체인ID: 8453
+ Decimals: 6
+
+[11] M87
+ 이름: Messier
+ 주소: 0x80122c6a83c8202ea365233363d3f4837d13e888
+ 체인ID: 1
+ Decimals: 18
+
+[12] LUSD
+ 이름: LUSD Stablecoin
+ 주소: 0x5f98805a4e8be255a32880fdec7f6728c6568ba0
+ 체인ID: 1
+ Decimals: 18
+
+[13] LQTY
+ 이름: LQTY
+ 주소: 0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d
+ 체인ID: 1
+ Decimals: 18
+
+[14] MON
+ 이름: MON
+ 주소: 0xc555d625828c4527d477e595ff1dd5801b4a600e
+ 체인ID: 1
+ Decimals: 18
+
+[15] PEPE
+ 이름: Pepe
+ 주소: 0x25d887ce7a35172c62febfd67a1856f20faebb00
+ 체인ID: 42161
+ Decimals: 18

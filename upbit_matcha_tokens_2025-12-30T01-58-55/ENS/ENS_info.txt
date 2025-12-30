@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ENS
+원본 풀네임: Ethereum Name Service
+검색 쿼리: ENS Ethereum Name Service
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:10
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[3] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[4] ETH
+ 이름: Ethereum Token
+ 주소: 0x2170ed0880ac9a755fd29b2688956bd959f933f8
+ 체인ID: 56
+ Decimals: 18
+
+[5] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[6] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[7] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[8] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[9] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[10] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 130
+ Decimals: 18
+
+[11] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[12] WETH
+ 이름: Wrapped Ether
+ 주소: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+ 체인ID: 1
+ Decimals: 18
+
+[13] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 59144
+ Decimals: 18
+
+[14] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[15] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18

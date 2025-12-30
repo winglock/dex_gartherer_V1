@@ -1,0 +1,41 @@
+[
+  {
+    "symbol": "AQT",
+    "chain": "multi",
+    "dex": "uniswap-v2-base",
+    "pool_address": "0x106b4273f2eb1e49c5130d118fea17e3e6819a73",
+    "pair": "AQT FDM / WETH",
+    "price_usd": 1.278037271e-10,
+    "lp_reserve_usd": 0.024020998,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767044100
+  },
+  {
+    "symbol": "AQT",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "HmSDgys4bGuj5Hm3EpwZbtFp3U5jWZNLmzkXy8jhPmmU",
+    "pair": "AQT/USD",
+    "price_usd": 2.94,
+    "lp_reserve_usd": 87548561.0,
+    "volume_24h": 3.99,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052729
+  },
+  {
+    "symbol": "AQT",
+    "chain": "multi",
+    "dex": "raydium-clmm",
+    "pool_address": "HmSDgys4bGuj5Hm3EpwZbtFp3U5jWZNLmzkXy8jhPmmU",
+    "pair": "AQT / USDC",
+    "price_usd": 2.9498186211124566,
+    "lp_reserve_usd": 87197089.6558,
+    "volume_24h": 3.9954543077,
+    "fee_tier": null,
+    "source": "geckoterminal",
+    "timestamp": 1767044100
+  }
+]

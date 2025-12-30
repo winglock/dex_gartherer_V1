@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: FCT2
+원본 풀네임: FirmaChain
+검색 쿼리: FCT2 FirmaChain
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:02
+발견된 토큰 수: 15개
+전체 결과 수: 237개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FCT2
+ 이름: FCT2
+ 주소: 0x4b1853b1b2482c896bfe623e261c3ef296094a63
+ 체인ID: 137
+ Decimals: 18
+
+[2] Firmachain Corp
+ 이름: Firmachain Corp
+ 주소: 0xbfa00f21b1c482c550b35ba4112fd4f5be77cd03
+ 체인ID: 130
+ Decimals: 18
+
+[3] FCT2
+ 이름: FuckingT2
+ 주소: 0x1c7db5bbe59064a76194d7f8c32df93b4cb1d82c
+ 체인ID: 42161
+ Decimals: 9
+
+[4] FCT2
+ 이름: FuckingT2
+ 주소: 0xb40ed2dcb6f1df0514bc90c336b7c1bf0cfdcb96
+ 체인ID: 42161
+ Decimals: 9
+
+[5] FCT2
+ 이름: FuckingT2
+ 주소: 0xa0309d53d61b0bef4c55604e98e34f57894d822a
+ 체인ID: 42161
+ Decimals: 9
+
+[6] FCT2
+ 이름: FuckingT2
+ 주소: 0x24292e68a85b4c018fe057ff6b697d18f5785625
+ 체인ID: 42161
+ Decimals: 9
+
+[7] FCT2
+ 이름: ForgiveCryptoTwitter Token
+ 주소: 0x7546db954ca0747f5dbca073e64c5dd50a96f87e
+ 체인ID: 1
+ Decimals: 18
+
+[8] FCT2
+ 이름: FuckingT2
+ 주소: 0x9f62d03bfc3caf9bd69efb433de6295c9cd28d54
+ 체인ID: 42161
+ Decimals: 9
+
+[9] FCT2
+ 이름: Farcaster2
+ 주소: 0x52f800e2a3ffc6bc484278b64f8c6825bddba93e
+ 체인ID: 56
+ Decimals: 18
+
+[10] FCT2
+ 이름: Factory V2
+ 주소: 0xf19e07adf512fcd13cddc2e030f80037ad887fbc
+ 체인ID: 1
+ Decimals: 18
+
+[11] FCT FCT2
+ 이름: FirmaChain
+ 주소: 0x042b921626b14482e06813874bfc1663746d7ad9
+ 체인ID: 56
+ Decimals: 18
+
+[12] FCT FCT2
+ 이름: FirmaChain
+ 주소: 0x63b9657be813d0567e9726940e401d3e96acaac4
+ 체인ID: 137
+ Decimals: 18
+
+[13] FCT
+ 이름: [FCT] FirmaChain Token
+ 주소: 0xe1bad922f84b198a08292fb600319300ae32471b
+ 체인ID: 1
+ Decimals: 18
+
+[14] Strategic FirmaChain FCT Reserve
+ 이름: Strategic FirmaChain FCT Reserve
+ 주소: 0xa7a230269140c1df978410c3ce8bddeeb01621c0
+ 체인ID: 8453
+ Decimals: 9
+
+[15] MutuumPresale FirmaChain
+ 이름: MutuumPresale FirmaChain
+ 주소: 0x95fe21e01a0a006b2c19d1596198424a98bb8bf4
+ 체인ID: 8453
+ Decimals: 18

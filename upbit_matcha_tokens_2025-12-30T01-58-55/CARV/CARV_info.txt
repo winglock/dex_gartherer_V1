@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CARV
+원본 풀네임: CARV
+검색 쿼리: CARV CARV
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:35
+발견된 토큰 수: 15개
+전체 결과 수: 1900개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 42161
+ Decimals: 18
+
+[3] CARV CARV
+ 이름: CARV CARV
+ 주소: 0x007f476f98a47f958da065bf5192ab7dada51b9d
+ 체인ID: 130
+ Decimals: 18
+
+[4] CARV CARV
+ 이름: CARV CARV
+ 주소: 0x02c24f89d32e0b48cf1df21b7d7b05442c3743da
+ 체인ID: 130
+ Decimals: 18
+
+[5] CARV CARV
+ 이름: CARV CARV
+ 주소: 0xad5a4459663e8bc17c5dd47d35349f2af6e84c5c
+ 체인ID: 130
+ Decimals: 18
+
+[6] CARV CARV
+ 이름: CARV CARV
+ 주소: 0xfbb7129e981e946155784d40afbcabaf0649f6fa
+ 체인ID: 8453
+ Decimals: 9
+
+[7] CARV CARV
+ 이름: CARV CARV 2026
+ 주소: 0xc1e277d9173fc8c09078cf55520e1ea4738e5ac0
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Trump - CARV CARV
+ 이름: Trump - CARV CARV
+ 주소: 0x2a1df952a45b0d067e4e6942adb290f789df5f91
+ 체인ID: 8453
+ Decimals: 9
+
+[9] CARV CARV ETF
+ 이름: CARV CARV ETF
+ 주소: 0xd9bfa6d06156ce90dfda9cf4b7ddfffd671f1c3c
+ 체인ID: 130
+ Decimals: 18
+
+[10] CARV CARV Red
+ 이름: CARV CARV Red
+ 주소: 0x180f62befd7779456eeeb3c31de00d409c0ec96c
+ 체인ID: 8453
+ Decimals: 9
+
+[11] CARV CARV coin
+ 이름: CARV CARV coin
+ 주소: 0x9b8457984f29ecabc7934ac63a4765c774d060c2
+ 체인ID: 8453
+ Decimals: 18
+
+[12] CARV CARV finance
+ 이름: CARV CARV finance
+ 주소: 0xa20ba7f5583a499b2fc94a714b0c7a9e4c8d5774
+ 체인ID: 8453
+ Decimals: 18
+
+[13] CARV CARV Mobile
+ 이름: CARV CARV Mobile
+ 주소: 0xffb313d9eac77daa1c36a4708ab71e069b4efaf5
+ 체인ID: 8453
+ Decimals: 9
+
+[14] CARV CARV V2
+ 이름: CARV CARV V2
+ 주소: 0x3c759520f1ed75e9232942e9ab1782a295b8bd36
+ 체인ID: 130
+ Decimals: 18
+
+[15] CARV CARV network
+ 이름: CARV CARV network
+ 주소: 0xdf1b56cd7dd376c7bc764e2009ddf694fc91d024
+ 체인ID: 8453
+ Decimals: 18

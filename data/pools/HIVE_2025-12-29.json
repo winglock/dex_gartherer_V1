@@ -1,41 +1,28 @@
 [
   {
-    "symbol": "HIVE",
+    "symbol": "Hive",
     "chain": "bsc",
     "dex": "pancakeswap",
-    "pool_address": "0xC6391eb39335568DF737a1D29403f8E03076EE59",
+    "pool_address": "0xd8eeaabC6b99df2210CD568Eecd60a77e1F3fb09",
     "pair": "HIVE/USD",
-    "price_usd": 0.09933,
-    "lp_reserve_usd": 20717.05,
-    "volume_24h": 860.29,
+    "price_usd": 0.5849,
+    "lp_reserve_usd": 897522.55,
+    "volume_24h": 228.59,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023848
+    "timestamp": 1767052732
   },
   {
-    "symbol": "HIVE",
-    "chain": "bsc",
-    "dex": "pancakeswap",
-    "pool_address": "0x317C910deD131e42e53aDF585df4D29a992B1d15",
+    "symbol": "Hive",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "3oETHq5ygcfdr1BrJC4n7WmgjCbwGa3bXohUR5wfRvGs",
     "pair": "HIVE/USD",
-    "price_usd": 3.736e-6,
-    "lp_reserve_usd": 6830.74,
-    "volume_24h": 5517.75,
+    "price_usd": 3.444e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 18532.49,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023848
-  },
-  {
-    "symbol": "HIVE",
-    "chain": "base",
-    "dex": "aerodrome",
-    "pool_address": "0xC61f1A2A18E9ffb5c96b3a2bE23b712337F56cdE",
-    "pair": "HIVE/USD",
-    "price_usd": 0.09885,
-    "lp_reserve_usd": 20644.39,
-    "volume_24h": 640.51,
-    "fee_tier": null,
-    "source": "dexscreener",
-    "timestamp": 1767023848
+    "timestamp": 1767038263
   }
 ]

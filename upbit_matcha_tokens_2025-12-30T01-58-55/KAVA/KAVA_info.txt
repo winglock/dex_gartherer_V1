@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: KAVA
+원본 풀네임: Kava
+검색 쿼리: KAVA Kava
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:13
+발견된 토큰 수: 15개
+전체 결과 수: 2310개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Wkava Matr1x
+ 이름: Wkava Matr1x
+ 주소: 0x2f6d80996d058619e4000c54ab93faedc4bfedcd
+ 체인ID: 130
+ Decimals: 18
+
+[2] KAVA
+ 이름: Kava
+ 주소: 0x9bafc8d4b487cebff201721702507a3e2c67ad79
+ 체인ID: 56
+ Decimals: 18
+
+[3] WKAVA
+ 이름: WKAVA
+ 주소: 0xdd9c5ca0270809b091bf477a7e28890ea1cbd1cf
+ 체인ID: 10
+ Decimals: 18
+
+[4] KAVR
+ 이름: Kavari
+ 주소: 0x867585e3dd8fc996ab220ea9009c091fd948595f
+ 체인ID: 1
+ Decimals: 18
+
+[5] Wkava Xpm
+ 이름: Wkava Xpm
+ 주소: 0x31830b0d271946a8760c4db168005ba455a84a99
+ 체인ID: 130
+ Decimals: 18
+
+[6] Wkava Omee
+ 이름: Wkava Omee
+ 주소: 0xe1e74d2672b11653eda396abf3bd0bcf0faed378
+ 체인ID: 130
+ Decimals: 18
+
+[7] Monkeys Wkava
+ 이름: Monkeys Wkava
+ 주소: 0x3dd45debd8f9ae37e8b40ab1f7b770f3bb2929d8
+ 체인ID: 130
+ Decimals: 18
+
+[8] Nova Wkava
+ 이름: Nova Wkava
+ 주소: 0xcd4b5e8975af67e88a5f9a753f5174a311028092
+ 체인ID: 130
+ Decimals: 18
+
+[9] Hoppy Wkava
+ 이름: Hoppy Wkava
+ 주소: 0x0db7e3a1cccc217d8a56e425d4a1c7bd96a7fb65
+ 체인ID: 130
+ Decimals: 18
+
+[10] Wkava Algorix
+ 이름: Wkava Algorix
+ 주소: 0xdf9fdd657638b0c02270c23ed2892b7d4380afd7
+ 체인ID: 130
+ Decimals: 18
+
+[11] WKAVA Lofi
+ 이름: WKAVA Lofi
+ 주소: 0x13d3b49acadf271a52bbdaa13a9ca244007b4160
+ 체인ID: 8453
+ Decimals: 18
+
+[12] WKAVA REAU
+ 이름: WKAVA REAU
+ 주소: 0x1fc4578b0d27e75b1ce2a0e98322ac3df9cac64c
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Darc Wkava
+ 이름: Darc Wkava
+ 주소: 0x3fe1784f0f2dd704ee6db2356beada02de4ac71e
+ 체인ID: 130
+ Decimals: 18
+
+[14] Wkava Chiliz
+ 이름: Wkava Chiliz
+ 주소: 0xd5431cff0d7c2ed08571a9e9d39bf956c58edb60
+ 체인ID: 130
+ Decimals: 18
+
+[15] Survive Wkava
+ 이름: Survive Wkava
+ 주소: 0xeabfc9c5c03f874e39d44752623ca4c5464073c2
+ 체인ID: 130
+ Decimals: 18

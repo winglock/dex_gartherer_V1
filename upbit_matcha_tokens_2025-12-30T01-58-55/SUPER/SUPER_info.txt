@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SUPER
+원본 풀네임: SuperVerse
+검색 쿼리: SUPER SuperVerse
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:56
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SUT
+ 이름: SUPER TRUST
+ 주소: 0x98965474ecbec2f532f1f780ee37b0b05f77ca55
+ 체인ID: 137
+ Decimals: 18
+
+[2] USDT
+ 이름: Super USDT
+ 주소: 0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189
+ 체인ID: 8453
+ Decimals: 6
+
+[3] KEKIUS
+ 이름: Kekius Maximus
+ 주소: 0x26e550ac11b26f78a04489d5f20f24e3559f7dd9
+ 체인ID: 1
+ Decimals: 9
+
+[4] ANON
+ 이름: Super Anon
+ 주소: 0x0db510e79909666d6dec7f5e49370838c16d950f
+ 체인ID: 8453
+ Decimals: 18
+
+[5] BLEP
+ 이름: Blep Super Meme
+ 주소: 0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54
+ 체인ID: 8453
+ Decimals: 18
+
+[6] SUPER (SuperVerse) NFT
+ 이름: SUPER (SuperVerse) NFT
+ 주소: 0x82f23d128cb4b59c243084dc054d9c49d85ced4d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] SUPER
+ 이름: SuperFarm
+ 주소: 0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55
+ 체인ID: 1
+ Decimals: 18
+
+[8] USDT
+ 이름: Super USDT
+ 주소: 0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189
+ 체인ID: 10
+ Decimals: 6
+
+[9] REX
+ 이름: REX
+ 주소: 0x90869b3a42e399951bd5f5ff278b8cc5ee1dc0fe
+ 체인ID: 56
+ Decimals: 18
+
+[10] SUPER
+ 이름: SuperVerse
+ 주소: 0x09fa58228bb791ea355c90da1e4783452b9bd8c3
+ 체인ID: 43114
+ Decimals: 18
+
+[11] GLCH
+ 이름: Glitch
+ 주소: 0x038a68ff68c393373ec894015816e33ad41bd564
+ 체인ID: 1
+ Decimals: 18
+
+[12] OETHb
+ 이름: OETH Base
+ 주소: 0xdbfefd2e8460a6ee4955a68582f85708baea60a3
+ 체인ID: 8453
+ Decimals: 18
+
+[13] BSC
+ 이름: Binance Super Cycle
+ 주소: 0x6331bf8d601f0d7f0d2101772af5137c418c4444
+ 체인ID: 56
+ Decimals: 18
+
+[14] USDT
+ 이름: Super USDT
+ 주소: 0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189
+ 체인ID: 130
+ Decimals: 6
+
+[15] SMGM
+ 이름: SUPER MARIO GALAXY MOVIE
+ 주소: J6VNq4do5abhXsTiRSUVMZ9Uz5xwex9jCa8XkyhNgrfK
+ 체인ID: 1399811149
+ Decimals: 6

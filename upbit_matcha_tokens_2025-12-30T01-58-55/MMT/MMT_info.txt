@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MMT
+원본 풀네임: Momentum
+검색 쿼리: MMT Momentum
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:38
+발견된 토큰 수: 15개
+전체 결과 수: 4810개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] $MMT (Momentum)
+ 이름: $MMT (Momentum)
+ 주소: 0x55b9a09053f7e59834be64586b38bbd5214ec1e2
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ROCKET
+ 이름: AI ROCKET by Virtuals
+ 주소: 0x0bf852ebb243b963652b71103a2b97cf446f22c3
+ 체인ID: 8453
+ Decimals: 18
+
+[3] ZEUS
+ 이름: Zeus
+ 주소: 0x4d4574f50dd8b9dbe623cf329dcc78d76935e610
+ 체인ID: 1
+ Decimals: 9
+
+[4] TEVA
+ 이름: Tevaera
+ 주소: 0x00309d634d11541b857f927be91ad2f0bd78894c
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MMT
+ 이름: MMT(Momentum)
+ 주소: 0xc24a783d0b7c2043545304ceb0092a3a1fd7e474
+ 체인ID: 8453
+ Decimals: 18
+
+[6] aisig
+ 이름: AISignal
+ 주소: 0x508b27902c6c14972a10a4e413b9cfa449e9cedb
+ 체인ID: 1
+ Decimals: 18
+
+[7] SHOW
+ 이름: VitaNova by Virtuals
+ 주소: 0x096746e984e57ae9a2922a08fc969bbe76963a72
+ 체인ID: 8453
+ Decimals: 18
+
+[8] MMT
+ 이름: MMT
+ 주소: 0xe3e6b177c7839c9bac9769f315f65ee33055cb07
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Share Mmt
+ 이름: Share Mmt
+ 주소: 0x64a47d3f959829c252dbd196c4ac234f6221135a
+ 체인ID: 130
+ Decimals: 18
+
+[10] MMT.
+ 이름: MomentumⓂ️Ⓜ️T
+ 주소: FJhMYTKp6UTE2HQjD5EGvZxXKXLNNgVMdU554dPJSmWn
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] MMT
+ 이름: Momentum
+ 주소: mmntumV5um7ke2xwr8e8hMcVm42swzPN2ZiQCaGR84J
+ 체인ID: 1399811149
+ Decimals: 9
+
+[12] MMT
+ 이름: MeMusic
+ 주소: 0xb34966a2a66cb116ebe87b9554c020dcc950e917
+ 체인ID: 56
+ Decimals: 18
+
+[13] MMT
+ 이름: MMT
+ 주소: 0x9cebd664e5a8a55b1e06397e499cb803ff6c58b7
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MMT
+ 이름: MMT
+ 주소: 0xc824623ff94c5d2236c8355784853aa6c69035f0
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Mmt
+ 이름: Mmt
+ 주소: 0xbcb5bed7762823abcb9d852b0987af348ea68d66
+ 체인ID: 8453
+ Decimals: 18

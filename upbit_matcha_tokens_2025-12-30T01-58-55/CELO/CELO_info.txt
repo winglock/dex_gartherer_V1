@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CELO
+원본 풀네임: Celo
+검색 쿼리: CELO Celo
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:18
+발견된 토큰 수: 15개
+전체 결과 수: 2975개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Celo CELO
+ 이름: Celo CELO
+ 주소: 0x7d832122fcd4782d74a4bf258fb2c4c385731a3a
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Celo CELO
+ 이름: Celo CELO
+ 주소: 0x314e4a5124a49fdac7693bb14ea122365208a94a
+ 체인ID: 130
+ Decimals: 18
+
+[3] Celo CELO
+ 이름: Celo CELO
+ 주소: 0x5e75688939199c03b500fae194dfda992437e597
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Celo CELO
+ 이름: Celo CELO
+ 주소: 0x7d110b29eccc2efc932540f4ce7745e8b6a25e3e
+ 체인ID: 130
+ Decimals: 18
+
+[5] Celo CELO
+ 이름: Celo CELO
+ 주소: 0x3c0d2ff93bd0f0d2120e29c289363b05b5471759
+ 체인ID: 130
+ Decimals: 18
+
+[6] Celo CELO
+ 이름: Celo CELO 2026
+ 주소: 0xe627fa2fe4d286ee762c86d1bfe7ddce8cff4186
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Trump - Celo CELO
+ 이름: Trump - Celo CELO
+ 주소: 0x7ee33f9a70c671a7fc38217fa3d76a87e2fb8379
+ 체인ID: 8453
+ Decimals: 9
+
+[8] Celo CELO Reserve
+ 이름: Celo CELO Reserve
+ 주소: 0x49ae7942a23e86198f31b35360c9b2bf58008ecd
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Celo CELO V3
+ 이름: Celo CELO V3
+ 주소: 0xe7d52334b2fc56175874aad1f719ddae70c91ee4
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Celo CELO - AI
+ 이름: Celo CELO - AI
+ 주소: 0x930bc363683a3626d5869315c6d3966e779bcf5b
+ 체인ID: 8453
+ Decimals: 9
+
+[11] Celo CELO Red
+ 이름: Celo CELO Red
+ 주소: 0x94328cf6f8e5cca98a8b4938d6e3f6d4c97b5839
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Celo CELO V2
+ 이름: Celo CELO V2
+ 주소: 0x64ea349ecf154345e4afce474293fd4c8aa0a7ce
+ 체인ID: 130
+ Decimals: 18
+
+[13] Celo CELO coin
+ 이름: Celo CELO coin
+ 주소: 0x1234b9ed57d945edbde668f97e5f1bb39dbac05a
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Celo CELO TV
+ 이름: Celo CELO TV
+ 주소: 0xff6239169251e21bbc41c7b35c912e26dd8a6260
+ 체인ID: 8453
+ Decimals: 9
+
+[15] Celo CELO AI
+ 이름: Celo CELO AI
+ 주소: 0x870cad1adbe704a65ac855813ba23f02cd08f4c2
+ 체인ID: 8453
+ Decimals: 18

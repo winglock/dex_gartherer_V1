@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AXL
+원본 풀네임: Axelar
+검색 쿼리: AXL Axelar
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:37
+발견된 토큰 수: 15개
+전체 결과 수: 2238개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0xeb466342c4d449bc9f53a865d5cb90586f405215
+ 체인ID: 8453
+ Decimals: 6
+
+[2] AXL (Axelar) NFT
+ 이름: AXL (Axelar) NFT
+ 주소: 0xcc451411cfc2aa2ea2ac84ee3ea6ad468e1a3d27
+ 체인ID: 8453
+ Decimals: 18
+
+[3] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3
+ 체인ID: 56
+ Decimals: 6
+
+[4] AXL
+ 이름: Axelar
+ 주소: 0x23ee2343b892b1bb63503a4fabc840e0e2c6810f
+ 체인ID: 8453
+ Decimals: 6
+
+[5] BASE
+ 이름: BASE
+ 주소: 0xd07379a755a8f11b57610154861d694b2a0f615a
+ 체인ID: 8453
+ Decimals: 18
+
+[6] LAVA
+ 이름: Axelar Wrapped LAVA
+ 주소: 0x11e969e9b3f89cb16d686a03cd8508c9fc0361af
+ 체인ID: 42161
+ Decimals: 6
+
+[7] AXL Axelar On Base
+ 이름: AXL Axelar On Base
+ 주소: 0x197628dfee42e77ea90cc1a964fc0ea39717d1fe
+ 체인ID: 8453
+ Decimals: 18
+
+[8] AXL Axelar
+ 이름: AXL Axelar On Binance Alpha
+ 주소: 0xe76f12317c17ed4f992f6d0d042b7c6f61eccd9a
+ 체인ID: 56
+ Decimals: 18
+
+[9] AXL Axelar AI Presale v2
+ 이름: AXL Axelar AI Presale v2
+ 주소: 0xdc728a2388047168f1e7087be3751c717e2d289c
+ 체인ID: 56
+ Decimals: 9
+
+[10] AXL
+ 이름: Axelar
+ 주소: 0x467719ad09025fcc6cf6f8311755809d45a5e5f3
+ 체인ID: 1
+ Decimals: 6
+
+[11] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0xeb466342c4d449bc9f53a865d5cb90586f405215
+ 체인ID: 42161
+ Decimals: 6
+
+[12] LAVA
+ 이름: Axelar Wrapped LAVA
+ 주소: 0x11e969e9b3f89cb16d686a03cd8508c9fc0361af
+ 체인ID: 8453
+ Decimals: 6
+
+[13] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed
+ 체인ID: 137
+ Decimals: 6
+
+[14] AXL
+ 이름: Axelar
+ 주소: 0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65
+ 체인ID: 56
+ Decimals: 6
+
+[15] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0xfab550568c688d5d8a52c7d794cb93edc26ec0ec
+ 체인ID: 43114
+ Decimals: 6

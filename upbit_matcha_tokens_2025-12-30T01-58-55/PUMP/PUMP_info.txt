@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PUMP
+원본 풀네임: Pump.fun
+검색 쿼리: PUMP Pump.fun
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:11
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] PUMP
+ 이름: Pump
+ 주소: pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] SPX6900
+ 이름: BASED SPX6900
+ 주소: 0xe0152db15014349d085985e879446bcae5d53094
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Cheems
+ 이름: Cheems
+ 주소: 0x0df0587216a4a1bb7d5082fdc491d93d2dd4b413
+ 체인ID: 56
+ Decimals: 18
+
+[4] LUCKY
+ 이름: LadyLuck
+ 주소: 0x81f35261b90ad59a1277c0e94f8012371eaafcb9
+ 체인ID: 8453
+ Decimals: 18
+
+[5] TRUST
+ 이름: $TRUST ME BROs by Virtuals
+ 주소: 0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a
+ 체인ID: 8453
+ Decimals: 18
+
+[6] PUMP
+ 이름: pumpBTC Governance token
+ 주소: 0xb7c0007ab75350c582d5eab1862b872b5cf53f0c
+ 체인ID: 56
+ Decimals: 18
+
+[7] Bond
+ 이름: Bond on Pump
+ 주소: GEZ1jnKUezTXsJRUEcC7WpSzHAx1ag6Tdc3kzAnWpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] PUMPIT
+ 이름: Pump It Up
+ 주소: 0x6258d49ca4035431575d997b096723e68d8c92f9
+ 체인ID: 56
+ Decimals: 18
+
+[9] Bond
+ 이름: Bond on Pump
+ 주소: AGDGy2fqxDitwyt4WRbAHvN1mW51kSyZTxz1XJWNpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] uPUMP
+ 이름: Pump (Universal)
+ 주소: 0x20fbd133897ef802e0235db77bb19a071e257d41
+ 체인ID: 8453
+ Decimals: 18
+
+[11] SUNDAY
+ 이름: Sunday Pump Indicator
+ 주소: 0x2b11f19e7b69e23f6e92a5296a16f118d5824e44
+ 체인ID: 8453
+ Decimals: 18
+
+[12] BUMP
+ 이름: BUMP
+ 주소: 0x785c34312dfa6b74f6f1829f79ade39042222168
+ 체인ID: 1
+ Decimals: 18
+
+[13] PEPPER
+ 이름: Pepper
+ 주소: 0xbf388570ebd5b88bfc7cd21ec469813c15f453a3
+ 체인ID: 8453
+ Decimals: 18
+
+[14] BBP
+ 이름: BIG BANG PUMP
+ 주소: 2SWbKcmKFkPvAtPu6ttD4xeE6cLxebQetP6MivuaPtG9
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] PUMP
+ 이름: Big Pump
+ 주소: 0x22b4fa9a13a0d303ad258ee6d62a6ac60364b0c9
+ 체인ID: 56
+ Decimals: 18

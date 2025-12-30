@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: STEEM
+원본 풀네임: Steem
+검색 쿼리: STEEM Steem
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:22
+발견된 토큰 수: 15개
+전체 결과 수: 881개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Steem STEEM
+ 이름: Steem STEEM
+ 주소: 0xd714b8b989fa7760afec0ab203d35306673b9980
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Steem STEEM
+ 이름: Steem STEEM
+ 주소: 0x0cd4b470081068194a2750fb48bb20a2fc64c087
+ 체인ID: 130
+ Decimals: 18
+
+[3] Steem STEEM
+ 이름: Steem STEEM
+ 주소: 0xa70c657c93435245623aeb37cc7749ab0d37fbef
+ 체인ID: 130
+ Decimals: 18
+
+[4] Steem STEEM
+ 이름: Steem STEEM
+ 주소: 0x5d09900d9d19145b553c827382cee947fbec2827
+ 체인ID: 130
+ Decimals: 18
+
+[5] Steem STEEM Unichain
+ 이름: Steem STEEM Unichain
+ 주소: 0x4db8713429f10b351e8ed44a08d62054f0c3b92d
+ 체인ID: 130
+ Decimals: 18
+
+[6] Trump - Steem STEEM
+ 이름: Trump - Steem STEEM
+ 주소: 0xbfbe4ee3b6ba0eb89bc05c4dfe03d89466c64818
+ 체인ID: 8453
+ Decimals: 9
+
+[7] Steem STEEM Reserve
+ 이름: Steem STEEM Reserve
+ 주소: 0xe4420d14bfeb313f1724385a948cff5039dca2a7
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Steem STEEM V2
+ 이름: Steem STEEM V2
+ 주소: 0xaa659692e7ffeceab72125910bd13073f6605b16
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Steem STEEM V2
+ 이름: Steem STEEM V2
+ 주소: 0x6351ac9d5790fea24592171ea00cb1b0a115b7c3
+ 체인ID: 130
+ Decimals: 18
+
+[10] Steem STEEM AI
+ 이름: Steem STEEM AI
+ 주소: 0x181577c5fa481a882202e6184c119499b612ae9d
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Steem STEEM AI
+ 이름: Steem STEEM AI
+ 주소: 0xfa537346b4630c4c8741fd4e61f55cc80f5a33e9
+ 체인ID: 130
+ Decimals: 18
+
+[12] Steem STEEM - Free
+ 이름: Steem STEEM - Free
+ 주소: 0xd136cad2c23f4b41348c13dc3ab9ef091463d45c
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Steem STEEM Red
+ 이름: Steem STEEM Red
+ 주소: 0x1448f27cba33c1b56520ccdc733663dc475076fa
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Steem STEEM V3
+ 이름: Steem STEEM V3
+ 주소: 0x7f0d65475121b4fd95e46baf04d5d9ecfa319ed0
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Steem STEEM Mobile
+ 이름: Steem STEEM Mobile
+ 주소: 0x735abcaef94b39c2d681ac988aecd94c3632a893
+ 체인ID: 8453
+ Decimals: 9

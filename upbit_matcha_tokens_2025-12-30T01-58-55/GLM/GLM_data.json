@@ -1,0 +1,279 @@
+{
+  "originalSymbol": "GLM",
+  "originalFullName": "Golem",
+  "searchedQuery": "GLM Golem",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 3101,
+  "tokens": [
+    {
+      "address": "0xb032d96b6ee0d4a5bf88eed3c92164456862069f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GLM (Golem) NFT",
+      "symbol": "GLM (Golem) NFT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb032d96b6ee0d4a5bf88eed3c92164456862069f"
+    },
+    {
+      "address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Golem Network Token",
+      "symbol": "GLM",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 3,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 3,
+      "transactionsWeekly": 13,
+      "transactionsMonthly": 67,
+      "volumeUsdHourly": 90.3219485279283,
+      "volumeUsdDaily": 193.3626040265436,
+      "volumeUsdWeekly": 4030.8580195921018,
+      "volumeUsdMonthly": 25539.10421959963,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
+    },
+    {
+      "address": "0x86e426db790cefef7f5872ddc7448082b3944958",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GLM Golem On Base",
+      "symbol": "GLM Golem On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x86e426db790cefef7f5872ddc7448082b3944958"
+    },
+    {
+      "address": "0xf5f99fd3a008326c1d5f5f21edd2181abf0363cf",
+      "chainId": 56,
+      "decimals": 9,
+      "name": "GLM Golem AI Presale v2",
+      "symbol": "GLM Golem AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0xf5f99fd3a008326c1d5f5f21edd2181abf0363cf"
+    },
+    {
+      "address": "0xcf25a0dc84332b3f970d170a1f64fbdfcc8b8265",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GLM Golem Perpetual",
+      "symbol": "GLMGOL",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xcf25a0dc84332b3f970d170a1f64fbdfcc8b8265"
+    },
+    {
+      "address": "0xbec8f1db8c5be69b71214eecfdd1835e5b712a19",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "#GLM",
+      "symbol": "#GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xbec8f1db8c5be69b71214eecfdd1835e5b712a19"
+    },
+    {
+      "address": "0x138d99ce840cc46e2206243b86440acdf8ef6986",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GLM",
+      "symbol": "GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x138d99ce840cc46e2206243b86440acdf8ef6986"
+    },
+    {
+      "address": "0xc7ba7103811233bc53e88062f76376082654ee33",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Glm",
+      "symbol": "Glm",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xc7ba7103811233bc53e88062f76376082654ee33"
+    },
+    {
+      "address": "0xd5293dcef75ecab0c00222a50e827a21d312cc6f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$GLM",
+      "symbol": "$GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd5293dcef75ecab0c00222a50e827a21d312cc6f"
+    },
+    {
+      "address": "0xdc3eb7b0a195959456000bce96643db2ed9eab72",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GLM",
+      "symbol": "GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdc3eb7b0a195959456000bce96643db2ed9eab72"
+    },
+    {
+      "address": "0x91fe05978a6b5ccf85aa56ef3989aca5bec9dcd6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "glm",
+      "symbol": "glm",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x91fe05978a6b5ccf85aa56ef3989aca5bec9dcd6"
+    },
+    {
+      "address": "0x4b00b0f89dee83321d4bd562abd2ca16341e1310",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$GLM",
+      "symbol": "GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x4b00b0f89dee83321d4bd562abd2ca16341e1310"
+    },
+    {
+      "address": "0xaa0104353449143ca500938b7159de79d7ace78c",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Long $GLM",
+      "symbol": "Long $GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xaa0104353449143ca500938b7159de79d7ace78c"
+    },
+    {
+      "address": "0xafcadfdd00bf3abe208ecfc80711c24595af36f4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Crypto Pug GLM",
+      "symbol": "GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xafcadfdd00bf3abe208ecfc80711c24595af36f4"
+    },
+    {
+      "address": "0x4270d830646b73e2aeb8c741158ea85890418090",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Cancel long $GLM",
+      "symbol": "Cancel long $GLM",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x4270d830646b73e2aeb8c741158ea85890418090"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:56.361Z",
+  "error": null
+}

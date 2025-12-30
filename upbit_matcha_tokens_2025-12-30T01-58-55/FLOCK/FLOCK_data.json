@@ -1,0 +1,298 @@
+{
+  "originalSymbol": "FLOCK",
+  "originalFullName": "FLock.io",
+  "searchedQuery": "FLOCK FLock.io",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 2036,
+  "tokens": [
+    {
+      "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FLock.io",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 2,
+      "transactionsDaily": 17,
+      "transactionsWeekly": 813,
+      "transactionsMonthly": 1532,
+      "volumeUsdHourly": 1.037384592005322,
+      "volumeUsdDaily": 2060.327367364592,
+      "volumeUsdWeekly": 65208.03008382024,
+      "volumeUsdMonthly": 242140.44132037112,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691"
+    },
+    {
+      "address": "0xb33d999469a7e6b9ebc25a3a05248287b855ed46",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Flockerz",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 1,
+      "transactionsWeekly": 14,
+      "transactionsMonthly": 64,
+      "volumeUsdHourly": 3.92602544008028,
+      "volumeUsdDaily": 3.92602544008028,
+      "volumeUsdWeekly": 218.23573832515817,
+      "volumeUsdMonthly": 3649.138082244897,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0xb33d999469a7e6b9ebc25a3a05248287b855ed46"
+    },
+    {
+      "address": "0x393b7469e18c5c720dacf2e88586587fe4b9876b",
+      "chainId": 130,
+      "decimals": 18,
+      "name": "Flock Ai21x",
+      "symbol": "Flock Ai21x",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/130/0x393b7469e18c5c720dacf2e88586587fe4b9876b"
+    },
+    {
+      "address": "0xfa395b5d3c339c84e8684303752a2e92a3053244",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FLOCK FLOCK FLOCK FLOCK FLOCK",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xfa395b5d3c339c84e8684303752a2e92a3053244"
+    },
+    {
+      "address": "0x8888ecb48a548768cad3590651468db498b78ac9",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8888ecb48a548768cad3590651468db498b78ac9"
+    },
+    {
+      "address": "0x79907eda21b14de8a39896bc65a6f0cefb057477",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x79907eda21b14de8a39896bc65a6f0cefb057477"
+    },
+    {
+      "address": "0x61f5e5457be504ced370e634b42459039ead0465",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x61f5e5457be504ced370e634b42459039ead0465"
+    },
+    {
+      "address": "0xd208dc27df582e0f1da0e07e6f0fa621261663b2",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd208dc27df582e0f1da0e07e6f0fa621261663b2"
+    },
+    {
+      "address": "0xdbf31f3d46329e0f757d8d575b0545f32f97cafe",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdbf31f3d46329e0f757d8d575b0545f32f97cafe"
+    },
+    {
+      "address": "0x6ffd5de31de863b6f0e57eaf57d209b2df2b772d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6ffd5de31de863b6f0e57eaf57d209b2df2b772d"
+    },
+    {
+      "address": "0x89b89c35194978b99c97a5d0c40d95324f51be86",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x89b89c35194978b99c97a5d0c40d95324f51be86"
+    },
+    {
+      "address": "0x345e0cf292414d64dd36cceb35664557cc5211c3",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x345e0cf292414d64dd36cceb35664557cc5211c3"
+    },
+    {
+      "address": "0x2f9844834880e238ce01d2c54dc855b396839ace",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x2f9844834880e238ce01d2c54dc855b396839ace"
+    },
+    {
+      "address": "0x6fabf6a6887a85ce503eac05c04ba743873b9658",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flock",
+      "symbol": "Flock",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6fabf6a6887a85ce503eac05c04ba743873b9658"
+    },
+    {
+      "address": "0x9cd6cfbef493608f5160cdc74c4e4800997a6a98",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FLOCK",
+      "symbol": "FLOCK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9cd6cfbef493608f5160cdc74c4e4800997a6a98"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:45.422Z",
+  "error": null
+}

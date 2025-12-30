@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SAND
+원본 풀네임: The Sandbox
+검색 쿼리: SAND The Sandbox
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:38
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MOON
+ 이름: Lightspeed to the Moon!!!
+ 주소: 0x3ad8539cf0e010c77d276fb197061ac613511cae
+ 체인ID: 8453
+ Decimals: 18
+
+[2] MIDAS
+ 이름: Midas The Minotaur
+ 주소: 0xb8d59c7b33054beda610b2b2d38ea38694cdfabd
+ 체인ID: 8453
+ Decimals: 18
+
+[3] SAND
+ 이름: SAND
+ 주소: 0xbbba073c31bf03b8acf7c28ef0738decf3695683
+ 체인ID: 137
+ Decimals: 18
+
+[4] SAND
+ 이름: SAND
+ 주소: 0x3845badade8e6dff049820680d1f14bd3903a5d0
+ 체인ID: 1
+ Decimals: 18
+
+[5] jellythecrab
+ 이름: Jelly the Crab
+ 주소: 0x193b345da20673e2b5fd970c73773338c912d5e5
+ 체인ID: 8453
+ Decimals: 18
+
+[6] SAND
+ 이름: The Sandbox
+ 주소: 0x67b725d7e342d7b611fa85e859df9697d9378b2e
+ 체인ID: 56
+ Decimals: 18
+
+[7] TIG
+ 이름: The Innovation Game
+ 주소: 0x0c03ce270b4826ec62e7dd007f0b716068639f7b
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Avery
+ 이름: The Poke Kid
+ 주소: CeA852YrDzw8nafNq7SgDzCRCp96SzZKnRAqy1ueBEV1
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] Avery
+ 이름: The Poke Kid
+ 주소: 9hsWFA1tdN4EkNUFJQ4ZFDBX9NAJ1CA1sPQwz4DV99rC
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] ADM
+ 이름: Voice of the Gods by Virtuals
+ 주소: 0x55ff51da774b8ce0ed1abaed1cb76236bc6b2f16
+ 체인ID: 8453
+ Decimals: 18
+
+[11] I AM THE CAPTAIN NOW
+ 이름: I AM THE CAPTAIN NOW
+ 주소: 0x0c37e7af16b89441f495cc17dffff8d7afdaeae4
+ 체인ID: 8453
+ Decimals: 18
+
+[12] 6"SAND (The Sandbox) NFT: Own a Piece of the Metaverse"
+ 이름: 6"SAND (The Sandbox) NFT: Own a Piece of the Metaverse"
+ 주소: 0xfc35011a6fdf94ded44adcc8a254a9a40b6b0b56
+ 체인ID: 8453
+ Decimals: 18
+
+[13] WE ARE THE MEDIA
+ 이름: WE ARE THE MEDIA
+ 주소: 0x13687f390111a243382efe796f383dfdda2848e2
+ 체인ID: 8453
+ Decimals: 18
+
+[14] FTMX
+ 이름: FUCK THE MATRIX
+ 주소: 0x45510db2481353178db5abb87c96805fadad0724
+ 체인ID: 1
+ Decimals: 18
+
+[15] DOG
+ 이름: The Doge NFT
+ 주소: 0xafb89a09d82fbde58f18ac6437b3fc81724e4df6
+ 체인ID: 8453
+ Decimals: 18

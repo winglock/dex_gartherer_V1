@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: FIL
+원본 풀네임: Filecoin
+검색 쿼리: FIL Filecoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:40
+발견된 토큰 수: 15개
+전체 결과 수: 4139개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FIL
+ 이름: Filecoin
+ 주소: 0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153
+ 체인ID: 56
+ Decimals: 18
+
+[2] FIL Filecoin TOKEN
+ 이름: FIL Filecoin TOKEN
+ 주소: 0x68448b7d75b8cc53ead7b91d192097223b1806df
+ 체인ID: 56
+ Decimals: 18
+
+[3] FIL Filecoin PRESALE
+ 이름: FIL Filecoin PRESALE
+ 주소: 0x4c3a2d6e78d1dddf43d829371285d5911cad4984
+ 체인ID: 56
+ Decimals: 18
+
+[4] FIL Filecoin PRESALE
+ 이름: FIL Filecoin PRESALE
+ 주소: 0xb009c597c258db4f48b790b2c7ab9bcf2c922ae1
+ 체인ID: 56
+ Decimals: 18
+
+[5] FIL Filecoin V2
+ 이름: FIL Filecoin V2
+ 주소: 0x3af9086d5cee55fe6bde3b34e2f5f914ed9beb0e
+ 체인ID: 56
+ Decimals: 18
+
+[6] FIL Filecoin AI Agents
+ 이름: FIL Filecoin AI Agents
+ 주소: 0x3f2b68ea90bf9922b6e7470f490f07c89785118b
+ 체인ID: 56
+ Decimals: 18
+
+[7] FIL Filecoin AI Agents
+ 이름: FIL Filecoin AI Agents
+ 주소: 0xe1c6b3edf0e5b7f19a36bde1a9910fc5baba9517
+ 체인ID: 56
+ Decimals: 18
+
+[8] FIL Filecoin On Base
+ 이름: FIL Filecoin On Base
+ 주소: 0x7d32da70b3bafdea012ea18c7570854a2cda26df
+ 체인ID: 8453
+ Decimals: 18
+
+[9] FIL Filecoin On Binance Alpha
+ 이름: FIL Filecoin On Binance Alpha
+ 주소: 0xd8ba5e7a5f8aed753695b4fe167c2790a41161bb
+ 체인ID: 56
+ Decimals: 18
+
+[10] FIL Filecoin AI Presale v2
+ 이름: FIL Filecoin AI Presale v2
+ 주소: 0x4dd83a5914d80434aee37ffe5bcb6d54131086de
+ 체인ID: 56
+ Decimals: 18
+
+[11] FIL Filecoin AI Presale v2
+ 이름: FIL Filecoin AI Presale v2
+ 주소: 0xbb50daa7e27502efbf65cbfab53a85a0b32588d4
+ 체인ID: 56
+ Decimals: 9
+
+[12] BFIL
+ 이름: Binance Wrapped FIL
+ 주소: 0x8e16bf47065fe843a82f4399baf5abac4e0822b7
+ 체인ID: 1
+ Decimals: 18
+
+[13] IOTX
+ 이름: IoTeX Network
+ 주소: 0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+ 체인ID: 1
+ Decimals: 18
+
+[14] LAVA
+ 이름: Axelar Wrapped LAVA
+ 주소: 0x11e969e9b3f89cb16d686a03cd8508c9fc0361af
+ 체인ID: 42161
+ Decimals: 6
+
+[15] LAVA
+ 이름: Axelar Wrapped LAVA
+ 주소: 0x11e969e9b3f89cb16d686a03cd8508c9fc0361af
+ 체인ID: 8453
+ Decimals: 6

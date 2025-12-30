@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SAHARA
+원본 풀네임: Sahara
+검색 쿼리: SAHARA Sahara
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:34
+발견된 토큰 수: 15개
+전체 결과 수: 3332개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SAHARA
+ 이름: Sahara AI
+ 주소: 0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111
+ 체인ID: 56
+ Decimals: 18
+
+[2] SAHARA
+ 이름: Sahara AI
+ 주소: 0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111
+ 체인ID: 1
+ Decimals: 18
+
+[3] Sahara
+ 이름: Sahara $Sahara
+ 주소: 0xc2994cf45842aaf681eef1c9647eec74cf718447
+ 체인ID: 8453
+ Decimals: 9
+
+[4] SAHARA
+ 이름: SAHARA
+ 주소: 0x44da41a7b2af45492ddab8304aa87de5572ae3ea
+ 체인ID: 56
+ Decimals: 18
+
+[5] IMG
+ 이름: SAHARA
+ 주소: 0xd1f579cc0a5405d7610346b371371bed1528d18b
+ 체인ID: 1
+ Decimals: 18
+
+[6] SAHARA
+ 이름: Sahara AI
+ 주소: 0x26c890e1fc0a75cf738ad2f86f8436d9040b705f
+ 체인ID: 8453
+ Decimals: 18
+
+[7] SAHARA
+ 이름: SAHARA
+ 주소: 0x9226ac7ecbd4d26217dd97b6a92f42386ee67c97
+ 체인ID: 8453
+ Decimals: 18
+
+[8] sahara
+ 이름: sahara
+ 주소: 0xd078b63e3cb11885bb0fee88986c6fb97302c664
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Sahara
+ 이름: Sahara
+ 주소: 0xff7302b1da7391f38f56ccdc5b3ebd883d09a1f6
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Sahara
+ 이름: Sahara
+ 주소: 0xd2d22d3f709fa10142d4d8e9e2add08f9e932844
+ 체인ID: 8453
+ Decimals: 18
+
+[11] $SAHARA
+ 이름: $SAHARA
+ 주소: 0xb5ed5f4d68dcaf59c69db001a354ae42cded7bb5
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Sahara
+ 이름: Sahara
+ 주소: 0xbea6d2698cd5e344cbdcba405d56b45d120e32e3
+ 체인ID: 8453
+ Decimals: 18
+
+[13] SAHARA
+ 이름: SAHARA
+ 주소: 0x528c0e42cf56afde5f9f7129ac38f86ec2d7decc
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Sahara
+ 이름: Sahara
+ 주소: 0x010625d8293255b4c9cf940621f5692b2aee1e90
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Sahara
+ 이름: Sahara
+ 주소: 0x261ea8ae43c4c4a95269a0b29f75a6942219503c
+ 체인ID: 8453
+ Decimals: 18

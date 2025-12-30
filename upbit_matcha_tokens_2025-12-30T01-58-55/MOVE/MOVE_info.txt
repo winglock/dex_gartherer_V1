@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MOVE
+원본 풀네임: Movement
+검색 쿼리: MOVE Movement
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:43
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] W
+ 이름: Wormhole Token
+ 주소: 0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91
+ 체인ID: 8453
+ Decimals: 18
+
+[2] OPSYS
+ 이름: Operating System
+ 주소: 0x38b88d6568d61556d33592ad7bc24e89a7fb6691
+ 체인ID: 8453
+ Decimals: 18
+
+[3] BNT
+ 이름: Bancor Network Token
+ 주소: 0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
+ 체인ID: 1
+ Decimals: 18
+
+[4] TREB
+ 이름: TREB
+ 주소: 0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MOVE (Movement) NFT
+ 이름: MOVE (Movement) NFT
+ 주소: 0x558bb6e16a9bcacb309fd9b164aabc61ef18ce20
+ 체인ID: 8453
+ Decimals: 18
+
+[6] BRZ
+ 이름: BRZ Token
+ 주소: 0x4ed141110f6eeeaba9a1df36d8c26f684d2475dc
+ 체인ID: 137
+ Decimals: 18
+
+[7] MIGGLES
+ 이름: Mister Miggles
+ 주소: 0xb1a03eda10342529bbf8eb700a06c60441fef25d
+ 체인ID: 8453
+ Decimals: 18
+
+[8] USDT.e
+ 이름: Tether USD
+ 주소: 0xc7198437980c041c805a1edcba50c1ce5db95118
+ 체인ID: 43114
+ Decimals: 6
+
+[9] MOVE
+ 이름: Movement
+ 주소: 0x3073f7aaa4db83f95e9fff17424f71d4751a3073
+ 체인ID: 1
+ Decimals: 8
+
+[10] Mog
+ 이름: Mog Coin
+ 주소: 0xaaee1a9723aadb7afa2810263653a34ba2c21c7a
+ 체인ID: 1
+ Decimals: 18
+
+[11] AMETA
+ 이름: Alpha City
+ 주소: 0x90ec58ef4cc9f37b96de1e203b65bd4e6e79580e
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ZIL
+ 이름: Zilliqa
+ 주소: 0xb86abcb37c3a4b64f74f59301aff131a1becc787
+ 체인ID: 56
+ Decimals: 12
+
+[13] ANYONE
+ 이름: ANyONe Protocol
+ 주소: 0xfeac2eae96899709a43e252b6b92971d32f9c0f9
+ 체인ID: 1
+ Decimals: 18
+
+[14] PEIPEI
+ 이름: PeiPei
+ 주소: 0x3ffeea07a27fab7ad1df5297fa75e77a43cb5790
+ 체인ID: 1
+ Decimals: 18
+
+[15] PEPE
+ 이름: Pepe
+ 주소: 0x698dc45e4f10966f6d1d98e3bfd7071d8144c233
+ 체인ID: 8453
+ Decimals: 9

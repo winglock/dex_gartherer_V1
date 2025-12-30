@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: KERNEL
+원본 풀네임: Kernel
+검색 쿼리: KERNEL Kernel
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:57
+발견된 토큰 수: 15개
+전체 결과 수: 1350개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] KERNEL KERNEL
+ 이름: KERNEL KERNEL
+ 주소: 0xfcf37cd131e5b8c0a95c1bc816b0d76786a6260a
+ 체인ID: 8453
+ Decimals: 18
+
+[2] KERNEL
+ 이름: KERNEL
+ 주소: 0x3f80b1c54ae920be41a77f8b902259d48cf24ccf
+ 체인ID: 1
+ Decimals: 18
+
+[3] TFT
+ 이름: TFT on BSC
+ 주소: 0x8f0fb159380176d324542b3a7933f0c2fd0c2bbf
+ 체인ID: 56
+ Decimals: 7
+
+[4] WBEAM
+ 이름: Wrapped BEAM
+ 주소: 0xe5acbb03d73267c03349c76ead672ee4d941f499
+ 체인ID: 1
+ Decimals: 8
+
+[5] TFT
+ 이름: TFT on Ethereum
+ 주소: 0x395e925834996e558bdec77cd648435d620afb5b
+ 체인ID: 1
+ Decimals: 7
+
+[6] Ai21x Kernel
+ 이름: Ai21x Kernel
+ 주소: 0xcba15977b0655e12bd24bf8d564ed238d35fe1e7
+ 체인ID: 130
+ Decimals: 18
+
+[7] 1K000X
+ 이름: 1000X Kernel
+ 주소: 0x7657b3373f21b4b64be90a3e72e68f1b6a9e7626
+ 체인ID: 8453
+ Decimals: 18
+
+[8] TSLKRNL
+ 이름: TESLA KERNEL
+ 주소: 39x1j9FkTJYoRnotg5YZsfhrssLbixMx718tCezxpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] crickman
+ 이름: microsoft / kernel
+ 주소: 29yWmWVYVFj2ceYStExBiqh6QAi43uMdhd8HczUmpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] kUSD
+ 이름: Kernel USD
+ 주소: 0x0bb9ab78aaf7179b7515e6753d89822b91e670c4
+ 체인ID: 1
+ Decimals: 18
+
+[11] KOI
+ 이름: Kernel Optimized Index
+ 주소: 6momdjn8CaEcJv9jYXxTBxD3r4Ga9kJVXasEbFQpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[12] ksETH
+ 이름: Kernel Staked ETH
+ 주소: 0x513d27c94c0d81eed9dc2a88b4531a69993187cf
+ 체인ID: 1
+ Decimals: 18
+
+[13] 'Yieldnest Restaked Btc  Kernel Pinu100x
+ 이름: 'Yieldnest Restaked Btc  Kernel Pinu100x
+ 주소: 0x788e9e3d7cd0f8cef30d99a008281f3ea1b1ca95
+ 체인ID: 130
+ Decimals: 18
+
+[14] krETH
+ 이름: Kernel Restaked ETH
+ 주소: 0xf02c96dbbb92dc0325ad52b3f9f2b951f972bf00
+ 체인ID: 1
+ Decimals: 18
+
+[15] kernel
+ 이름: kernel
+ 주소: 0xf8a9c3c964131f6e2aeb00c3daa38af5cfbbb58a
+ 체인ID: 8453
+ Decimals: 18

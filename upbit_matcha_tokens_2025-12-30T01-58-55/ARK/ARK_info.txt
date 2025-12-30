@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ARK
+원본 풀네임: Ark
+검색 쿼리: ARK Ark
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:46
+발견된 토큰 수: 15개
+전체 결과 수: 9157개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ARK
+ 이름: ARK
+ 주소: 0xcae117ca6bc8a341d2e7207f30e180f0e5618b9d
+ 체인ID: 56
+ Decimals: 18
+
+[2] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
+ 체인ID: 1
+ Decimals: 18
+
+[3] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x97c806e7665d3afd84a8fe1837921403d59f3dcc
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Ark ARK
+ 이름: Ark ARK
+ 주소: 0xda203f7ba3c33718a7706f4859fdc6a985ffa9aa
+ 체인ID: 130
+ Decimals: 18
+
+[5] Ark ARK
+ 이름: Ark ARK
+ 주소: 0xa377df582fa40f9208d640d1c82ba224073e37a7
+ 체인ID: 130
+ Decimals: 18
+
+[6] Ark ARK
+ 이름: Ark ARK
+ 주소: 0xc2739bdafec7d00168cc4333bc806f810cbe103f
+ 체인ID: 130
+ Decimals: 18
+
+[7] Ark Ark
+ 이름: Ark Ark
+ 주소: 0x58f0f43f003fcf3e2f69068c6030bb20b2546f46
+ 체인ID: 130
+ Decimals: 18
+
+[8] ARK
+ 이름: ARK
+ 주소: EyvF56UqcZ9BiQrZAcZAqANx2jakmgGGxAjNqs869Pb
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] Ark ARK AI
+ 이름: Ark ARK AI
+ 주소: 0x22d9de183a8e2ff44094ef2cd8bfcab12738ed45
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Ark ARK V3
+ 이름: Ark ARK V3
+ 주소: 0xd73409236c563e49cae302cc259fdefb2c1a01cc
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Ark ARK Mobile
+ 이름: Ark ARK Mobile
+ 주소: 0xc641ddc807dd831885595d4012d066076ff53f56
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Ark ARK V3
+ 이름: Ark ARK V3
+ 주소: 0xecc402176c314ed9475737bbfbc836778c558de0
+ 체인ID: 130
+ Decimals: 18
+
+[13] Ark ARK Red
+ 이름: Ark ARK Red
+ 주소: 0x797342ea3a1856ca9aef279a5a37ffa9f7047dea
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Ark ARK V2
+ 이름: Ark ARK V2
+ 주소: 0x4d25f2097782c047baeb4b25e78de6c8b6271a55
+ 체인ID: 130
+ Decimals: 18
+
+[15] The Ark $ARK
+ 이름: The Ark $ARK
+ 주소: 0x5bb9181dbd26b30869c851b1f82b67f5000b87b5
+ 체인ID: 8453
+ Decimals: 9

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AAVE
+원본 풀네임: Aave
+검색 쿼리: AAVE Aave
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:06
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] AAVE
+ 이름: Aave (PoS)
+ 주소: 0xd6df932a45c0f255f85145f286ea0b292b21c90b
+ 체인ID: 137
+ Decimals: 18
+
+[2] AAVE
+ 이름: Aave Token
+ 주소: 0x63706e401c06ac8513145b7687a14804d17f814b
+ 체인ID: 8453
+ Decimals: 18
+
+[3] AAVE
+ 이름: Aave Token
+ 주소: 0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9
+ 체인ID: 1
+ Decimals: 18
+
+[4] AAVE
+ 이름: Aave Token
+ 주소: 0xfb6115445bff7b52feb98650c87f44907e58f802
+ 체인ID: 56
+ Decimals: 18
+
+[5] AAVE
+ 이름: Aave Token
+ 주소: 0xba5ddd1f9d7f570dc94a51479a000e3bce967196
+ 체인ID: 42161
+ Decimals: 18
+
+[6] GHO
+ 이름: Gho Token
+ 주소: 0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f
+ 체인ID: 1
+ Decimals: 18
+
+[7] YFI
+ 이름: yearn.finance
+ 주소: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+ 체인ID: 1
+ Decimals: 18
+
+[8] AAVE
+ 이름: Aave Token
+ 주소: 0x76fb31fb4af56892a25e32cfc43de717950c9278
+ 체인ID: 10
+ Decimals: 18
+
+[9] Aave$AAVE
+ 이름: Aave $AAVE
+ 주소: 0xf998eaf7378c0894caf54a5de06307b9ba3fb3c1
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Aave #AAVE
+ 이름: Aave #AAVE
+ 주소: 0x341573f12f1853a9bd2040cf067ddeb3a4261103
+ 체인ID: 8453
+ Decimals: 18
+
+[11] What is Aave (AAVE)?...
+ 이름: What is Aave (AAVE)?...
+ 주소: 0x4fba06d69d6011c8593b0aea2e08bc3bf81ce7be
+ 체인ID: 8453
+ Decimals: 18
+
+[12] *￼CRYPTO NEWS• ⭐️ AAVE $AAVE COMM
+ 이름: *￼CRYPTO NEWS• ⭐️ AAVE $AAVE COMM
+ 주소: 0xb39d47618866504942e8c036c738d6fd5989bca5
+ 체인ID: 8453
+ Decimals: 18
+
+[13] (CRYPTO NEWS ⭐️ AAVE $AAVE “BRAND
+ 이름: (CRYPTO NEWS ⭐️ AAVE $AAVE “BRAND
+ 주소: 0x93a541eb811c1b02e07f2537d531c1c63f9d7e39
+ 체인ID: 8453
+ Decimals: 18
+
+[14] ,Aave (AAVE) NFT Art: DeFi Lending Revolution
+ 이름: ,Aave (AAVE) NFT Art: DeFi Lending Revolution
+ 주소: 0xd405c9c6fe0f1b3078ef570b5dd6232bba5351af
+ 체인ID: 8453
+ Decimals: 18
+
+[15] @AAVEhttps://thecoinrise.com/aave-aave-review-unveiling-the-futu
+ 이름: @AAVEhttps://thecoinrise.com/aave-aave-review-unveiling-the-futu
+ 주소: 0xce495b7035a64306c48ccd929e8ed45b9f914e84
+ 체인ID: 8453
+ Decimals: 18

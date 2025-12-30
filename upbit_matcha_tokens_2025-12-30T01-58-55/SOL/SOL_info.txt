@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SOL
+원본 풀네임: Solana
+검색 쿼리: SOL Solana
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:33
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SOL
+ 이름: SOLANA
+ 주소: 0x570a5d26f7765ecb712c0924e4de545b89fd43df
+ 체인ID: 56
+ Decimals: 18
+
+[2] SOL
+ 이름: Solana
+ 주소: 0x311935cd80b76769bf2ecc9d8ab7635b2139cf82
+ 체인ID: 8453
+ Decimals: 9
+
+[3] uSOL
+ 이름: Solana (Universal)
+ 주소: 0x9b8df6e244526ab5f6e6400d331db28c8fdddb55
+ 체인ID: 8453
+ Decimals: 18
+
+[4] PONKE
+ 이름: Ponke
+ 주소: 0x4a0c64af541439898448659aedcec8e8e819fc53
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Fartcoin
+ 이름: Based Fartcoin
+ 주소: 0x2f6c17fa9f9bc3600346ab4e48c0701e1d5962ae
+ 체인ID: 8453
+ Decimals: 18
+
+[6] SOL
+ 이름: Wrapped SOL
+ 주소: 0xd31a59c85ae9d8edefec411d448f90841571b89c
+ 체인ID: 1
+ Decimals: 9
+
+[7] GMX
+ 이름: GMX
+ 주소: 0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a
+ 체인ID: 42161
+ Decimals: 18
+
+[8] REX
+ 이름: REX
+ 주소: 0x90869b3a42e399951bd5f5ff278b8cc5ee1dc0fe
+ 체인ID: 56
+ Decimals: 18
+
+[9] BONK
+ 이름: Bonk
+ 주소: 0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8
+ 체인ID: 8453
+ Decimals: 18
+
+[10] PEAR
+ 이름: Pear
+ 주소: 0x3212dc0f8c834e4de893532d27cc9b6001684db0
+ 체인ID: 42161
+ Decimals: 18
+
+[11] GMT
+ 이름: GreenMetaverseToken
+ 주소: 0x714db550b574b3e927af3d93e26127d15721d4c2
+ 체인ID: 137
+ Decimals: 8
+
+[12] GMT
+ 이름: Green Metaverse Token
+ 주소: 0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1
+ 체인ID: 56
+ Decimals: 8
+
+[13] Bonk
+ 이름: Bonk
+ 주소: 0x1151cb3d861920e07a38e03eead12c32178567f6
+ 체인ID: 1
+ Decimals: 5
+
+[14] Bonk
+ 이름: Bonk
+ 주소: 0xa697e272a73744b343528c3bc4702f2565b2f422
+ 체인ID: 56
+ Decimals: 5
+
+[15] KYVE
+ 이름: KYVE Network
+ 주소: 0xad13bce42394add02e6c215a40e582309b7975c7
+ 체인ID: 8453
+ Decimals: 6

@@ -1,0 +1,283 @@
+{
+  "originalSymbol": "CHZ",
+  "originalFullName": "Chiliz",
+  "searchedQuery": "CHZ Chiliz",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 1659,
+  "tokens": [
+    {
+      "address": "0xdb3def557c008e870348c8ab07745fb241815586",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ (Chiliz) NFT",
+      "symbol": "CHZ (Chiliz) NFT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdb3def557c008e870348c8ab07745fb241815586"
+    },
+    {
+      "address": "0x82fcfe0ab2ccd401c264cf688c210a0a8dbeafc1",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ Chiliz On Base",
+      "symbol": "CHZ Chiliz On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x82fcfe0ab2ccd401c264cf688c210a0a8dbeafc1"
+    },
+    {
+      "address": "0x79d66987e654c284aad322a6e1cf91f0d5b3e78b",
+      "chainId": 56,
+      "decimals": 9,
+      "name": "CHZ Chiliz AI Presale v2",
+      "symbol": "CHZ Chiliz AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x79d66987e654c284aad322a6e1cf91f0d5b3e78b"
+    },
+    {
+      "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "chiliZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 1,
+      "flagListsCount": 0,
+      "importedListsCount": 4,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 3,
+      "transactionsWeekly": 33,
+      "transactionsMonthly": 186,
+      "volumeUsdHourly": 73.9198033618843,
+      "volumeUsdDaily": 221.3548977355497,
+      "volumeUsdWeekly": 6049.359640856423,
+      "volumeUsdMonthly": 41315.73082800786,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+    },
+    {
+      "address": "0x27efa910930510b9a782b9c29ddfea92de384191",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ Chiliz Perpetual",
+      "symbol": "CHZCHI",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x27efa910930510b9a782b9c29ddfea92de384191"
+    },
+    {
+      "address": "0xfd6f979f61f2489b135bc539cd5677410ad07e59",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xfd6f979f61f2489b135bc539cd5677410ad07e59"
+    },
+    {
+      "address": "0x6b29665bdab47f5ea5181e3a62220d6652d66959",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6b29665bdab47f5ea5181e3a62220d6652d66959"
+    },
+    {
+      "address": "0xa8de2e540bab162170966f021c59a9c2ee81f946",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Chz",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xa8de2e540bab162170966f021c59a9c2ee81f946"
+    },
+    {
+      "address": "0x270708b3f9b905aa37b1c612f8d7f94e60333011",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x270708b3f9b905aa37b1c612f8d7f94e60333011"
+    },
+    {
+      "address": "0x3126b2817039e0a8617275704a19eda2410415d6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Chz",
+      "symbol": "Chz",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x3126b2817039e0a8617275704a19eda2410415d6"
+    },
+    {
+      "address": "0xc09fcfc06a61a2ac6446da0c164963f3cd628e75",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "CHZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xc09fcfc06a61a2ac6446da0c164963f3cd628e75"
+    },
+    {
+      "address": "0x27a3eea6cf21053e39afdb513a981e3b113bff6f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "chz",
+      "symbol": "chz",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x27a3eea6cf21053e39afdb513a981e3b113bff6f"
+    },
+    {
+      "address": "0x389e05632c235a4956cbe06014b19b5cab5fb28e",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "GRLD CHZ",
+      "symbol": "CHZ",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x389e05632c235a4956cbe06014b19b5cab5fb28e"
+    },
+    {
+      "address": "0x0e2941b2e2029e8f66a16e4aa04ce3f28a751f4f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Chz 🚀",
+      "symbol": "Chz 🚀",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0e2941b2e2029e8f66a16e4aa04ce3f28a751f4f"
+    },
+    {
+      "address": "0x497a557c2da4b5d64d4ec4c79deb21f61651e2e4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Chz",
+      "symbol": "DevilBunnyBrat",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x497a557c2da4b5d64d4ec4c79deb21f61651e2e4"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:06.208Z",
+  "error": null
+}

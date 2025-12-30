@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: XTZ
+원본 풀네임: Tezos
+검색 쿼리: XTZ Tezos
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:12
+발견된 토큰 수: 15개
+전체 결과 수: 1204개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WXTZ
+ 이름: Wrapped XTZ
+ 주소: 0x91f9cc2649ac70a071602cade9b0c1a5868af51d
+ 체인ID: 8453
+ Decimals: 18
+
+[2] XTZ
+ 이름: Tezos Token
+ 주소: 0x16939ef78684453bfdfb47825f8a5f714f12623a
+ 체인ID: 56
+ Decimals: 18
+
+[3] BXX
+ 이름: Baanx
+ 주소: 0x6b1a8f210ec6b7b6643cea3583fb0c079f367898
+ 체인ID: 1
+ Decimals: 18
+
+[4] WXTZ
+ 이름: Wrapped XTZ
+ 주소: 0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab
+ 체인ID: 1
+ Decimals: 18
+
+[5] NFTXBT
+ 이름: nftxbt by Virtuals
+ 주소: 0x08c81699f9a357a9f0d04a09b353576ca328d60d
+ 체인ID: 8453
+ Decimals: 18
+
+[6] WXTZ
+ 이름: Wrapped XTZ
+ 주소: 0x7424f00845777a06e21f0bd8873f814a8a814b2d
+ 체인ID: 42161
+ Decimals: 18
+
+[7] XTZBEAR
+ 이름: 3X Short Tezos Token
+ 주소: 0xbc41d05287498dec58129560de6bd1b8d4e3ac1d
+ 체인ID: 1
+ Decimals: 18
+
+[8] WXTZ
+ 이름: Wrapped Tezos
+ 주소: 0xa3865e64121537b5b59b5e239db4acbe6f36aa74
+ 체인ID: 1
+ Decimals: 18
+
+[9] WXTZ Lofi
+ 이름: WXTZ Lofi
+ 주소: 0xb143a39ad1f4177f49aa55d7c6eae897f8acb519
+ 체인ID: 8453
+ Decimals: 18
+
+[10] DOGA
+ 이름: DOGAMI
+ 주소: 0x2f3e306d9f02ee8e8850f9040404918d0b345207
+ 체인ID: 137
+ Decimals: 5
+
+[11] Wrapped XTZ WXTZ
+ 이름: Wrapped XTZ WXTZ
+ 주소: 0x497777aec45fde7658ab2fa9f9cc74d1b26d0029
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Wrapped XTZ WXTZ
+ 이름: Wrapped XTZ WXTZ
+ 주소: 0x57a46da72a2ceaab17d9877b37caefa98b7158a4
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Wrapped XTZ WXTZ
+ 이름: Wrapped XTZ WXTZ
+ 주소: 0x9eb28ddd30f14ef266a44d94520e337ea4989b99
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Wrapped XTZ WXTZ
+ 이름: Wrapped XTZ WXTZ
+ 주소: 0x968f38c5e19e760f2bfac580b1a8347c2b1cb088
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Wrapped XTZ WXTZ
+ 이름: Wrapped XTZ WXTZ
+ 주소: 0x17e28a28b46faa2d76600d4af79f9007d8e9a210
+ 체인ID: 8453
+ Decimals: 18

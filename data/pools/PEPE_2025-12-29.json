@@ -5,11 +5,11 @@
     "dex": "raydium",
     "pool_address": "FCEnSxyJfRSKsz6tASUENCsfGwKgkH6YuRn1AMmyHhZn",
     "pair": "PEPE/USD",
-    "price_usd": 0.0003512,
-    "lp_reserve_usd": 185015.53,
-    "volume_24h": 819.91,
+    "price_usd": 0.0003488,
+    "lp_reserve_usd": 184020.7,
+    "volume_24h": 671.0,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023837
+    "timestamp": 1767052719
   }
 ]

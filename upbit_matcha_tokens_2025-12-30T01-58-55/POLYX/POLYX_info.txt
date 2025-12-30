@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: POLYX
+원본 풀네임: Polymesh
+검색 쿼리: POLYX Polymesh
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:55
+발견된 토큰 수: 15개
+전체 결과 수: 386개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] POLY
+ 이름: Polymath
+ 주소: 0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec
+ 체인ID: 1
+ Decimals: 18
+
+[2] Basis Gold Share Polymesh
+ 이름: Basis Gold Share Polymesh
+ 주소: 0xc33e39941adc59af6ebb641b7e9f168563748b44
+ 체인ID: 130
+ Decimals: 18
+
+[3] ,Polymesh Microsoft Tokenized Stock Defichain
+ 이름: ,Polymesh Microsoft Tokenized Stock Defichain
+ 주소: 0x437a83bcafa834b9c2bcc5248da11a63ec33aa63
+ 체인ID: 130
+ Decimals: 18
+
+[4] POLYX
+ 이름: Polymesh
+ 주소: 0x5eea157c0026f8e54235895fa7b5b143a58a2d2a
+ 체인ID: 8453
+ Decimals: 18
+
+[5] VisualChainPolymesh
+ 이름: Visual Chain Polymesh
+ 주소: 0x41dc89a86c61d87c5aa2d609def6c1a0dadfab1e
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Polymesh POLYX V2
+ 이름: Polymesh POLYX V2
+ 주소: 0x8bdb7f346404f0f03f9036c9c1720df61b36f13e
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Polymesh AVA
+ 이름: Polymesh AVA
+ 주소: 0xc0c9cddc74ec864d697a28e01f1541203321e3f5
+ 체인ID: 130
+ Decimals: 18
+
+[8] Polymesh Dark Frontiers
+ 이름: Polymesh Dark Frontiers
+ 주소: 0xbd5e31d7acfb9dc4236475cc955b69425ac7603c
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Polymesh Bird Dog
+ 이름: Polymesh Bird Dog
+ 주소: 0xd6f5f6c832986ffc6593021cd2fdd463463f6038
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Polymesh Raydium
+ 이름: Polymesh Raydium
+ 주소: 0xb2b16399ec1af51644afa03c1b06d087ff2c6ac2
+ 체인ID: 130
+ Decimals: 18
+
+[11] Polymesh Mog Coin
+ 이름: Polymesh Mog Coin
+ 주소: 0x604ef85c7fea037b6e6a9d630d413713ae6be4bc
+ 체인ID: 130
+ Decimals: 18
+
+[12] Polymesh Starknet
+ 이름: Polymesh Starknet
+ 주소: 0x5d71be90af24b4849e269b2522236cd0d5bfcff5
+ 체인ID: 130
+ Decimals: 18
+
+[13] Polymesh Berachain
+ 이름: Polymesh Berachain
+ 주소: 0x42036074c82a4e6834ca2974b9470fb06b35dee9
+ 체인ID: 130
+ Decimals: 18
+
+[14] Sei Polymesh
+ 이름: Sei Polymesh
+ 주소: 0xbbb0d3bbdfad3092a85175361f0705ded40ae351
+ 체인ID: 130
+ Decimals: 18
+
+[15] Polymesh Celo
+ 이름: Polymesh Celo
+ 주소: 0x90e590c1dada1a3e93f1a7de5ab365eee4a9a886
+ 체인ID: 130
+ Decimals: 18

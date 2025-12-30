@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LPT
+원본 풀네임: Livepeer
+검색 쿼리: LPT Livepeer
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:51
+발견된 토큰 수: 15개
+전체 결과 수: 3244개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] LPT (Livepeer) NFT
+ 이름: LPT (Livepeer) NFT
+ 주소: 0x49d116504f73d24f7d3b703cc4d82e779bed9c56
+ 체인ID: 8453
+ Decimals: 18
+
+[2] LPT
+ 이름: Livepeer Token
+ 주소: 0x289ba1701c2f088cf0faf8b3705246331cb8a839
+ 체인ID: 42161
+ Decimals: 18
+
+[3] LPT
+ 이름: Livepeer Token
+ 주소: 0x58b6a8a3302369daec383334672404ee733ab239
+ 체인ID: 1
+ Decimals: 18
+
+[4] LPT Livepeer On Base
+ 이름: LPT Livepeer On Base
+ 주소: 0x6f7ac0236a639112c2fb7887bbd96dbc1e755198
+ 체인ID: 8453
+ Decimals: 18
+
+[5] LPT Livepeer AI Presale v2
+ 이름: LPT Livepeer AI Presale v2
+ 주소: 0x62badd8ad81bebcbcff2edfaf3a58ced251a9cc2
+ 체인ID: 8453
+ Decimals: 18
+
+[6] LPT Livepeer AI Presale v2
+ 이름: LPT Livepeer AI Presale v2
+ 주소: 0xdb0f397f41dfbcf36aba984974408d384aff72b1
+ 체인ID: 56
+ Decimals: 9
+
+[7] FOMO
+ 이름: FomoBullClub
+ 주소: 0x9a86980d3625b4a6e69d8a4606d51cbc019e2002
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Mithril Share Lpt
+ 이름: Mithril Share Lpt
+ 주소: 0x2655b5d4473cab989ec2d27a549fe4fd45e3db10
+ 체인ID: 130
+ Decimals: 18
+
+[9] tLPT
+ 이름: tender LPT
+ 주소: 0xfac38532829fdd744373fdcd4708ab90fa0c4078
+ 체인ID: 42161
+ Decimals: 18
+
+[10] LPT Livepe
+ 이름: LPT Livepeer On Binance Alpha
+ 주소: 0xe4b6aad23acfd736d33df8efcb7da50e465404b0
+ 체인ID: 56
+ Decimals: 18
+
+[11] LPTLIV
+ 이름: LPT Livepeer Perpetual
+ 주소: 0xf61973c51ec0b7d8457007f2a9d9e23af9828bd7
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Lpt
+ 이름: Lpt
+ 주소: 0xb3229782669ba53294ae94002de11c5fcca2161b
+ 체인ID: 8453
+ Decimals: 18
+
+[13] hETH
+ 이름: Hinkal ETH
+ 주소: 0x270b7748cdf8243bfe68face7230ef0fce695389
+ 체인ID: 1
+ Decimals: 18
+
+[14] LPT
+ 이름: Crypto Pug LPT
+ 주소: 0xa93f5cfd50fd5551cbbbd6df6ea25e6dbccdf364
+ 체인ID: 8453
+ Decimals: 18
+
+[15] LPT
+ 이름: Love. Peace. Tesla
+ 주소: G4yYwe8mSrgwjzGvyZZJb98u16n4kXWURBDjH6Dpump
+ 체인ID: 1399811149
+ Decimals: 6

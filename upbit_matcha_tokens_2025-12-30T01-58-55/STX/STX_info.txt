@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: STX
+원본 풀네임: Stacks
+검색 쿼리: STX Stacks
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:44
+발견된 토큰 수: 15개
+전체 결과 수: 1877개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
+ 체인ID: 10
+ Decimals: 6
+
+[2] USDbC
+ 이름: USD Base Coin
+ 주소: 0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca
+ 체인ID: 8453
+ Decimals: 6
+
+[3] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[4] SUSHI
+ 이름: SushiToken
+ 주소: 0x6b3595068778dd592e39a122f4f5a5cf09c90fe2
+ 체인ID: 1
+ Decimals: 18
+
+[5] FET
+ 이름: Fetch
+ 주소: 0xaea46a60368a7bd060eec7df8cba43b7ef41ad85
+ 체인ID: 1
+ Decimals: 18
+
+[6] DRV
+ 이름: Derive
+ 주소: 0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083
+ 체인ID: 8453
+ Decimals: 18
+
+[7] RIO
+ 이름: Realio Network
+ 주소: 0x94a8b4ee5cd64c79d0ee816f467ea73009f51aa0
+ 체인ID: 1
+ Decimals: 18
+
+[8] P
+ 이름: Plume
+ 주소: 0x4c1746a800d224393fe2470c70a35717ed4ea5f1
+ 체인ID: 1
+ Decimals: 18
+
+[9] SUSHI
+ 이름: SushiToken (PoS)
+ 주소: 0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a
+ 체인ID: 137
+ Decimals: 18
+
+[10] NEAR
+ 이름: NEAR
+ 주소: 0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4
+ 체인ID: 1
+ Decimals: 24
+
+[11] ONLYUP
+ 이름: ONLYUP
+ 주소: 0x268d46d09d59d555350701a5336dc0d516f80de3
+ 체인ID: 8453
+ Decimals: 18
+
+[12] FET
+ 이름: Fetch
+ 주소: 0x031b41e504677879370e9dbcf937283a8691fa7f
+ 체인ID: 56
+ Decimals: 18
+
+[13] ALU
+ 이름: Altura
+ 주소: 0x8263cd1601fe73c066bf49cc09841f35348e3be0
+ 체인ID: 56
+ Decimals: 18
+
+[14] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 42161
+ Decimals: 18
+
+[15] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
+ 체인ID: 1
+ Decimals: 18

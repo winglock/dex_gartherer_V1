@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SC
+원본 풀네임: Siacoin
+검색 쿼리: SC Siacoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:51
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SC Siacoin On Base
+ 이름: SC Siacoin On Base
+ 주소: 0xea3036db033329622f2c526bd7e019cf8497235f
+ 체인ID: 8453
+ Decimals: 18
+
+[2] SC Siacoin
+ 이름: SC Siacoin On Binance Alpha
+ 주소: 0x1ec2d95ea6df6a4370cc69f85ec53c4edb819eaa
+ 체인ID: 56
+ Decimals: 18
+
+[3] SC Siacoin AI Presale v2
+ 이름: SC Siacoin AI Presale v2
+ 주소: 0x75cc6de19e659bc2b34ecc8f445213f7b81961c6
+ 체인ID: 8453
+ Decimals: 18
+
+[4] SC Siacoin AI Presale v2
+ 이름: SC Siacoin AI Presale v2
+ 주소: 0x7d15004ffff1388073e2b80d19769680b7d7fee0
+ 체인ID: 56
+ Decimals: 9
+
+[5] Sc Share
+ 이름: Sc Share
+ 주소: 0x23de50cf56ebe50d9e919ad44bce2ab6e42b16d0
+ 체인ID: 130
+ Decimals: 18
+
+[6] stock cat
+ 이름: sc
+ 주소: 2LkerVTX9SFjDrQwk8raT8A18gdhTTjG5viv8iFFXNgb
+ 체인ID: 1399811149
+ Decimals: 9
+
+[7] SCSIAC
+ 이름: SC Siacoin Perpetual
+ 주소: 0x50904e138c00ccbf2d94ce0ee57401319fcb1152
+ 체인ID: 8453
+ Decimals: 18
+
+[8] sc
+ 이름: sc
+ 주소: 0xeeef83e86c2dd0f51965c7de497b3cd852d6fc8f
+ 체인ID: 8453
+ Decimals: 18
+
+[9] sC
+ 이름: sC
+ 주소: 0x0afa19d05b9d49b19f67ae94e9c3681649fe25ee
+ 체인ID: 8453
+ Decimals: 18
+
+[10] SC
+ 이름: SC
+ 주소: 0xdcf744762ec5720dcc29356540371e139f316ce4
+ 체인ID: 8453
+ Decimals: 18
+
+[11] SC
+ 이름: SC
+ 주소: 0x8013f29c6b55e11059a2b214a5f6985a1faf0b34
+ 체인ID: 8453
+ Decimals: 18
+
+[12] SC
+ 이름: SC
+ 주소: 0x8c123d0728c2676f2511b2797f1acfd94c83cdad
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Sc
+ 이름: Sc
+ 주소: 0x9d00c470909a25770c4e9a6664b5a313c11d2a8d
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Sc
+ 이름: Sc
+ 주소: 0x452a2ec6aaa00a6f3428b894107af2bcf3042c06
+ 체인ID: 8453
+ Decimals: 18
+
+[15] sC
+ 이름: sC
+ 주소: 0xd57fd3552ae52a7a9185f61529c242fb3c21de93
+ 체인ID: 8453
+ Decimals: 18

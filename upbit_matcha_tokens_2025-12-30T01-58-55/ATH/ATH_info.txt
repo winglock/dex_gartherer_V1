@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ATH
+원본 풀네임: Aethir
+검색 쿼리: ATH Aethir
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:48
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] TOKEN
+ 이름: TokenFi
+ 주소: 0x4507cef57c46789ef8d1a19ea45f4216bae2b528
+ 체인ID: 56
+ Decimals: 9
+
+[2] TOKEN
+ 이름: TokenFi
+ 주소: 0x4507cef57c46789ef8d1a19ea45f4216bae2b528
+ 체인ID: 1
+ Decimals: 9
+
+[3] ATH
+ 이름: Aethir Token
+ 주소: 0xc87b37a581ec3257b734886d9d3a581f5a9d056c
+ 체인ID: 42161
+ Decimals: 18
+
+[4] ATH
+ 이름: Aethir Token
+ 주소: 0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b
+ 체인ID: 1
+ Decimals: 18
+
+[5] ATH Aethir AI
+ 이름: ATH Aethir AI
+ 주소: 0xaeaf151ec60cc5caddca439cf171bfcbfedb7cbe
+ 체인ID: 8453
+ Decimals: 9
+
+[6] ATH Aethir On Base
+ 이름: ATH Aethir On Base
+ 주소: 0x971a5a74b359787976a34d9949331dd4b29c69dc
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ATH Aethir AI Presale v2
+ 이름: ATH Aethir AI Presale v2
+ 주소: 0x7f20a9ff4e3ec4ad6033c6ab06c33fb63a7095d1
+ 체인ID: 56
+ Decimals: 9
+
+[8] PAID
+ 이름: PAID Network
+ 주소: 0x655a51e6803faf50d4ace80fa501af2f29c856cf
+ 체인ID: 8453
+ Decimals: 18
+
+[9] MRSMIGGLES
+ 이름: Mrs Miggles
+ 주소: 0x31b28012f61fc3600e1c076bafc9fd997fb2da90
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ATH
+ 이름: AthenaDAO Token
+ 주소: 0xa4ffdf3208f46898ce063e25c1c43056fa754739
+ 체인ID: 1
+ Decimals: 18
+
+[11] OXI
+ 이름: Oxbull
+ 주소: 0x07fb80f7a8460de3065d74b2663ba0d740fb3ca5
+ 체인ID: 8453
+ Decimals: 18
+
+[12] PEPE2.0
+ 이름: Pepe 2.0
+ 주소: 0x0305f515fa978cf87226cf8a9776d25bcfb2cc0b
+ 체인ID: 1
+ Decimals: 18
+
+[13] ATH
+ 이름: AthenaDAO Token
+ 주소: 0x58d75a1c4477914f9a98a8708feaed1dbe40b8a3
+ 체인ID: 8453
+ Decimals: 18
+
+[14] ATH Aethir AI
+ 이름: ATHAET
+ 주소: 0x2f558212bb430c11f9bfb7c83ba22acbd86b1e6b
+ 체인ID: 8453
+ Decimals: 9
+
+[15] ATH Aethir AI
+ 이름: ATHAET
+ 주소: 0x94a4b411acd83e16bb4b5456597b7fc3d0af049a
+ 체인ID: 8453
+ Decimals: 9

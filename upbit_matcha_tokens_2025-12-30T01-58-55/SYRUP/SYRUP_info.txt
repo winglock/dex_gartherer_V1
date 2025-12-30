@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SYRUP
+원본 풀네임: Syrup
+검색 쿼리: SYRUP Syrup
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:47
+발견된 토큰 수: 15개
+전체 결과 수: 1722개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SYRUP
+ 이름: Syrup Token
+ 주소: 0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66
+ 체인ID: 1
+ Decimals: 18
+
+[2] SYRUP
+ 이름: Syrup Token
+ 주소: 0x688aee022aa544f150678b8e5720b6b96a9e9a2f
+ 체인ID: 8453
+ Decimals: 18
+
+[3] syrupUSDC
+ 이름: Syrup USDC
+ 주소: 0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b
+ 체인ID: 1
+ Decimals: 6
+
+[4] syrupUSDC
+ 이름: Syrup USDC
+ 주소: 0x660975730059246a68521a3e2fbd4740173100f5
+ 체인ID: 8453
+ Decimals: 6
+
+[5] syrupUSDC
+ 이름: Syrup USDC
+ 주소: 0x41ca7586cc1311807b4605fbb748a3b8862b42b5
+ 체인ID: 42161
+ Decimals: 6
+
+[6] Syrup (SYRUP)
+ 이름: Syrup (SYRUP)
+ 주소: 0xb665703f6a9f8a63e6e0577ba112d94d60bc0555
+ 체인ID: 8453
+ Decimals: 18
+
+[7] syrupUSDT
+ 이름: Syrup USDT
+ 주소: 0x356b8d89c1e1239cbbb9de4815c39a1474d5ba7d
+ 체인ID: 1
+ Decimals: 6
+
+[8] syrupUSDT
+ 이름: Syrup USDT
+ 주소: 0xc4374775489cb9c56003bf2c9b12495fc64f0771
+ 체인ID: 9745
+ Decimals: 6
+
+[9] syrupUSDC
+ 이름: Syrup USDC
+ 주소: AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] je m'apple syrup
+ 이름: je m'apple syrup
+ 주소: 0x0c549e3d5fce70eccc5c3ee29f637453fcf23461
+ 체인ID: 56
+ Decimals: 4
+
+[11] A(S(
+ 이름: Aethir (ATH) Syrup (SYRUP)
+ 주소: EAkdjBoUHnrhataWpBE5SyEb8ZBDWrrJnoXYUyXe5Saw
+ 체인ID: 1399811149
+ Decimals: 6
+
+[12] TSP
+ 이름: Tesla Syrup
+ 주소: 0xd1a50765bef37d05ee531bdea22b3df74a905dde
+ 체인ID: 56
+ Decimals: 18
+
+[13] APS
+ 이름: Apple Syrup
+ 주소: 0x50291c1e8eff9ad4f0fa859b3fe128e5a1fc28bf
+ 체인ID: 56
+ Decimals: 9
+
+[14] Syrup
+ 이름: Syrup
+ 주소: 0xf7488cf8e96b9506d4a65b9d5625214df15d032b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Syrup
+ 이름: Syrup
+ 주소: 0x55f616fb2ecb0e28325baa03bff22404581a1fbe
+ 체인ID: 8453
+ Decimals: 18

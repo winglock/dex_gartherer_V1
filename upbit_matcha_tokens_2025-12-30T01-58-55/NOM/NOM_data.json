@@ -1,0 +1,302 @@
+{
+  "originalSymbol": "NOM",
+  "originalFullName": "Nomina",
+  "searchedQuery": "NOM Nomina",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 1612,
+  "tokens": [
+    {
+      "address": "0x6e6f6d696e61decd6605bd4a57836c5db6923340",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Nomina",
+      "symbol": "NOM",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 3,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 3,
+      "transactionsWeekly": 14,
+      "transactionsMonthly": 36,
+      "volumeUsdHourly": 151.931364945677,
+      "volumeUsdDaily": 434.7358894245089,
+      "volumeUsdWeekly": 883.1442231418172,
+      "volumeUsdMonthly": 2302.493876557341,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x6e6f6d696e61decd6605bd4a57836c5db6923340"
+    },
+    {
+      "address": "0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "nomad",
+      "symbol": "NOM",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 1,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 1,
+      "transactionsWeekly": 4,
+      "transactionsMonthly": 17,
+      "volumeUsdHourly": 11.376662269902,
+      "volumeUsdDaily": 11.376662269902,
+      "volumeUsdWeekly": 30.131508901613753,
+      "volumeUsdMonthly": 1324.126005508691,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6776caccfdcd0dfd5a38cb1d0b3b39a4ca9283ce"
+    },
+    {
+      "address": "0x44072430e1a62a766e80d4e973026b2d52317bb7",
+      "chainId": 8453,
+      "decimals": 9,
+      "name": "Index Nom",
+      "symbol": "Index Nom",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x44072430e1a62a766e80d4e973026b2d52317bb7"
+    },
+    {
+      "address": "0xb62943fee917df5c895facc0c29d08dfd74028da",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom nom",
+      "symbol": "Nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb62943fee917df5c895facc0c29d08dfd74028da"
+    },
+    {
+      "address": "0xb79378fd1dc23e41201a88d625d0482dd45c84f9",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom nom",
+      "symbol": "Nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb79378fd1dc23e41201a88d625d0482dd45c84f9"
+    },
+    {
+      "address": "0x052bac0818d8e7aa5141050de737307a70235609",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom Nom Nom",
+      "symbol": "Nom Nom Nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x052bac0818d8e7aa5141050de737307a70235609"
+    },
+    {
+      "address": "0x8aaf49cc62b9ce922c95ba8256c7d43c4c830db8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "nom nom nom",
+      "symbol": "nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8aaf49cc62b9ce922c95ba8256c7d43c4c830db8"
+    },
+    {
+      "address": "0xa8b0bc8ff5f357aa7d1bf95877ec7180021d1409",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom nom",
+      "symbol": "Nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xa8b0bc8ff5f357aa7d1bf95877ec7180021d1409"
+    },
+    {
+      "address": "0x759a07c8dae2699b9c3b8dd7bd38fd7ac0703316",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "nom nom nom",
+      "symbol": "nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x759a07c8dae2699b9c3b8dd7bd38fd7ac0703316"
+    },
+    {
+      "address": "0x239b2b48442fc7e03856fa30c4c7637299d24462",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom nom",
+      "symbol": "Nom nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x239b2b48442fc7e03856fa30c4c7637299d24462"
+    },
+    {
+      "address": "0x64c0928be23b33263ce864eb0eb7193ec49c9afe",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "nom nom",
+      "symbol": "nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x64c0928be23b33263ce864eb0eb7193ec49c9afe"
+    },
+    {
+      "address": "0xd86212948d2dc0a9403190ec7697764160c8f595",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom",
+      "symbol": "Nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd86212948d2dc0a9403190ec7697764160c8f595"
+    },
+    {
+      "address": "0x9ab6dfda92ca7032be1a892ae7595f5380d63cbe",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom Nom",
+      "symbol": "Nom Nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9ab6dfda92ca7032be1a892ae7595f5380d63cbe"
+    },
+    {
+      "address": "0x71eb8a1960503cb44544190eaad55620a6c5fd31",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom Nom",
+      "symbol": "Nom Nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x71eb8a1960503cb44544190eaad55620a6c5fd31"
+    },
+    {
+      "address": "0x401580931db4449bcebeae06774ed184772b30b8",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Nom nom",
+      "symbol": "Nom nom",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x401580931db4449bcebeae06774ed184772b30b8"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:34.209Z",
+  "error": null
+}

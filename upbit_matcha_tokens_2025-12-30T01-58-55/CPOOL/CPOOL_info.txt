@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CPOOL
+원본 풀네임: Clearpool
+검색 쿼리: CPOOL Clearpool
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:50
+발견된 토큰 수: 15개
+전체 결과 수: 1020개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] CPOOL
+ 이름: Clearpool
+ 주소: 0x66761fa41377003622aee3c7675fc7b5c1c2fac5
+ 체인ID: 1
+ Decimals: 18
+
+[2] CPOOL Clearpool On Base
+ 이름: CPOOL Clearpool On Base
+ 주소: 0xc988d19d4e63cb088e2b4dc50ac9cfe48bf627ed
+ 체인ID: 8453
+ Decimals: 18
+
+[3] CPOOL Clearpool AI Presale v2
+ 이름: CPOOL Clearpool AI Presale v2
+ 주소: 0x97646fa78496d4ac6dcb70e1be81b3c5cfaf1bfa
+ 체인ID: 56
+ Decimals: 9
+
+[4] CPOOL Clea
+ 이름: CPOOL Clearpool On Binance Alpha
+ 주소: 0x3a65aa1a71658f81382aa8628bc15d28e2131ac8
+ 체인ID: 56
+ Decimals: 18
+
+[5] CPOOLC
+ 이름: CPOOL Clearpool Perpetual
+ 주소: 0x2d5d17a3ed472456f79489419106c3d8c7e4bfec
+ 체인ID: 8453
+ Decimals: 18
+
+[6] CPOOL
+ 이름: CPOOL
+ 주소: 0x5adc891266ab5a13af5261f06748253a9a296251
+ 체인ID: 8453
+ Decimals: 18
+
+[7] HEARDSOMEGOODRUMOURSABOUT$CPOOL
+ 이름: HEARDSOMEGOODRUMOURSABOUT$CPOOL
+ 주소: 0xd67fb38904d92e31cd3dfdecf5483b84437e4797
+ 체인ID: 8453
+ Decimals: 18
+
+[8] BUYCPOOL
+ 이름: BUY CPOOL
+ 주소: 0x4a4c1716052e3bc8c3ddd5d99842294937422916
+ 체인ID: 8453
+ Decimals: 18
+
+[9] CPOOLA
+ 이름: CPOOL AI
+ 주소: 0x7df5745f79b36578c9c976dd3513d64e3cb2ae5f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] CPOOL
+ 이름: Clearpool
+ 주소: 0x3590aa18fc90bab9fbb0498fe730168fcb99eef3
+ 체인ID: 1
+ Decimals: 18
+
+[11] CPOOL
+ 이름: Clearpool
+ 주소: 0x8846742df5af3b02e0a5f34d2ac5e83a24f8b83e
+ 체인ID: 8453
+ Decimals: 18
+
+[12] CPOOL
+ 이름: CPOOL
+ 주소: 0x1445c581ada757425ccc4ce8dcc12af6b05d39db
+ 체인ID: 56
+ Decimals: 18
+
+[13] CPOOL
+ 이름: CPOOL
+ 주소: 0x139bb52b4743400b7ea99027166784d6ba902aad
+ 체인ID: 56
+ Decimals: 18
+
+[14] CPOOL
+ 이름: CPOOL
+ 주소: 0x989a1b51681110fe01548c83b37258fc9e5dfd0e
+ 체인ID: 1
+ Decimals: 18
+
+[15] CPOOL
+ 이름: CPOOL
+ 주소: 0xd6def84ab0c520434e95d3849f01a85143da9be4
+ 체인ID: 1
+ Decimals: 18

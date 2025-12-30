@@ -1,5 +1,6 @@
 use async_trait::async_trait;
 use reqwest::Client;
+use serde::Deserialize;
 use std::collections::HashMap;
 use std::sync::Arc;
 use std::time::Duration;
@@ -10,11 +11,6 @@ use super::{PoolSource, SourceError};
 /// Shared token address cache (symbol -> chain_id -> address)
 pub type TokenCache = Arc<RwLock<HashMap<String, HashMap<u32, String>>>>;
 
-/// Create a new shared token cache
-pub fn new_token_cache() -> TokenCache {
-    Arc::new(RwLock::new(HashMap::new()))
-}
-
 /// Get USDC address for chain
 fn get_usdc_address(chain_id: u32) -> &'static str {
     match chain_id {
@@ -24,78 +20,52 @@ fn get_usdc_address(chain_id: u32) -> &'static str {
         42161 => "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
         10 => "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
         8453 => "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        43114 => "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
         _ => "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     }
 }
 
-/// Matcha Token Resolver - fetches token addresses and caches them
+/// Load consolidated token data from JSON file
+fn load_token_data() -> HashMap<String, HashMap<u32, String>> {
+    let json_str = include_str!("../../matcha_tokens_consolidated.json");
+    
+    // Parse JSON: {"SYMBOL": {"chainId": "address", ...}, ...}
+    let raw: HashMap<String, HashMap<String, String>> = 
+        serde_json::from_str(json_str).unwrap_or_default();
+    
+    // Convert string chain IDs to u32
+    raw.into_iter()
+        .map(|(symbol, chains)| {
+            let converted: HashMap<u32, String> = chains.into_iter()
+                .filter_map(|(chain_str, addr)| {
+                    chain_str.parse::<u32>().ok().map(|id| (id, addr))
+                })
+                .collect();
+            (symbol, converted)
+        })
+        .collect()
+}
+
+/// Create a new shared token cache pre-loaded with Matcha data
+pub fn new_token_cache() -> TokenCache {
+    Arc::new(RwLock::new(load_token_data()))
+}
+
+/// Matcha Token Resolver - uses pre-loaded data from consolidated JSON
 pub struct MatchaTokenResolver {
-    client: Client,
     cache: TokenCache,
 }
 
 impl MatchaTokenResolver {
     pub fn new(cache: TokenCache) -> Self {
-        Self {
-            client: Client::builder()
-                .timeout(Duration::from_secs(10))
-                .build()
-                .unwrap(),
-            cache,
-        }
+        Self { cache }
     }
 
-    /// Fetch and cache token addresses from Matcha
-    pub async fn resolve(&self, symbol: &str) -> HashMap<u32, String> {
-        // Check cache first
-        {
-            let cache = self.cache.read();
-            if let Some(addresses) = cache.get(&symbol.to_uppercase()) {
-                return addresses.clone();
-            }
-        }
-
-        // Fetch from Matcha API
-        let chain_ids = "1,56,137,42161,10,8453";
-        let url = format!(
-            "https://matcha.xyz/api/tokens/search?chainId={}&limit=10&query={}",
-            chain_ids, symbol
-        );
-
-        let mut addresses = HashMap::new();
-
-        if let Ok(resp) = self.client.get(&url)
-            .header("accept", "*/*")
-            .header("referer", "https://matcha.xyz/")
-            .header("user-agent", "Mozilla/5.0")
-            .send()
-            .await
-        {
-            if resp.status().is_success() {
-                if let Ok(data) = resp.json::<serde_json::Value>().await {
-                    if let Some(tokens) = data["data"].as_array() {
-                        for token in tokens {
-                            let token_symbol = token["symbol"].as_str().unwrap_or("");
-                            let chain_id = token["chainId"].as_u64().unwrap_or(0) as u32;
-                            let address = token["address"].as_str().unwrap_or("");
-
-                            // Exact match only
-                            if token_symbol.eq_ignore_ascii_case(symbol) && !address.is_empty() {
-                                addresses.insert(chain_id, address.to_string());
-                            }
-                        }
-                    }
-                }
-            }
-        }
-
-        // Cache the result
-        if !addresses.is_empty() {
-            let mut cache = self.cache.write();
-            cache.insert(symbol.to_uppercase(), addresses.clone());
-        }
-
-        addresses
+    pub fn resolve(&self, symbol: &str) -> HashMap<u32, String> {
+        let cache = self.cache.read();
+        cache.get(&symbol.to_uppercase())
+            .cloned()
+            .unwrap_or_default()
     }
 }
 
@@ -104,7 +74,7 @@ impl PoolSource for MatchaTokenResolver {
     fn name(&self) -> &'static str { "Matcha" }
 
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
-        let addresses = self.resolve(symbol).await;
+        let addresses = self.resolve(symbol);
         
         let pools: Vec<PoolData> = addresses.iter()
             .map(|(chain_id, address)| {
@@ -115,13 +85,15 @@ impl PoolSource for MatchaTokenResolver {
                     42161 => "arbitrum",
                     10 => "optimism",
                     8453 => "base",
+                    43114 => "avalanche",
+                    130 => "unichain",
                     _ => "other",
                 };
                 
                 PoolData::new(
                     symbol.to_string(),
                     chain_name.to_string(),
-                    "matcha".to_string(),
+                    "matcha-data".to_string(),
                     address.clone(),
                     format!("{} token", symbol),
                     0.0, 0.0, 0.0,
@@ -134,7 +106,7 @@ impl PoolSource for MatchaTokenResolver {
     }
 }
 
-/// KyberSwap with dynamic token resolution
+/// KyberSwap with static token data
 pub struct KyberSwapDirectSource {
     client: Client,
     cache: TokenCache,
@@ -166,7 +138,7 @@ impl PoolSource for KyberSwapDirectSource {
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
         let mut pools = Vec::new();
         
-        for (chain_name, chain_id) in [("ethereum", 1u32), ("bsc", 56), ("polygon", 137)] {
+        for (chain_name, chain_id) in [("ethereum", 1u32), ("bsc", 56), ("polygon", 137), ("arbitrum", 42161)] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
@@ -234,7 +206,7 @@ impl PoolSource for KyberSwapDirectSource {
     }
 }
 
-/// OpenOcean with dynamic token resolution
+/// OpenOcean with static token data
 pub struct OpenOceanDirectSource {
     client: Client,
     cache: TokenCache,
@@ -266,7 +238,13 @@ impl PoolSource for OpenOceanDirectSource {
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
         let mut pools = Vec::new();
         
-        for (chain, chain_id, chain_name) in [("eth", 1u32, "ethereum"), ("bsc", 56, "bsc"), ("polygon", 137, "polygon")] {
+        for (chain, chain_id, chain_name) in [
+            ("eth", 1u32, "ethereum"), 
+            ("bsc", 56, "bsc"), 
+            ("polygon", 137, "polygon"),
+            ("arbitrum", 42161, "arbitrum"),
+            ("base", 8453, "base"),
+        ] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,
@@ -308,7 +286,7 @@ impl PoolSource for OpenOceanDirectSource {
     }
 }
 
-/// ParaSwap with dynamic token resolution
+/// ParaSwap with static token data
 pub struct ParaSwapDirectSource {
     client: Client,
     cache: TokenCache,
@@ -340,7 +318,7 @@ impl PoolSource for ParaSwapDirectSource {
     async fn fetch_pools(&self, symbol: &str) -> Result<Vec<PoolData>, SourceError> {
         let mut pools = Vec::new();
         
-        for (chain_id, chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon")] {
+        for (chain_id, chain_name) in [(1u32, "ethereum"), (56, "bsc"), (137, "polygon"), (42161, "arbitrum")] {
             let token_addr = match self.get_token_address(symbol, chain_id) {
                 Some(addr) => addr,
                 None => continue,

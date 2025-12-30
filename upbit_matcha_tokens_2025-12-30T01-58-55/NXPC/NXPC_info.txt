@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: NXPC
+원본 풀네임: NXPC
+검색 쿼리: NXPC NXPC
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:13
+발견된 토큰 수: 15개
+전체 결과 수: 249개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] NXPC
+ 이름: NXPC
+ 주소: 0x5e0e90e268bc247cc850c789a0db0d5c7621fb59
+ 체인ID: 43114
+ Decimals: 18
+
+[2] NXPC
+ 이름: NXPC
+ 주소: 0xf2b51cc1850fed939658317a22d73d3482767591
+ 체인ID: 56
+ Decimals: 18
+
+[3] nxpc
+ 이름: nxpc
+ 주소: 0x3f4ccf2be5f7ca52c0718d7873a8ad68496abe0d
+ 체인ID: 8453
+ Decimals: 18
+
+[4] nxpc
+ 이름: nxpc
+ 주소: 0xbfe09c5e9e973edb72d8d4d9c7e279e69879008d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] NXPC
+ 이름: NXPC
+ 주소: 0x224f4b97fd0b0f6ce19b93a429014a7ab9b76ebd
+ 체인ID: 8453
+ Decimals: 18
+
+[6] $NXPC
+ 이름: $NXPC
+ 주소: 0x1b57305eac90559ef126dcaa44d4cfc95b90cbbf
+ 체인ID: 8453
+ Decimals: 18
+
+[7] NXPC
+ 이름: NXPC
+ 주소: 0xc451c01e2d2c2607b9bbd339e8e21910501f2fe5
+ 체인ID: 8453
+ Decimals: 18
+
+[8] $NXPC Seasonis Die
+ 이름: $NXPC Seasonis Die
+ 주소: 0xbb21d14a6bae0ee5d8f1d8e9ff0aada4e0843f3c
+ 체인ID: 8453
+ Decimals: 18
+
+[9] NXPC Token Splash
+ 이름: NXPC Token Splash
+ 주소: 0x7282a8da922f8436ef3dad021bd6b31518c8da9b
+ 체인ID: 8453
+ Decimals: 18
+
+[10] PUMP IT $NXPC
+ 이름: PUMP IT $NXPC
+ 주소: 0xdb18dd0c1116af45c8f374047a9f925782df9f87
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ASoftStaking Just Got Smarter with $NXPC! 🔥Say hello to soft s
+ 이름: BSoft Staking Just Got Smarter with $NXPC! 🔥Say hello to soft s
+ 주소: 0x3a9613f2aef61f56ddc009f4b217c413e06eb02c
+ 체인ID: 8453
+ Decimals: 18
+
+[12] E💥$5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 이름: F💥 $5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 주소: 0x8bdaf9d05393490b2d86d8b5415f4cae0cd650a2
+ 체인ID: 8453
+ Decimals: 18
+
+[13] A#SoftStaking for $NXPC  on and let me tell you, it’s a game-cha
+ 이름: B#SoftStaking  for $NXPC  on and let me tell you, it’s a game-cha
+ 주소: 0x907f2e451e047832522b7dc1b110e909ff294009
+ 체인ID: 8453
+ Decimals: 18
+
+[14] E💥$5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 이름: F💥 $5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 주소: 0x1dc98a9d027fcc8c5520bcb37fe833a407eeed6d
+ 체인ID: 8453
+ Decimals: 18
+
+[15] E💥$5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 이름: F💥 $5.25 NXPC x Binance Airdrop (FCFS – Only 8,000 Users!)🔍 H
+ 주소: 0x173cb9752f4c10958547c2d8fbd05787c5c63e80
+ 체인ID: 8453
+ Decimals: 18

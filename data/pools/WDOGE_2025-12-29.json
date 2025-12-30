@@ -1,0 +1,54 @@
+[
+  {
+    "symbol": "wDOGE",
+    "chain": "bsc",
+    "dex": "0x57A2854f8F9BcF62AE26584B82B76Ea9fB57d53d",
+    "pool_address": "0x37E8f662E047495C998a2138d135370751B2470F",
+    "pair": "WDOGE/USD",
+    "price_usd": 3.806e-12,
+    "lp_reserve_usd": 0.09,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767050514
+  },
+  {
+    "symbol": "wDOGE",
+    "chain": "bsc",
+    "dex": "0x670f55c6284c629c23baE99F585e3f17E8b9FC31",
+    "pool_address": "0xf00EB7A0D69c4243666f9D0e234808Cec084353c",
+    "pair": "WDOGE/USD",
+    "price_usd": 3.351e-12,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767028880
+  },
+  {
+    "symbol": "wDOGE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x89fBBB4d2fECE1e9bE88bD498B4420E55AEd6c9b",
+    "pair": "WDOGE/USD",
+    "price_usd": 3.823e-12,
+    "lp_reserve_usd": 404.76,
+    "volume_24h": 0.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052720
+  },
+  {
+    "symbol": "wDOGE",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x1dF12e59C2ff8bF85a7d50bCb275a00FEE37F276",
+    "pair": "WDOGE/USD",
+    "price_usd": 3.804e-12,
+    "lp_reserve_usd": 427.64,
+    "volume_24h": 0.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052720
+  }
+]

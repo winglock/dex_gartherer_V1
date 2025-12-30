@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MNT
+원본 풀네임: Mantle
+검색 쿼리: MNT Mantle
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:40
+발견된 토큰 수: 15개
+전체 결과 수: 5277개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MNT (Mantle)
+ 이름: MNT (Mantle)
+ 주소: 0x28ed87d2330e1a5c65a6d62f0c77b5e7b5d27f7d
+ 체인ID: 8453
+ Decimals: 18
+
+[2] WMNT
+ 이름: Wrapped Mantle
+ 주소: 0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8
+ 체인ID: 5000
+ Decimals: 18
+
+[3] MNT
+ 이름: Mantle
+ 주소: 0x3c3a81e81dc49a522a592e7622a7e711c06bf354
+ 체인ID: 1
+ Decimals: 18
+
+[4] H⬜️ MNT (Mantle) Analysis✔️ Mantle is one of the important Ethe
+ 이름: H⬜️ MNT (Mantle) Analysis✔️ Mantle is one of the important Ethe
+ 주소: 0xab0c70c42b99c430be863844925678ee564c805b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MNT Mantle 2026
+ 이름: MNT Mantle 2026
+ 주소: 0x1c444eed13d403842c144c590d52ff9cbf5734ca
+ 체인ID: 56
+ Decimals: 18
+
+[6] MNT Mantle On Base
+ 이름: MNT Mantle On Base
+ 주소: 0x411a987224ba349ec1963beef3b12b9837e556af
+ 체인ID: 8453
+ Decimals: 18
+
+[7] MNT Mantle AI Presale v2
+ 이름: MNT Mantle AI Presale v2
+ 주소: 0xf6106592c4e9a4e0d86e497539cbb86a300844b3
+ 체인ID: 56
+ Decimals: 18
+
+[8] WETH
+ 이름: Ether
+ 주소: 0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111
+ 체인ID: 5000
+ Decimals: 18
+
+[9] ORDER
+ 이름: Orderly Network
+ 주소: 0xabd4c63d2616a5201454168269031355f4764337
+ 체인ID: 1
+ Decimals: 18
+
+[10] MNT
+ 이름: Mantle Token
+ 주소: 0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000
+ 체인ID: 5000
+ Decimals: 18
+
+[11] cmETH
+ 이름: cmETH
+ 주소: 0xe6829d9a7ee3040e1276fa75293bde931859e8fa
+ 체인ID: 5000
+ Decimals: 18
+
+[12] mETH
+ 이름: mETH
+ 주소: 0xcda86a272531e8640cd7f1a92c01839911b90bb0
+ 체인ID: 5000
+ Decimals: 18
+
+[13] mETH
+ 이름: mETH
+ 주소: 0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa
+ 체인ID: 1
+ Decimals: 18
+
+[14] BASE-MNT
+ 이름: BASE-MNT
+ 주소: 0x10b80bea64ac357dd2ad0243a3b8478e511781fe
+ 체인ID: 8453
+ Decimals: 18
+
+[15] ORDER
+ 이름: Orderly Network
+ 주소: 0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8
+ 체인ID: 42161
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ANIME
+원본 풀네임: AnimeCoin
+검색 쿼리: ANIME AnimeCoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:20
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FLOWER
+ 이름: Flower
+ 주소: 0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ANIME
+ 이름: Animecoin
+ 주소: 0x37a645648df29205c6261289983fb04ecd70b4b3
+ 체인ID: 42161
+ Decimals: 18
+
+[3] CAT
+ 이름: Simons Cat
+ 주소: 0x6894cde390a3f51155ea41ed24a33a4827d3063d
+ 체인ID: 56
+ Decimals: 18
+
+[4] CAH
+ 이름: Moon Tropica
+ 주소: 0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a
+ 체인ID: 1
+ Decimals: 18
+
+[5] AITECH
+ 이름: AITECH
+ 주소: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+ 체인ID: 56
+ Decimals: 18
+
+[6] AEROBUD
+ 이름: AEROBUD
+ 주소: 0xfad8cb754230dbfd249db0e8eccb5142dd675a0d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ZENT
+ 이름: Zentry
+ 주소: 0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa
+ 체인ID: 1
+ Decimals: 18
+
+[8] ANIME
+ 이름: Animecoin
+ 주소: 0x4dc26fc5854e7648a064a4abd590bbe71724c277
+ 체인ID: 1
+ Decimals: 18
+
+[9] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
+ 체인ID: 1
+ Decimals: 18
+
+[10] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x97c806e7665d3afd84a8fe1837921403d59f3dcc
+ 체인ID: 8453
+ Decimals: 18
+
+[11] KARRAT
+ 이름: KarratCoin
+ 주소: 0xacd2c239012d17beb128b0944d49015104113650
+ 체인ID: 1
+ Decimals: 18
+
+[12] ANIME Animecoin On Base
+ 이름: ANIME Animecoin On Base
+ 주소: 0x96961a4982f03287a20e2cd197218a7a0451bfff
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ANIME Animecoin AI Presale v2
+ 이름: ANIME Animecoin AI Presale v2
+ 주소: 0xbb5a2883d0357cbc011be83ee26bde06ced90c9b
+ 체인ID: 56
+ Decimals: 9
+
+[14] Alf
+ 이름: ALF
+ 주소: 0x26f1bb40ea88b46ceb21557dc0ffac7b7c0ad40f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Deod
+ 이름: Decentrawood
+ 주소: 0xe77abb1e75d2913b2076dd16049992ffeaca5235
+ 체인ID: 137
+ Decimals: 18

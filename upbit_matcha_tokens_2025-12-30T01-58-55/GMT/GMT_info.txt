@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: GMT
+원본 풀네임: GMT
+검색 쿼리: GMT GMT
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:17
+발견된 토큰 수: 15개
+전체 결과 수: 3384개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 56
+ Decimals: 18
+
+[2] GMT
+ 이름: GreenMetaverseToken
+ 주소: 0x714db550b574b3e927af3d93e26127d15721d4c2
+ 체인ID: 137
+ Decimals: 8
+
+[3] GMT
+ 이름: Green Metaverse Token
+ 주소: 0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1
+ 체인ID: 56
+ Decimals: 8
+
+[4] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 1
+ Decimals: 18
+
+[5] GMT GMT
+ 이름: GMT GMT
+ 주소: 0x28c5ea782d9a26e438cd06e0e9c71e23da946d8a
+ 체인ID: 130
+ Decimals: 18
+
+[6] GMT GMT
+ 이름: GMT GMT
+ 주소: 0xc72e307eb309fe3a073d32a71f27c204deb8ff41
+ 체인ID: 130
+ Decimals: 18
+
+[7] GMT GMT
+ 이름: GMT GMT
+ 주소: 0x3cef4c8c15103fb1afe4ecafe502ecf78d414ae8
+ 체인ID: 130
+ Decimals: 18
+
+[8] Trump - GMT GMT
+ 이름: Trump - GMT GMT
+ 주소: 0x58f6b27216ba2984fb1867e224ef267d11943239
+ 체인ID: 8453
+ Decimals: 9
+
+[9] GMT GMT - Free
+ 이름: GMT GMT - Free
+ 주소: 0xe3ced255675876c3b91cbe53b6f7f6b65834f776
+ 체인ID: 8453
+ Decimals: 18
+
+[10] GMT GMT V3
+ 이름: GMT GMT V3
+ 주소: 0xa9d52965a608c3be95b4c969df1b3aae886fd8a6
+ 체인ID: 130
+ Decimals: 18
+
+[11] PERP GMT GMT
+ 이름: Perp GMT GMT
+ 주소: 0x0f19e1459c0e76dc75fc20073bc22faa6e4e7cd4
+ 체인ID: 56
+ Decimals: 9
+
+[12] GMT GMT Reserve
+ 이름: GMT GMT Reserve
+ 주소: 0xea8794bcd714bd14bee2b9ea96fd461c01bc4fcb
+ 체인ID: 8453
+ Decimals: 18
+
+[13] GMT GMT AI
+ 이름: GMT GMT AI
+ 주소: 0x482624bbb828a5b14d97fd6e933841b35d3506a0
+ 체인ID: 130
+ Decimals: 18
+
+[14] GMT GMT AI
+ 이름: GMT GMT AI
+ 주소: 0x99333fb88235620ff81f32e0055327df50ef6aef
+ 체인ID: 8453
+ Decimals: 18
+
+[15] GMT GMT Mobile
+ 이름: GMT GMT Mobile
+ 주소: 0x1e3a7fadc9c0c30f8ba6a78832d6640738ead575
+ 체인ID: 8453
+ Decimals: 9

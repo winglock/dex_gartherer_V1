@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: GLM
+원본 풀네임: Golem
+검색 쿼리: GLM Golem
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:56
+발견된 토큰 수: 15개
+전체 결과 수: 3101개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] GLM (Golem) NFT
+ 이름: GLM (Golem) NFT
+ 주소: 0xb032d96b6ee0d4a5bf88eed3c92164456862069f
+ 체인ID: 8453
+ Decimals: 18
+
+[2] GLM
+ 이름: Golem Network Token
+ 주소: 0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429
+ 체인ID: 1
+ Decimals: 18
+
+[3] GLM Golem On Base
+ 이름: GLM Golem On Base
+ 주소: 0x86e426db790cefef7f5872ddc7448082b3944958
+ 체인ID: 8453
+ Decimals: 18
+
+[4] GLM Golem AI Presale v2
+ 이름: GLM Golem AI Presale v2
+ 주소: 0xf5f99fd3a008326c1d5f5f21edd2181abf0363cf
+ 체인ID: 56
+ Decimals: 9
+
+[5] GLMGOL
+ 이름: GLM Golem Perpetual
+ 주소: 0xcf25a0dc84332b3f970d170a1f64fbdfcc8b8265
+ 체인ID: 8453
+ Decimals: 18
+
+[6] #GLM
+ 이름: #GLM
+ 주소: 0xbec8f1db8c5be69b71214eecfdd1835e5b712a19
+ 체인ID: 8453
+ Decimals: 18
+
+[7] GLM
+ 이름: GLM
+ 주소: 0x138d99ce840cc46e2206243b86440acdf8ef6986
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Glm
+ 이름: Glm
+ 주소: 0xc7ba7103811233bc53e88062f76376082654ee33
+ 체인ID: 8453
+ Decimals: 18
+
+[9] $GLM
+ 이름: $GLM
+ 주소: 0xd5293dcef75ecab0c00222a50e827a21d312cc6f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] GLM
+ 이름: GLM
+ 주소: 0xdc3eb7b0a195959456000bce96643db2ed9eab72
+ 체인ID: 8453
+ Decimals: 18
+
+[11] glm
+ 이름: glm
+ 주소: 0x91fe05978a6b5ccf85aa56ef3989aca5bec9dcd6
+ 체인ID: 8453
+ Decimals: 18
+
+[12] GLM
+ 이름: $GLM
+ 주소: 0x4b00b0f89dee83321d4bd562abd2ca16341e1310
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Long $GLM
+ 이름: Long $GLM
+ 주소: 0xaa0104353449143ca500938b7159de79d7ace78c
+ 체인ID: 8453
+ Decimals: 18
+
+[14] GLM
+ 이름: Crypto Pug GLM
+ 주소: 0xafcadfdd00bf3abe208ecfc80711c24595af36f4
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Cancel long $GLM
+ 이름: Cancel long $GLM
+ 주소: 0x4270d830646b73e2aeb8c741158ea85890418090
+ 체인ID: 8453
+ Decimals: 18

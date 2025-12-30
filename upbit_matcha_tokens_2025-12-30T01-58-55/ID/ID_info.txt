@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ID
+원본 풀네임: SPACE ID
+검색 쿼리: ID SPACE ID
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:33
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] RUSSELL
+ 이름: RUSSELL
+ 주소: 0x0c5142bc58f9a61ab8c3d2085dd2f4e550c5ce0b
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[3] AIXBT
+ 이름: aixbt by Virtuals
+ 주소: 0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825
+ 체인ID: 8453
+ Decimals: 18
+
+[4] DEGEN
+ 이름: Degen
+ 주소: 0x4ed4e862860bed51a9570b96d89af5e1b0efefed
+ 체인ID: 8453
+ Decimals: 18
+
+[5] WLD
+ 이름: Worldcoin
+ 주소: 0x163f8c2467924be0ae7b5347228cabf260318753
+ 체인ID: 1
+ Decimals: 18
+
+[6] KTA
+ 이름: Keeta
+ 주소: 0xc0634090f2fe6c6d75e61be2b949464abb498973
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ONT
+ 이름: Ontology Token
+ 주소: 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335
+ 체인ID: 56
+ Decimals: 18
+
+[8] GEOD
+ 이름: Geodnet Token
+ 주소: 0xac0f66379a6d7801d7726d5a943356a172549adb
+ 체인ID: 137
+ Decimals: 18
+
+[9] ENS
+ 이름: Ethereum Name Service
+ 주소: 0xc18360217d8f7ab5e7c516566761ea12ce7f9d72
+ 체인ID: 1
+ Decimals: 18
+
+[10] weETH
+ 이름: Wrapped eETH
+ 주소: 0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee
+ 체인ID: 1
+ Decimals: 18
+
+[11] weETH
+ 이름: Wrapped eETH
+ 주소: 0x35751007a407ca6feffe80b3cb397736d2cf4dbe
+ 체인ID: 42161
+ Decimals: 18
+
+[12] RUNNER
+ 이름: RUNNER
+ 주소: 0x18b6f6049a0af4ed2bbe0090319174eeef89f53a
+ 체인ID: 8453
+ Decimals: 18
+
+[13] USDT.e
+ 이름: Tether USD
+ 주소: 0xc7198437980c041c805a1edcba50c1ce5db95118
+ 체인ID: 43114
+ Decimals: 6
+
+[14] CaptainBNB
+ 이름: CaptainBNB
+ 주소: 0x47a1eb0b825b73e6a14807beaecafef199d5477c
+ 체인ID: 56
+ Decimals: 18
+
+[15] BITCOIN
+ 이름: HarryPotterObamaSonic10Inu
+ 주소: 0x72e4f9f808c49a2a61de9c5896298920dc4eeea9
+ 체인ID: 1
+ Decimals: 8

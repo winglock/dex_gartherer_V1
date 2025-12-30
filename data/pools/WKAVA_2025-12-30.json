@@ -1,0 +1,67 @@
+[
+  {
+    "symbol": "WKAVA",
+    "chain": "kava",
+    "dex": "equilibre",
+    "pool_address": "0x35067270e3cde15A3881ea0Ce6c93D8E3FE688f4",
+    "pair": "WKAVA/USD",
+    "price_usd": 0.07554,
+    "lp_reserve_usd": 86.42,
+    "volume_24h": 2.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060391
+  },
+  {
+    "symbol": "WKAVA",
+    "chain": "kava",
+    "dex": "kinetix",
+    "pool_address": "0xAb3B5982A9d654CBdcF71040C84e7b8edC364D94",
+    "pair": "WKAVA/USD",
+    "price_usd": 0.07648,
+    "lp_reserve_usd": 13.29,
+    "volume_24h": 0.42,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060391
+  },
+  {
+    "symbol": "WKAVA",
+    "chain": "kava",
+    "dex": "0x12508dd9108Abab2c5fD8fC6E4984E46a3CF7824",
+    "pool_address": "0x08336d528EC2C6B44f9231F27f450A153b87fC52",
+    "pair": "WKAVA/USD",
+    "price_usd": 0.0758,
+    "lp_reserve_usd": 2.53,
+    "volume_24h": 0.02,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060391
+  },
+  {
+    "symbol": "WKAVA",
+    "chain": "kava",
+    "dex": "0xD408a20f1213286fB3158a2bfBf5bFfAca8bF269",
+    "pool_address": "0xF8664ed6CA367Af64d76b5b57e3ACb66791264f8",
+    "pair": "WKAVA/USD",
+    "price_usd": 0.07623,
+    "lp_reserve_usd": 0.49,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060391
+  },
+  {
+    "symbol": "WKAVA",
+    "chain": "kava",
+    "dex": "0xE8E917BC80A26CDacc9aA42C0F4965d2E1Fa52da",
+    "pool_address": "0xA6334C941597C456A267fD8c7BF8E926ad88D192",
+    "pair": "WKAVA/USD",
+    "price_usd": 0.07578,
+    "lp_reserve_usd": 3.71,
+    "volume_24h": 0.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060391
+  }
+]

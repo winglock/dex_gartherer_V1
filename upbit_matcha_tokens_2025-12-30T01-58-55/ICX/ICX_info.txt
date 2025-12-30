@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ICX
+원본 풀네임: ICON
+검색 쿼리: ICX ICON
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:54
+발견된 토큰 수: 15개
+전체 결과 수: 5470개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BRETT
+ 이름: Brett
+ 주소: 0x532f27101965dd16442e59d40670faf5ebb142e4
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Yee
+ 이름: Yee Token
+ 주소: 0x9ac9468e7e3e1d194080827226b45d0b892c77fd
+ 체인ID: 1
+ Decimals: 9
+
+[3] PEPE
+ 이름: Pepe
+ 주소: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+ 체인ID: 1
+ Decimals: 18
+
+[4] PEPE
+ 이름: BasedPepe
+ 주소: 0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] DOG
+ 이름: The Doge NFT
+ 주소: 0xafb89a09d82fbde58f18ac6437b3fc81724e4df6
+ 체인ID: 8453
+ Decimals: 18
+
+[6] CAT
+ 이름: Simons Cat
+ 주소: 0x6894cde390a3f51155ea41ed24a33a4827d3063d
+ 체인ID: 56
+ Decimals: 18
+
+[7] PEPE
+ 이름: Pepe
+ 주소: 0x25d887ce7a35172c62febfd67a1856f20faebb00
+ 체인ID: 56
+ Decimals: 18
+
+[8] BLEP
+ 이름: Blep Super Meme
+ 주소: 0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54
+ 체인ID: 8453
+ Decimals: 18
+
+[9] DICKBUTT
+ 이름: Dickbutt
+ 주소: 0x2d57c47bc5d2432feeedf2c9150162a9862d3ccf
+ 체인ID: 8453
+ Decimals: 18
+
+[10] RACA
+ 이름: Radio Caca V2
+ 주소: 0x12bb890508c125661e03b09ec06e404bc9289040
+ 체인ID: 56
+ Decimals: 18
+
+[11] BONKEY
+ 이름: BONKEY
+ 주소: 0x3c5fdf0ee37d62c774025599e3b692d027746e24
+ 체인ID: 8453
+ Decimals: 18
+
+[12] WEPE
+ 이름: Wall Street Pepe
+ 주소: 0xccb365d2e11ae4d6d74715c680f56cf58bf4bf10
+ 체인ID: 1
+ Decimals: 18
+
+[13] $BANANA
+ 이름: Banana For Scale
+ 주소: 0x3d4f0513e8a29669b960f9dbca61861548a9a760
+ 체인ID: 56
+ Decimals: 18
+
+[14] OSCAR
+ 이름: Oscar
+ 주소: 0xebb66a88cedd12bfe3a289df6dfee377f2963f12
+ 체인ID: 1
+ Decimals: 9
+
+[15] BYTE
+ 이름: Byte
+ 주소: 0xde342a3e269056fc3305f9e315f4c40d917ba521
+ 체인ID: 1
+ Decimals: 9

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WCT
+원본 풀네임: WalletConnect
+검색 쿼리: WCT WalletConnect
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:39
+발견된 토큰 수: 15개
+전체 결과 수: 3125개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WCT
+ 이름: WalletConnect
+ 주소: 0xef4461891dfb3ac8572ccf7c794664a8dd927945
+ 체인ID: 10
+ Decimals: 18
+
+[2] WCT
+ 이름: WalletConnect
+ 주소: 0xef4461891dfb3ac8572ccf7c794664a8dd927945
+ 체인ID: 8453
+ Decimals: 18
+
+[3] WCT
+ 이름: WalletConnect
+ 주소: 0xef4461891dfb3ac8572ccf7c794664a8dd927945
+ 체인ID: 1
+ Decimals: 18
+
+[4] WCT Transferability
+ 이름: WCT Transferability
+ 주소: 0x7b1826c302856a89ddac81669f6393005d68ae74
+ 체인ID: 8453
+ Decimals: 18
+
+[5] LIME
+ 이름: iMe Lab
+ 주소: 0x7bc75e291e656e8658d66be1cc8154a3769a35dd
+ 체인ID: 56
+ Decimals: 18
+
+[6] WCT
+ 이름: WalletConnect
+ 주소: 0x61cc6af18c351351148815c5f4813a16dee7a7e4
+ 체인ID: 1
+ Decimals: 18
+
+[7] WCT
+ 이름: WCT
+ 주소: 0x704fa07f6453f7b216483fe5f26ad20a044d8368
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Wct
+ 이름: Wct
+ 주소: 0x2709c574ee17617e32c9a22df056ed1852304802
+ 체인ID: 8453
+ Decimals: 18
+
+[9] WCT
+ 이름: WCT
+ 주소: 0x0c0bb3e0600de2f406fab8e273fec332fbd592ad
+ 체인ID: 8453
+ Decimals: 18
+
+[10] WCT
+ 이름: WCT
+ 주소: 0x26f0bb1ff4178ed1befbb682c19a3b52822fc215
+ 체인ID: 8453
+ Decimals: 18
+
+[11] WCT
+ 이름: WCT
+ 주소: 0x1bd2a43be4b1c4545af293a1fb5a28dc7878ef28
+ 체인ID: 8453
+ Decimals: 18
+
+[12] $WCT
+ 이름: $WCT
+ 주소: 0x137ceaf279643895f8619d004e942c704b792375
+ 체인ID: 8453
+ Decimals: 18
+
+[13] WCT
+ 이름: WCT
+ 주소: 0x87846f56b1c46cf75b5d53c31798d1439666296f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] WCT
+ 이름: WCT
+ 주소: 0xb55b65e4fb235863f5ca54afdf28259fc229aa8a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WCT
+ 이름: WCT
+ 주소: 0x6acfc484332f026878cbfb48588edcf1514f337a
+ 체인ID: 8453
+ Decimals: 18

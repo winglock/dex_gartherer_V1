@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AERGO
+원본 풀네임: Aergo
+검색 쿼리: AERGO Aergo
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:45
+발견된 토큰 수: 15개
+전체 결과 수: 634개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Aergo AERGO
+ 이름: Aergo AERGO
+ 주소: 0x9d6b16934d20cbf6580a396f28fe60cb73b84a33
+ 체인ID: 8453
+ Decimals: 18
+
+[2] AERGO
+ 이름: Aergo
+ 주소: 0x91af0fbb28aba7e31403cb457106ce79397fd4e6
+ 체인ID: 1
+ Decimals: 18
+
+[3] Aergo AERGO
+ 이름: Aergo AERGO
+ 주소: 0xa58cde39bdf1a34ae840188cf109cebd0af92532
+ 체인ID: 130
+ Decimals: 18
+
+[4] Aergo AERGO
+ 이름: Aergo AERGO
+ 주소: 0xffee3c2e0a10a2d67636f35a31f36538cd8af752
+ 체인ID: 130
+ Decimals: 18
+
+[5] Aergo AERGO
+ 이름: Aergo AERGO
+ 주소: 0xeb43811aee321fa88ecb90bbdbf66c37555e8a57
+ 체인ID: 130
+ Decimals: 18
+
+[6] Aergo AERGO
+ 이름: Aergo AERGO
+ 주소: 0xf945c1221a3879c85bc816752c22b69caf711ac5
+ 체인ID: 130
+ Decimals: 18
+
+[7] Aergo AERGO Reserve
+ 이름: Aergo AERGO Reserve
+ 주소: 0x854e69c43dc82adda0cecbc939602d3d98d2d14a
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Aergo AERGO AI
+ 이름: Aergo AERGO AI
+ 주소: 0x900bcb52a98882ece13035d78e05c7679075dfd4
+ 체인ID: 130
+ Decimals: 18
+
+[9] Aergo AERGO Red
+ 이름: Aergo AERGO Red
+ 주소: 0x6cdc8192e16addf00a97939c83aa7ba4d3d7eda3
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Aergo AERGO V2
+ 이름: Aergo AERGO V2
+ 주소: 0x8fa8ae097a19037e07e6f40fefe71304182cd8d4
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Aergo AERGO V3
+ 이름: Aergo AERGO V3
+ 주소: 0x12a782f32b07ff765c34db1b49143b15509f94d0
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Aergo AERGO - Free
+ 이름: Aergo AERGO - Free
+ 주소: 0x14a2d6cb2ec9b3b9663927d8343369b616838758
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Aergo AERGO V2
+ 이름: Aergo AERGO V2
+ 주소: 0x229d869da4f9d449e930337e7f6222ad31114634
+ 체인ID: 130
+ Decimals: 18
+
+[14] Aergo AERGO 2028
+ 이름: Aergo AERGO 2028
+ 주소: 0x87da51dad622049d6fe54c761188e683f8d2ff86
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Aergo AERGO V3
+ 이름: Aergo AERGO V3
+ 주소: 0xcddbd6a334da246afa9606316fb4051cad8fe2e6
+ 체인ID: 130
+ Decimals: 18

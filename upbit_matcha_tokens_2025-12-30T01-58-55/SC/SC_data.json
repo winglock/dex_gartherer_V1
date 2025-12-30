@@ -1,0 +1,251 @@
+{
+  "originalSymbol": "SC",
+  "originalFullName": "Siacoin",
+  "searchedQuery": "SC Siacoin",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 10000,
+  "tokens": [
+    {
+      "address": "0xea3036db033329622f2c526bd7e019cf8497235f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC Siacoin On Base",
+      "symbol": "SC Siacoin On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xea3036db033329622f2c526bd7e019cf8497235f"
+    },
+    {
+      "address": "0x1ec2d95ea6df6a4370cc69f85ec53c4edb819eaa",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "SC Siacoin On Binance Alpha",
+      "symbol": "SC Siacoin",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x1ec2d95ea6df6a4370cc69f85ec53c4edb819eaa"
+    },
+    {
+      "address": "0x75cc6de19e659bc2b34ecc8f445213f7b81961c6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC Siacoin AI Presale v2",
+      "symbol": "SC Siacoin AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x75cc6de19e659bc2b34ecc8f445213f7b81961c6"
+    },
+    {
+      "address": "0x7d15004ffff1388073e2b80d19769680b7d7fee0",
+      "chainId": 56,
+      "decimals": 9,
+      "name": "SC Siacoin AI Presale v2",
+      "symbol": "SC Siacoin AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x7d15004ffff1388073e2b80d19769680b7d7fee0"
+    },
+    {
+      "address": "0x23de50cf56ebe50d9e919ad44bce2ab6e42b16d0",
+      "chainId": 130,
+      "decimals": 18,
+      "name": "Sc Share",
+      "symbol": "Sc Share",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/130/0x23de50cf56ebe50d9e919ad44bce2ab6e42b16d0"
+    },
+    {
+      "address": "2LkerVTX9SFjDrQwk8raT8A18gdhTTjG5viv8iFFXNgb",
+      "chainId": 1399811149,
+      "decimals": 9,
+      "name": "sc",
+      "symbol": "stock cat",
+      "type": "SPL-Token",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1399811149/2LkerVTX9SFjDrQwk8raT8A18gdhTTjG5viv8iFFXNgb"
+    },
+    {
+      "address": "0x50904e138c00ccbf2d94ce0ee57401319fcb1152",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC Siacoin Perpetual",
+      "symbol": "SCSIAC",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x50904e138c00ccbf2d94ce0ee57401319fcb1152"
+    },
+    {
+      "address": "0xeeef83e86c2dd0f51965c7de497b3cd852d6fc8f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "sc",
+      "symbol": "sc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xeeef83e86c2dd0f51965c7de497b3cd852d6fc8f"
+    },
+    {
+      "address": "0x0afa19d05b9d49b19f67ae94e9c3681649fe25ee",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "sC",
+      "symbol": "sC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0afa19d05b9d49b19f67ae94e9c3681649fe25ee"
+    },
+    {
+      "address": "0xdcf744762ec5720dcc29356540371e139f316ce4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC",
+      "symbol": "SC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdcf744762ec5720dcc29356540371e139f316ce4"
+    },
+    {
+      "address": "0x8013f29c6b55e11059a2b214a5f6985a1faf0b34",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC",
+      "symbol": "SC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8013f29c6b55e11059a2b214a5f6985a1faf0b34"
+    },
+    {
+      "address": "0x8c123d0728c2676f2511b2797f1acfd94c83cdad",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SC",
+      "symbol": "SC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8c123d0728c2676f2511b2797f1acfd94c83cdad"
+    },
+    {
+      "address": "0x9d00c470909a25770c4e9a6664b5a313c11d2a8d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Sc",
+      "symbol": "Sc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9d00c470909a25770c4e9a6664b5a313c11d2a8d"
+    },
+    {
+      "address": "0x452a2ec6aaa00a6f3428b894107af2bcf3042c06",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Sc",
+      "symbol": "Sc",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x452a2ec6aaa00a6f3428b894107af2bcf3042c06"
+    },
+    {
+      "address": "0xd57fd3552ae52a7a9185f61529c242fb3c21de93",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "sC",
+      "symbol": "sC",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xd57fd3552ae52a7a9185f61529c242fb3c21de93"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:51.275Z",
+  "error": null
+}

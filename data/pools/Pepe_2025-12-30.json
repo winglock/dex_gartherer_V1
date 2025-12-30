@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Pepe",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "FCEnSxyJfRSKsz6tASUENCsfGwKgkH6YuRn1AMmyHhZn",
+    "pair": "PEPE/USD",
+    "price_usd": 0.0003478,
+    "lp_reserve_usd": 183508.34,
+    "volume_24h": 679.76,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060376
+  }
+]

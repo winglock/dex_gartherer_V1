@@ -1,0 +1,284 @@
+{
+  "originalSymbol": "AVNT",
+  "originalFullName": "Avantis",
+  "searchedQuery": "AVNT Avantis",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 1486,
+  "tokens": [
+    {
+      "address": "0x696f9436b67233384889472cd7cd58a6fb5df4f1",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Avantis",
+      "symbol": "AVNT",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 52,
+      "transactionsDaily": 712,
+      "transactionsWeekly": 9395,
+      "transactionsMonthly": 21066,
+      "volumeUsdHourly": 1498.2906898740418,
+      "volumeUsdDaily": 134449.47509563665,
+      "volumeUsdWeekly": 686740.4906767702,
+      "volumeUsdMonthly": 2262778.179616389,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x696f9436b67233384889472cd7cd58a6fb5df4f1"
+    },
+    {
+      "address": "0xdb3270ce8bf9aac1a68856892a45d3ed9fb12082",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT (Avantis)",
+      "symbol": "AVNT (Avantis)",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdb3270ce8bf9aac1a68856892a45d3ed9fb12082"
+    },
+    {
+      "address": "0xf976f770a981c567bd12e6468636b25da8cfc0a0",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "K\"AVNT (AVANTIS) NFT: Unleashing Decentralized Perpetual Trading on Layer 2\"",
+      "symbol": "K\"AVNT (AVANTIS) NFT: Unleashing Decentralized Perpetual Trading on Layer 2\"",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf976f770a981c567bd12e6468636b25da8cfc0a0"
+    },
+    {
+      "address": "0x295377683ba973aa5a3ee6aad8c9a81bf75395f7",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT Avantis",
+      "symbol": "AVNT Avantis",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x295377683ba973aa5a3ee6aad8c9a81bf75395f7"
+    },
+    {
+      "address": "0xbc87196318be1840ec8553894b7c62fdd6296ea4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT (Avantis)",
+      "symbol": "AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xbc87196318be1840ec8553894b7c62fdd6296ea4"
+    },
+    {
+      "address": "0x2ffdb1a5c1a252b5d0629bc9c1a358639b8d520a",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT",
+      "symbol": "AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "isHoneypot": false,
+      "transactionsHourly": 3,
+      "transactionsDaily": 3,
+      "transactionsWeekly": 11,
+      "transactionsMonthly": 11,
+      "volumeUsdHourly": 6.04451417034343,
+      "volumeUsdDaily": 6.04451417034343,
+      "volumeUsdWeekly": 15.117305169523448,
+      "volumeUsdMonthly": 15.117305169523448,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x2ffdb1a5c1a252b5d0629bc9c1a358639b8d520a"
+    },
+    {
+      "address": "0x7d8d1b4f9663d102392c616b461e5c4d5fcdec76",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$AVNT#AVNT",
+      "symbol": "$AVNT#AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x7d8d1b4f9663d102392c616b461e5c4d5fcdec76"
+    },
+    {
+      "address": "0x0f168d01178e28b357176c168409e8b176827ea1",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Avnt",
+      "symbol": "Avnt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x0f168d01178e28b357176c168409e8b176827ea1"
+    },
+    {
+      "address": "0x68e486bffda028ca678c937ef6efc5326c1020af",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT",
+      "symbol": "AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x68e486bffda028ca678c937ef6efc5326c1020af"
+    },
+    {
+      "address": "0x1cbbe597130d992001d86fd2f32fd2b1adb52d2b",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "avnt",
+      "symbol": "avnt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x1cbbe597130d992001d86fd2f32fd2b1adb52d2b"
+    },
+    {
+      "address": "0xf2ed9b9a6dbac8002e2d75cee99884c0752802b7",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "avnt",
+      "symbol": "avnt",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf2ed9b9a6dbac8002e2d75cee99884c0752802b7"
+    },
+    {
+      "address": "0x94ae1beea27601d1cb507d73009fc3e4789326bd",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$AVNT",
+      "symbol": "$AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x94ae1beea27601d1cb507d73009fc3e4789326bd"
+    },
+    {
+      "address": "0x2ee8e5e5b6ac2acb56ab58e42446a2d4024a02e5",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$AVNT",
+      "symbol": "$AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x2ee8e5e5b6ac2acb56ab58e42446a2d4024a02e5"
+    },
+    {
+      "address": "0x4537a28c408367e5b0274d30376ae731bd5c56c6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "AVNT",
+      "symbol": "AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x4537a28c408367e5b0274d30376ae731bd5c56c6"
+    },
+    {
+      "address": "0x5ceaa2c18f97a0e1f8cdadf7a7c75751894610be",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$AVNT",
+      "symbol": "$AVNT",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x5ceaa2c18f97a0e1f8cdadf7a7c75751894610be"
+    }
+  ],
+  "searchTime": "2025-12-30T01:57:47.024Z",
+  "error": null
+}

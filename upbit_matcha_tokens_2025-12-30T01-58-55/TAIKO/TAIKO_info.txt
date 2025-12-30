@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TAIKO
+원본 풀네임: Taiko
+검색 쿼리: TAIKO Taiko
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:49
+발견된 토큰 수: 15개
+전체 결과 수: 1166개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Taiko TAIKO
+ 이름: Taiko TAIKO
+ 주소: 0x4e600f78182dcbc08c6519f2a170c0793033b1a8
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Taiko TAIKO
+ 이름: Taiko TAIKO
+ 주소: 0x9d241b3d2d4c707e531d77f99e60b2b4a018e31e
+ 체인ID: 130
+ Decimals: 18
+
+[3] Taiko TAIKO
+ 이름: Taiko TAIKO
+ 주소: 0x573d98add0449d1e44e0b73767bd00b2cbc511fd
+ 체인ID: 130
+ Decimals: 18
+
+[4] Taiko TAIKO
+ 이름: Taiko TAIKO
+ 주소: 0x3c0755bfc862304dcba251b47ff85e4b11c67fb0
+ 체인ID: 130
+ Decimals: 18
+
+[5] Taiko TAIKO - Free
+ 이름: Taiko TAIKO - Free
+ 주소: 0xbed910ff950ab0043999cb4dd5bb1e3a89123630
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Taiko TAIKO Mobile
+ 이름: Taiko TAIKO Mobile
+ 주소: 0x713cb7c3c6500f979ac69c7f57fff31d096d9fa4
+ 체인ID: 8453
+ Decimals: 9
+
+[7] Taiko TAIKO AI
+ 이름: Taiko TAIKO AI
+ 주소: 0xa757b72317688d6d37a0907eb0f4a7419c5fe54c
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Taiko TAIKO V2
+ 이름: Taiko TAIKO V2
+ 주소: 0x78ae0f8cc1f4bf39ade866c442be27e1d8f82c0a
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Taiko TAIKO - AI
+ 이름: Taiko TAIKO - AI
+ 주소: 0x8bc86f6f9820f39568593d8c1960241263d55a76
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Taiko TAIKO V2
+ 이름: Taiko TAIKO V2
+ 주소: 0x8fbc4f4bfc66adb6bbf6cf029978f85a2af31586
+ 체인ID: 130
+ Decimals: 18
+
+[11] Taiko TAIKO V3
+ 이름: Taiko TAIKO V3
+ 주소: 0xfe9dd1ad07944a5dc15d2b8952b57d56be496bbe
+ 체인ID: 130
+ Decimals: 18
+
+[12] Taiko TAIKO V3
+ 이름: Taiko TAIKO V3
+ 주소: 0x199d87ce112b73d4a0a77485f2539c2710668d51
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Taiko TAIKO AI
+ 이름: Taiko TAIKO AI
+ 주소: 0x5bd2121d06c4e96735e0a728a810597b77bc433c
+ 체인ID: 130
+ Decimals: 18
+
+[14] Taiko TAIKO Unichain
+ 이름: Taiko TAIKO Unichain
+ 주소: 0xd383689ce136cc870efa9d4b7b499bca97ee06b5
+ 체인ID: 130
+ Decimals: 18
+
+[15] Trump - Taiko TAIKO
+ 이름: Trump - Taiko TAIKO
+ 주소: 0xa6f9db68abbdb481ea2c5bd367a951db8ca2b8b5
+ 체인ID: 8453
+ Decimals: 9

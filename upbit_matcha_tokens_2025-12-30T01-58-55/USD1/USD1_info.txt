@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: USD1
+원본 풀네임: World Liberty Financial USD
+검색 쿼리: USD1 World Liberty Financial USD
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:38
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDT
+ 이름: Tether USD
+ 주소: 0x55d398326f99059ff775485246999027b3197955
+ 체인ID: 56
+ Decimals: 18
+
+[4] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[5] USDC
+ 이름: USD Coin
+ 주소: 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d
+ 체인ID: 56
+ Decimals: 18
+
+[6] USDT
+ 이름: Tether USD
+ 주소: 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
+ 체인ID: 42161
+ Decimals: 6
+
+[7] USDT
+ 이름: Tether USD
+ 주소: 0xdac17f958d2ee523a2206206994597c13d831ec7
+ 체인ID: 1
+ Decimals: 6
+
+[8] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[9] USDT
+ 이름: (PoS) Tether USD
+ 주소: 0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+ 체인ID: 137
+ Decimals: 6
+
+[10] USDT0
+ 이름: USDT0
+ 주소: 0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb
+ 체인ID: 9745
+ Decimals: 6
+
+[11] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[12] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[13] USDT
+ 이름: Tether USD
+ 주소: 0xfde4c96c8593536e31f229ea8f37b2ada2699bb2
+ 체인ID: 8453
+ Decimals: 6
+
+[14] USD1
+ 이름: World Liberty Financial USD
+ 주소: 0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d
+ 체인ID: 56
+ Decimals: 18
+
+[15] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6

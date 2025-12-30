@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ATOM
+원본 풀네임: Cosmos
+검색 쿼리: ATOM Cosmos
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:11
+발견된 토큰 수: 15개
+전체 결과 수: 4566개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ATOM
+ 이름: Cosmos Token
+ 주소: 0x0eb3a705fc54725037cc9e008bdede697f62f335
+ 체인ID: 56
+ Decimals: 18
+
+[2] MATIC
+ 이름: Matic Token
+ 주소: 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+ 체인ID: 1
+ Decimals: 18
+
+[3] AK1111
+ 이름: Akashalife
+ 주소: 0x54b659832f59c24cec0e4a2cd193377f1bcefc3c
+ 체인ID: 8453
+ Decimals: 18
+
+[4] OM
+ 이름: MANTRA DAO
+ 주소: 0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2
+ 체인ID: 56
+ Decimals: 18
+
+[5] OM
+ 이름: MANTRA DAO
+ 주소: 0x3593d125a4f7849a1b059e64f4517a86dd60c95d
+ 체인ID: 1
+ Decimals: 18
+
+[6] KYVE
+ 이름: KYVE Network
+ 주소: 0xad13bce42394add02e6c215a40e582309b7975c7
+ 체인ID: 8453
+ Decimals: 6
+
+[7] MATIC
+ 이름: Matic Token
+ 주소: 0xcc42724c6683b7e57334c4e856f4c9965ed682bd
+ 체인ID: 56
+ Decimals: 18
+
+[8] OM
+ 이름: MANTRA
+ 주소: 0x3992b27da26848c2b19cea6fd25ad5568b68ab98
+ 체인ID: 8453
+ Decimals: 18
+
+[9] UFO
+ 이름: THE TRUTH
+ 주소: 0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b
+ 체인ID: 1
+ Decimals: 18
+
+[10] STARL
+ 이름: StarLink
+ 주소: 0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24
+ 체인ID: 1
+ Decimals: 18
+
+[11] FOX
+ 이름: FOX
+ 주소: 0xc770eefad204b5180df6a14ee197d99d808ee52d
+ 체인ID: 1
+ Decimals: 18
+
+[12] ORCL
+ 이름: Oracle
+ 주소: 0xd1d7aa941c71fd95e9d31bbd81937b3e71bd6231
+ 체인ID: 8453
+ Decimals: 18
+
+[13] OM
+ 이름: MANTRA DAO (PoS)
+ 주소: 0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea
+ 체인ID: 137
+ Decimals: 18
+
+[14] uATOM
+ 이름: Cosmos (Universal)
+ 주소: 0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee
+ 체인ID: 8453
+ Decimals: 18
+
+[15] CUDOS
+ 이름: CudosToken
+ 주소: 0x817bbdbc3e8a1204f3691d14bb44992841e3db35
+ 체인ID: 1
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: STG
+원본 풀네임: Stargate Finance
+검색 쿼리: STG Stargate Finance
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:27
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[4] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[5] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[6] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[7] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6
+
+[8] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[9] cbETH
+ 이름: Coinbase Wrapped Staked ETH
+ 주소: 0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22
+ 체인ID: 8453
+ Decimals: 18
+
+[10] USDC
+ 이름: USDC
+ 주소: 0x078d782b760474a361dda0af3839290b0ef57ad6
+ 체인ID: 130
+ Decimals: 6
+
+[11] BNB
+ 이름: BNB
+ 주소: 0xb8c77482e45f1f44de1745f52c74426c631bdd52
+ 체인ID: 1
+ Decimals: 18
+
+[12] AERO
+ 이름: Aerodrome
+ 주소: 0x940181a94a35a4569e4529a3cdfb74e38fd98631
+ 체인ID: 8453
+ Decimals: 18
+
+[13] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 1
+ Decimals: 8
+
+[14] cbXRP
+ 이름: Coinbase Wrapped XRP
+ 주소: 0xcb585250f852c6c6bf90434ab21a00f02833a4af
+ 체인ID: 8453
+ Decimals: 6
+
+[15] KTA
+ 이름: Keeta
+ 주소: 0xc0634090f2fe6c6d75e61be2b949464abb498973
+ 체인ID: 8453
+ Decimals: 18

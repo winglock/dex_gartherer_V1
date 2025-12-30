@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PENGU
+원본 풀네임: Pudgy Penguins
+검색 쿼리: PENGU Pudgy Penguins
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:39
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] PENGU
+ 이름: Pudgy Penguins
+ 주소: 2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] PENGU PUDGY PENGUINS
+ 이름: PENGU PUDGY PENGUINS
+ 주소: 0x3b9625fe68fbc3beac156b27e6bd729774bac329
+ 체인ID: 8453
+ Decimals: 18
+
+[3] PENGU
+ 이름: Pudgy Penguins
+ 주소: 0x6418c0dd099a9fda397c766304cdd918233e8847
+ 체인ID: 56
+ Decimals: 18
+
+[4] MOCHI
+ 이름: Mochi
+ 주소: 0xf6e932ca12afa26665dc4dde7e27be02a7c02e50
+ 체인ID: 8453
+ Decimals: 18
+
+[5] PENGU Pudgy Penguins On Base
+ 이름: PENGU Pudgy Penguins On Base
+ 주소: 0x0815a9e048b6edde393bc66be59c83e9e65d0c4d
+ 체인ID: 8453
+ Decimals: 18
+
+[6] PENGU
+ 이름: Pudgy Penguins
+ 주소: 0x6418c0dd099a9fda397c766304cdd918233e8847
+ 체인ID: 1
+ Decimals: 18
+
+[7] PENGU
+ 이름: Pudgy Penguins
+ 주소: 0x4e0debf0c8795a7861a64df7f136f989921d0247
+ 체인ID: 8453
+ Decimals: 9
+
+[8] PENGU
+ 이름: PENGU (Pudgy Penguins)
+ 주소: 0x7438be751750930a6fcd4780e1a13ae1850a1a65
+ 체인ID: 8453
+ Decimals: 18
+
+[9] PUDGYSTR
+ 이름: Pudgy Penguins
+ 주소: 0x3f9a9b56e359a3cd26907ea48478e3983f4de5a1
+ 체인ID: 1
+ Decimals: 18
+
+[10] PENGU
+ 이름: Pudgy Penguins
+ 주소: 94Gzk2TyNQXB1nCweG6kehMajHRUVjrsJLDPCYE55Ut7
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] PENGU
+ 이름: PENGU Pudgy Penguins
+ 주소: 9uCESiZQv2zFbZ2xhDxVhwDA57rApS4JgQn5QMgBpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[12] PENGU
+ 이름: PENGU Pudgy Penguins
+ 주소: iSF17PePGtKdqT4eQwN7aUjrREEJwXSyVusfpX1pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] PENGU
+ 이름: PENGU: Pudgy Penguins
+ 주소: E9H3G88kc27R9oQufTpUmN5Jh1LY45bAVxNx49DSpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] 0.004999
+ 이름: PENGU Pudgy Penguins
+ 주소: C8J6vhQCa8sWaLjRP7jaDLimbNCY7CcwUxT49rc1pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] PENGUP
+ 이름: PENGU Pudgy Penguins Perpetual
+ 주소: 0x9f2d8f9b33a71a8c522a3577e8fa54590d387add
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LAYER
+원본 풀네임: Solayer
+검색 쿼리: LAYER Solayer
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:10
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[2] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[3] USDC
+ 이름: USD Coin
+ 주소: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
+ 체인ID: 10
+ Decimals: 6
+
+[4] USDbC
+ 이름: USD Base Coin
+ 주소: 0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca
+ 체인ID: 8453
+ Decimals: 6
+
+[5] B3
+ 이름: B3
+ 주소: 0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3
+ 체인ID: 8453
+ Decimals: 18
+
+[6] ONT
+ 이름: Ontology Token
+ 주소: 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335
+ 체인ID: 56
+ Decimals: 18
+
+[7] KTA
+ 이름: Keeta
+ 주소: 0xc0634090f2fe6c6d75e61be2b949464abb498973
+ 체인ID: 8453
+ Decimals: 18
+
+[8] DEGEN
+ 이름: Degen
+ 주소: 0x4ed4e862860bed51a9570b96d89af5e1b0efefed
+ 체인ID: 8453
+ Decimals: 18
+
+[9] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 8453
+ Decimals: 18
+
+[10] OM
+ 이름: MANTRA DAO
+ 주소: 0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2
+ 체인ID: 56
+ Decimals: 18
+
+[11] GIZA
+ 이름: Giza
+ 주소: 0x590830dfdf9a3f68afcdde2694773debdf267774
+ 체인ID: 8453
+ Decimals: 18
+
+[12] RAIL
+ 이름: Rail
+ 주소: 0xe76c6c83af64e4c60245d8c7de953df673a7a33d
+ 체인ID: 1
+ Decimals: 18
+
+[13] OP
+ 이름: Optimism
+ 주소: 0x4200000000000000000000000000000000000042
+ 체인ID: 10
+ Decimals: 18
+
+[14] LRC
+ 이름: LoopringCoin V2
+ 주소: 0xbbbbca6a901c926f240b89eacb641d8aec7aeafd
+ 체인ID: 1
+ Decimals: 18
+
+[15] RBTC
+ 이름: RBTC
+ 주소: 0x441fcb23dfe8289cf572126fedcf450974adc891
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ONG
+원본 풀네임: Ontology
+검색 쿼리: ONG Ontology
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:50
+발견된 토큰 수: 15개
+전체 결과 수: 1883개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ONT
+ 이름: Ontology Token
+ 주소: 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335
+ 체인ID: 56
+ Decimals: 18
+
+[2] MLC
+ 이름: MyLovelyCoin
+ 주소: 0x0566c506477cd2d8df4e0123512dbc344bd9d111
+ 체인ID: 137
+ Decimals: 18
+
+[3] ONG Ontology Gas On Base
+ 이름: ONG Ontology Gas On Base
+ 주소: 0x2f1ae6a9ace1475a6a6f2937e9f5992eb429b927
+ 체인ID: 8453
+ Decimals: 18
+
+[4] ONG Ontology Gas AI Presale v2
+ 이름: ONG Ontology Gas AI Presale v2
+ 주소: 0xf75a5d84f0666ac5fb9a3ff93a70661325bf2031
+ 체인ID: 56
+ Decimals: 9
+
+[5] BIFI
+ 이름: Beefy
+ 주소: 0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1
+ 체인ID: 1
+ Decimals: 18
+
+[6] Apple Ong
+ 이름: Apple Ong
+ 주소: 0xf9616bda8b53d6bd0acb0ae1a1f28613e6e23808
+ 체인ID: 130
+ Decimals: 18
+
+[7] Ong Longevity
+ 이름: Ong Longevity
+ 주소: 0x7ecadb46b88bb50150f2b88dcf3ac699efa64c21
+ 체인ID: 130
+ Decimals: 18
+
+[8] ONGMSF
+ 이름: ONG MSFT
+ 주소: 0x1f70ab9978d3df62fe8e4f5b280e2b565ad91984
+ 체인ID: 8453
+ Decimals: 18
+
+[9] YDM-a57368e1
+ 이름: PUT IT ONG
+ 주소: 0x140b20c08b61388c13cd7d40b87911fee93d1e93
+ 체인ID: 8453
+ Decimals: 6
+
+[10] ONGONT
+ 이름: ONG Ontology Gas Perpetual
+ 주소: 0x0282067253f657251724c7760de23b98cc537bb8
+ 체인ID: 8453
+ Decimals: 18
+
+[11] CRYN
+ 이름: CRYNcoin
+ 주소: 0xc31cebf8f9e825d1d1244d73d0a65e44bd5210db
+ 체인ID: 1
+ Decimals: 8
+
+[12] Ong
+ 이름: Ong
+ 주소: 0xa0fad1c5bfded4cd5c80d115eafb60302a8f636d
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Ong
+ 이름: Ong
+ 주소: 0xacd1890a4f9077c727e53b8ff40ecf87c33266d5
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $ONG
+ 이름: $ONG
+ 주소: 0x39c83b1de92118fadc4f69134ecb3b72e13553ca
+ 체인ID: 8453
+ Decimals: 18
+
+[15] ong
+ 이름: ong
+ 주소: 0xcac99f8a6dc8f4cdd9f4ec73d9449c7eea66cfcb
+ 체인ID: 8453
+ Decimals: 18

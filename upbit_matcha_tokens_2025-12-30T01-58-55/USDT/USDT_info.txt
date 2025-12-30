@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: USDT
+원본 풀네임: Tether
+검색 쿼리: USDT Tether
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:47
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDT
+ 이름: Tether USD
+ 주소: 0x55d398326f99059ff775485246999027b3197955
+ 체인ID: 56
+ Decimals: 18
+
+[2] USDT
+ 이름: Tether USD
+ 주소: 0xdac17f958d2ee523a2206206994597c13d831ec7
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDT
+ 이름: Tether USD
+ 주소: 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
+ 체인ID: 42161
+ Decimals: 6
+
+[4] USDT
+ 이름: (PoS) Tether USD
+ 주소: 0xc2132d05d31c914a87c6611c10748aeb04b58e8f
+ 체인ID: 137
+ Decimals: 6
+
+[5] USDT
+ 이름: Tether USD
+ 주소: 0x94b008aa00579c1307b0ef2c499ad98a8ce58e58
+ 체인ID: 10
+ Decimals: 6
+
+[6] USDt
+ 이름: TetherToken
+ 주소: 0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7
+ 체인ID: 43114
+ Decimals: 6
+
+[7] USDT
+ 이름: Tether USD
+ 주소: 0xfde4c96c8593536e31f229ea8f37b2ada2699bb2
+ 체인ID: 8453
+ Decimals: 6
+
+[8] USDT
+ 이름: USDT
+ 주소: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18
+
+[10] USDT0
+ 이름: USDT0
+ 주소: 0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb
+ 체인ID: 9745
+ Decimals: 6
+
+[11] USDT0
+ 이름: USDT0
+ 주소: 0xe7cd86e13ac4309349f30b3435a9d337750fc82d
+ 체인ID: 143
+ Decimals: 6
+
+[12] DAI
+ 이름: Dai Stablecoin
+ 주소: 0xda10009cbd5d07dd0cecc66161fc93d7c9000da1
+ 체인ID: 42161
+ Decimals: 18
+
+[13] USD₮0
+ 이름: USD₮0
+ 주소: 0x9151434b16b9763660705744891fa906f660ecc5
+ 체인ID: 130
+ Decimals: 6
+
+[14] XAUt
+ 이름: Tether Gold
+ 주소: 0x68749665ff8d2d112fa859aa293f07a622782f38
+ 체인ID: 1
+ Decimals: 6
+
+[15] DAI
+ 이름: Dai Stablecoin
+ 주소: 0x50c5725949a6f0c72e6c4a641f24049a917db0cb
+ 체인ID: 8453
+ Decimals: 18

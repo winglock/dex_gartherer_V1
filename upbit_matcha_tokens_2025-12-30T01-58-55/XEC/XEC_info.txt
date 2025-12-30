@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: XEC
+원본 풀네임: eCash
+검색 쿼리: XEC eCash
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:42
+발견된 토큰 수: 15개
+전체 결과 수: 1468개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XEC
+ 이름: eCash
+ 주소: 0x0ef2e7602add1733bfdb17ac3094d0421b502ca3
+ 체인ID: 56
+ Decimals: 18
+
+[2] XEC (eCash) NFT
+ 이름: XEC (eCash) NFT
+ 주소: 0x7dfa9c9e105e3b2fb35a6a1d8fb200082af8f898
+ 체인ID: 8453
+ Decimals: 18
+
+[3] XEC eCash
+ 이름: XEC eCash On Binance Alpha
+ 주소: 0x371e790de7fbf9e0bae51d2409d0ee7dd7342f7b
+ 체인ID: 56
+ Decimals: 18
+
+[4] XEC eCash On Base
+ 이름: XEC eCash On Base
+ 주소: 0x58e0bd8ffd3758ff7eb1cdb1d779f586097860d4
+ 체인ID: 8453
+ Decimals: 18
+
+[5] XEC eCash AI Presale v2
+ 이름: XEC eCash AI Presale v2
+ 주소: 0x6e0fe5d6af0577372dd44bc44335f71efdb50e06
+ 체인ID: 56
+ Decimals: 9
+
+[6] XECECA
+ 이름: XEC eCash Perpetual
+ 주소: 0x5ca0a75d889267bb77245aad93b0fd9230d90524
+ 체인ID: 8453
+ Decimals: 18
+
+[7] XEC
+ 이름: XEC
+ 주소: 0xe57388590d563c799ca7033a6022c3933e020e91
+ 체인ID: 8453
+ Decimals: 18
+
+[8] DTF?               XEC FANS
+ 이름: XEC FANS
+ 주소: 0x37afc66d1d41eb24d28495e8119f00aed2adbbae
+ 체인ID: 8453
+ Decimals: 18
+
+[9] What is eCash (XEC)?...
+ 이름: What is eCash (XEC)?...
+ 주소: 0xb779a63852d192bd795f8fd066cd4dd71f9f335a
+ 체인ID: 8453
+ Decimals: 18
+
+[10] XECGOR
+ 이름: XEC GORILLA
+ 주소: 0xe261e44a11ec0fc67c26717f0478c0909bdf0a85
+ 체인ID: 8453
+ Decimals: 18
+
+[11] XECGOR
+ 이름: XEC GORILLA
+ 주소: 0x0e8a3b6ab381a97dff59faaf9cd0da811187441b
+ 체인ID: 8453
+ Decimals: 18
+
+[12] XECM
+ 이름: XEC MAN
+ 주소: 0x31c4e0df8c3a15660bca7b14e2b7266f16e3ef97
+ 체인ID: 8453
+ Decimals: 18
+
+[13] XECFAN
+ 이름: XEC FANS
+ 주소: 0x6c8cdd31b617e4880bff8b61cba6f82cabdfdc33
+ 체인ID: 8453
+ Decimals: 18
+
+[14] XECR
+ 이름: XEC RAFFLE
+ 주소: 0x1e24fccc6e3383cb2a4c34e96c66baf102efe708
+ 체인ID: 8453
+ Decimals: 18
+
+[15] XEC
+ 이름: eCash
+ 주소: 0x3a22f080217a8146796b45cde7d0b0e7d4c76462
+ 체인ID: 8453
+ Decimals: 18

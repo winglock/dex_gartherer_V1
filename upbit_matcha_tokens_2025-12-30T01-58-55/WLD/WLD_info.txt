@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: WLD
+원본 풀네임: Worldcoin
+검색 쿼리: WLD Worldcoin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:02
+발견된 토큰 수: 15개
+전체 결과 수: 3290개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WLD
+ 이름: Worldcoin
+ 주소: 0x163f8c2467924be0ae7b5347228cabf260318753
+ 체인ID: 1
+ Decimals: 18
+
+[2] WLD
+ 이름: Worldcoin
+ 주소: 0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1
+ 체인ID: 10
+ Decimals: 18
+
+[3] WLD Worldcoin On Base
+ 이름: WLD Worldcoin On Base
+ 주소: 0x302c6e54461b13de2015ba34523fb4a9fc2e2a33
+ 체인ID: 8453
+ Decimals: 18
+
+[4] WLD Worldcoin AI Presale v2
+ 이름: WLD Worldcoin AI Presale v2
+ 주소: 0xf4742345752606f414f43276f9eadf53c5143cf2
+ 체인ID: 56
+ Decimals: 9
+
+[5] SAFE
+ 이름: Safe Token
+ 주소: 0x5afe3855358e112b5647b952709e6165e1c1eeee
+ 체인ID: 1
+ Decimals: 18
+
+[6] WLD
+ 이름: WLD
+ 주소: 0xe4310d260c3ea1a3ece25f1eee8968eb08cba208
+ 체인ID: 8453
+ Decimals: 18
+
+[7] WLD
+ 이름: WLD
+ 주소: 0x8d2ff83729ea59d45ebbfacd9ee128b470c22e19
+ 체인ID: 8453
+ Decimals: 18
+
+[8] WLD Worldc
+ 이름: WLD Worldcoin On Binance Alpha
+ 주소: 0x0e1cf833a177feb082c9c9f9b0639deea5e8e520
+ 체인ID: 56
+ Decimals: 18
+
+[9] WLDWOR
+ 이름: WLD Worldcoin Perpetual
+ 주소: 0xc7c768938936ed6b113214887e9fe5f81f70b9e2
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Nikola Tesla Token WLD
+ 이름: Nikola Tesla Token WLD
+ 주소: 0x14acc13ea74df69369a864754e7dcff180529970
+ 체인ID: 130
+ Decimals: 18
+
+[11] WLD
+ 이름: WLD
+ 주소: 0xcb2b7771e75e8fb114bc46f71b36593a1e66f41f
+ 체인ID: 8453
+ Decimals: 18
+
+[12] WLD
+ 이름: WLD
+ 주소: 0xf4d44f683ec043ba35000158a39b97393d18c1c6
+ 체인ID: 8453
+ Decimals: 18
+
+[13] WLD
+ 이름: WLD
+ 주소: 0xdaa148e6560346cdf78888c948d59f74b22d907d
+ 체인ID: 8453
+ Decimals: 18
+
+[14] WLD
+ 이름: WLD
+ 주소: 0x6c962d40618d4ce92d9396b129ecab6cf090998a
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WLD
+ 이름: WLD
+ 주소: 0x5a6d18368e3834e90bdadf4a40aa415054317c68
+ 체인ID: 8453
+ Decimals: 18

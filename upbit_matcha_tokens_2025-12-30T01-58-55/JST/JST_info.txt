@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: JST
+원본 풀네임: JUST
+검색 쿼리: JST JUST
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:06
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[4] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[5] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[6] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6
+
+[7] USDC
+ 이름: USDC
+ 주소: 0x078d782b760474a361dda0af3839290b0ef57ad6
+ 체인ID: 130
+ Decimals: 6
+
+[8] PAXG
+ 이름: Paxos Gold
+ 주소: 0x45804880de22913dafe09f4980848ece6ecbaf78
+ 체인ID: 1
+ Decimals: 18
+
+[9] 1INCH
+ 이름: 1INCH Token
+ 주소: 0x111111111117dc0aa78b770fa6a738034120c302
+ 체인ID: 1
+ Decimals: 18
+
+[10] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[11] AK1111
+ 이름: Akashalife
+ 주소: 0x54b659832f59c24cec0e4a2cd193377f1bcefc3c
+ 체인ID: 8453
+ Decimals: 18
+
+[12] MAMO
+ 이름: Mamo
+ 주소: 0x7300b37dfdfab110d83290a29dfb31b1740219fe
+ 체인ID: 8453
+ Decimals: 18
+
+[13] SHRUB
+ 이름: Shrub
+ 주소: 0x3b991130eae3cca364406d718da22fa1c3e7c256
+ 체인ID: 1
+ Decimals: 18
+
+[14] 1INCH
+ 이름: 1INCH Token
+ 주소: 0x111111111117dc0aa78b770fa6a738034120c302
+ 체인ID: 56
+ Decimals: 18
+
+[15] $STREET
+ 이름: Base Street
+ 주소: 0xb661933d9f24ec34dc0fd6862f086079f864b26f
+ 체인ID: 8453
+ Decimals: 18

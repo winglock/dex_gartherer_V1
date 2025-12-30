@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TOSHI
+원본 풀네임: Toshi
+검색 쿼리: TOSHI Toshi
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:14
+발견된 토큰 수: 15개
+전체 결과 수: 9348개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] TOSHI
+ 이름: Toshi
+ 주소: 0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4
+ 체인ID: 8453
+ Decimals: 18
+
+[2] TOSHI
+ 이름: Toshi
+ 주소: 0x6a2608dabe09bc1128eec7275b92dfb939d5db3f
+ 체인ID: 56
+ Decimals: 18
+
+[3] #TOSHI@TOSHI
+ 이름: #TOSHI@TOSHI
+ 주소: 0x4cebfeeebfd00ca0787c2dbdf43678801651b821
+ 체인ID: 8453
+ Decimals: 18
+
+[4] BUY TOSHI$TOSHI
+ 이름: BUY TOSHI$TOSHI
+ 주소: 0xf0ad9b774373a5977b481c97a0ffc831734725be
+ 체인ID: 8453
+ Decimals: 18
+
+[5] toshi-toshi-base
+ 이름: toshi-toshi-base
+ 주소: 0xb06abab9f94096e779b608157f5e4dfdca17db0b
+ 체인ID: 8453
+ Decimals: 18
+
+[6] TOSHI(TOSHI)ONBASEISAMEMETOKENIN
+ 이름: TOSHI(TOSHI)ONBASEISAMEMETOKENIN
+ 주소: 0xde59d27129c526630550ab94529be57c57cda07d
+ 체인ID: 8453
+ Decimals: 18
+
+[7] What is Toshi (TOSHI)?...
+ 이름: What is Toshi (TOSHI)?...
+ 주소: 0x719d3d0581aa8678f720fdaa70a4ab5519d11d7f
+ 체인ID: 8453
+ Decimals: 18
+
+[8] TOSHIPRICE,2025,TOSHI(TOSHI)TOKE
+ 이름: TOSHIPRICE,2025,TOSHI(TOSHI)TOKE
+ 주소: 0x491ac25316c2aaa889b7c45f9bfa6c9b2f37fb39
+ 체인ID: 8453
+ Decimals: 18
+
+[9] BEST TIME TO BUY $TOSHI$TOSHI IS
+ 이름: BEST TIME TO BUY $TOSHI$TOSHI IS
+ 주소: 0xfc7ac0894fa729d07fc410f0acff3f406f3f1a5e
+ 체인ID: 8453
+ Decimals: 18
+
+[10] BEST TIME TO BUY $TOSHI$TOSHI TR
+ 이름: BEST TIME TO BUY $TOSHI$TOSHI TR
+ 주소: 0x248badc5d72b658fdc2e73d4a01aefcfd52a8bd9
+ 체인ID: 8453
+ Decimals: 18
+
+[11] SATO
+ 이름: SATO
+ 주소: 0x5a70be406ce7471a44f0183b8d7091f4ad751db5
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ?Degen(Base) (DEGEN)  and Toshi (TOSHI) follow, showcasing signi
+ 이름: @Degen (Base) (DEGEN)  and Toshi (TOSHI) follow, showcasing signi
+ 주소: 0xb5dcb21b373e4035461aac9283062b68209b90d4
+ 체인ID: 8453
+ Decimals: 18
+
+[13] C💎 The OG Base Meme Coins1. Toshi ($TOSHI)• Mascot/Theme: A
+ 이름: D💎 The OG Base Meme Coins1. Toshi ($TOSHI)• Mascot/Theme: A
+ 주소: 0xacb6236de398a8f1c6423dda750e08ec5cdf1e28
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Toshi TOSHI
+ 이름: Toshi TOSHI
+ 주소: 0x44f09fe1065b771d96b287ea0f3429932e15b672
+ 체인ID: 8453
+ Decimals: 9
+
+[15] TOSHI Toshi
+ 이름: TOSHI Toshi
+ 주소: 0xbac57988706fae9cd823bf4c43178ac45a982769
+ 체인ID: 143
+ Decimals: 18

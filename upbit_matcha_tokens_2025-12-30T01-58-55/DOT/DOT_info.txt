@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DOT
+원본 풀네임: Polkadot
+검색 쿼리: DOT Polkadot
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:30
+발견된 토큰 수: 15개
+전체 결과 수: 2869개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] DOT
+ 이름: Polkadot Token
+ 주소: 0x7083609fce4d1d8dc0c979aab8c869ea2c873402
+ 체인ID: 56
+ Decimals: 18
+
+[2] MATIC
+ 이름: Matic Token
+ 주소: 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+ 체인ID: 1
+ Decimals: 18
+
+[3] DOT
+ 이름: Polkadot Token (Relay Chain)
+ 주소: 0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8
+ 체인ID: 8453
+ Decimals: 18
+
+[4] CLV
+ 이름: Clover
+ 주소: 0x80c62fe4487e1351b47ba49809ebd60ed085bf52
+ 체인ID: 1
+ Decimals: 18
+
+[5] XOR
+ 이름: Sora Token
+ 주소: 0x40fd72257597aa14c7231a7b1aaa29fce868f677
+ 체인ID: 1
+ Decimals: 18
+
+[6] ENJ
+ 이름: Enjin Coin
+ 주소: 0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c
+ 체인ID: 1
+ Decimals: 18
+
+[7] EFI
+ 이름: Efinity Token
+ 주소: 0x656c00e1bcd96f256f224ad9112ff426ef053733
+ 체인ID: 1
+ Decimals: 18
+
+[8] LIT
+ 이름: Litentry
+ 주소: 0xb59490ab09a0f526cc7305822ac65f2ab12f9723
+ 체인ID: 1
+ Decimals: 18
+
+[9] MATIC
+ 이름: Matic Token
+ 주소: 0xcc42724c6683b7e57334c4e856f4c9965ed682bd
+ 체인ID: 56
+ Decimals: 18
+
+[10] DOT
+ 이름: Polkadot
+ 주소: 0x196c20da81fbc324ecdf55501e95ce9f0bd84d14
+ 체인ID: 1
+ Decimals: 10
+
+[11] XRT
+ 이름: Robonomics
+ 주소: 0x7de91b204c1c737bcee6f000aaa6569cf7061cb7
+ 체인ID: 1
+ Decimals: 9
+
+[12] CRU
+ 이름: CRUST
+ 주소: 0x32a7c02e79c4ea1008dd6564b35f131428673c41
+ 체인ID: 1
+ Decimals: 18
+
+[13] CLV
+ 이름: Clover
+ 주소: 0x09e889bb4d5b474f561db0491c38702f367a4e4d
+ 체인ID: 56
+ Decimals: 18
+
+[14] LIME
+ 이름: iMe Lab
+ 주소: 0x7bc75e291e656e8658d66be1cc8154a3769a35dd
+ 체인ID: 56
+ Decimals: 18
+
+[15] APYS
+ 이름: APYSwap
+ 주소: 0xf7413489c474ca4399eee604716c72879eea3615
+ 체인ID: 1
+ Decimals: 18

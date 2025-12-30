@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CVC
+원본 풀네임: Civic
+검색 쿼리: CVC Civic
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:44
+발견된 토큰 수: 15개
+전체 결과 수: 2474개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] CVC Civic On Base
+ 이름: CVC Civic On Base
+ 주소: 0x719ae5b608f3ee5cb3da822836ee39673535a644
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CVC
+ 이름: Civic
+ 주소: 0x41e5560054824ea6b0732e656e3ad64e20e94e45
+ 체인ID: 1
+ Decimals: 8
+
+[3] Seedify.fund CVC
+ 이름: Seedify.fund CVC
+ 주소: 0x7615353bb6ae3dde3c01ec1b9dcd964534cc7551
+ 체인ID: 130
+ Decimals: 18
+
+[4] CVCCIV
+ 이름: CVC Civic Perpetual
+ 주소: 0x484232aa6933b49cfc5acadcf6d62721d918ebe8
+ 체인ID: 8453
+ Decimals: 18
+
+[5] CvC
+ 이름: CvC
+ 주소: 0xf8f0b0cdc0da4de0250a57bfadd01c8fbd7b1832
+ 체인ID: 8453
+ Decimals: 18
+
+[6] cvc
+ 이름: cvc
+ 주소: 0xd84bf349dc919f37e0fca4e3f13e076ae6aa2754
+ 체인ID: 8453
+ Decimals: 18
+
+[7] CVC
+ 이름: CVC
+ 주소: 0x5ec7c4b9e7dd38b58ab912356e5c44e6a853c2a7
+ 체인ID: 8453
+ Decimals: 18
+
+[8] CVC
+ 이름: CVC
+ 주소: 0x13dbc678c2bd0882489eda17000287892c4942ff
+ 체인ID: 8453
+ Decimals: 18
+
+[9] cvc
+ 이름: cvc
+ 주소: 0x921180e3e8e4262a5f228607aeec3396b1ce21c6
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Cvc
+ 이름: Cvc
+ 주소: 0xe611fd5acc05db58285cc465b6367bd6da50cf04
+ 체인ID: 8453
+ Decimals: 18
+
+[11] cvc
+ 이름: cvc
+ 주소: 0x1b9ce35a9002f3c59438e8c7eb422b96aac52bc7
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Cvc
+ 이름: Cvc
+ 주소: 0x9c91dad0a1a4568251d7f769243eef921135dd3c
+ 체인ID: 8453
+ Decimals: 18
+
+[13] cvc
+ 이름: cvc
+ 주소: 0x69cfb98a53f2d9d92802f83ed79cff7d7ec3847f
+ 체인ID: 8453
+ Decimals: 18
+
+[14] cvc
+ 이름: cvc
+ 주소: 0xe2fad86899eda01a928286087428da13e65569d8
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Cvc
+ 이름: Cvc
+ 주소: 0x268076878a229f41a0d9148a0e4e64968d042148
+ 체인ID: 8453
+ Decimals: 18

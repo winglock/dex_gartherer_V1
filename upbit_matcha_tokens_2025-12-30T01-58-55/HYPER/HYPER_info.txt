@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: HYPER
+원본 풀네임: Hyperlane
+검색 쿼리: HYPER Hyperlane
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:48
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 8453
+ Decimals: 18
+
+[2] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 56
+ Decimals: 18
+
+[3] $HYPER HYPERLANE BASE
+ 이름: $HYPER HYPERLANE BASE
+ 주소: 0x6e1fc91562d61dba37debf378b5af1552ab923be
+ 체인ID: 8453
+ Decimals: 18
+
+[4] HYPER
+ 이름: Hyperlane
+ 주소: 0x93a2db22b7c736b341c32ff666307f4a9ed910f5
+ 체인ID: 1
+ Decimals: 18
+
+[5] GALEON
+ 이름: Galeon
+ 주소: 0x1d0ac23f03870f768ca005c84cbb6fb82aa884fd
+ 체인ID: 56
+ Decimals: 18
+
+[6] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 42161
+ Decimals: 18
+
+[7] HYHU
+ 이름: Hyper Hub
+ 주소: 0xfc2543141d5dbf9dfeddb4e1535e7ff3d7d495c4
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Bitcoin Hyper
+ 이름: Bitcoin Hyper
+ 주소: 0xb568caa0ef384f6248ce95a12da53b8d8b1547cd
+ 체인ID: 8453
+ Decimals: 18
+
+[9] HYPER
+ 이름: Hyperlane
+ 주소: 0x9923db8d7fbacc2e69e87fad19b886c81cd74979
+ 체인ID: 10
+ Decimals: 18
+
+[10] ACTUAL
+ 이름: Actual by Virtuals
+ 주소: 0x6948de89f535ed4a3b07122be0fe1ae65d527c03
+ 체인ID: 8453
+ Decimals: 18
+
+[11] LUSH
+ 이름: LushAI
+ 주소: 0xec9333e7dadeebf82d290d6cb12e66cc30ce46b0
+ 체인ID: 1
+ Decimals: 18
+
+[12] PBUX
+ 이름: Playbux
+ 주소: 0x9d1d4de9cd93203147fac3bc0262a78e3a0e96bb
+ 체인ID: 56
+ Decimals: 18
+
+[13] FORCE
+ 이름: Force
+ 주소: 0x9ef1139e6b420cc929dd912a5a7adeced6f12e91
+ 체인ID: 8453
+ Decimals: 18
+
+[14] HYPER
+ 이름: Bitcoin Hyper
+ 주소: Cd27HT7G8d3J1BrWUcucqiT65ow8v4SavXffy8Kxpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[15] EARN
+ 이름: HOLD
+ 주소: 0x803b629c339941e2b77d2dc499dac9e1fd9eac66
+ 체인ID: 8453
+ Decimals: 18

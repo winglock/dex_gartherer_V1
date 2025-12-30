@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "wALGO",
+    "chain": "avalanche",
+    "dex": "traderjoe",
+    "pool_address": "0x1399fc42e15c07910e4ed1802390d03e3BA8291c",
+    "pair": "WALGO/USD",
+    "price_usd": 0.1226,
+    "lp_reserve_usd": 3.24,
+    "volume_24h": 0.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060374
+  },
+  {
+    "symbol": "wALGO",
+    "chain": "avalanche",
+    "dex": "traderjoe",
+    "pool_address": "0x406C54615392e7785146c59AeB255D8a58bd7819",
+    "pair": "WALGO/USD",
+    "price_usd": 0.1218,
+    "lp_reserve_usd": 217.55,
+    "volume_24h": 0.04,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060374
+  }
+]

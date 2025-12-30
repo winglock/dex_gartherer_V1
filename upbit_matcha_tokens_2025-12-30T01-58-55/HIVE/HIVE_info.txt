@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: HIVE
+원본 풀네임: Hive
+검색 쿼리: HIVE Hive
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:53
+발견된 토큰 수: 15개
+전체 결과 수: 8703개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] HINT
+ 이름: Hive Intelligence
+ 주소: 0x91da780bc7f4b7cf19abe90411a2a296ec5ff787
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
+ 체인ID: 1
+ Decimals: 18
+
+[3] Hive HIVE
+ 이름: Hive HIVE
+ 주소: 0xfc4ed78d6a3a8decf187e4970f802cce74d77522
+ 체인ID: 130
+ Decimals: 18
+
+[4] Hive HIVE
+ 이름: Hive HIVE
+ 주소: 0xb53f0da930632bc42f850f2e9e72b38c4c81d867
+ 체인ID: 130
+ Decimals: 18
+
+[5] Hive HIVE
+ 이름: Hive HIVE
+ 주소: 0xc4755433e04de227fb5d8760d315efe6ca52434e
+ 체인ID: 130
+ Decimals: 18
+
+[6] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x97c806e7665d3afd84a8fe1837921403d59f3dcc
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Hive HIVE
+ 이름: Hive HIVE 2026
+ 주소: 0x7a017d34355d294ef9f1835c7464f6d992d01353
+ 체인ID: 8453
+ Decimals: 18
+
+[8] PERP HIVE HIVE
+ 이름: Perp Hive HIVE
+ 주소: 0x11298c2a157852c2d9812418caba6b31daf9c3ad
+ 체인ID: 56
+ Decimals: 9
+
+[9] Hive HIVE - Free
+ 이름: Hive HIVE - Free
+ 주소: 0xf8f6fd8ac815032cd1e53bf09845b5d0da22fa6b
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Hive HIVE - AI
+ 이름: Hive HIVE - AI
+ 주소: 0x3057dcc81d89be60e73d7d0c262ea4de5825fce7
+ 체인ID: 8453
+ Decimals: 9
+
+[11] Hive HIVE Reserve
+ 이름: Hive HIVE Reserve
+ 주소: 0x8fa656ae9db809371a10ff35cc554ac5261835a2
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Hive HIVE V3
+ 이름: Hive HIVE V3
+ 주소: 0x6c4be869697fec939f68545b89c9ad2fa681cdc0
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Hive HIVE V3
+ 이름: Hive HIVE V3
+ 주소: 0x9022e1ac1609c667faaabffedd374dfbe14d449c
+ 체인ID: 130
+ Decimals: 18
+
+[14] American Hive HIVE
+ 이름: American Hive HIVE
+ 주소: 0xd05cab6f1aad88e7973ef7f176c42e556e79c2b3
+ 체인ID: 130
+ Decimals: 18
+
+[15] Hive HIVE ETF
+ 이름: Hive HIVE ETF
+ 주소: 0x1f3ae4a14606bb85447e8d40230bdc59a5fd6041
+ 체인ID: 130
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AGLD
+원본 풀네임: Adventure Gold
+검색 쿼리: AGLD Adventure Gold
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:32
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XAUt
+ 이름: Tether Gold
+ 주소: 0x68749665ff8d2d112fa859aa293f07a622782f38
+ 체인ID: 1
+ Decimals: 6
+
+[2] PAXG
+ 이름: Paxos Gold
+ 주소: 0x45804880de22913dafe09f4980848ece6ecbaf78
+ 체인ID: 1
+ Decimals: 18
+
+[3] PAXG
+ 이름: Paxos Gold (PoS)
+ 주소: 0x553d3d295e0f695b9228246232edf400ed3560b5
+ 체인ID: 137
+ Decimals: 18
+
+[4] PEPE
+ 이름: Pepe
+ 주소: 0x698dc45e4f10966f6d1d98e3bfd7071d8144c233
+ 체인ID: 8453
+ Decimals: 9
+
+[5] USDz
+ 이름: USDz
+ 주소: 0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938
+ 체인ID: 8453
+ Decimals: 18
+
+[6] GOLDN
+ 이름: GOLDN
+ 주소: 0x52d0ac6a76da6e4a5168a60c423f7ff0285534b1
+ 체인ID: 8453
+ Decimals: 18
+
+[7] GLDx
+ 이름: Gold xStock
+ 주소: Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re
+ 체인ID: 1399811149
+ Decimals: 8
+
+[8] AGLD Adventure Gold On Base
+ 이름: AGLD Adventure Gold On Base
+ 주소: 0xf8e24a1c37c2b140c1de3e1e49def9285e13eaeb
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ZENT
+ 이름: Zentry
+ 주소: 0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa
+ 체인ID: 1
+ Decimals: 18
+
+[10] USDP
+ 이름: Pax Dollar
+ 주소: 0x8e870d67f660d95d5be530380d0ec0bd388289e1
+ 체인ID: 1
+ Decimals: 18
+
+[11] GOLD
+ 이름: GOLD
+ 주소: 0xb58238fb8f4bde6068aa4ae3aa3fb85c409dab07
+ 체인ID: 8453
+ Decimals: 18
+
+[12] GDK
+ 이름: Golden Donkey
+ 주소: 0x28743c20b1dec3a31bb2a21f8ccd045dd074912e
+ 체인ID: 8453
+ Decimals: 18
+
+[13] BIGTIME
+ 이름: Big Time
+ 주소: 0x64bc2ca1be492be7185faa2c8835d9b824c8a194
+ 체인ID: 1
+ Decimals: 18
+
+[14] FEFE
+ 이름: Fefe
+ 주소: 0xfefe157c9d0ae025213092ff9a5cb56ab492bab8
+ 체인ID: 1
+ Decimals: 9
+
+[15] CAMLY
+ 이름: Camly Coin
+ 주소: 0x0910320181889fefde0bb1ca63962b0a8882e413
+ 체인ID: 56
+ Decimals: 3

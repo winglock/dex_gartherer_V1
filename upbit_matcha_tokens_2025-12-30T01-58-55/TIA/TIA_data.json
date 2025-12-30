@@ -1,0 +1,260 @@
+{
+  "originalSymbol": "TIA",
+  "originalFullName": "Celestia",
+  "searchedQuery": "TIA Celestia",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 7837,
+  "tokens": [
+    {
+      "address": "0xdccf4272d71a8ff338c21bce0771d6409d671da3",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "@$TIA - Celestia Faces Scrutiny Over Significant Year-to-Date Pri",
+      "symbol": "@$TIA - Celestia Faces Scrutiny Over Significant Year-to-Date Pri",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xdccf4272d71a8ff338c21bce0771d6409d671da3"
+    },
+    {
+      "address": "0xa1db3b4b102cd344f87bba535f50c776294cd6b4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TIA Celestia On Base",
+      "symbol": "TIA Celestia On Base",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xa1db3b4b102cd344f87bba535f50c776294cd6b4"
+    },
+    {
+      "address": "0xfb4af6c6d98f3ede11d1d9595c79e8cf657eb74e",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TIA Celestia AI Presale v2",
+      "symbol": "TIA Celestia AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0xfb4af6c6d98f3ede11d1d9595c79e8cf657eb74e"
+    },
+    {
+      "address": "0xe9ce902c7d68a32c7d1d9ff90d3265dc5a577949",
+      "chainId": 56,
+      "decimals": 9,
+      "name": "TIA Celestia AI Presale v2",
+      "symbol": "TIA Celestia AI Presale v2",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0xe9ce902c7d68a32c7d1d9ff90d3265dc5a577949"
+    },
+    {
+      "address": "0x824e35f7a75324f99300afac75ecf7354e17ea26",
+      "chainId": 1,
+      "decimals": 9,
+      "name": "Tia Token",
+      "symbol": "TIA",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 2,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "manualUnblock": false,
+      "transactionsHourly": 1,
+      "transactionsDaily": 1,
+      "transactionsWeekly": 2,
+      "transactionsMonthly": 9,
+      "volumeUsdHourly": 13.1441241101051,
+      "volumeUsdDaily": 13.1660745135825,
+      "volumeUsdWeekly": 13.46860623232524,
+      "volumeUsdMonthly": 817.674179714022,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x824e35f7a75324f99300afac75ecf7354e17ea26"
+    },
+    {
+      "address": "0x4ad6a840e712f086d63a01f8358887ab0e753e2f",
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TIA Celestia On Binance Alpha",
+      "symbol": "TIA Celest",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/56/0x4ad6a840e712f086d63a01f8358887ab0e753e2f"
+    },
+    {
+      "address": "0x6ad2d2c22bb58ea94be18cff11ef67e8bb97b652",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Wrapped TIA",
+      "symbol": "wTIA",
+      "type": "ERC20",
+      "hasLogo": true,
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": 0,
+      "sellTax": 0,
+      "isInDex": true,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/1/0x6ad2d2c22bb58ea94be18cff11ef67e8bb97b652"
+    },
+    {
+      "address": "0xf7bd6185eda58466c1b22864994bdd073f057777",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TIA Celestia Perpetual",
+      "symbol": "TIACEL",
+      "type": "ERC20",
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf7bd6185eda58466c1b22864994bdd073f057777"
+    },
+    {
+      "address": "0xf5b80aeb051d96af27e6d7abcf490b2cedef2acc",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Tia",
+      "symbol": "Tia",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xf5b80aeb051d96af27e6d7abcf490b2cedef2acc"
+    },
+    {
+      "address": "0x01213ac33718df09acddb58bc06493e049ebc64d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TIA",
+      "symbol": "TIA",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x01213ac33718df09acddb58bc06493e049ebc64d"
+    },
+    {
+      "address": "0xbcf44575371eed4306ca9f80c44b9167a5aa4e1e",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TIA",
+      "symbol": "TIA",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xbcf44575371eed4306ca9f80c44b9167a5aa4e1e"
+    },
+    {
+      "address": "0x84270191128f9dc4abe139155b99b3ba80c42752",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Tia",
+      "symbol": "Tia",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x84270191128f9dc4abe139155b99b3ba80c42752"
+    },
+    {
+      "address": "0x41de2cb61df10f9762a2a00d8845599405b69e17",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "$TIA",
+      "symbol": "$TIA",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x41de2cb61df10f9762a2a00d8845599405b69e17"
+    },
+    {
+      "address": "0x01549fe348a2db000773aa4faac5f0b5019b109c",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Tia",
+      "symbol": "Tia",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x01549fe348a2db000773aa4faac5f0b5019b109c"
+    },
+    {
+      "address": "0x46d26604488808e61a5397a3fd0604611498f057",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TIA",
+      "symbol": "TIA",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x46d26604488808e61a5397a3fd0604611498f057"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:21.190Z",
+  "error": null
+}

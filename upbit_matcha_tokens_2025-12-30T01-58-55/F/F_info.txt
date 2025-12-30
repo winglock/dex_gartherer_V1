@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: F
+원본 풀네임: F
+검색 쿼리: F F
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:16
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[3] USDT
+ 이름: Tether USD
+ 주소: 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
+ 체인ID: 42161
+ Decimals: 6
+
+[4] USDC
+ 이름: USDC
+ 주소: 0x754704bc059f8c67012fed69bc8a327a5aafb603
+ 체인ID: 143
+ Decimals: 6
+
+[5] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[6] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[7] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[8] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[9] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[10] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[11] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[12] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 10
+ Decimals: 18
+
+[13] WETH
+ 이름: Wrapped Ether
+ 주소: 0x82af49447d8a07e3bd95bd0d56f35241523fbab1
+ 체인ID: 42161
+ Decimals: 18
+
+[14] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6
+
+[15] FIRO
+ 이름: Firo
+ 주소: 0xd5d0322b6bab6a762c79f8c81a0b674778e13aed
+ 체인ID: 56
+ Decimals: 8

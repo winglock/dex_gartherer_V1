@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ASTR
+원본 풀네임: Astar
+검색 쿼리: ASTR Astar
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:06
+발견된 토큰 수: 15개
+전체 결과 수: 2613개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ASTR Astar On Base
+ 이름: ASTR Astar On Base
+ 주소: 0xe5751980bb3c47a4fe26eecf150917df13343309
+ 체인ID: 8453
+ Decimals: 18
+
+[2] ASTR
+ 이름: Astar Token
+ 주소: 0xf27441230eadeac85b764610325cc9a0d7859689
+ 체인ID: 1
+ Decimals: 18
+
+[3] 50x Astr
+ 이름: 50x Astr
+ 주소: 0xacd5fea769c5629c57c012ec0643b629f37a6172
+ 체인ID: 130
+ Decimals: 18
+
+[4] ASTRAS
+ 이름: ASTR Astar Perpetual
+ 주소: 0xabf5df36b0d0f73d5b41aef142dbeddf0a897698
+ 체인ID: 8453
+ Decimals: 18
+
+[5] ASTR
+ 이름: ASTR
+ 주소: 0xb4e5cf44b9f9fb5a916b9e5f8a5c33486faa798a
+ 체인ID: 8453
+ Decimals: 18
+
+[6] astr
+ 이름: astr
+ 주소: 0x901a8db25b1fbc8d910332e20b65465365a152bf
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ASTR
+ 이름: ASTR
+ 주소: 0x4a9115d59be98758f4e29f98959c668662b4ff35
+ 체인ID: 8453
+ Decimals: 18
+
+[8] $ASTR
+ 이름: $ASTR
+ 주소: 0x31b622336a21745e404f363101ad8cca0d6918a8
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ASTR
+ 이름: ASTR
+ 주소: 0xdeb312806a7a3c1df78ba645d486fe377f41bb5a
+ 체인ID: 8453
+ Decimals: 18
+
+[10] astr
+ 이름: astr
+ 주소: 0x2e2b53e47567b3a94e515867a7af763e2dfa9d3b
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ASTR
+ 이름: ASTR
+ 주소: 0xcb44eebf67a78b17c912f109f825b0da5b33ff50
+ 체인ID: 8453
+ Decimals: 18
+
+[12] $ASTR
+ 이름: $ASTR
+ 주소: 0x0bedb245267859811d5824dc84aadcb1c8d2fc0e
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ASTR
+ 이름: ASTR
+ 주소: 0xcc44c91f69e6e9f419cad806afcb7da66bd27ce4
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Astr project
+ 이름: Astr project
+ 주소: 0x27858b615c52dacdea7e43b58ba97c48e9fd6fc7
+ 체인ID: 8453
+ Decimals: 18
+
+[15] What is Astar (ASTR)?...
+ 이름: What is Astar (ASTR)?...
+ 주소: 0x595f8e59a731de4d5689647a7120de59fa503c7e
+ 체인ID: 8453
+ Decimals: 18

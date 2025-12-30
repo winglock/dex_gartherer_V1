@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ENSO
+원본 풀네임: Enso
+검색 쿼리: ENSO Enso
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:51
+발견된 토큰 수: 15개
+전체 결과 수: 793개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] &Enso ($ENSO) Coming Soon to Bybit Spot
+ 이름: &Enso ($ENSO) Coming Soon to Bybit Spot
+ 주소: 0xd346236424487006669199d037932e56ac37f1f9
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Enso ENSO
+ 이름: Enso ENSO
+ 주소: 0xca9f11a3d258b962bdee666b078e2951a5006a9d
+ 체인ID: 8453
+ Decimals: 9
+
+[3] ENSO
+ 이름: Enso
+ 주소: 0x699f088b5dddcafb7c4824db5b10b57b37cb0c66
+ 체인ID: 1
+ Decimals: 18
+
+[4] ENSO
+ 이름: ENSO
+ 주소: 0x72c04d22ad5ab73eddd798351beb9054340c9d03
+ 체인ID: 56
+ Decimals: 9
+
+[5] eDPI
+ 이름: Enso DefiPulse Index
+ 주소: 0x890ed1ee6d435a35d51081ded97ff7ce53be5942
+ 체인ID: 1
+ Decimals: 18
+
+[6] Enso
+ 이름: Enso
+ 주소: 0x640b18129c110e83975246d7725d0dce520288e5
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Enso
+ 이름: Enso
+ 주소: 0x7aeab6406ff972ffdbb25185159424fa1089b0ee
+ 체인ID: 8453
+ Decimals: 18
+
+[8] $ENSO
+ 이름: $ENSO
+ 주소: 0x52ab8ca8a883f0f8974a8be377d6b4f225d029e9
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ENSO
+ 이름: ENSO
+ 주소: 0x45c3c6534bfbf06ff0e3d9e87a6225db663ad437
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Enso
+ 이름: Enso
+ 주소: 0xfb207bde6abbb1ee96665bb7541f27e568ae54d0
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Enso
+ 이름: Enso
+ 주소: 0xb2530c48acd6679a407384c2e2491ccfa3d632df
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Enso
+ 이름: Enso
+ 주소: 0x53380a2fa4adb9d55b4e8a8ec612f1788904f191
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Enso
+ 이름: Enso
+ 주소: 0x4f6c230edd742cfc4c24ed4045efe2dd773b226a
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Enso
+ 이름: Enso
+ 주소: 0x2ad1a69cdf2260362f843f79a2fd8c1924a77431
+ 체인ID: 8453
+ Decimals: 18
+
+[15] enso
+ 이름: enso
+ 주소: 0xd2e4586ff3235ef921bcb66fb186df189dc27389
+ 체인ID: 8453
+ Decimals: 18

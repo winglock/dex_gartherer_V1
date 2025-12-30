@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: OPEN
+원본 풀네임: OpenLedger
+검색 쿼리: OPEN OpenLedger
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:08
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[2] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+ 체인ID: 1
+ Decimals: 8
+
+[3] WBTC
+ 이름: (PoS) Wrapped BTC
+ 주소: 0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6
+ 체인ID: 137
+ Decimals: 8
+
+[4] B3
+ 이름: B3
+ 주소: 0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3
+ 체인ID: 8453
+ Decimals: 18
+
+[5] MATIC
+ 이름: Matic Token
+ 주소: 0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0
+ 체인ID: 1
+ Decimals: 18
+
+[6] ZRX
+ 이름: 0x Protocol Token
+ 주소: 0xe41d2489571d322189246dafa5ebde1f4699f498
+ 체인ID: 1
+ Decimals: 18
+
+[7] VVV
+ 이름: Venice Token
+ 주소: 0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Yee
+ 이름: Yee Token
+ 주소: 0x9ac9468e7e3e1d194080827226b45d0b892c77fd
+ 체인ID: 1
+ Decimals: 9
+
+[9] HYPER
+ 이름: Hyperlane
+ 주소: 0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4
+ 체인ID: 8453
+ Decimals: 18
+
+[10] BAT
+ 이름: Basic Attention Token
+ 주소: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
+ 체인ID: 1
+ Decimals: 18
+
+[11] ENS
+ 이름: Ethereum Name Service
+ 주소: 0xc18360217d8f7ab5e7c516566761ea12ce7f9d72
+ 체인ID: 1
+ Decimals: 18
+
+[12] MORPHO
+ 이름: Morpho Token
+ 주소: 0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842
+ 체인ID: 8453
+ Decimals: 18
+
+[13] FET
+ 이름: Fetch
+ 주소: 0xaea46a60368a7bd060eec7df8cba43b7ef41ad85
+ 체인ID: 1
+ Decimals: 18
+
+[14] TIG
+ 이름: The Innovation Game
+ 주소: 0x0c03ce270b4826ec62e7dd007f0b716068639f7b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] BNT
+ 이름: Bancor Network Token
+ 주소: 0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
+ 체인ID: 1
+ Decimals: 18

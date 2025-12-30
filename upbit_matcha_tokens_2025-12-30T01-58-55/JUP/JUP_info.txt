@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: JUP
+원본 풀네임: Jupiter
+검색 쿼리: JUP Jupiter
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:08
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] JUP
+ 이름: Jupiter
+ 주소: JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] JupSOL
+ 이름: Jupiter Staked SOL
+ 주소: jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v
+ 체인ID: 1399811149
+ Decimals: 9
+
+[3] JLP
+ 이름: Jupiter Perps LP
+ 주소: 27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4
+ 체인ID: 1399811149
+ Decimals: 6
+
+[4] JUP Jupiter On Base
+ 이름: JUP Jupiter On Base
+ 주소: 0xbfeefff6abc71087ebe7f06a52542e5f4fa7985e
+ 체인ID: 8453
+ Decimals: 18
+
+[5] JUP Jupiter AI Presale v2
+ 이름: JUP Jupiter AI Presale v2
+ 주소: 0x9a39f412efdf6ce0454c70238ed0f7261bee1c15
+ 체인ID: 56
+ Decimals: 18
+
+[6] JUP Jupiter AI Presale v2
+ 이름: JUP Jupiter AI Presale v2
+ 주소: 0x8d76834f1591c18c438fee23d836730f9026ace7
+ 체인ID: 56
+ Decimals: 9
+
+[7] JUP
+ 이름: Jupiter
+ 주소: 0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8
+ 체인ID: 1
+ Decimals: 18
+
+[8] JUP
+ 이름: JUP (Jupiter)
+ 주소: 0xc192f7c4f4abd3a406e2e33c318c72502055b8af
+ 체인ID: 8453
+ Decimals: 18
+
+[9] bwJUP
+ 이름: BSC Wrapped Jupiter
+ 주소: 0x0231f91e02debd20345ae8ab7d71a41f8e140ce7
+ 체인ID: 56
+ Decimals: 18
+
+[10] JUP
+ 이름: Long Jup
+ 주소: 9xWANzS4gUHLGRVeGhXL8BamKqdUzQAWnfV64Ju2pump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[11] JUP
+ 이름: JUP | jupiter-token.web.app
+ 주소: D9GsHMDQ4R6jAe6wPawmKGv9gMqiQdkb6uUrGkAZXM3A
+ 체인ID: 1399811149
+ Decimals: 9
+
+[12] JUP CALL
+ 이름: JUP CALL
+ 주소: FWpwiwY14s9NmQ4i8oLR8yhxMBNuo5orjznA6wyx96Jt
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] JUP CALL
+ 이름: JUP CALL
+ 주소: 2y6C6bXKBXhimrsStx4F7GhBkGkVWw7DPfYufJU5Gunw
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] JUP Long Mao
+ 이름: JUP Long Mao
+ 주소: 0x13bd7ce54bce9e9c509c4f316ab7b17d485902d8
+ 체인ID: 130
+ Decimals: 18
+
+[15] JUP Long Mao
+ 이름: JUP Long Mao
+ 주소: 0x72059503abc03b52049f708e5273006101f17120
+ 체인ID: 8453
+ Decimals: 18

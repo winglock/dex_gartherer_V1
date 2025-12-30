@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TMr7LizLihDymctG2w2ezLxjZDrv9S53p6",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2841,
+    "lp_reserve_usd": 7858.65,
+    "volume_24h": 19.5,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TFGDbUyP8xez44C76fin3bn3Ss6jugoUwJ",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2842,
+    "lp_reserve_usd": 85874110.51,
+    "volume_24h": 1706590.03,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x6e49c263b84F076758e08F3cfdf64b30Dd314367",
+    "pair": "WTRX/USD",
+    "price_usd": 1.517e-11,
+    "lp_reserve_usd": 0.72,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TY7QsKavxSey2xDoQ3WZkcPLwv5LXwS8iW",
+    "pair": "WTRX/USD",
+    "price_usd": 0.4697,
+    "lp_reserve_usd": 85.84,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TPMVeY18uPGAgWQ1Vim3RPjMX6BoA1Q9Sk",
+    "pair": "WTRX/USD",
+    "price_usd": 0.3162,
+    "lp_reserve_usd": 8508.59,
+    "volume_24h": 1462.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x11034d12f6fbdB05C1E80Af3c7BdA0611Bc465A5",
+    "pair": "WTRX/USD",
+    "price_usd": 3.046e-12,
+    "lp_reserve_usd": 0.1,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  },
+  {
+    "symbol": "WTRX",
+    "chain": "tron",
+    "dex": "sunswap",
+    "pool_address": "TEjpEVwm3Xr5VHfa2CWYLqcyKZEGE9CGUz",
+    "pair": "WTRX/USD",
+    "price_usd": 0.2837,
+    "lp_reserve_usd": 7775.97,
+    "volume_24h": 39.83,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060378
+  }
+]

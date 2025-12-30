@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: FLUID
+원본 풀네임: Fluid
+검색 쿼리: FLUID Fluid
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:31
+발견된 토큰 수: 15개
+전체 결과 수: 2632개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FLUID (Fluid Protocol) NFT
+ 이름: FLUID (Fluid Protocol) NFT
+ 주소: 0x199322b3a4b119111fbc172390662eb164d5f39a
+ 체인ID: 8453
+ Decimals: 18
+
+[2] FLUID
+ 이름: Fluid
+ 주소: 0x61e030a56d33e8260fdd81f03b162a79fe3449cd
+ 체인ID: 42161
+ Decimals: 18
+
+[3] FLUID
+ 이름: Fluid
+ 주소: 0x61e030a56d33e8260fdd81f03b162a79fe3449cd
+ 체인ID: 8453
+ Decimals: 18
+
+[4] FLUID
+ 이름: Fluid
+ 주소: 0x61e030a56d33e8260fdd81f03b162a79fe3449cd
+ 체인ID: 9745
+ Decimals: 18
+
+[5] Fluid FLUID
+ 이름: Fluid FLUID
+ 주소: 0x719684c04229a7dfaf7b315f65b92949d0f7a8bd
+ 체인ID: 8453
+ Decimals: 9
+
+[6] Fluid FLUID
+ 이름: Fluid FLUID
+ 주소: 0x66fd140cf28f69e254b1ca83c8e1d00bfa4779a4
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Fluid FLUID
+ 이름: Fluid FLUID
+ 주소: 0x297dd18714090c134cc89f8a2db83378051977f1
+ 체인ID: 130
+ Decimals: 18
+
+[8] Fluid FLUID
+ 이름: Fluid FLUID
+ 주소: 0x33ff406e0e7fcd1d521deab7fa4afbcb266dab36
+ 체인ID: 130
+ Decimals: 18
+
+[9] Fluid FLUID V2
+ 이름: Fluid FLUID V2
+ 주소: 0x7e7b6d50bf3178ead94cf26a194425c3428b9800
+ 체인ID: 130
+ Decimals: 18
+
+[10] Fluid FLUID V3
+ 이름: Fluid FLUID V3
+ 주소: 0x9270c19ebf872a6ef74d9bce9214f5d3aa624751
+ 체인ID: 130
+ Decimals: 18
+
+[11] Based Fluid FLUID
+ 이름: Based Fluid FLUID
+ 주소: 0x273185e61171424dc01c9f7bf4a6d73cfe9f3b13
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Fluid FLUID XRP
+ 이름: Fluid FLUID XRP
+ 주소: 0x52f02a1e4a52dff106cc972694cf216a02bc97d2
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Strategic Fluid FLUID Reserve
+ 이름: Strategic Fluid FLUID Reserve
+ 주소: 0xee4fe1670ae8f1685fdbe60b8630e107bd838bb2
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Fluid FLUID AI On Base
+ 이름: Fluid FLUID AI On Base
+ 주소: 0x5c5ed09e1b4de930ce26812a88b36445ae2568c7
+ 체인ID: 8453
+ Decimals: 9
+
+[15] ZETA
+ 이름: Zeta
+ 주소: 0xf091867ec603a6628ed83d274e835539d82e9cc8
+ 체인ID: 1
+ Decimals: 18

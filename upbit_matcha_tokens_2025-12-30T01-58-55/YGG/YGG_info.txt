@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: YGG
+원본 풀네임: Yield Guild Games
+검색 쿼리: YGG Yield Guild Games
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:39
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[2] USDe
+ 이름: USDe
+ 주소: 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34
+ 체인ID: 9745
+ Decimals: 18
+
+[3] USDe
+ 이름: USDe
+ 주소: 0x4c9edd5852cd905f086c759e8383e09bff1e68b3
+ 체인ID: 1
+ Decimals: 18
+
+[4] USDe
+ 이름: USDe
+ 주소: 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34
+ 체인ID: 8453
+ Decimals: 18
+
+[5] PENDLE
+ 이름: Pendle
+ 주소: 0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8
+ 체인ID: 42161
+ Decimals: 18
+
+[6] CRV
+ 이름: Curve DAO Token
+ 주소: 0x11cdb42b0eb46d95f990bedd4695a6e3fa034978
+ 체인ID: 42161
+ Decimals: 18
+
+[7] ONDO
+ 이름: Ondo
+ 주소: 0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3
+ 체인ID: 1
+ Decimals: 18
+
+[8] YB
+ 이름: Yield Basis
+ 주소: 0x01791f726b4103694969820be083196cc7c045ff
+ 체인ID: 1
+ Decimals: 18
+
+[9] stETH
+ 이름: Liquid staked Ether 2.0
+ 주소: 0xae7ab96520de3a18e5e111b5eaab095312d7fe84
+ 체인ID: 1
+ Decimals: 18
+
+[10] MORPHO
+ 이름: Morpho Token
+ 주소: 0xbaa5cc21fd487b8fcc2f632f3f4e8d37262a0842
+ 체인ID: 8453
+ Decimals: 18
+
+[11] YFI
+ 이름: yearn.finance
+ 주소: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+ 체인ID: 1
+ Decimals: 18
+
+[12] YGG
+ 이름: Yield Guild Games Token
+ 주소: 0x25f8087ead173b73d6e8b84329989a8eea16cf73
+ 체인ID: 1
+ Decimals: 18
+
+[13] USDe
+ 이름: USDe
+ 주소: 0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34
+ 체인ID: 42161
+ Decimals: 18
+
+[14] B3
+ 이름: B3
+ 주소: 0xb3b32f9f8827d4634fe7d973fa1034ec9fddb3b3
+ 체인ID: 8453
+ Decimals: 18
+
+[15] BRETT
+ 이름: Brett
+ 주소: 0x532f27101965dd16442e59d40670faf5ebb142e4
+ 체인ID: 8453
+ Decimals: 18

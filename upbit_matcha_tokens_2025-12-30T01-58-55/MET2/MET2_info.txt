@@ -1,0 +1,73 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MET2
+원본 풀네임: MET2
+검색 쿼리: MET2 MET2
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:30
+발견된 토큰 수: 10개
+전체 결과 수: 10개
+
+=== 토큰 상세 목록 (10개) ===
+
+[1] MET2
+ 이름: MET2 Channel
+ 주소: 0x4f453ceaa9fd39e3b17deb282fea99609a19c626
+ 체인ID: 56
+ Decimals: 18
+
+[2] met
+ 이름: met2
+ 주소: GdWVbu6p5iNn99GEEvBpVfLcU5zz8ewXuZhnG8ubkawy
+ 체인ID: 1399811149
+ Decimals: 9
+
+[3] met2
+ 이름: met episode 2
+ 주소: 0x0416854a366f6ae1ad395e07537937248dfffb07
+ 체인ID: 143
+ Decimals: 18
+
+[4] MET2
+ 이름: Metsotest2
+ 주소: 0x444ab228d408d95007389547c1767de5f5e4c057
+ 체인ID: 137
+ Decimals: 18
+
+[5] MET2
+ 이름: meteora
+ 주소: 0x7fce9b7862e0ddd10d3700304fb0e6263f055372
+ 체인ID: 56
+ Decimals: 9
+
+[6] MET2
+ 이름: METEORAv2
+ 주소: 5Tpj1gShtu8JuaZEjmCmMPigwghzGhGyXwQgLcbpump2
+ 체인ID: 1399811149
+ Decimals: 9
+
+[7] MET20
+ 이름: Meta Resident
+ 주소: 0x825d5738ac4161de4a4baf5c7dc632cd58d07f47
+ 체인ID: 56
+ Decimals: 18
+
+[8] MET2MOON
+ 이름: M2M
+ 주소: BGpxjZpz6diN8TS7xVLvEwGTZCjrGL55UUrpVwpynGps
+ 체인ID: 1399811149
+ Decimals: 9
+
+[9] MET2025
+ 이름: MET GALA 2025
+ 주소: FG3xAhere9qPhw3GpKAReZwn8tAwVgYi1AX2mn5rpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] MET2
+ 이름: MET2
+ 주소: 0x4048461f2c344cfb1e86eaf1410780898f4aaf20
+ 체인ID: 8453
+ Decimals: 18

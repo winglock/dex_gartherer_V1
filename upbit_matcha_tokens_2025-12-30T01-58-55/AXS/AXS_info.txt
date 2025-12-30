@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AXS
+원본 풀네임: Axie Infinity
+검색 쿼리: AXS Axie Infinity
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:40
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] AXS
+ 이름: Axie Infinity Shard
+ 주소: 0x715d400f88c167884bbcc41c5fea407ed4d2f8a0
+ 체인ID: 56
+ Decimals: 18
+
+[2] AXS (Axie Infinity) NFT
+ 이름: AXS (Axie Infinity) NFT
+ 주소: 0x1e0604f429a3554f20932a3adf61bc3489008515
+ 체인ID: 8453
+ Decimals: 18
+
+[3] MLC
+ 이름: MyLovelyCoin
+ 주소: 0x0566c506477cd2d8df4e0123512dbc344bd9d111
+ 체인ID: 137
+ Decimals: 18
+
+[4] AXS
+ 이름: Axie Infinity Shard
+ 주소: 0xbb0e17ef65f82ab018d8edd776e8dd940327b28b
+ 체인ID: 1
+ Decimals: 18
+
+[5] AXS Axie Infinity On Base
+ 이름: AXS Axie Infinity On Base
+ 주소: 0xa97bad932aee0213c253e817276f7b1f9052c391
+ 체인ID: 8453
+ Decimals: 18
+
+[6] AXS Axie Infinity AI Presale v2
+ 이름: AXS Axie Infinity AI Presale v2
+ 주소: 0xabde486480310784fab17b0f402a11f721cfabb7
+ 체인ID: 56
+ Decimals: 9
+
+[7] DEVVE
+ 이름: DevvE
+ 주소: 0x8248270620aa532e4d64316017be5e873e37cc09
+ 체인ID: 1
+ Decimals: 18
+
+[8] RISE
+ 이름: Infinity Rising
+ 주소: 0xf25620f89d0e23a8ba7b11ab3235b66268794196
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ANZ
+ 이름: Anzen Token
+ 주소: 0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ZENITH
+ 이름: Zenith by Virtuals
+ 주소: 0x33c527361ab68b46a6669f82d25b704423cae568
+ 체인ID: 8453
+ Decimals: 18
+
+[11] BLEP
+ 이름: Blep Super Meme
+ 주소: 0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54
+ 체인ID: 8453
+ Decimals: 18
+
+[12] MARS4
+ 이름: MARS4
+ 주소: 0x16cda4028e9e872a38acb903176719299beaed87
+ 체인ID: 1
+ Decimals: 18
+
+[13] FIAS
+ 이름: Fias
+ 주소: 0x8e4f1ce473b292d56934c36976356e3e22c35585
+ 체인ID: 1
+ Decimals: 18
+
+[14] kurbi
+ 이름: kurbi
+ 주소: 0x653a143b8d15c565c6623d1f168cfbec1056d872
+ 체인ID: 8453
+ Decimals: 9
+
+[15] SIM
+ 이름: Assimilate
+ 주소: 0x749e5334752466cda899b302ed4176b8573dc877
+ 체인ID: 8453
+ Decimals: 18

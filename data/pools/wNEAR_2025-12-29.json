@@ -3,40 +3,66 @@
     "symbol": "wNEAR",
     "chain": "near",
     "dex": "rhea-finance",
-    "pool_address": "refv1-5515",
-    "pair": "WNEAR/USD",
-    "price_usd": 1.53,
-    "lp_reserve_usd": 655118.86,
-    "volume_24h": 374741.43,
-    "fee_tier": null,
-    "source": "dexscreener",
-    "timestamp": 1767023843
-  },
-  {
-    "symbol": "wNEAR",
-    "chain": "near",
-    "dex": "rhea-finance",
     "pool_address": "refv2-17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1:wrap.near:100",
     "pair": "WNEAR/USD",
     "price_usd": 1.52,
-    "lp_reserve_usd": 1496931.56,
-    "volume_24h": 1609829.04,
+    "lp_reserve_usd": 1495497.12,
+    "volume_24h": 1694366.31,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023843
+    "timestamp": 1767052727
   },
   {
     "symbol": "wNEAR",
     "chain": "near",
     "dex": "rhea-finance",
-    "pool_address": "refv1-4",
+    "pool_address": "refv1-5042",
     "pair": "WNEAR/USD",
-    "price_usd": 1.52,
-    "lp_reserve_usd": 95027.83,
-    "volume_24h": 5773.04,
+    "price_usd": 1.5,
+    "lp_reserve_usd": 0.05,
+    "volume_24h": 0.08,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023843
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-5470",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 1292.25,
+    "volume_24h": 364.47,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-5515",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 652743.68,
+    "volume_24h": 436372.27,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-5899",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.56,
+    "lp_reserve_usd": 0.16,
+    "volume_24h": 0.0,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767031462
   },
   {
     "symbol": "wNEAR",
@@ -45,11 +71,11 @@
     "pool_address": "refv1-6063",
     "pair": "WNEAR/USD",
     "price_usd": 1.52,
-    "lp_reserve_usd": 518021.24,
-    "volume_24h": 275697.51,
+    "lp_reserve_usd": 517345.85,
+    "volume_24h": 319868.88,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023843
+    "timestamp": 1767052727
   },
   {
     "symbol": "wNEAR",
@@ -58,11 +84,50 @@
     "pool_address": "refv1-4512",
     "pair": "WNEAR/USD",
     "price_usd": 1.52,
-    "lp_reserve_usd": 3283015.43,
-    "volume_24h": 254102.83,
+    "lp_reserve_usd": 3291520.7,
+    "volume_24h": 250430.55,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023843
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-3879",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.51,
+    "lp_reserve_usd": 2908.62,
+    "volume_24h": 134.35,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-3716",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.52,
+    "lp_reserve_usd": 6.85,
+    "volume_24h": 0.15,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052727
+  },
+  {
+    "symbol": "wNEAR",
+    "chain": "near",
+    "dex": "rhea-finance",
+    "pool_address": "refv1-4",
+    "pair": "WNEAR/USD",
+    "price_usd": 1.53,
+    "lp_reserve_usd": 95187.74,
+    "volume_24h": 5410.01,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767052727
   },
   {
     "symbol": "wNEAR",
@@ -71,10 +136,10 @@
     "pool_address": "refv2-usdt.tether-token.near:wrap.near:100",
     "pair": "WNEAR/USD",
     "price_usd": 1.52,
-    "lp_reserve_usd": 295074.2,
-    "volume_24h": 172042.17,
+    "lp_reserve_usd": 294801.63,
+    "volume_24h": 185994.17,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023843
+    "timestamp": 1767052727
   }
 ]

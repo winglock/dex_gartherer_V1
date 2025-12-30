@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: W
+원본 풀네임: Wormhole
+검색 쿼리: W Wormhole
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:45
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] W
+ 이름: Wormhole Token
+ 주소: 0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91
+ 체인ID: 8453
+ Decimals: 18
+
+[2] W
+ 이름: Wormhole Token
+ 주소: 85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ
+ 체인ID: 1399811149
+ Decimals: 6
+
+[3] SOL
+ 이름: Wrapped SOL
+ 주소: 0xd31a59c85ae9d8edefec411d448f90841571b89c
+ 체인ID: 1
+ Decimals: 9
+
+[4] @upcoming days will be purple onlystake $W(wormhole)and $PYTH(py
+ 이름: @upcoming days will be purple onlystake $W(wormhole)and $PYTH(py
+ 주소: 0x81a22890c75b529722f6063e766167c1cc849a0b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] USDT
+ 이름: USDT (Wormhole)
+ 주소: 0x3553f861dec0257bada9f8ed268bf0d74e45e89c
+ 체인ID: 137
+ Decimals: 6
+
+[6] ONE
+ 이름: Harmony ONE
+ 주소: 0x03ff0ff224f904be3118461335064bb48df47938
+ 체인ID: 56
+ Decimals: 18
+
+[7] WETH
+ 이름: Wrapped Ether (Wormhole)
+ 주소: 0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea
+ 체인ID: 56
+ Decimals: 18
+
+[8] SOL
+ 이름: Wrapped SOL (Wormhole)
+ 주소: 0xd93f7e271cb87c23aaa73edc008a79646d1f9912
+ 체인ID: 137
+ Decimals: 9
+
+[9] W
+ 이름: Wormhole Token
+ 주소: 0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91
+ 체인ID: 1
+ Decimals: 18
+
+[10] W Wormhole On Base
+ 이름: W Wormhole On Base
+ 주소: 0x661f5740c6010fa0ce42f6044654f5d2b6fbabc1
+ 체인ID: 8453
+ Decimals: 18
+
+[11] W Wormhole
+ 이름: W Wormhole On Binance Alpha
+ 주소: 0x7e89fa61bbaa64e12b953e34f3d99ef9a69d4411
+ 체인ID: 56
+ Decimals: 18
+
+[12] SPX
+ 이름: SPX6900 (Wormhole)
+ 주소: J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr
+ 체인ID: 1399811149
+ Decimals: 8
+
+[13] LOOKS
+ 이름: LooksRare Token
+ 주소: 0xf4d2888d29d722226fafa5d9b24f9164c092421e
+ 체인ID: 1
+ Decimals: 18
+
+[14] W
+ 이름: Wormhole Token
+ 주소: 0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91
+ 체인ID: 42161
+ Decimals: 18
+
+[15] SOL
+ 이름: Wrapped SOL (Wormhole)
+ 주소: 0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e
+ 체인ID: 56
+ Decimals: 9

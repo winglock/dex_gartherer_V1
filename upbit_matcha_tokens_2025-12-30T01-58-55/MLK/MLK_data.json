@@ -1,0 +1,298 @@
+{
+  "originalSymbol": "MLK",
+  "originalFullName": "MiL.k",
+  "searchedQuery": "MLK MiL.k",
+  "retried": false,
+  "isL1": false,
+  "success": true,
+  "tokenCount": 15,
+  "resultCount": 1449,
+  "tokens": [
+    {
+      "address": "0x8956364ef9ffac193baac77dc1171c00d87b661c",
+      "chainId": 130,
+      "decimals": 18,
+      "name": "Mlk Fund",
+      "symbol": "Mlk Fund",
+      "type": "ERC20",
+      "blockListsCount": 1,
+      "exchangeListsCount": 0,
+      "flagListsCount": 1,
+      "importedListsCount": 0,
+      "manualUnblock": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/130/0x8956364ef9ffac193baac77dc1171c00d87b661c"
+    },
+    {
+      "address": "0x41631e56f88f7fb688a9af85d4800a58492c9e0d",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x41631e56f88f7fb688a9af85d4800a58492c9e0d"
+    },
+    {
+      "address": "0x927737817540cb4b9d5ebb89adffca84aee387c4",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x927737817540cb4b9d5ebb89adffca84aee387c4"
+    },
+    {
+      "address": "0x6b240fef55c6aae7dfa4f1117cdd698545950061",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x6b240fef55c6aae7dfa4f1117cdd698545950061"
+    },
+    {
+      "address": "0xb34bdef13b79125e278eeb8151ff62a9af01fe43",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xb34bdef13b79125e278eeb8151ff62a9af01fe43"
+    },
+    {
+      "address": "0x45c5742aced5cc7fd57bdb4602820d4d0443c9d1",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x45c5742aced5cc7fd57bdb4602820d4d0443c9d1"
+    },
+    {
+      "address": "0x92ff2f233ee2fa9404bd223fd3da03d08f43e2fc",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Mlk",
+      "symbol": "Mlk",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x92ff2f233ee2fa9404bd223fd3da03d08f43e2fc"
+    },
+    {
+      "address": "0x9b7720c02bba65389991b6636fdb010202efe8c6",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x9b7720c02bba65389991b6636fdb010202efe8c6"
+    },
+    {
+      "address": "0xc6966ebd479a416c0aab27b82fb0a56a4eeb2f68",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xc6966ebd479a416c0aab27b82fb0a56a4eeb2f68"
+    },
+    {
+      "address": "0x06a0fc843c24c6d6987b140b71b92d3cdcc481dd",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "mlk",
+      "symbol": "mlk",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x06a0fc843c24c6d6987b140b71b92d3cdcc481dd"
+    },
+    {
+      "address": "0xde15470ddd63afc38e9a97e30b0f5783a73657ce",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "mlk",
+      "symbol": "mlk",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xde15470ddd63afc38e9a97e30b0f5783a73657ce"
+    },
+    {
+      "address": "0x56cb68f3c6c85e5ced5b9ee5513420188aa3ba1f",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK",
+      "symbol": "MLK",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x56cb68f3c6c85e5ced5b9ee5513420188aa3ba1f"
+    },
+    {
+      "address": "0x8d2261615b8681411dfe28489965bbc7e4da5266",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK Jr.",
+      "symbol": "MLK Jr.",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x8d2261615b8681411dfe28489965bbc7e4da5266"
+    },
+    {
+      "address": "0x12c0a5098f402c70e08344395a37d2babd899a4c",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MLK Jr",
+      "symbol": "MLK Jr",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0x12c0a5098f402c70e08344395a37d2babd899a4c"
+    },
+    {
+      "address": "0xa4fd745893c41300741418b0ce1e941c2ecedbe9",
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Mlk zika",
+      "symbol": "Mlk zika",
+      "type": "ERC20",
+      "issuer": {
+        "name": "zora",
+        "metadata": {}
+      },
+      "blockListsCount": 0,
+      "exchangeListsCount": 0,
+      "flagListsCount": 0,
+      "importedListsCount": 0,
+      "buyTax": null,
+      "sellTax": null,
+      "isInDex": false,
+      "isHoneypot": false,
+      "logo": "https://matcha-image-proxy.api.0x.org/images/8453/0xa4fd745893c41300741418b0ce1e941c2ecedbe9"
+    }
+  ],
+  "searchTime": "2025-12-30T01:58:35.492Z",
+  "error": null
+}

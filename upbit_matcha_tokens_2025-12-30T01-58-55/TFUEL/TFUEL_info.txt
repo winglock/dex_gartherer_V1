@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TFUEL
+원본 풀네임: Theta Fuel
+검색 쿼리: TFUEL Theta Fuel
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:17
+발견된 토큰 수: 15개
+전체 결과 수: 8608개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] TFUEL (Theta Fuel) NFT
+ 이름: TFUEL (Theta Fuel) NFT
+ 주소: 0x40c10c16b58848a6b6cfeb7da2a2866c4e723f2d
+ 체인ID: 8453
+ Decimals: 18
+
+[2] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 8453
+ Decimals: 18
+
+[3] PEPE
+ 이름: Pepe
+ 주소: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+ 체인ID: 1
+ Decimals: 18
+
+[4] doginme
+ 이름: doginme
+ 주소: 0x6921b130d297cc43754afba22e5eac0fbf8db75b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] JMPT
+ 이름: JumpToken
+ 주소: 0x88d7e9b65dc24cf54f5edef929225fc3e1580c25
+ 체인ID: 56
+ Decimals: 18
+
+[6] TFUEL Theta Fuel On Base
+ 이름: TFUEL Theta Fuel On Base
+ 주소: 0xbc465f10adafdb7cb163badd862ad54657ef385b
+ 체인ID: 8453
+ Decimals: 18
+
+[7] TFUEL Theta Fuel AI Presale v2
+ 이름: TFUEL Theta Fuel AI Presale v2
+ 주소: 0xe58bdd464235ce255b5d64dce8fb6fb759db0565
+ 체인ID: 56
+ Decimals: 9
+
+[8] AITECH
+ 이름: AITECH
+ 주소: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+ 체인ID: 56
+ Decimals: 18
+
+[9] PEPE
+ 이름: Pepe
+ 주소: 0x25d887ce7a35172c62febfd67a1856f20faebb00
+ 체인ID: 56
+ Decimals: 18
+
+[10] WAGMI
+ 이름: WAGMI by Virtuals
+ 주소: 0x2ce1340f1d402ae75afeb55003d7491645db1857
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ELDE
+ 이름: Elderglade
+ 주소: 0x799a290f9cc4085a0ce5b42b5f2c30193a7a872b
+ 체인ID: 56
+ Decimals: 18
+
+[12] CARV
+ 이름: CARV
+ 주소: 0xc08cd26474722ce93f4d0c34d16201461c10aa8c
+ 체인ID: 42161
+ Decimals: 18
+
+[13] AITV
+ 이름: AITV
+ 주소: 0x45e4e92f5a94f4b741c9cb553ff8be7b25eb7df5
+ 체인ID: 8453
+ Decimals: 18
+
+[14] BANANA
+ 이름: Banana
+ 주소: 0x38e68a37e401f7271568cecaac63c6b1e19130b4
+ 체인ID: 1
+ Decimals: 18
+
+[15] M
+ 이름: MemeCore
+ 주소: 0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa
+ 체인ID: 56
+ Decimals: 18

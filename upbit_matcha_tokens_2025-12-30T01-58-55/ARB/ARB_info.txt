@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ARB
+원본 풀네임: Arbitrum
+검색 쿼리: ARB Arbitrum
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:43
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ARB
+ 이름: Arbitrum
+ 주소: 0x912ce59144191c1204e64559fe8253a0e49e6548
+ 체인ID: 42161
+ Decimals: 18
+
+[2] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 42161
+ Decimals: 18
+
+[3] WETH
+ 이름: Wrapped Ether
+ 주소: 0x82af49447d8a07e3bd95bd0d56f35241523fbab1
+ 체인ID: 42161
+ Decimals: 18
+
+[4] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[5] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[6] VCNT
+ 이름: ViciCoin
+ 주소: 0xdcf5130274753c8050ab061b1a1dcbf583f5bfd0
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ARB
+ 이름: Arbitrum
+ 주소: 0xb50721bcf8d664c30412cfbc6cf7a15145234ad1
+ 체인ID: 1
+ Decimals: 18
+
+[8] Arb arbitrum
+ 이름: Arb arbitrum
+ 주소: 0x276ec872e15beda3f8f19fa0aafee49774e43ade
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 8453
+ Decimals: 18
+
+[10] $ARB @arbitrum shorts rn
+ 이름: $ARB @arbitrum shorts rn
+ 주소: 0xc8374b134970681e113229b6cdc927419e430c71
+ 체인ID: 8453
+ Decimals: 18
+
+[11] uSOL
+ 이름: Solana (Universal)
+ 주소: 0x9b8df6e244526ab5f6e6400d331db28c8fdddb55
+ 체인ID: 8453
+ Decimals: 18
+
+[12] JOE
+ 이름: JoeToken
+ 주소: 0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd
+ 체인ID: 43114
+ Decimals: 18
+
+[13] ZRO
+ 이름: LayerZero
+ 주소: 0x6985884c4392d348587b19cb9eaaf157f13271cd
+ 체인ID: 42161
+ Decimals: 18
+
+[14] EVA
+ 이름: EverValueCoin
+ 주소: 0x45d9831d8751b2325f3dbf48db748723726e1c8c
+ 체인ID: 42161
+ Decimals: 18
+
+[15] USD+
+ 이름: USD+
+ 주소: 0xb79dd08ea68a908a97220c76d19a6aa9cbde4376
+ 체인ID: 8453
+ Decimals: 6

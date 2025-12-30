@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MBL
+원본 풀네임: MovieBloc
+검색 쿼리: MBL MovieBloc
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:31
+발견된 토큰 수: 15개
+전체 결과 수: 735개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MBL MovieBloc On Base
+ 이름: MBL MovieBloc On Base
+ 주소: 0x44fdcbed9267bef9c4b23833e48fd9b2e0349ee0
+ 체인ID: 8453
+ Decimals: 18
+
+[2] MBLMOV
+ 이름: MBL MovieBloc Perpetual
+ 주소: 0xa3f62f016a7261bc2decc29184218ca9f1692ab1
+ 체인ID: 8453
+ Decimals: 18
+
+[3] mbl
+ 이름: mbl
+ 주소: 0xeee2b41b9d03e6217f61a884fa5c07ef8476484a
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Mbl
+ 이름: Mbl
+ 주소: 0x6bad00ee2121e2125ebb0429f0841a52015833dd
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Mbl
+ 이름: Mbl
+ 주소: 0x9b3a4651f98d3decef3058b5b12643cfe85a78f5
+ 체인ID: 8453
+ Decimals: 18
+
+[6] mbl
+ 이름: mbl
+ 주소: 0x518ed2b7b44d015951992a6d99a50ff7c57a08a7
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Mbl
+ 이름: Mbl
+ 주소: 0x1681bcd2507d5baf914065ebead77f7414101cab
+ 체인ID: 8453
+ Decimals: 18
+
+[8] mbl
+ 이름: mbl
+ 주소: 0x7b3f92b096ab5e3fdf781485a292dcb721cb0a40
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Mbl
+ 이름: Mbl
+ 주소: 0xbe6183468f30a64ad266098ac99b0e9b6ee5651d
+ 체인ID: 8453
+ Decimals: 18
+
+[10] MBL
+ 이름: Diaz Mbl
+ 주소: 0xb51a06d88ce55309cced88f26c3127f536021ff0
+ 체인ID: 8453
+ Decimals: 18
+
+[11] MBL  Token
+ 이름: MBL  Token
+ 주소: 0x052206646273fffd8cf17dd65fc055071114b07b
+ 체인ID: 8453
+ Decimals: 18
+
+[12] MBL
+ 이름: MovieBloc
+ 주소: 0xb879da8b24c9b8685de8526cf492e954f165d74b
+ 체인ID: 1
+ Decimals: 18
+
+[13] MBL
+ 이름: Mbelong
+ 주소: 0x5e1a13690319887379f570f4c90711c2c4596eb7
+ 체인ID: 56
+ Decimals: 18
+
+[14] B🚀 Top GainersMovieBloc (MBL)Price: $0.0019724h Change: +50.
+ 이름: B🚀 Top GainersMovieBloc (MBL)Price: $0.0019724h Change: +50.
+ 주소: 0x1f185055dc2ba0e38986df681f3cb027cfdfc06b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] MBL
+ 이름: Mind Bloom
+ 주소: 0x13c613441fde2295a6bdeeea61e5afba899561ce
+ 체인ID: 8453
+ Decimals: 18

@@ -1,15 +1,28 @@
 [
   {
-    "symbol": "SONIC",
-    "chain": "solana",
-    "dex": "raydium",
-    "pool_address": "BpzGNsHoSdPkoANBNkrw6syqqLLPX6j38FZg6rJ1QLJ",
+    "symbol": "Sonic",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x5CB7F2cd91DC3d802723186267Ea510e29D99EaF",
     "pair": "SONIC/USD",
-    "price_usd": 0.06945,
-    "lp_reserve_usd": 404499.37,
-    "volume_24h": 125789.3,
+    "price_usd": 7.392e-8,
+    "lp_reserve_usd": 39569.47,
+    "volume_24h": 4.73,
     "fee_tier": null,
     "source": "dexscreener",
-    "timestamp": 1767023846
+    "timestamp": 1767052730
+  },
+  {
+    "symbol": "Sonic",
+    "chain": "solana",
+    "dex": "raydium",
+    "pool_address": "ATZfinM3NpctK7bQAzRvBnyC4xUte9CAbhTZ7A3LiXgh",
+    "pair": "SONIC/USD",
+    "price_usd": 0.00002343,
+    "lp_reserve_usd": 18938.26,
+    "volume_24h": 1.4,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767042563
   }
 ]

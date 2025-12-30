@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: IOTA
+원본 풀네임: IOTA
+검색 쿼리: IOTA IOTA
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:27
+발견된 토큰 수: 15개
+전체 결과 수: 1963개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] IOTA
+ 이름: MIOTAC
+ 주소: 0xd944f1d1e9d5f9bb90b62f9d45e447d989580782
+ 체인ID: 56
+ Decimals: 6
+
+[2] What is IOTA (IOTA)?...
+ 이름: What is IOTA (IOTA)?...
+ 주소: 0xf39f004e16c3ec2603d601cef6c8d85f062a5b58
+ 체인ID: 8453
+ Decimals: 18
+
+[3] DAG
+ 이름: Constellation
+ 주소: 0x74299a718b2c44483a27325d7725f0b2646de3b1
+ 체인ID: 8453
+ Decimals: 8
+
+[4] IOTA IOTA
+ 이름: IOTA IOTA
+ 주소: 0x39c7d8f0eca6ca239cef776245c40070d2d804e9
+ 체인ID: 130
+ Decimals: 18
+
+[5] IOTA IOTA
+ 이름: IOTA IOTA
+ 주소: 0x75572f5ae524dbc1044a9116566f9b414f28da2e
+ 체인ID: 56
+ Decimals: 18
+
+[6] IOTA IOTA
+ 이름: IOTA IOTA
+ 주소: 0x08295bd5cf1b30072da6500a5ad1262d5bdd3d50
+ 체인ID: 130
+ Decimals: 18
+
+[7] IOTA IOTA
+ 이름: IOTA IOTA
+ 주소: 0x3820e8477209817f9befaee078d84595fbbd7ebf
+ 체인ID: 130
+ Decimals: 18
+
+[8] IOTA IOTA
+ 이름: IOTA IOTA
+ 주소: 0x67b15fe2871286150e811ae9ed512495aab800d2
+ 체인ID: 130
+ Decimals: 18
+
+[9] IOTA IOTA
+ 이름: IOTA IOTA v5
+ 주소: 0x453b2cf8875ed92c17df716ddc49ae9411fd158c
+ 체인ID: 1
+ Decimals: 18
+
+[10] IOTA IOTA
+ 이름: IOTA IOTA 2026
+ 주소: 0x371a1f95ebeaf966342aac2e88d23850609a38d4
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Uni IOTA IOTA
+ 이름: Uni IOTA IOTA
+ 주소: 0xa9ef2d8ba12cce994fa8b50c3be6ea1e0e5e0849
+ 체인ID: 8453
+ Decimals: 18
+
+[12] IOTA IOTA - AI
+ 이름: IOTA IOTA - AI
+ 주소: 0x282ec5ea79282ec2d556111cf8d92deece1e6658
+ 체인ID: 8453
+ Decimals: 9
+
+[13] IOTA IOTA V2
+ 이름: IOTA IOTA V2
+ 주소: 0xf897355082252fd1c5c71534c7fcea272903d385
+ 체인ID: 8453
+ Decimals: 18
+
+[14] IOTA IOTA V3
+ 이름: IOTA IOTA V3
+ 주소: 0x7a0c9ff3cc353599a99f5fbe3e0d65a4eeb06398
+ 체인ID: 130
+ Decimals: 18
+
+[15] IOTA IOTA Football
+ 이름: IOTA IOTA Football
+ 주소: 0x9cc4071e7a152bfedd3fe6ce4d3122b4b407463f
+ 체인ID: 8453
+ Decimals: 18

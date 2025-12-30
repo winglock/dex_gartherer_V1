@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TRX
+원본 풀네임: TRON
+검색 쿼리: TRX TRON
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:10
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XAUt
+ 이름: Tether Gold
+ 주소: 0x68749665ff8d2d112fa859aa293f07a622782f38
+ 체인ID: 1
+ Decimals: 6
+
+[2] BTT
+ 이름: BitTorrent
+ 주소: 0x352cb5e19b12fc216548a2677bd0fce83bae434b
+ 체인ID: 56
+ Decimals: 18
+
+[3] TRX
+ 이름: TRON
+ 주소: 0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b
+ 체인ID: 56
+ Decimals: 18
+
+[4] BTT
+ 이름: BitTorrent
+ 주소: 0x8595f9da7b868b1822194faed312235e43007b49
+ 체인ID: 56
+ Decimals: 18
+
+[5] BTT
+ 이름: BitTorrent
+ 주소: 0xc669928185dbce49d2230cc9b0979be6dc797957
+ 체인ID: 1
+ Decimals: 18
+
+[6] TRX
+ 이름: TRON
+ 주소: 0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3
+ 체인ID: 56
+ Decimals: 6
+
+[7] TRX
+ 이름: Tronix
+ 주소: 0xf230b790e05390fc8295f4d3f60332c93bed42e2
+ 체인ID: 1
+ Decimals: 6
+
+[8] TRX
+ 이름: TRON
+ 주소: 0x50327c6c5a14dcade707abad2e27eb517df87ab5
+ 체인ID: 1
+ Decimals: 6
+
+[9] AITECH
+ 이름: AITECH
+ 주소: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+ 체인ID: 56
+ Decimals: 18
+
+[10] TUSD
+ 이름: TrueUSD
+ 주소: 0x0000000000085d4780b73119b644ae5ecd22b376
+ 체인ID: 1
+ Decimals: 18
+
+[11] TUSD
+ 이름: TrueUSD
+ 주소: 0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9
+ 체인ID: 56
+ Decimals: 18
+
+[12] TRX
+ 이름: TRON
+ 주소: GbbesPbaYh5uiAZSYNXTc7w9jty1rpg3P9L4JeN4LkKc
+ 체인ID: 1399811149
+ Decimals: 6
+
+[13] FREE
+ 이름: FREE coin BSC
+ 주소: 0x12e34cdf6a031a10fe241864c32fb03a4fdad739
+ 체인ID: 56
+ Decimals: 18
+
+[14] AITECH
+ 이름: AITECH
+ 주소: 0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WTRX Matr1x
+ 이름: WTRX Matr1x
+ 주소: 0x1467cb0f4b4d32c95a8684491074b3654625ef94
+ 체인ID: 130
+ Decimals: 18

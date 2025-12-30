@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MTL
+원본 풀네임: Metal
+검색 쿼리: MTL Metal
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:02
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Metalos
+ 이름: Metalos
+ 주소: 0x1fc11c079a3432b42f27527a272d1cde7af1a745
+ 체인ID: 8453
+ Decimals: 18
+
+[2] MTL Metal DAO On Base
+ 이름: MTL Metal DAO On Base
+ 주소: 0x2fc5f17d199dc24b89d10d55c076fecddd9174e9
+ 체인ID: 8453
+ Decimals: 18
+
+[3] MTL Metal DAO AI Presale v2
+ 이름: MTL Metal DAO AI Presale v2
+ 주소: 0x9be07addf5202eb2c40ffae675bc67743d723b29
+ 체인ID: 56
+ Decimals: 9
+
+[4] UPY
+ 이름: Upstarty
+ 주소: 0xb849c4d843769d42812fb600b1bcc8a6ba843466
+ 체인ID: 56
+ Decimals: 18
+
+[5] METAL
+ 이름: METAL
+ 주소: 0x200c234721b5e549c3693ccc93cf191f90dc2af9
+ 체인ID: 137
+ Decimals: 18
+
+[6] XMT
+ 이름: MetalSwap
+ 주소: 0x3e5d9d8a63cc8a88748f229999cf59487e90721e
+ 체인ID: 1
+ Decimals: 18
+
+[7] UGOLD
+ 이름: UGOLD Inc.
+ 주소: 0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a
+ 체인ID: 1
+ Decimals: 18
+
+[8] mtl mtl
+ 이름: mtl mtl
+ 주소: 0x3ad8a339088cef261ad36350beed135542cdb124
+ 체인ID: 8453
+ Decimals: 18
+
+[9] MTLMET
+ 이름: MTL Metal DAO Perpetual
+ 주소: 0x8bf8ef7dc600fb247d96787ca22280566c962c39
+ 체인ID: 8453
+ Decimals: 18
+
+[10] MTL
+ 이름: MTL
+ 주소: 0x9f883cd321bf3a05ac0e00c905d1cb5a7936fad2
+ 체인ID: 8453
+ Decimals: 18
+
+[11] MTL
+ 이름: MTL
+ 주소: 0x7955be270317529f4d1250d1b83d150c816dbeef
+ 체인ID: 8453
+ Decimals: 18
+
+[12] MTL
+ 이름: MTL
+ 주소: 0x4f7632c7fbfa4595d3d53b4a7eda854f602164b0
+ 체인ID: 8453
+ Decimals: 18
+
+[13] MTL
+ 이름: MTL
+ 주소: 0x9b29f8b39e27f16f21b3c2262afc7fe543062b8c
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MTL
+ 이름: MTL
+ 주소: 0xa2902d38a5ce3d0f64fb7e3105276a3da73f0f70
+ 체인ID: 8453
+ Decimals: 18
+
+[15] MTL
+ 이름: MTL
+ 주소: 0x870990b660497f4750e1f85cce12b43ba26beefd
+ 체인ID: 8453
+ Decimals: 18

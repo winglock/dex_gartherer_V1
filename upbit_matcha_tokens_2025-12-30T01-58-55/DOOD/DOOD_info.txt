@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: DOOD
+원본 풀네임: Doodles
+검색 쿼리: DOOD Doodles
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:41
+발견된 토큰 수: 15개
+전체 결과 수: 3983개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] $DOOD DOODLES nft
+ 이름: $DOOD DOODLES nft
+ 주소: 0x9cbe35abd148b9ab12ee4428e79da8de35c3a03d
+ 체인ID: 8453
+ Decimals: 18
+
+[2] DOOD
+ 이름: Doodles
+ 주소: DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV
+ 체인ID: 1399811149
+ Decimals: 9
+
+[3] DOOD
+ 이름: Doodles
+ 주소: 0x722294f6c97102fb0ddb5b907c8d16bdeab3f6d9
+ 체인ID: 56
+ Decimals: 18
+
+[4] doodles
+ 이름: doodles
+ 주소: 0xa79290b63cb9c4bf25943a9f28b4662882222944
+ 체인ID: 8453
+ Decimals: 18
+
+[5] BRODIE
+ 이름: Brodie That Dood
+ 주소: 0x51c52ea52cf63f515f6f65443c1d1d167cc820c0
+ 체인ID: 1
+ Decimals: 9
+
+[6] DOOD
+ 이름: Doodles
+ 주소: 0x5fa7e61530bbbe61e90c8c73ce71f51b377a9711
+ 체인ID: 8453
+ Decimals: 18
+
+[7] DOODi
+ 이름: DOODiPALS
+ 주소: 0xc468acf451922712cf45af9801df89578b0418b4
+ 체인ID: 56
+ Decimals: 18
+
+[8] DOOD
+ 이름: ,DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV
+ 주소: 0x190ebefdc8c7ec9c929bf14d07d908fded5d9da8
+ 체인ID: 1
+ Decimals: 18
+
+[9] Dood
+ 이름: Dood
+ 주소: 0x77e71e43263e0ff66d0c4c1e04e7209a5c3bcbb3
+ 체인ID: 8453
+ Decimals: 18
+
+[10] DOOD
+ 이름: Dood
+ 주소: 0x21d5362141fbbb49d7358abd81e8c081bedaa0ec
+ 체인ID: 8453
+ Decimals: 18
+
+[11] $DOOD
+ 이름: $DOOD
+ 주소: 0xca40d785522498aafb6204c5d28df572f3143ac3
+ 체인ID: 8453
+ Decimals: 18
+
+[12] DOOD
+ 이름: DOOD
+ 주소: 0x25a4cff870970018f75c24c0d9c7affbf566f44c
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Dood
+ 이름: Dood
+ 주소: 0xc2d2f4d6bc635f00906077a18f6cfea7ba6d77eb
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $Dood
+ 이름: $Dood
+ 주소: 0x64ef0bf97337b8b72b47165b7a9ef00b579d827f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] $DOOD
+ 이름: $DOOD
+ 주소: 0x3fba332478289e8034296009f72cf741407266b8
+ 체인ID: 8453
+ Decimals: 18

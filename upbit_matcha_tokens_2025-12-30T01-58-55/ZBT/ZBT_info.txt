@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ZBT
+원본 풀네임: ZEROBASE
+검색 쿼리: ZBT ZEROBASE
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:50
+발견된 토큰 수: 15개
+전체 결과 수: 680개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ZBT
+ 이름: ZEROBASE
+ 주소: 0xfab99fcf605fd8f4593edb70a43ba56542777777
+ 체인ID: 1
+ Decimals: 18
+
+[2] ZBT
+ 이름: ZEROBASE
+ 주소: 0xfab99fcf605fd8f4593edb70a43ba56542777777
+ 체인ID: 56
+ Decimals: 18
+
+[3] ZBT
+ 이름: ZEROBASE
+ 주소: 0xfab99fcf605fd8f4593edb70a43ba56542777777
+ 체인ID: 8453
+ Decimals: 18
+
+[4] zbt
+ 이름: zbt
+ 주소: 0x7d7f4867117599ec53a632d34d0c4f448a50e48d
+ 체인ID: 8453
+ Decimals: 18
+
+[5] ZBT
+ 이름: ZBT
+ 주소: 0x75d3a07cca4d60d1fd64546f955b2c8929f9dade
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Zbt
+ 이름: Zbt
+ 주소: 0xcea1775dd4a2f3fe7b77d8577ed479d301e3e6ab
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ZBT
+ 이름: ZBT
+ 주소: 0xf8b24fd5e8b28fc874d378d7d8bffde0a74e8855
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ZBT
+ 이름: ZBT
+ 주소: 0xe18b8ea8c84a6f797d37e82e4eecedd88b5392ce
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Zbt
+ 이름: Zbt
+ 주소: 0x00c278c196a1dc513d0f549afec9f278494f8a23
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ZBT/USDT
+ 이름: $ZBT
+ 주소: 0xd4b26253ed1222654e2be5f11e22175d5cd75da9
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ZBT/USDT
+ 이름: $ZBT
+ 주소: 0x29c2e43d5bb8e2c56767f43f2cbb6172e4ec27b3
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ZEROBASE(ZBT)
+ 이름: ZEROBASE(ZBT)
+ 주소: 0x0538a0d6417523629bc82e190b6c4b1e0fd36f50
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ZEROBASE & ZBT
+ 이름: ZEROBASE & ZBT
+ 주소: 0x8180df46f0fa46e63077cb130a155612dac3d6bd
+ 체인ID: 8453
+ Decimals: 18
+
+[14] #ZBT 🚀
+ 이름: #ZBT 🚀
+ 주소: 0x78f2e3daae76f10b6ed7bb3206a57850e77e8a57
+ 체인ID: 8453
+ Decimals: 18
+
+[15] ZBT TRADE
+ 이름: ZBT TRADE
+ 주소: 0x54f6b9a5ce1be3faf5d6e7eb34732850ef9ac668
+ 체인ID: 8453
+ Decimals: 18

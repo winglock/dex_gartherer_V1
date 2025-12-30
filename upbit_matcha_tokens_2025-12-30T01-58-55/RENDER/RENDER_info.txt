@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: RENDER
+원본 풀네임: Render
+검색 쿼리: RENDER Render
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:26
+발견된 토큰 수: 15개
+전체 결과 수: 5635개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FDUSD
+ 이름: First Digital USD
+ 주소: 0xc5f0f7b66764f6ec8c8dff7ba683102295e16409
+ 체인ID: 56
+ Decimals: 18
+
+[2] RNDR
+ 이름: Render Token
+ 주소: 0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24
+ 체인ID: 1
+ Decimals: 18
+
+[3] Render (RENDER)
+ 이름: Render (RENDER)
+ 주소: 0x64f1e447f569a9b2bc9d41817f0c3f1dfbd74848
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Render #RENDER
+ 이름: Render #RENDER
+ 주소: 0xe5e0d818ec1cebdb8333e0226485959cc64a6748
+ 체인ID: 8453
+ Decimals: 18
+
+[5] What is Render (RENDER)?...
+ 이름: What is Render (RENDER)?...
+ 주소: 0xfac7d1e71efc2ab9db8c54fb84e3d14cc097f633
+ 체인ID: 8453
+ Decimals: 18
+
+[6] RENDER
+ 이름: Render Token
+ 주소: rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof
+ 체인ID: 1399811149
+ Decimals: 8
+
+[7] RNDR
+ 이름: Render Token
+ 주소: 0x61299774020da444af134c82fa83e3810b309991
+ 체인ID: 137
+ Decimals: 18
+
+[8] Render RENDER
+ 이름: Render RENDER
+ 주소: 0x7ed9b6ac3bbf7c9b8d5a4dca5ff28b3172ddce2d
+ 체인ID: 130
+ Decimals: 18
+
+[9] Render RENDER
+ 이름: Render RENDER
+ 주소: 0x17dbd556047098bca965b51de180d3a8023deff1
+ 체인ID: 130
+ Decimals: 18
+
+[10] Render RENDER
+ 이름: Render RENDER
+ 주소: 0xe9e73456020c4a0e8b1fe13925d7efb897585dcf
+ 체인ID: 130
+ Decimals: 18
+
+[11] RENDER Render
+ 이름: RENDER Render
+ 주소: 0x7885e23f927d90a9a8b17e88bd4234404274fcde
+ 체인ID: 8453
+ Decimals: 18
+
+[12] RENDER RENDER
+ 이름: Render RENDER
+ 주소: 0xdfea2db7c97531bf62c9e5390981b77c1e1b403c
+ 체인ID: 56
+ Decimals: 9
+
+[13] RENDER Render
+ 이름: RENDER Render
+ 주소: 0x051359190791f9d135298f92a206112bdeb19c54
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Render RENDER
+ 이름: Render RENDER
+ 주소: 0x2fba35a8a4749b0e7490ecc1604d29e6acc71a30
+ 체인ID: 130
+ Decimals: 18
+
+[15] Render RENDER coin
+ 이름: Render RENDER coin
+ 주소: 0x4cd3092e0765c81088a586e7c5594670352c0afb
+ 체인ID: 8453
+ Decimals: 18

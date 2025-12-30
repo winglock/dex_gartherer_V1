@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SOPH
+원본 풀네임: Sophon
+검색 쿼리: SOPH Sophon
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:23
+발견된 토큰 수: 15개
+전체 결과 수: 1150개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] SOPH
+ 이름: Sophon
+ 주소: 0x6b7774cb12ed7573a7586e7d0e62a2a563ddd3f0
+ 체인ID: 1
+ Decimals: 18
+
+[2] SOPH
+ 이름: SOPH AI Token
+ 주소: 0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380
+ 체인ID: 1
+ Decimals: 18
+
+[3] SOPH
+ 이름: Sophon
+ 주소: 0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742
+ 체인ID: 56
+ Decimals: 18
+
+[4] SOPH
+ 이름: Sophon
+ 주소: 0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742
+ 체인ID: 8453
+ Decimals: 18
+
+[5] SOPH
+ 이름: Sophon
+ 주소: 0xeb971fd26783f32694dbb392dd7289de23109148
+ 체인ID: 137
+ Decimals: 18
+
+[6] SOPH
+ 이름: Sophon
+ 주소: 0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742
+ 체인ID: 42161
+ Decimals: 18
+
+[7] SBOPHA
+ 이름: SOPH BABYLONG
+ 주소: 0x128d94af6c03ea317153d557d1c17d199f8069db
+ 체인ID: 8453
+ Decimals: 18
+
+[8] SOPH
+ 이름: SOPH
+ 주소: 0xcd27b88822d25d54a12d379a965af00a1984b069
+ 체인ID: 8453
+ Decimals: 18
+
+[9] $SOPH
+ 이름: $SOPH
+ 주소: 0x1bfbc72e0cb1d2d1ad76f68fb48fbcaae26b653c
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Soph
+ 이름: Soph
+ 주소: 0x4b8a2c5d62601c21072545a6ecb47d971c9881ae
+ 체인ID: 8453
+ Decimals: 18
+
+[11] SOPH
+ 이름: SOPH
+ 주소: 0x4a18c47d8fb35192582c631890f2938b53a7e8c7
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Soph
+ 이름: Soph
+ 주소: 0x3b27df08d0bc670b3932b4746a00589fc84b013e
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Soph
+ 이름: Soph
+ 주소: 0x30d9dd8349f7ca0ba42284e4659291aa3c09a839
+ 체인ID: 8453
+ Decimals: 18
+
+[14] $SOPH
+ 이름: $SOPH
+ 주소: 0x2d604fcba60053b44677b0022fdc24e16ab06a23
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Soph
+ 이름: Soph
+ 주소: 0x5c5b50a0abadd39c059049cbb47854d244e96c33
+ 체인ID: 8453
+ Decimals: 18

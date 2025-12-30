@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: NEO
+원본 풀네임: NEO
+검색 쿼리: NEO NEO
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:25
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] NEOX
+ 이름: Neox
+ 주소: 0xb1a1d8cb266a7a4f6e070a7d2e026c5c02e788da
+ 체인ID: 8453
+ Decimals: 18
+
+[2] WFI
+ 이름: WFI
+ 주소: 0x90c48855bb69f9d2c261efd0d8c7f35990f2dd6f
+ 체인ID: 56
+ Decimals: 18
+
+[3] BIFI
+ 이름: Beefy
+ 주소: 0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1
+ 체인ID: 1
+ Decimals: 18
+
+[4] SERAPH
+ 이름: Seraph by Virtuals
+ 주소: 0x4f81837c2f4a189a0b69370027cc2627d93785b4
+ 체인ID: 8453
+ Decimals: 18
+
+[5] NEO
+ 이름: NEO
+ 주소: 0x01d68079416439cf4aad4ab97f507c483ec4970e
+ 체인ID: 56
+ Decimals: 2
+
+[6] NEO
+ 이름: Neo 1x Companion
+ 주소: GXHy21kubXxdJEKR2Z1b6tmEWnTyVQFn6jKLwWDqiPct
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] NEO
+ 이름: Neo 1x Companion
+ 주소: FoL3TfvhqNoHsrVA4moqkwRZCixgZfQzqd4HhiUUqRq3
+ 체인ID: 1399811149
+ Decimals: 6
+
+[8] NEO
+ 이름: Neo 1x Companion
+ 주소: 9pcpEhYEf3VkR3xhP88xmRiTxbybbWTzZBgHRZepNEcm
+ 체인ID: 1399811149
+ Decimals: 6
+
+[9] CAS
+ 이름: Cashaa
+ 주소: 0x780207b8c0fdc32cf60e957415bfa1f2d4d9718c
+ 체인ID: 56
+ Decimals: 18
+
+[10] NCR
+ 이름: Neos Credits
+ 주소: 0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c
+ 체인ID: 1
+ Decimals: 18
+
+[11] NEO
+ 이름: Neo 1x Companion
+ 주소: 8fdhmZwND8VBLp2oq4rv5ZrkiH5w8wdZucwjshDKpump
+ 체인ID: 1399811149
+ Decimals: 9
+
+[12] NEO
+ 이름: NEO
+ 주소: 0x3e656277f2e20d4f24fbc14315037c0e26909544
+ 체인ID: 8453
+ Decimals: 18
+
+[13] FTR
+ 이름: Fautor
+ 주소: 0x61f23250451305f6c4426e81c50ae535edf94a02
+ 체인ID: 43114
+ Decimals: 18
+
+[14] NEO
+ 이름: Neo 1x Companion
+ 주소: 0xd587b89c200a66475050e7091151d16afbc64444
+ 체인ID: 56
+ Decimals: 18
+
+[15] NEOUNS
+ 이름: Neouns
+ 주소: 0x990347e322debc68509933301bf546bbaeb4f43a
+ 체인ID: 8453
+ Decimals: 18

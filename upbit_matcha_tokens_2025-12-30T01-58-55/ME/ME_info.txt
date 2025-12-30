@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: ME
+원본 풀네임: Magic Eden
+검색 쿼리: ME Magic Eden
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:42
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] BRETT
+ 이름: Brett
+ 주소: 0x532f27101965dd16442e59d40670faf5ebb142e4
+ 체인ID: 8453
+ Decimals: 18
+
+[2] doginme
+ 이름: doginme
+ 주소: 0x6921b130d297cc43754afba22e5eac0fbf8db75b
+ 체인ID: 8453
+ Decimals: 18
+
+[3] MIM
+ 이름: Magic Internet Money
+ 주소: 0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a
+ 체인ID: 42161
+ Decimals: 18
+
+[4] RABBIT
+ 이름: BASED RABBIT
+ 주소: 0x642e993fa91ffe9fb24d39a8eb0e0663145f8e92
+ 체인ID: 8453
+ Decimals: 18
+
+[5] BLEP
+ 이름: Blep Super Meme
+ 주소: 0xc438b0c0e80a8fa1b36898d1b36a3fc2ec371c54
+ 체인ID: 8453
+ Decimals: 18
+
+[6] MIM
+ 이름: Magic Internet Money
+ 주소: 0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3
+ 체인ID: 1
+ Decimals: 18
+
+[7] MAGIC
+ 이름: MAGIC
+ 주소: 0xf1572d1da5c3cce14ee5a1c9327d17e9ff0e3f43
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ME Magic Eden On Base
+ 이름: ME Magic Eden On Base
+ 주소: 0xb13ae020b2d8ca8f31b2c17b0b0a42430172ef0c
+ 체인ID: 8453
+ Decimals: 18
+
+[9] RACA
+ 이름: Radio Caca V2
+ 주소: 0x12bb890508c125661e03b09ec06e404bc9289040
+ 체인ID: 56
+ Decimals: 18
+
+[10] ME Magic Eden AI Presale v2
+ 이름: ME Magic Eden AI Presale v2
+ 주소: 0x07822e4d7c57d48ac92ccf678472eed2af38cb00
+ 체인ID: 56
+ Decimals: 9
+
+[11] MAGIC
+ 이름: MAGIC
+ 주소: 0x539bde0d7dbd336b79148aa742883198bbf60342
+ 체인ID: 42161
+ Decimals: 18
+
+[12] FOUND ME
+ 이름: FOUND ME
+ 주소: 0x91d67d8741371c489ec0bf8b69971cbcd89a39c4
+ 체인ID: 8453
+ Decimals: 18
+
+[13] ME
+ 이름: Magic Eden
+ 주소: MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u
+ 체인ID: 1399811149
+ Decimals: 6
+
+[14] SQR
+ 이름: Magic Square
+ 주소: 0x2b72867c32cf673f7b02d208b26889fed353b1f8
+ 체인ID: 56
+ Decimals: 8
+
+[15] TRUST
+ 이름: $TRUST ME BROs by Virtuals
+ 주소: 0xc841b4ead3f70be99472ffdb88e5c3c7af6a481a
+ 체인ID: 8453
+ Decimals: 18

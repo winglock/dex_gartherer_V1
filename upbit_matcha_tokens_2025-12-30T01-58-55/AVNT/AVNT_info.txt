@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: AVNT
+원본 풀네임: Avantis
+검색 쿼리: AVNT Avantis
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:47
+발견된 토큰 수: 15개
+전체 결과 수: 1486개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] AVNT
+ 이름: Avantis
+ 주소: 0x696f9436b67233384889472cd7cd58a6fb5df4f1
+ 체인ID: 8453
+ Decimals: 18
+
+[2] AVNT (Avantis)
+ 이름: AVNT (Avantis)
+ 주소: 0xdb3270ce8bf9aac1a68856892a45d3ed9fb12082
+ 체인ID: 8453
+ Decimals: 18
+
+[3] K"AVNT (AVANTIS) NFT: Unleashing Decentralized Perpetual Trading on Layer 2"
+ 이름: K"AVNT (AVANTIS) NFT: Unleashing Decentralized Perpetual Trading on Layer 2"
+ 주소: 0xf976f770a981c567bd12e6468636b25da8cfc0a0
+ 체인ID: 8453
+ Decimals: 18
+
+[4] AVNT Avantis
+ 이름: AVNT Avantis
+ 주소: 0x295377683ba973aa5a3ee6aad8c9a81bf75395f7
+ 체인ID: 8453
+ Decimals: 18
+
+[5] AVNT
+ 이름: AVNT (Avantis)
+ 주소: 0xbc87196318be1840ec8553894b7c62fdd6296ea4
+ 체인ID: 8453
+ Decimals: 18
+
+[6] AVNT
+ 이름: AVNT
+ 주소: 0x2ffdb1a5c1a252b5d0629bc9c1a358639b8d520a
+ 체인ID: 8453
+ Decimals: 18
+
+[7] $AVNT#AVNT
+ 이름: $AVNT#AVNT
+ 주소: 0x7d8d1b4f9663d102392c616b461e5c4d5fcdec76
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Avnt
+ 이름: Avnt
+ 주소: 0x0f168d01178e28b357176c168409e8b176827ea1
+ 체인ID: 8453
+ Decimals: 18
+
+[9] AVNT
+ 이름: AVNT
+ 주소: 0x68e486bffda028ca678c937ef6efc5326c1020af
+ 체인ID: 8453
+ Decimals: 18
+
+[10] avnt
+ 이름: avnt
+ 주소: 0x1cbbe597130d992001d86fd2f32fd2b1adb52d2b
+ 체인ID: 8453
+ Decimals: 18
+
+[11] avnt
+ 이름: avnt
+ 주소: 0xf2ed9b9a6dbac8002e2d75cee99884c0752802b7
+ 체인ID: 8453
+ Decimals: 18
+
+[12] $AVNT
+ 이름: $AVNT
+ 주소: 0x94ae1beea27601d1cb507d73009fc3e4789326bd
+ 체인ID: 8453
+ Decimals: 18
+
+[13] $AVNT
+ 이름: $AVNT
+ 주소: 0x2ee8e5e5b6ac2acb56ab58e42446a2d4024a02e5
+ 체인ID: 8453
+ Decimals: 18
+
+[14] AVNT
+ 이름: AVNT
+ 주소: 0x4537a28c408367e5b0274d30376ae731bd5c56c6
+ 체인ID: 8453
+ Decimals: 18
+
+[15] $AVNT
+ 이름: $AVNT
+ 주소: 0x5ceaa2c18f97a0e1f8cdadf7a7c75751894610be
+ 체인ID: 8453
+ Decimals: 18

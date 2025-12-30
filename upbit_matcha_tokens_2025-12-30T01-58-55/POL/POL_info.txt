@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: POL
+원본 풀네임: Polygon Ecosystem Token
+검색 쿼리: POL Polygon Ecosystem Token
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:44
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[2] MATIC
+ 이름: Matic Token
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 137
+ Decimals: 18
+
+[3] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[4] ETH
+ 이름: Ethereum Token
+ 주소: 0x2170ed0880ac9a755fd29b2688956bd959f933f8
+ 체인ID: 56
+ Decimals: 18
+
+[5] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 8453
+ Decimals: 18
+
+[6] BTCB
+ 이름: BTCB Token
+ 주소: 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c
+ 체인ID: 56
+ Decimals: 18
+
+[7] XRP
+ 이름: XRP Token
+ 주소: 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe
+ 체인ID: 56
+ Decimals: 18
+
+[8] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 1
+ Decimals: 18
+
+[9] WETH
+ 이름: Wrapped Ether
+ 주소: 0x82af49447d8a07e3bd95bd0d56f35241523fbab1
+ 체인ID: 42161
+ Decimals: 18
+
+[10] ZEC
+ 이름: Zcash Token
+ 주소: 0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb
+ 체인ID: 56
+ Decimals: 18
+
+[11] WBTC
+ 이름: (PoS) Wrapped BTC
+ 주소: 0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6
+ 체인ID: 137
+ Decimals: 8
+
+[12] DAI
+ 이름: Dai Token
+ 주소: 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3
+ 체인ID: 56
+ Decimals: 18
+
+[13] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[14] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+ 체인ID: 42161
+ Decimals: 8
+
+[15] WETH
+ 이름: Wrapped Ether
+ 주소: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+ 체인ID: 1
+ Decimals: 18

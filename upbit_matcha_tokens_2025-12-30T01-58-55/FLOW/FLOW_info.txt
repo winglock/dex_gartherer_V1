@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: FLOW
+원본 풀네임: Flow
+검색 쿼리: FLOW Flow
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:09
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FLOWER
+ 이름: Flower
+ 주소: 0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380
+ 체인ID: 8453
+ Decimals: 18
+
+[2] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0xeb466342c4d449bc9f53a865d5cb90586f405215
+ 체인ID: 8453
+ Decimals: 6
+
+[3] WFLOW
+ 이름: Wrapped Flow
+ 주소: 0x5c147e74d63b1d31aa3fd78eb229b65161983b2b
+ 체인ID: 1
+ Decimals: 18
+
+[4] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3
+ 체인ID: 56
+ Decimals: 6
+
+[5] FLIGHT
+ 이름: FLIGHT COIN
+ 주소: 0x069b5b0a1ea30a08f47ff9efd23abd0cb56f5689
+ 체인ID: 56
+ Decimals: 4
+
+[6] AITECH
+ 이름: AITECH
+ 주소: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+ 체인ID: 56
+ Decimals: 18
+
+[7] WLTH
+ 이름: Common Wealth Token
+ 주소: 0x99b2b1a2adb02b38222adcd057783d7e5d1fcc7d
+ 체인ID: 8453
+ Decimals: 18
+
+[8] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x6b0b3a982b4634ac68dd83a4dbf02311ce324181
+ 체인ID: 1
+ Decimals: 18
+
+[9] WINT
+ 이름: WhaleIntel by Virtuals
+ 주소: 0xdf2fd7dd75143a5010f145440d49748275e362a3
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ALI
+ 이름: $Artificial Liquid Intelligence Token
+ 주소: 0x97c806e7665d3afd84a8fe1837921403d59f3dcc
+ 체인ID: 8453
+ Decimals: 18
+
+[11] AXR
+ 이름: Axelrod by Virtuals
+ 주소: 0x58db197e91bc8cf1587f75850683e4bd0730e6bf
+ 체인ID: 8453
+ Decimals: 18
+
+[12] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0xeb466342c4d449bc9f53a865d5cb90586f405215
+ 체인ID: 42161
+ Decimals: 6
+
+[13] PERL
+ 이름: Perlin
+ 주소: 0xeca82185adce47f39c684352b0439f030f860318
+ 체인ID: 1
+ Decimals: 18
+
+[14] axlUSDC
+ 이름: Axelar Wrapped USDC
+ 주소: 0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed
+ 체인ID: 137
+ Decimals: 6
+
+[15] PAI
+ 이름: ParallelAI
+ 주소: 0x13e4b8cffe704d3de6f19e52b201d92c21ec18bd
+ 체인ID: 1
+ Decimals: 18

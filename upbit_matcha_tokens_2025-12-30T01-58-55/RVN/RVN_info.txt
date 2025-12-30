@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: RVN
+원본 풀네임: Ravencoin
+검색 쿼리: RVN Ravencoin
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:32
+발견된 토큰 수: 15개
+전체 결과 수: 620개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Ravencoin Classic Microsoft 6900
+ 이름: Ravencoin Classic Microsoft 6900
+ 주소: 0x2733bf6884f4c7f5eac01730f8e876f807f29a20
+ 체인ID: 130
+ Decimals: 18
+
+[2] 'Ravencoin Alongside Crypto Market Index
+ 이름: 'Ravencoin Alongside Crypto Market Index
+ 주소: 0x94f5de1555d256b7facb006099b7c4a4d763c63c
+ 체인ID: 130
+ Decimals: 18
+
+[3] Ravencoin 0x Leverage
+ 이름: Ravencoin 0x Leverage
+ 주소: 0x5bc5b4fb2b8e5077bd2e36d06939c5ecba51d73e
+ 체인ID: 8453
+ Decimals: 18
+
+[4] XAI Corp R
+ 이름: XAI Corp Ravencoin
+ 주소: 0xd6a23d2027e648a30c0e2d4efe7d27031a884c10
+ 체인ID: 8453
+ Decimals: 18
+
+[5] What is Ravencoin (RVN)?...
+ 이름: What is Ravencoin (RVN)?...
+ 주소: 0x95bb81af389e6311d06f9b9cc2506c08c1b4deca
+ 체인ID: 8453
+ Decimals: 18
+
+[6] #RAVENCOIN💲↗️WEEATINGGOOD😊
+ 이름: #RAVENCOIN💲↗️WEEATINGGOOD😊
+ 주소: 0xf991d5c8da4c1e152238ef2d30c9a387945c8105
+ 체인ID: 8453
+ Decimals: 18
+
+[7] WRVN
+ 이름: Wrapped RVN
+ 주소: 0x44a4437d4e409493320a06521a85eaa42a1c8fa3
+ 체인ID: 1
+ Decimals: 18
+
+[8] wRVN
+ 이름: Wrapped RVN
+ 주소: 0x2e3e80acecf51787bdcadd6c80222638dfce062f
+ 체인ID: 1
+ Decimals: 18
+
+[9] WRVN
+ 이름: WarpRaven
+ 주소: 0x9e9475a5982862f09dbc2df916fb1b408ede8b07
+ 체인ID: 8453
+ Decimals: 18
+
+[10] WRVN
+ 이름: Queen Gold
+ 주소: 0x21f8ed918893d55946fa4517b53b45e4c4d5f1d1
+ 체인ID: 56
+ Decimals: 18
+
+[11] WRVN
+ 이름: Wrapped RVN
+ 주소: 0x966d372310aa8b7c02324c86787b234d2f4bd947
+ 체인ID: 56
+ Decimals: 18
+
+[12] Rc
+ 이름: RavenCoin
+ 주소: 0x5abb7754d91a334f6eec95ba4757f4daabdd1ee6
+ 체인ID: 8453
+ Decimals: 18
+
+[13] RVN
+ 이름: Ravencoin
+ 주소: 0x5e9e1a8dd059f62fca0181fe13635463fa0208be
+ 체인ID: 8453
+ Decimals: 18
+
+[14] MutuumPresale Ravencoin
+ 이름: MutuumPresale Ravencoin
+ 주소: 0xad86d15ec5b5b69d62b9087ef92998a83c9cd0a5
+ 체인ID: 8453
+ Decimals: 18
+
+[15] Hank Ravencoin Classic
+ 이름: Hank Ravencoin Classic
+ 주소: 0x257d29e8785b5dcd6db969364356669d1eac64f1
+ 체인ID: 130
+ Decimals: 18

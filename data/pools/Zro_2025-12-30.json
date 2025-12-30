@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Zro",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "4JMHxNshVp78pufep5sQ9cvLLeFJz2eReXERvEPt99Co",
+    "pair": "ZRO/USD",
+    "price_usd": 5.03e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 2187.05,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767043630
+  }
+]

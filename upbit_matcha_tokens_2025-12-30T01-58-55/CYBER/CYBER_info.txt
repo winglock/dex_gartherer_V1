@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: CYBER
+원본 풀네임: Cyber
+검색 쿼리: CYBER Cyber
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:01
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WELL
+ 이름: WELL
+ 주소: 0xa88594d404727625a9437c3f886c7643872296ae
+ 체인ID: 8453
+ Decimals: 18
+
+[2] Cyber Cyber Car
+ 이름: Cyber Cyber Car
+ 주소: 0xb8fb8c6a49312cd1873eede893b1e974aec1e7c1
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Cyber CYBER
+ 이름: Cyber CYBER
+ 주소: 0xc3b04ce0728ee5033db9459a86eb390ec27cf91a
+ 체인ID: 8453
+ Decimals: 18
+
+[4] Cyber CYBER
+ 이름: Cyber CYBER
+ 주소: 0x7db8a6cb67b71acf62466172f61bcc7b0179fb40
+ 체인ID: 130
+ Decimals: 18
+
+[5] Cyber Cyber
+ 이름: Cyber Cyber
+ 주소: 0x709c22d6f31bb6841636cc1bf81ecd4932dfb184
+ 체인ID: 130
+ Decimals: 18
+
+[6] Cyber CYBER
+ 이름: Cyber CYBER
+ 주소: 0x9dd288052d7e2574b24c87f10a94b0f896db5704
+ 체인ID: 130
+ Decimals: 18
+
+[7] Trump - Cyber CYBER
+ 이름: Trump - Cyber CYBER
+ 주소: 0x23f4d2bfcb435c6a966ee18b33a8269623c6c035
+ 체인ID: 8453
+ Decimals: 9
+
+[8] Cyber CYBER V2
+ 이름: Cyber CYBER V2
+ 주소: 0x6749a16ddc7abfa03531e3f58643664fec8b8800
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Cyber CYBER CAT
+ 이름: Cyber CYBER CAT
+ 주소: 0x4ecdea838258834e9e0038dc0b7de295f966bab7
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Cyber CYBER dog
+ 이름: Cyber CYBER dog
+ 주소: 0x29a2b4151afdcf4fbfe076bac280efd4087f20fa
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Cyber CYBER AI
+ 이름: Cyber CYBER AI
+ 주소: 0xe51ad83ae7e12b8c58fcc8ecec9fbd088683f51b
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Cyber CYBER - Free
+ 이름: Cyber CYBER - Free
+ 주소: 0x30875c1c2ee122e804d103a76948597258a918da
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Cyber CYBER Red
+ 이름: Cyber CYBER Red
+ 주소: 0xdcfdbaf83f33e7bfa05934be0a893f19e90199c2
+ 체인ID: 8453
+ Decimals: 9
+
+[14] Cyber CYBER Unichain
+ 이름: Cyber CYBER Unichain
+ 주소: 0xca9d93c90e1c53dd711e37624b555c9bc4a0e14e
+ 체인ID: 130
+ Decimals: 18
+
+[15] TRUMP Cyber CYBER
+ 이름: TRUMP Cyber CYBER
+ 주소: 0x1e6cd44e0e84741d00bdc1bb8eec87f3c67ebfe1
+ 체인ID: 8453
+ Decimals: 9

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: PUNDIX
+원본 풀네임: Pundi X
+검색 쿼리: PUNDIX Pundi X
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:37
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] XRP
+ 이름: XRP Token
+ 주소: 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe
+ 체인ID: 56
+ Decimals: 18
+
+[2] TSLAx
+ 이름: Tesla xStock
+ 주소: XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB
+ 체인ID: 1399811149
+ Decimals: 8
+
+[3] NVDAx
+ 이름: NVIDIA xStock
+ 주소: Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh
+ 체인ID: 1399811149
+ Decimals: 8
+
+[4] QQQx
+ 이름: Nasdaq xStock
+ 주소: Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ
+ 체인ID: 1399811149
+ Decimals: 8
+
+[5] XPL
+ 이름: Plasma
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 9745
+ Decimals: 18
+
+[6] cbXRP
+ 이름: Coinbase Wrapped XRP
+ 주소: 0xcb585250f852c6c6bf90434ab21a00f02833a4af
+ 체인ID: 8453
+ Decimals: 6
+
+[7] XAUt
+ 이름: Tether Gold
+ 주소: 0x68749665ff8d2d112fa859aa293f07a622782f38
+ 체인ID: 1
+ Decimals: 6
+
+[8] AAPLx
+ 이름: Apple xStock
+ 주소: XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp
+ 체인ID: 1399811149
+ Decimals: 8
+
+[9] MSTRx
+ 이름: MicroStrategy xStock
+ 주소: XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ
+ 체인ID: 1399811149
+ Decimals: 8
+
+[10] SPYx
+ 이름: SP500 xStock
+ 주소: XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W
+ 체인ID: 1399811149
+ Decimals: 8
+
+[11] VIRTUAL
+ 이름: Virtual Protocol
+ 주소: 0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b
+ 체인ID: 8453
+ Decimals: 18
+
+[12] CRCLx
+ 이름: Circle xStock
+ 주소: XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1
+ 체인ID: 1399811149
+ Decimals: 8
+
+[13] XAVA
+ 이름: Avalaunch
+ 주소: 0xd1c3f94de7e5b45fa4edbba472491a9f4b166fc4
+ 체인ID: 43114
+ Decimals: 18
+
+[14] GOOGLx
+ 이름: Alphabet xStock
+ 주소: XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN
+ 체인ID: 1399811149
+ Decimals: 8
+
+[15] ESMX
+ 이름: ESM X Token
+ 주소: 0xfadb26be94c1f959f900bf88cd396b3e803481d6
+ 체인ID: 8453
+ Decimals: 18

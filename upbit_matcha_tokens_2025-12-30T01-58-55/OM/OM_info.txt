@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: OM
+원본 풀네임: MANTRA
+검색 쿼리: OM MANTRA
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:54
+발견된 토큰 수: 15개
+전체 결과 수: 5502개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] OM
+ 이름: MANTRA DAO
+ 주소: 0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2
+ 체인ID: 56
+ Decimals: 18
+
+[2] OM
+ 이름: MANTRA DAO
+ 주소: 0x3593d125a4f7849a1b059e64f4517a86dd60c95d
+ 체인ID: 1
+ Decimals: 18
+
+[3] OM (MANTRA DAO) RWA NFT
+ 이름: OM (MANTRA DAO) RWA NFT
+ 주소: 0xd730df27441e0de75eb02f255820a1c610b94d0b
+ 체인ID: 8453
+ Decimals: 18
+
+[4] doginme
+ 이름: doginme
+ 주소: 0x6921b130d297cc43754afba22e5eac0fbf8db75b
+ 체인ID: 8453
+ Decimals: 18
+
+[5] OM MANTRA
+ 이름: OM MANTRA
+ 주소: 0x4500e48ce5f2f450967216527d9c5c51cdce1c82
+ 체인ID: 56
+ Decimals: 18
+
+[6] OM MANTRA 2026
+ 이름: OM MANTRA 2026
+ 주소: 0x7eceec3ed349b7b4a2fe9294dd849035d99ddb63
+ 체인ID: 56
+ Decimals: 18
+
+[7] OM MANTRA On Base
+ 이름: OM MANTRA On Base
+ 주소: 0x00f33db0510ff955c3962a34cde1cf17459991bd
+ 체인ID: 8453
+ Decimals: 18
+
+[8] OM MANTRA
+ 이름: OM MANTRA On Binance Alpha
+ 주소: 0xad743d905c3358f366322b7a9e839391eacf37b6
+ 체인ID: 56
+ Decimals: 18
+
+[9] OM MANTRA AI Presale v2
+ 이름: OM MANTRA AI Presale v2
+ 주소: 0x29a8970c27bfd03991d03df36dea1c4ceff98687
+ 체인ID: 56
+ Decimals: 9
+
+[10] OM MANTRA AI Presale v2
+ 이름: OM MANTRA AI Presale v2
+ 주소: 0x7179c5fe1c536ade884ff5351e4f9535c4528af7
+ 체인ID: 56
+ Decimals: 18
+
+[11] OM
+ 이름: MANTRA
+ 주소: 0x3992b27da26848c2b19cea6fd25ad5568b68ab98
+ 체인ID: 8453
+ Decimals: 18
+
+[12] OM
+ 이름: MANTRA DAO (PoS)
+ 주소: 0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea
+ 체인ID: 137
+ Decimals: 18
+
+[13] OM
+ 이름: OpenMind
+ 주소: 0x710b1f32b336c59a4b333377a929c8793c553c13
+ 체인ID: 8453
+ Decimals: 18
+
+[14] OM
+ 이름: OM MANTRA
+ 주소: 0x2d4d092bb62fe27dc1ab71362760fb530b32a339
+ 체인ID: 8453
+ Decimals: 18
+
+[15] OM
+ 이름: OM Mantra
+ 주소: BJQY4nA9FGtX9c6YTygi9izyBBY337MjBW2RWWoxpump
+ 체인ID: 1399811149
+ Decimals: 6

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: LINEA
+원본 풀네임: Linea
+검색 쿼리: LINEA Linea
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:57
+발견된 토큰 수: 15개
+전체 결과 수: 6015개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ETH
+ 이름: Ethereum
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 59144
+ Decimals: 18
+
+[2] LINEA
+ 이름: Linea
+ 주소: 0x1789e0043623282d5dcc7f213d703c6d8bafbb04
+ 체인ID: 59144
+ Decimals: 18
+
+[3] LINEA
+ 이름: Linea
+ 주소: 0x1789e0043623282d5dcc7f213d703c6d8bafbb04
+ 체인ID: 1
+ Decimals: 18
+
+[4] USD+
+ 이름: USD+
+ 주소: 0xb79dd08ea68a908a97220c76d19a6aa9cbde4376
+ 체인ID: 8453
+ Decimals: 6
+
+[5] Wen linea #linea
+ 이름: Wen linea #linea
+ 주소: 0xb4b80cbf23511a00e3af80f7d23f4da63da9e682
+ 체인ID: 8453
+ Decimals: 18
+
+[6] $LINEA LINEA LATEST MARKET SNAPS
+ 이름: $LINEA LINEA LATEST MARKET SNAPS
+ 주소: 0x933b6e391bfd8807dc142b781c86d6e54161e518
+ 체인ID: 8453
+ Decimals: 18
+
+[7] ;$LINEA checker sooon 👀are you ready ?? #Linea #linea
+ 이름: ;$LINEA checker sooon 👀are you ready ?? #Linea #linea
+ 주소: 0xd93d1411e510f46e94ac5577311464a07acf9dc6
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Howmuch fdv for linea?#linea
+ 이름: How much fdv for linea?#linea
+ 주소: 0x0e44ed5a2e8e27d4902bc0dc5e6b315ea6a218cc
+ 체인ID: 8453
+ Decimals: 18
+
+[9] ?Here's the Analysis of #LINEA :#LINEA recently got it listing
+ 이름: @Here's the Analysis of #LINEA :#LINEA recently got it listing
+ 주소: 0x5de58baec5dad4d514ac1fc47b11ac3d1cc5d13f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] @Upbit Notice:Market Support for Linea(LINEA) (KRW, BTC, USDT M
+ 이름: @Upbit Notice:Market Support for Linea(LINEA) (KRW, BTC, USDT M
+ 주소: 0x00ade1a8e21e6441b8d935cf50ab7ae0f72b8ebe
+ 체인ID: 8453
+ Decimals: 18
+
+[11] A🚀 Coinbase to List Linea (LINEA) — Another Big Step for Base
+ 이름: A🚀 Coinbase to List Linea (LINEA) — Another Big Step for Base
+ 주소: 0xdb95cba2ccebfb5edf467bcfc1fcce394a41bb2d
+ 체인ID: 8453
+ Decimals: 18
+
+[12] D🚨 BREAKING NEWS 🚨Game Stop (GME), Linea (LINEA), Solana (SOL
+ 이름: D🚨 BREAKING NEWS 🚨Game Stop (GME), Linea (LINEA), Solana (SOL
+ 주소: 0x20e54fd528f79846009b272b7266123ef7b013d6
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Linea $LINEA
+ 이름: Linea $LINEA
+ 주소: 0x324a4ddbaf411234a992a6ea18345b15dd60a1e6
+ 체인ID: 8453
+ Decimals: 9
+
+[14] LINEA$LINEA
+ 이름: LINEA$LINEA
+ 주소: 0x163f2abb40b484c9bb45e36586948ba2738f4b03
+ 체인ID: 8453
+ Decimals: 9
+
+[15] LINEA Linea
+ 이름: LINEA Linea
+ 주소: 0x1690c60d5bfd5e2db9cc27fd50b43cda58a48e1e
+ 체인ID: 8453
+ Decimals: 18

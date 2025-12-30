@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: RAY
+원본 풀네임: Raydium
+검색 쿼리: RAY Raydium
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:15
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] RAY
+ 이름: Raydium
+ 주소: 4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] 0"RAY (Raydium) NFT: Accelerating DeFi on Solana"
+ 이름: 0"RAY (Raydium) NFT: Accelerating DeFi on Solana"
+ 주소: 0xdc66deb3faf650fc6070fd1342ca543302daa516
+ 체인ID: 8453
+ Decimals: 18
+
+[3] RAY Raydium On Base
+ 이름: RAY Raydium On Base
+ 주소: 0x5238c3f166ef547105bc5ff9cab092666e32dcdc
+ 체인ID: 8453
+ Decimals: 18
+
+[4] RAY Raydium AI Presale v2
+ 이름: RAY Raydium AI Presale v2
+ 주소: 0x7036b013d14389fa7c81b216c9e1c1091a7b643c
+ 체인ID: 56
+ Decimals: 9
+
+[5] SOFI
+ 이름: Rai.Finance
+ 주소: 0x703d57164ca270b0b330a87fd159cfef1490c0a5
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Ray
+ 이름: Ray (Raydium)
+ 주소: 0xddee15235d634b3a1c3c269b441792d8de23789b
+ 체인ID: 8453
+ Decimals: 18
+
+[7] KRL
+ 이름: Kryll
+ 주소: 0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0
+ 체인ID: 1
+ Decimals: 18
+
+[8] FLX
+ 이름: Flex Ungovernance Token
+ 주소: 0x6243d8cea23066d098a15582d81a598b4e8391f4
+ 체인ID: 1
+ Decimals: 18
+
+[9] KRL
+ 이름: Kryll
+ 주소: 0xf75ee6d319741057a82a88eeff1dbafab7307b69
+ 체인ID: 42161
+ Decimals: 18
+
+[10] DXAI
+ 이름: DXAI.app by Virtuals
+ 주소: 0x3e99e0890efd6c15a295edbcce82d63224fd6f60
+ 체인ID: 8453
+ Decimals: 18
+
+[11] KRL
+ 이름: Kryll
+ 주소: 0xdae49c25fad3a62a8e8bfb6da12c46be611f9f7a
+ 체인ID: 8453
+ Decimals: 18
+
+[12] ROCK
+ 이름: Rock
+ 주소: 0x724af984b63fd53fdedb5ded17063001e3afc3e5
+ 체인ID: 1
+ Decimals: 18
+
+[13] ray
+ 이름: Supra
+ 주소: 0xc230c451651754202d4c4b722c4c11517b346a24
+ 체인ID: 8453
+ Decimals: 18
+
+[14] SOFI
+ 이름: Rai.Finance
+ 주소: 0xb49fa25978abf9a248b8212ab4b87277682301c0
+ 체인ID: 1
+ Decimals: 18
+
+[15] kSOL-RAY
+ 이름: Kamino SOL-RAY (Raydium)
+ 주소: HKqoFirSehxdTGaksVAwu8Qwm4Pst8G2Y3P5gMKZfZ3A
+ 체인ID: 1399811149
+ Decimals: 6

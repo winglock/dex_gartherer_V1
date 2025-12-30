@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: STORJ
+원본 풀네임: Storj
+검색 쿼리: STORJ Storj
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:07
+발견된 토큰 수: 15개
+전체 결과 수: 646개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] STORJ
+ 이름: StorjToken
+ 주소: 0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac
+ 체인ID: 1
+ Decimals: 8
+
+[2] Storj STORJ
+ 이름: Storj STORJ
+ 주소: 0x11edcac3c97618e97801593f7ad3f151e03de865
+ 체인ID: 8453
+ Decimals: 18
+
+[3] Storj STORJ
+ 이름: Storj STORJ
+ 주소: 0xc047855f4669fe43ff05092e4be40118ef1c17c3
+ 체인ID: 130
+ Decimals: 18
+
+[4] Storj STORJ
+ 이름: Storj STORJ
+ 주소: 0x5501b2242133c0116154bf6929534b9a0327b6af
+ 체인ID: 130
+ Decimals: 18
+
+[5] Storj STORJ
+ 이름: Storj STORJ
+ 주소: 0xf705d3d8585a1f951764da79f7d638d0adf5fb63
+ 체인ID: 130
+ Decimals: 18
+
+[6] Storj STORJ V2
+ 이름: Storj STORJ V2
+ 주소: 0xe392bbf30fd30573ef55f955e5cf1d2877412db7
+ 체인ID: 8453
+ Decimals: 18
+
+[7] Trump - Storj STORJ
+ 이름: Trump - Storj STORJ
+ 주소: 0x74e51907f19e0c75cc446c8d44ffa8591f095e34
+ 체인ID: 8453
+ Decimals: 9
+
+[8] PERP STORJ STORJ
+ 이름: Perp Storj STORJ
+ 주소: 0x6f5b91f65885b4c1edf76852f2a0400e709e9cbe
+ 체인ID: 56
+ Decimals: 9
+
+[9] Storj STORJ Reserve
+ 이름: Storj STORJ Reserve
+ 주소: 0x75089b635387f00c04d6836341b9ae80fc095a96
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Storj STORJ Mobile
+ 이름: Storj STORJ Mobile
+ 주소: 0x6b0001fccbc1ed97e6f03d6a186260bbbfc8dd28
+ 체인ID: 8453
+ Decimals: 9
+
+[11] Storj STORJ - Free
+ 이름: Storj STORJ - Free
+ 주소: 0xa6df3f66ddb7963eda5f7749366449ae537c26e0
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Storj STORJ Red
+ 이름: Storj STORJ Red
+ 주소: 0xb43dd872c534a2150eeeb0cb7bcdd18f7b9e6663
+ 체인ID: 8453
+ Decimals: 9
+
+[13] Storj STORJ V3
+ 이름: Storj STORJ V3
+ 주소: 0x21f521f72eb4b9478addbd0c9a47e2a3868666b4
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Storj STORJ - AI
+ 이름: Storj STORJ - AI
+ 주소: 0xb9170912d2f24b3e4312f2455a1d4304c9aae8f2
+ 체인ID: 8453
+ Decimals: 9
+
+[15] Storj STORJ V2
+ 이름: Storj STORJ V2
+ 주소: 0x48822e0ab29b140f07c887c93a250b9e05346b30
+ 체인ID: 130
+ Decimals: 18

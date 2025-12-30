@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TT
+원본 풀네임: ThunderCore
+검색 쿼리: TT ThunderCore
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:04
+발견된 토큰 수: 15개
+전체 결과 수: 588개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] WTTS
+ 이름: WTT Share
+ 주소: 0x5a880139880eabc6cf8093e5aeb6a34dae9c68ae
+ 체인ID: 56
+ Decimals: 6
+
+[2] WTTS
+ 이름: WTT Share
+ 주소: 0x96119977a8aa58f4d24b50cd92d554d377ec8f09
+ 체인ID: 56
+ Decimals: 18
+
+[3] Wtt
+ 이름: Wtt
+ 주소: 0x304d7f1bfc8e87754bf1392a8b4212e1205040f3
+ 체인ID: 8453
+ Decimals: 18
+
+[4] wtt
+ 이름: wtt
+ 주소: 0x4886a14202a0bc21fab95b093dd7b1fbcf7fe4bc
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Wtt
+ 이름: Wtt
+ 주소: 0xbfac083010702484505c2ff3d641e0951903d580
+ 체인ID: 8453
+ Decimals: 18
+
+[6] WTTFLOW
+ 이름: WTT flow
+ 주소: 0x6a0fdc94e7d53c4e77ff0475a7c67adc51a15035
+ 체인ID: 8453
+ Decimals: 18
+
+[7] WTTMORPH
+ 이름: WTT morph
+ 주소: 0x3864892bda1d431fd29562186fbf36d2e7b937d4
+ 체인ID: 8453
+ Decimals: 18
+
+[8] EDMWTT
+ 이름: EDM WTT
+ 주소: 0xf23a6f388394ddcd00d02edbd04a7d130ea1eea9
+ 체인ID: 8453
+ Decimals: 18
+
+[9] WTT
+ 이름: 1000002620
+ 주소: 0x241c423c08af3b2d4e5602f7b501f5cf27ddc49f
+ 체인ID: 8453
+ Decimals: 18
+
+[10] WTT
+ 이름: WTT
+ 주소: 0x840e1daeca2fd0cc8b60078515c658b9b34bbbc2
+ 체인ID: 56
+ Decimals: 18
+
+[11] WTT
+ 이름: WTT
+ 주소: 0x136227c8027627fead45357353543dd5e492c74a
+ 체인ID: 137
+ Decimals: 18
+
+[12] WTT
+ 이름: WTT
+ 주소: 9cvu5ErAB1qjvfanYvF8PFh1nfaCJyCg7mTZijAhYXyW
+ 체인ID: 1399811149
+ Decimals: 9
+
+[13] WTT
+ 이름: WTT
+ 주소: 0xf45510e4a162c9f90906bb91a96ad78152d04444
+ 체인ID: 56
+ Decimals: 18
+
+[14] WTT
+ 이름: Welcome to texas
+ 주소: 0x8b4440f9ff5af0bfd139b73730cc43e70efebf5f
+ 체인ID: 8453
+ Decimals: 18
+
+[15] WTT
+ 이름: What’s the ticker?
+ 주소: 0x3d617b0377d20d0e6d7dc5df80d607ee30c5c472
+ 체인ID: 8453
+ Decimals: 18

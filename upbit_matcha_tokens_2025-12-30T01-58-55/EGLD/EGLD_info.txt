@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: EGLD
+원본 풀네임: MultiversX
+검색 쿼리: EGLD MultiversX
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:23
+발견된 토큰 수: 15개
+전체 결과 수: 729개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Xvg Wegld
+ 이름: Xvg Wegld
+ 주소: 0xc32de64fde556a18e6d7f53be160efb776f32e51
+ 체인ID: 8453
+ Decimals: 9
+
+[2] Solid Wegld
+ 이름: Solid Wegld
+ 주소: 0xfd0710ea094124926d67dd75c2d8cd7a5c5b3c81
+ 체인ID: 130
+ Decimals: 18
+
+[3] Solid Wegld
+ 이름: Solid Wegld
+ 주소: 0x25b28e429a11204f24831d61183a7ddc5392f503
+ 체인ID: 130
+ Decimals: 18
+
+[4] Rate Wegld
+ 이름: Rate Wegld
+ 주소: 0x4adb5ce9a347faa81626c5352ceb0a19789ad1dc
+ 체인ID: 130
+ Decimals: 18
+
+[5] WEGLD ETF
+ 이름: WEGLD ETF
+ 주소: 0xf6ebb373f1e1fa1bbdb2f88fa1b989bba726d482
+ 체인ID: 130
+ Decimals: 18
+
+[6] Handhelds Wegld
+ 이름: Handhelds Wegld
+ 주소: 0x7e0639b4dcd1178c656d575617e31fabd69ae230
+ 체인ID: 8453
+ Decimals: 9
+
+[7] Gef Wegld
+ 이름: Gef Wegld
+ 주소: 0xa956052005bd8bfed7ac3fa58bbab99ac6de1780
+ 체인ID: 8453
+ Decimals: 9
+
+[8] Wegld Versagames
+ 이름: Wegld Versagames
+ 주소: 0x1c714a4ab9da539f86becbb0f678c983fa2f7eae
+ 체인ID: 8453
+ Decimals: 9
+
+[9] Wegld Bbsnek
+ 이름: Wegld Bbsnek
+ 주소: 0xfb608f8ca55f78a01d9ba3aad83872f45f1e513d
+ 체인ID: 130
+ Decimals: 18
+
+[10] Gictrade Wegld
+ 이름: Gictrade Wegld
+ 주소: 0xeb0729744b296fd634507d9895fbc3413390c235
+ 체인ID: 130
+ Decimals: 18
+
+[11] Wegld Andromeda
+ 이름: Wegld Andromeda
+ 주소: 0x4f23293b1e4b008b74e9e8b0427c604b8aa17ddd
+ 체인ID: 8453
+ Decimals: 9
+
+[12] Pavia Wegld
+ 이름: Pavia Wegld
+ 주소: 0xa098877569a6103d91e89f6ebb764a9ae0f1cfe8
+ 체인ID: 130
+ Decimals: 18
+
+[13] Ccx Wegld
+ 이름: Ccx Wegld
+ 주소: 0x18ae7c0aa337493c2de424942befea85b802284f
+ 체인ID: 130
+ Decimals: 18
+
+[14] Wegld Tera
+ 이름: Wegld Tera
+ 주소: 0x9a4c819c5b25df04f0b7e386f69ca89918147c43
+ 체인ID: 130
+ Decimals: 18
+
+[15] Shezmu Wegld
+ 이름: Shezmu Wegld
+ 주소: 0xf507f9c8b33496c0279fe89723b6532ca368e9f1
+ 체인ID: 130
+ Decimals: 18

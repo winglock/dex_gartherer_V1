@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: SUI
+원본 풀네임: Sui
+검색 쿼리: SUI Sui
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:47
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] ONT
+ 이름: Ontology Token
+ 주소: 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335
+ 체인ID: 56
+ Decimals: 18
+
+[2] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 56
+ Decimals: 18
+
+[3] YFI
+ 이름: yearn.finance
+ 주소: 0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e
+ 체인ID: 1
+ Decimals: 18
+
+[4] BAL
+ 이름: Balancer
+ 주소: 0xba100000625a3754423978a60c9317c58a424e3d
+ 체인ID: 1
+ Decimals: 18
+
+[5] tBTC
+ 이름: tBTC v2
+ 주소: 0x18084fba666a33d37592fa2633fd49a74dd93a88
+ 체인ID: 1
+ Decimals: 18
+
+[6] TREB
+ 이름: TREB
+ 주소: 0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e
+ 체인ID: 8453
+ Decimals: 18
+
+[7] GMT
+ 이름: GoMining Token
+ 주소: 0x7ddc52c4de30e94be3a6a0a2b259b2850f421989
+ 체인ID: 1
+ Decimals: 18
+
+[8] DAG
+ 이름: Constellation
+ 주소: 0x74299a718b2c44483a27325d7725f0b2646de3b1
+ 체인ID: 8453
+ Decimals: 8
+
+[9] IOTX
+ 이름: IoTeX Network
+ 주소: 0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+ 체인ID: 1
+ Decimals: 18
+
+[10] AITECH
+ 이름: AITECH
+ 주소: 0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944
+ 체인ID: 56
+ Decimals: 18
+
+[11] QUICK
+ 이름: QuickSwap
+ 주소: 0xb5c064f955d8e7f38fe0460c556a72987494ee17
+ 체인ID: 137
+ Decimals: 18
+
+[12] uSUI
+ 이름: Sui (Universal)
+ 주소: 0xb0505e5a99abd03d94a1169e638b78edfed26ea4
+ 체인ID: 8453
+ Decimals: 18
+
+[13] CGPT
+ 이름: ChainGPT
+ 주소: 0x9840652dc04fb9db2c43853633f0f62be6f00f98
+ 체인ID: 56
+ Decimals: 18
+
+[14] BAL
+ 이름: Balancer
+ 주소: 0x040d1edc9569d4bab2d15287dc5a4f10f56a56b8
+ 체인ID: 42161
+ Decimals: 18
+
+[15] tBTC
+ 이름: Base tBTC v2
+ 주소: 0x236aa50979d5f3de3bd1eeb40e81137f22ab794b
+ 체인ID: 8453
+ Decimals: 18

@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TIA
+원본 풀네임: Celestia
+검색 쿼리: TIA Celestia
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:21
+발견된 토큰 수: 15개
+전체 결과 수: 7837개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] @$TIA - Celestia Faces Scrutiny Over Significant Year-to-Date Pri
+ 이름: @$TIA - Celestia Faces Scrutiny Over Significant Year-to-Date Pri
+ 주소: 0xdccf4272d71a8ff338c21bce0771d6409d671da3
+ 체인ID: 8453
+ Decimals: 18
+
+[2] TIA Celestia On Base
+ 이름: TIA Celestia On Base
+ 주소: 0xa1db3b4b102cd344f87bba535f50c776294cd6b4
+ 체인ID: 8453
+ Decimals: 18
+
+[3] TIA Celestia AI Presale v2
+ 이름: TIA Celestia AI Presale v2
+ 주소: 0xfb4af6c6d98f3ede11d1d9595c79e8cf657eb74e
+ 체인ID: 56
+ Decimals: 18
+
+[4] TIA Celestia AI Presale v2
+ 이름: TIA Celestia AI Presale v2
+ 주소: 0xe9ce902c7d68a32c7d1d9ff90d3265dc5a577949
+ 체인ID: 56
+ Decimals: 9
+
+[5] TIA
+ 이름: Tia Token
+ 주소: 0x824e35f7a75324f99300afac75ecf7354e17ea26
+ 체인ID: 1
+ Decimals: 9
+
+[6] TIA Celest
+ 이름: TIA Celestia On Binance Alpha
+ 주소: 0x4ad6a840e712f086d63a01f8358887ab0e753e2f
+ 체인ID: 56
+ Decimals: 18
+
+[7] wTIA
+ 이름: Wrapped TIA
+ 주소: 0x6ad2d2c22bb58ea94be18cff11ef67e8bb97b652
+ 체인ID: 1
+ Decimals: 18
+
+[8] TIACEL
+ 이름: TIA Celestia Perpetual
+ 주소: 0xf7bd6185eda58466c1b22864994bdd073f057777
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Tia
+ 이름: Tia
+ 주소: 0xf5b80aeb051d96af27e6d7abcf490b2cedef2acc
+ 체인ID: 8453
+ Decimals: 18
+
+[10] TIA
+ 이름: TIA
+ 주소: 0x01213ac33718df09acddb58bc06493e049ebc64d
+ 체인ID: 8453
+ Decimals: 18
+
+[11] TIA
+ 이름: TIA
+ 주소: 0xbcf44575371eed4306ca9f80c44b9167a5aa4e1e
+ 체인ID: 8453
+ Decimals: 18
+
+[12] Tia
+ 이름: Tia
+ 주소: 0x84270191128f9dc4abe139155b99b3ba80c42752
+ 체인ID: 8453
+ Decimals: 18
+
+[13] $TIA
+ 이름: $TIA
+ 주소: 0x41de2cb61df10f9762a2a00d8845599405b69e17
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Tia
+ 이름: Tia
+ 주소: 0x01549fe348a2db000773aa4faac5f0b5019b109c
+ 체인ID: 8453
+ Decimals: 18
+
+[15] TIA
+ 이름: TIA
+ 주소: 0x46d26604488808e61a5397a3fd0604611498f057
+ 체인ID: 8453
+ Decimals: 18

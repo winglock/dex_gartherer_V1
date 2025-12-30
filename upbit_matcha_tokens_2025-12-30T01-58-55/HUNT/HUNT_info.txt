@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: HUNT
+원본 풀네임: HUNT
+검색 쿼리: HUNT HUNT
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:56:39
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] HUNT
+ 이름: HuntToken
+ 주소: 0x37f0c2915cecc7e977183b8543fc0864d03e064c
+ 체인ID: 8453
+ Decimals: 18
+
+[2] @CARV Mod Hunt: Hunt mods in a 5x5 grid on CARV testnet (#SVM)! C
+ 이름: @CARV Mod Hunt: Hunt mods in a 5x5 grid on CARV testnet (#SVM)! C
+ 주소: 0xffd9c0f944fa1daa7a4fb963e6dba8ae548c2a8a
+ 체인ID: 8453
+ Decimals: 18
+
+[3] ILV
+ 이름: Illuvium
+ 주소: 0x767fe9edc9e0df98e07454847909b5e959d7ca0e
+ 체인ID: 1
+ Decimals: 18
+
+[4] XYO
+ 이름: XY Oracle
+ 주소: 0x55296f69f40ea6d20e478533c15a6b08b654e758
+ 체인ID: 1
+ Decimals: 18
+
+[5] HUNT HUNT
+ 이름: HUNT HUNT
+ 주소: 0xe65756b1c01258114d91da35740165cb0daa0670
+ 체인ID: 8453
+ Decimals: 18
+
+[6] HUNT HUNT
+ 이름: HUNT HUNT
+ 주소: 0x7a301425503736cbeef460929e6a21a03d20a96e
+ 체인ID: 8453
+ Decimals: 9
+
+[7] Hunt HUNT
+ 이름: Hunt HUNT
+ 주소: 0xef723f007e942f2ffadda1bbdd89b76db59c491b
+ 체인ID: 8453
+ Decimals: 9
+
+[8] HUNT Hunt Town On Base
+ 이름: HUNT Hunt Town On Base
+ 주소: 0xcaa5a358e2f0aa5e48cb0b48cc8f70d53a06180a
+ 체인ID: 8453
+ Decimals: 18
+
+[9] HUNT
+ 이름: HuntToken
+ 주소: 0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5
+ 체인ID: 1
+ Decimals: 18
+
+[10] MON
+ 이름: MON
+ 주소: 0xc555d625828c4527d477e595ff1dd5801b4a600e
+ 체인ID: 1
+ Decimals: 18
+
+[11] FURY
+ 이름: Engines of Fury Token
+ 주소: 0x0203d275d2a65030889af45ed91d472be3948b92
+ 체인ID: 56
+ Decimals: 18
+
+[12] CAW
+ 이름: A Hunters Dream
+ 주소: 0xf3b9569f82b18aef890de263b84189bd33ebe452
+ 체인ID: 1
+ Decimals: 18
+
+[13] Jager
+ 이름: Jager Hunter
+ 주소: 0x74836cc0e821a6be18e407e6388e430b689c66e9
+ 체인ID: 56
+ Decimals: 18
+
+[14] GQ
+ 이름: Galactic Quadrant
+ 주소: 0xf700d4c708c2be1463e355f337603183d20e0808
+ 체인ID: 56
+ Decimals: 18
+
+[15] SHRAP
+ 이름: SHRAPToken
+ 주소: 0xd402298a793948698b9a63311404fbbee944eafd
+ 체인ID: 43114
+ Decimals: 18

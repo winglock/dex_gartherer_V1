@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "Wg",
+    "chain": "solana",
+    "dex": "pumpfun",
+    "pool_address": "5iVcngKWCWF4QEnMiu33wZDJeEx4jgA31Jxbv22nHn1R",
+    "pair": "WG/USD",
+    "price_usd": 3.526e-6,
+    "lp_reserve_usd": 0.0,
+    "volume_24h": 12.63,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060379
+  }
+]

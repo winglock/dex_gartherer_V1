@@ -1,0 +1,15 @@
+[
+  {
+    "symbol": "WVANA",
+    "chain": "vana",
+    "dex": "datadex",
+    "pool_address": "0x850e454DDebf9f61Ef5A86A032c857e0e47C4fA9",
+    "pair": "VANA/USD",
+    "price_usd": 2.54,
+    "lp_reserve_usd": 586732.8,
+    "volume_24h": 27428.69,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060393
+  }
+]

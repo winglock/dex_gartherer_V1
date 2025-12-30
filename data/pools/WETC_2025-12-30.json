@@ -1,0 +1,28 @@
+[
+  {
+    "symbol": "WETC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x0DdE752A951f3A4d7De6c056E14fA47659D47052",
+    "pair": "WETC/USD",
+    "price_usd": 0.1608,
+    "lp_reserve_usd": 555957.78,
+    "volume_24h": 1690.08,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060381
+  },
+  {
+    "symbol": "WETC",
+    "chain": "bsc",
+    "dex": "pancakeswap",
+    "pool_address": "0x02170d857BA08372cbc353C30A8DEbd50099C39c",
+    "pair": "WETC/USD",
+    "price_usd": 0.0001137,
+    "lp_reserve_usd": 0.17,
+    "volume_24h": 0.22,
+    "fee_tier": null,
+    "source": "dexscreener",
+    "timestamp": 1767060381
+  }
+]

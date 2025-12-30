@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MOC
+원본 풀네임: Moss Coin
+검색 쿼리: MOC Moss Coin
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:41
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] USDC
+ 이름: USD Coin
+ 주소: 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+ 체인ID: 8453
+ Decimals: 6
+
+[2] USDC
+ 이름: USD Coin
+ 주소: 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d
+ 체인ID: 56
+ Decimals: 18
+
+[3] USDC
+ 이름: USD Coin
+ 주소: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+ 체인ID: 1
+ Decimals: 6
+
+[4] USDC
+ 이름: USD Coin (PoS)
+ 주소: 0x2791bca1f2de4661ed88a30c99a7a9449aa84174
+ 체인ID: 137
+ Decimals: 6
+
+[5] USDC
+ 이름: USD Coin
+ 주소: 0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e
+ 체인ID: 43114
+ Decimals: 6
+
+[6] USDC
+ 이름: USD Coin
+ 주소: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+ 체인ID: 1399811149
+ Decimals: 6
+
+[7] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: 0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf
+ 체인ID: 8453
+ Decimals: 8
+
+[8] USDC
+ 이름: USD Coin
+ 주소: 0x0b2c639c533813f4aa9d7837caf62653d097ff85
+ 체인ID: 10
+ Decimals: 6
+
+[9] USDC
+ 이름: USD Coin
+ 주소: 0x3c499c542cef5e3811e1192ce70d8cc03d5c3359
+ 체인ID: 137
+ Decimals: 6
+
+[10] BNB
+ 이름: BNB
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 56
+ Decimals: 18
+
+[11] USDC
+ 이름: USD Coin (Arb1)
+ 주소: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+ 체인ID: 42161
+ Decimals: 6
+
+[12] USDC
+ 이름: USD Coin
+ 주소: 0xaf88d065e77c8cc2239327c5edb3a432268e5831
+ 체인ID: 42161
+ Decimals: 6
+
+[13] BTCB
+ 이름: BTCB Token
+ 주소: 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c
+ 체인ID: 56
+ Decimals: 18
+
+[14] cbBTC
+ 이름: Coinbase Wrapped BTC
+ 주소: cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij
+ 체인ID: 1399811149
+ Decimals: 8
+
+[15] cbETH
+ 이름: Coinbase Wrapped Staked ETH
+ 주소: 0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22
+ 체인ID: 8453
+ Decimals: 18

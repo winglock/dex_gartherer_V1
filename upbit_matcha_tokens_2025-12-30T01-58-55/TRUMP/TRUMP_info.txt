@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: TRUMP
+원본 풀네임: Trump
+검색 쿼리: TRUMP Trump
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:57:14
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] TRUMP
+ 이름: OFFICIAL TRUMP
+ 주소: 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+ 체인ID: 1399811149
+ Decimals: 6
+
+[2] $TvsP
+ 이름: TRUMP VS PUTIN
+ 주소: AkszrMuTDqZwjXXBbkveQfUGxaLD2D77hxQeHfhDpump
+ 체인ID: 1399811149
+ Decimals: 6
+
+[3] PATRIOT
+ 이름: Patriot
+ 주소: 0xe9732d4b1e7d3789004ff029f032ba3034db059c
+ 체인ID: 1
+ Decimals: 18
+
+[4] TRUMP TRUMP TRUMP
+ 이름: TRUMP TRUMP TRUMP
+ 주소: 0xdac9ae1338da4df22557795060c8300198f36d18
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Trump trump trump
+ 이름: Trump trump trump
+ 주소: 0xe2f7a963b225df50e5c9415c31b2cfae9c6d8b30
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Trump trump
+ 이름: Trump trump
+ 주소: 0x5ef9eb442fd8afe7c23abcaa3ca90df0e913bf1e
+ 체인ID: 8453
+ Decimals: 18
+
+[7] trump - trump
+ 이름: trump - trump
+ 주소: 0x5cfe1f705fa9a1dcfd3c1f8786e96fddca0fc6e0
+ 체인ID: 8453
+ Decimals: 18
+
+[8] #Trump $Trump
+ 이름: #Trump $Trump
+ 주소: 0x7e6841cf3312f23588105d897df70c3be19eedd3
+ 체인ID: 8453
+ Decimals: 18
+
+[9] TRUMP
+ 이름: OFFICIAL TRUMP
+ 주소: 5WxaPhgXuNPpQXQgtuNM6cvzzzbgQU3ZEBYmatFVeumh
+ 체인ID: 1399811149
+ Decimals: 6
+
+[10] OFFICIAL TRUMP (TRUMP)
+ 이름: OFFICIAL TRUMP (TRUMP)
+ 주소: 0x9676ddcb558b1800e57479202c5500b5eef68fe0
+ 체인ID: 8453
+ Decimals: 18
+
+[11] ?@clanker.farcaster.eth deploy token name trump trump and ticker
+ 이름: @@clanker.farcaster.eth deploy token name trump trump and ticker
+ 주소: 0xc4bb78d8daa6faf3f8c8aaf7d4ded7bfff98259a
+ 체인ID: 8453
+ Decimals: 18
+
+[12] @"All hell will breakout" said Trump! Trump issues Hamas an ult
+ 이름: @"All hell will breakout" said Trump! Trump issues Hamas an ult
+ 주소: 0xe6b88a484852ae1628f4b5a7e1589e8c55b41432
+ 체인ID: 8453
+ Decimals: 18
+
+[13] @Here's the Analysis of #TRUMP :#TRUMP moving very choppy and n
+ 이름: @Here's the Analysis of #TRUMP :#TRUMP moving very choppy and n
+ 주소: 0x2d2a7ff717c8098bdc9790e03a955a927099e39b
+ 체인ID: 8453
+ Decimals: 18
+
+[14] @Official Trump (TRUMP) is not only making waves in the meme coin
+ 이름: @Official Trump (TRUMP) is not only making waves in the meme coin
+ 주소: 0x363049b968284407c9c1b68983cf6b8c34a8b086
+ 체인ID: 8453
+ Decimals: 18
+
+[15] MAGATRUMP
+ 이름: MAGA Trump
+ 주소: 0x225e5b78f289c6d7d7757ad2b9d23b6ab31a5eea
+ 체인ID: 1
+ Decimals: 18

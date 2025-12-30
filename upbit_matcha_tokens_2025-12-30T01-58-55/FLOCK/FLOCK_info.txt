@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: FLOCK
+원본 풀네임: FLock.io
+검색 쿼리: FLOCK FLock.io
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:45
+발견된 토큰 수: 15개
+전체 결과 수: 2036개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] FLOCK
+ 이름: FLock.io
+ 주소: 0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691
+ 체인ID: 8453
+ Decimals: 18
+
+[2] FLOCK
+ 이름: Flockerz
+ 주소: 0xb33d999469a7e6b9ebc25a3a05248287b855ed46
+ 체인ID: 1
+ Decimals: 18
+
+[3] Flock Ai21x
+ 이름: Flock Ai21x
+ 주소: 0x393b7469e18c5c720dacf2e88586587fe4b9876b
+ 체인ID: 130
+ Decimals: 18
+
+[4] FLOCK
+ 이름: FLOCK FLOCK FLOCK FLOCK FLOCK
+ 주소: 0xfa395b5d3c339c84e8684303752a2e92a3053244
+ 체인ID: 8453
+ Decimals: 18
+
+[5] Flock
+ 이름: Flock
+ 주소: 0x8888ecb48a548768cad3590651468db498b78ac9
+ 체인ID: 8453
+ Decimals: 18
+
+[6] Flock
+ 이름: Flock
+ 주소: 0x79907eda21b14de8a39896bc65a6f0cefb057477
+ 체인ID: 8453
+ Decimals: 18
+
+[7] FLOCK
+ 이름: FLOCK
+ 주소: 0x61f5e5457be504ced370e634b42459039ead0465
+ 체인ID: 8453
+ Decimals: 18
+
+[8] Flock
+ 이름: Flock
+ 주소: 0xd208dc27df582e0f1da0e07e6f0fa621261663b2
+ 체인ID: 8453
+ Decimals: 18
+
+[9] Flock
+ 이름: Flock
+ 주소: 0xdbf31f3d46329e0f757d8d575b0545f32f97cafe
+ 체인ID: 8453
+ Decimals: 18
+
+[10] Flock
+ 이름: Flock
+ 주소: 0x6ffd5de31de863b6f0e57eaf57d209b2df2b772d
+ 체인ID: 8453
+ Decimals: 18
+
+[11] Flock
+ 이름: Flock
+ 주소: 0x89b89c35194978b99c97a5d0c40d95324f51be86
+ 체인ID: 8453
+ Decimals: 18
+
+[12] FLOCK
+ 이름: FLOCK
+ 주소: 0x345e0cf292414d64dd36cceb35664557cc5211c3
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Flock
+ 이름: Flock
+ 주소: 0x2f9844834880e238ce01d2c54dc855b396839ace
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Flock
+ 이름: Flock
+ 주소: 0x6fabf6a6887a85ce503eac05c04ba743873b9658
+ 체인ID: 8453
+ Decimals: 18
+
+[15] FLOCK
+ 이름: FLOCK
+ 주소: 0x9cd6cfbef493608f5160cdc74c4e4800997a6a98
+ 체인ID: 8453
+ Decimals: 18

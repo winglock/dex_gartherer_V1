@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: MON
+원본 풀네임: Monad
+검색 쿼리: MON Monad
+재시도 여부: NO
+L1 코인 여부: NO
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:43
+발견된 토큰 수: 15개
+전체 결과 수: 10000개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] MON
+ 이름: MON
+ 주소: 0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 체인ID: 143
+ Decimals: 18
+
+[2] WMON
+ 이름: Wrapped MON
+ 주소: 0x3bd359c1119da7da1d913d1c4d2b7c461115433a
+ 체인ID: 143
+ Decimals: 18
+
+[3] Mon monad
+ 이름: Mon monad
+ 주소: 0xec97b7820f541a9bca1d90eb908220f0b7077af8
+ 체인ID: 8453
+ Decimals: 18
+
+[4] LVMON
+ 이름: LeverUp MON
+ 주소: 0x91b81bfbe3a747230f0529aa28d8b2bc898e6d56
+ 체인ID: 143
+ Decimals: 18
+
+[5] sMON
+ 이름: Kintsu Staked Monad
+ 주소: 0xa3227c5969757783154c60bf0bc1944180ed81b9
+ 체인ID: 143
+ Decimals: 18
+
+[6] MON
+ 이름: MON
+ 주소: 0xc555d625828c4527d477e595ff1dd5801b4a600e
+ 체인ID: 1
+ Decimals: 18
+
+[7] @MON MON MON@monad is liveLet's start a new journey posting ab
+ 이름: @MON MON MON@monad is liveLet's start a new journey posting ab
+ 주소: 0x24970508c1e0c6d36517f77bdfa6ac74863d7023
+ 체인ID: 8453
+ Decimals: 18
+
+[8] another shitshow $mon monad
+ 이름: another shitshow $mon monad
+ 주소: 0xfc94b57d14e3ef825869ca2a263fe4c71e07b4d9
+ 체인ID: 8453
+ Decimals: 18
+
+[9] %🚨 Exposing $MON @monad Tokenomics
+ 이름: %🚨 Exposing $MON @monad Tokenomics
+ 주소: 0x2d2d9dcdb010fc468408192b5a80572586b46de6
+ 체인ID: 8453
+ Decimals: 18
+
+[10] ?Almost time, are you ready for $MON Portal check?#Mon #Monad
+ 이름: @Almost time, are you ready for $MON Portal check?#Mon #Monad
+ 주소: 0xa26a549c48ec0df81253c5fdb7fe1688c2d3e2d8
+ 체인ID: 8453
+ Decimals: 18
+
+[11] A🔹 Quick Tapping Summary (MON / Monad on Solana)MON token wil
+ 이름: B🔹 Quick Tapping Summary (MON / Monad on Solana)MON token wil
+ 주소: 0xe506a1173cf102215753b98c0c44f2ca8258d990
+ 체인ID: 8453
+ Decimals: 18
+
+[12] WBTC
+ 이름: Wrapped BTC
+ 주소: 0x0555e30da8f98308edb960aa94c0db47230d2b9c
+ 체인ID: 143
+ Decimals: 8
+
+[13] $MON monad Project Is Bad 😔
+ 이름: $MON monad Project Is Bad 😔
+ 주소: 0xa9e794dea23ff192a66486fb4fb519b0e0897cf1
+ 체인ID: 8453
+ Decimals: 18
+
+[14] %$MON monad Token Price pump good 😊
+ 이름: %$MON monad Token Price pump good 😊
+ 주소: 0xc4e2388c29d6b9647339def72eae51c7fc649d9b
+ 체인ID: 8453
+ Decimals: 18
+
+[15] &Presale $MON MONAD On the ways 2x 🔥
+ 이름: &Presale $MON MONAD On the ways 2x 🔥
+ 주소: 0x42b089df2adb10722cb0673d53f949c6d9d09f06
+ 체인ID: 8453
+ Decimals: 18

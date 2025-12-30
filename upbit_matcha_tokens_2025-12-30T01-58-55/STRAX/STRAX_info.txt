@@ -1,0 +1,103 @@
+=== 토큰 검색 결과 ===
+
+원본 토큰: STRAX
+원본 풀네임: Stratis
+검색 쿼리: STRAX Stratis
+재시도 여부: YES
+L1 코인 여부: YES
+검색 성공: YES
+검색 시간: 2025. 12. 30. 오전 10:58:54
+발견된 토큰 수: 15개
+전체 결과 수: 460개
+
+=== 토큰 상세 목록 (15개) ===
+
+[1] Stratis New Shorts
+ 이름: Stratis New Shorts
+ 주소: 0xe6639a6ab53ba4ae1e9ba6f1c50a92506d525670
+ 체인ID: 130
+ Decimals: 18
+
+[2] STRAX
+ 이름: StratisNew
+ 주소: 0xf980cdbb8c279510e69739d2bda87c5aebe98c92
+ 체인ID: 8453
+ Decimals: 18
+
+[3] stratisevm
+ 이름: stratisevm
+ 주소: 0x5c2b6dd01d731da76c216c76872f91757f15f399
+ 체인ID: 8453
+ Decimals: 18
+
+[4] WSTRAX
+ 이름: WrappedStrax
+ 주소: 0xa61ab12eb1964c5b478283d3233270800674ace0
+ 체인ID: 1
+ Decimals: 18
+
+[5] WSTRAX
+ 이름: Wrapped STRAX
+ 주소: 0x1aff357d26b2f2134bde826e3b271442ec091a25
+ 체인ID: 137
+ Decimals: 18
+
+[6] WSTRAX
+ 이름: Wrapped STRAX
+ 주소: 0x5100c1f037f1e58062110a23836775a891989822
+ 체인ID: 1
+ Decimals: 18
+
+[7] WSTRAX
+ 이름: Wrapped STRAX
+ 주소: 0x32523894b84af22adb87e185715b6313d52e0be0
+ 체인ID: 56
+ Decimals: 18
+
+[8] WSTRAX
+ 이름: WrappedStrax
+ 주소: 0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b
+ 체인ID: 1
+ Decimals: 18
+
+[9] %Strategic Stratis [New] STRAX Reserve
+ 이름: %Strategic Stratis [New] STRAX Reserve
+ 주소: 0xc7495c9eaab2e656d01680d3f08d0cc2300ad6cd
+ 체인ID: 8453
+ Decimals: 9
+
+[10] Stratis [Old] VIDY
+ 이름: Stratis [Old] VIDY
+ 주소: 0xf7fe55c08b520b195b61a88523c9324efd41adb0
+ 체인ID: 130
+ Decimals: 18
+
+[11] Stratis [Old] STRAX
+ 이름: Stratis [Old] STRAX
+ 주소: 0xdf47de61752bdab6f4f0a6a6659d1e655d042a88
+ 체인ID: 130
+ Decimals: 18
+
+[12] Stratis [New] HUND
+ 이름: Stratis [New] HUND
+ 주소: 0x293581af66369e5fb75bfc5efc0fb3085d40ce8d
+ 체인ID: 8453
+ Decimals: 18
+
+[13] Stratis [Old] 1HubAI
+ 이름: Stratis [Old] 1HubAI
+ 주소: 0x48251b5a92d7d16bfa5d0b98fab2d8b8a704a307
+ 체인ID: 8453
+ Decimals: 18
+
+[14] Stratis [New] Tokamak Network
+ 이름: Stratis [New] Tokamak Network
+ 주소: 0xa5fb0cfdfcd51e186de35a7294699fa28f4d00bd
+ 체인ID: 130
+ Decimals: 18
+
+[15] Wolf Works DAO Stratis [Old]
+ 이름: Wolf Works DAO Stratis [Old]
+ 주소: 0xa2383a7f807a1f7dceb1922c5ed926689c5a4ab0
+ 체인ID: 8453
+ Decimals: 18
