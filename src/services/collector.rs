@@ -96,15 +96,22 @@ impl PoolCollector {
                     // 🔥 디버그: 토큰 처리 시작
                     tracing::debug!("\n🔍 처리 중: {}", symbol);
                     
+                    let mut source_results: Vec<String> = Vec::new();
+                    
                     for source in sources.iter() {
+                        let source_name = source.name();
+                        pb.set_message(format!("{} ← {}", symbol, source_name));
+                        
                         match tokio::time::timeout(
                             Duration::from_secs(10),
                             source.fetch_pools(&symbol)
                         ).await {
                             Ok(Ok(pools)) => {
+                                let pool_count = pools.len();
+                                
                                 // 🔥 디버그: 소스별 결과
                                 tracing::info!("  ✅ {}: {}에서 {}개 풀 수신", 
-                                    symbol, source.name(), pools.len());
+                                    symbol, source_name, pool_count);
                                 
                                 let before_filter = pools.len();
                                 let filtered: Vec<_> = pools.into_iter()
@@ -130,24 +137,33 @@ impl PoolCollector {
                                     total_pools.fetch_add(1, Ordering::Relaxed);
                                 }
                                 successful.fetch_add(1, Ordering::Relaxed);
+                                
+                                if pool_count > 0 {
+                                    source_results.push(format!("{}:{}", source_name, pool_count));
+                                }
                             }
                             Ok(Err(e)) => {
                                 // 🔥 디버그: API 에러
                                 tracing::warn!("  ❌ {}: {} 실패 - {}", 
-                                    symbol, source.name(), e);
+                                    symbol, source_name, e);
                                 failed.fetch_add(1, Ordering::Relaxed);
                             }
                             Err(_) => {
                                 // 🔥 디버그: 타임아웃
                                 tracing::warn!("  ⏱️ {}: {} 타임아웃 (10초)", 
-                                    symbol, source.name());
+                                    symbol, source_name);
                                 failed.fetch_add(1, Ordering::Relaxed);
                             }
                         }
                     }
 
                     pb.inc(1);
-                    pb.set_message(format!("{}: {}개 풀", symbol, total_pools.load(Ordering::Relaxed)));
+                    let sources_info = if source_results.is_empty() {
+                        "없음".to_string()
+                    } else {
+                        source_results.join(" | ")
+                    };
+                    pb.set_message(format!("{} [{}]", symbol, sources_info));
                 }
             })
             .buffer_unordered(5)
