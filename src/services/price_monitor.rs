@@ -135,6 +135,7 @@ impl PriceMonitor {
     /// Fetch prices using DexScreener API (much faster - by symbol)
     pub async fn fetch_all_prices(&self) -> Vec<PriceData> {
         let symbols = self.get_symbols();
+        println!("   📡 {}개 심볼 조회 중...", symbols.len());
         
         // Fetch prices by symbol using DexScreener (batch)
         let symbol_prices: Vec<(String, HashMap<String, f64>)> = stream::iter(symbols.into_iter())
@@ -151,6 +152,10 @@ impl PriceMonitor {
             .buffer_unordered(50)
             .collect()
             .await;
+        
+        // Count successful fetches
+        let success_count = symbol_prices.iter().filter(|(_, p)| !p.is_empty()).count();
+        println!("   ✓ {}/{} 심볼 가격 수신", success_count, symbol_prices.len());
         
         // Build price lookup
         let mut price_map: HashMap<String, HashMap<String, f64>> = HashMap::new();
@@ -193,37 +198,57 @@ impl PriceMonitor {
         
         let url = format!("https://api.dexscreener.com/latest/dex/search?q={}", symbol);
         
-        if let Ok(resp) = client.get(&url).send().await {
-            if resp.status().is_success() {
-                if let Ok(data) = resp.json::<serde_json::Value>().await {
-                    if let Some(pairs) = data["pairs"].as_array() {
-                        for pair in pairs.iter().take(20) {
-                            let chain_id = pair["chainId"].as_str().unwrap_or("");
-                            let price_str = pair["priceUsd"].as_str().unwrap_or("0");
-                            let base_symbol = pair["baseToken"]["symbol"].as_str().unwrap_or("");
-                            
-                            // Only use exact symbol match
-                            if base_symbol.to_uppercase() == symbol.to_uppercase() {
-                                if let Ok(price) = price_str.parse::<f64>() {
-                                    if price > 0.0 && price < 1_000_000_000.0 {
-                                        let chain = match chain_id {
-                                            "ethereum" => "ethereum",
-                                            "bsc" => "bsc",
-                                            "polygon" => "polygon",
-                                            "arbitrum" => "arbitrum",
-                                            "base" => "base",
-                                            "optimism" => "optimism",
-                                            "avalanche" => "avalanche",
-                                            _ => chain_id,
-                                        };
-                                        prices.entry(chain.to_string()).or_insert(price);
+        match client.get(&url).send().await {
+            Ok(resp) => {
+                if resp.status().is_success() {
+                    match resp.json::<serde_json::Value>().await {
+                        Ok(data) => {
+                            if let Some(pairs) = data["pairs"].as_array() {
+                                for pair in pairs.iter().take(50) {
+                                    let chain_id = pair["chainId"].as_str().unwrap_or("").to_lowercase();
+                                    let price_str = pair["priceUsd"].as_str().unwrap_or("0");
+                                    let base_symbol = pair["baseToken"]["symbol"].as_str().unwrap_or("");
+                                    
+                                    // Case-insensitive symbol match
+                                    if base_symbol.to_uppercase() == symbol.to_uppercase() {
+                                        if let Ok(price) = price_str.parse::<f64>() {
+                                            if price > 0.0 && price < 1_000_000_000.0 {
+                                                // Store all chain variations
+                                                prices.entry(chain_id.clone()).or_insert(price);
+                                                
+                                                // Also store common aliases
+                                                match chain_id.as_str() {
+                                                    "ethereum" => { prices.entry("eth".to_string()).or_insert(price); },
+                                                    "bsc" | "binance" => { 
+                                                        prices.entry("bsc".to_string()).or_insert(price);
+                                                        prices.entry("binance".to_string()).or_insert(price);
+                                                    },
+                                                    "polygon" | "polygon_pos" | "matic" => {
+                                                        prices.entry("polygon".to_string()).or_insert(price);
+                                                        prices.entry("matic".to_string()).or_insert(price);
+                                                    },
+                                                    "arbitrum" | "arbitrum_one" => {
+                                                        prices.entry("arbitrum".to_string()).or_insert(price);
+                                                    },
+                                                    "optimism" => { prices.entry("optimism".to_string()).or_insert(price); },
+                                                    "base" => { prices.entry("base".to_string()).or_insert(price); },
+                                                    "avalanche" | "avax" => {
+                                                        prices.entry("avalanche".to_string()).or_insert(price);
+                                                        prices.entry("avax".to_string()).or_insert(price);
+                                                    },
+                                                    _ => {},
+                                                }
+                                            }
+                                        }
                                     }
                                 }
                             }
-                        }
+                        },
+                        Err(_) => {},
                     }
                 }
-            }
+            },
+            Err(_) => {},
         }
         
         prices

@@ -120,7 +120,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let cache_clone2 = cache.clone();
     tokio::spawn(async move {
         loop {
-            let result = collector_clone.collect_progressive(&symbols_clone).await;
+            let result = collector_clone.collect_all(&symbols_clone).await;
             
             // Save to local storage
             if let Some(ref storage) = storage_clone {

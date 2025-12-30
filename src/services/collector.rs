@@ -2,16 +2,17 @@ use std::sync::Arc;
 use std::sync::atomic::{AtomicUsize, Ordering};
 use tokio::sync::Semaphore;
 use futures::stream::{self, StreamExt};
-use indicatif::{ProgressBar, ProgressStyle, MultiProgress};
 use std::time::Duration;
 use crate::models::PoolData;
 use crate::sources::{
     PoolSource, 
     gecko::GeckoTerminal, 
     aggregators::{DexScreenerSource, MatchaSource},
-    meta_agg::{self, MatchaTokenResolver, KyberSwapDirectSource, OpenOceanDirectSource, ParaSwapDirectSource},
+    meta_agg::{self, OpenOceanDirectSource, ParaSwapDirectSource},
 };
 use super::{PoolCache, PoolFilter};
+
+const MAX_RETRIES: usize = 3;
 
 /// Collection statistics for monitoring
 #[derive(Default)]
@@ -39,125 +40,107 @@ pub struct PoolCollector {
 
 impl PoolCollector {
     pub fn new(cache: Arc<PoolCache>, filter: PoolFilter) -> Self {
-        // Shared token address cache for aggregators
         let token_cache = meta_agg::new_token_cache();
         
+        // Sources in priority order: DexScreener → GeckoTerminal → Matcha → OpenOcean → ParaSwap
         Self {
-            // All 7 active sources with shared token cache
             sources: vec![
-                // Primary sources (always work)
-                Arc::new(GeckoTerminal::new()),
                 Arc::new(DexScreenerSource::new()),
-                // Token resolver (populates cache for others)
-                Arc::new(MatchaTokenResolver::new(token_cache.clone())),
-                // Aggregators using shared cache
-                Arc::new(KyberSwapDirectSource::new(token_cache.clone())),
+                Arc::new(GeckoTerminal::new()),
+                Arc::new(MatchaSource::new()),
                 Arc::new(OpenOceanDirectSource::new(token_cache.clone())),
                 Arc::new(ParaSwapDirectSource::new(token_cache.clone())),
-                // Original Matcha (for comparison)
-                Arc::new(MatchaSource::new()),
             ],
             cache,
             filter,
-            semaphore: Arc::new(Semaphore::new(10)),
+            semaphore: Arc::new(Semaphore::new(20)),
             stats: Arc::new(CollectorStats::default()),
         }
     }
 
-    /// Progressive collection with visual feedback
-    pub async fn collect_progressive(&self, symbols: &[String]) -> CollectorResult {
-        let mp = MultiProgress::new();
-        
-        let pb_total = mp.add(ProgressBar::new(symbols.len() as u64));
-        pb_total.set_style(ProgressStyle::default_bar()
-            .template("{prefix:.bold.blue} [{bar:40.cyan/blue}] {pos}/{len} {msg}")
-            .unwrap()
-            .progress_chars("█▓▒░"));
-        pb_total.set_prefix("📊 Collecting");
-
+    /// Collect data from all sources sequentially with retry
+    pub async fn collect_all(&self, symbols: &[String]) -> CollectorResult {
         let total_pools = Arc::new(AtomicUsize::new(0));
         let successful = Arc::new(AtomicUsize::new(0));
         let failed = Arc::new(AtomicUsize::new(0));
 
-        stream::iter(symbols.iter().cloned())
-            .map(|symbol| {
-                let pb = pb_total.clone();
-                let sources = self.sources.clone();
-                let cache = self.cache.clone();
-                let filter = self.filter.clone();
-                let semaphore = self.semaphore.clone();
-                let total_pools = total_pools.clone();
-                let successful = successful.clone();
-                let failed = failed.clone();
+        println!("\n📊 데이터 수집 시작 ({} 심볼)", symbols.len());
+        println!("─────────────────────────────────────────");
 
-                async move {
-                    let _permit = semaphore.acquire().await.unwrap();
+        // Process each source sequentially
+        for source in self.sources.iter() {
+            let source_name = source.name();
+            println!("\n🔍 {} 조회 중...", source_name);
+            
+            let start = std::time::Instant::now();
+            let mut source_pools = 0usize;
+            let mut source_failed = 0usize;
+
+            // Process symbols in parallel for this source
+            let results: Vec<(String, Result<Vec<PoolData>, ()>)> = stream::iter(symbols.iter().cloned())
+                .map(|symbol| {
+                    let source = source.clone();
+                    let semaphore = self.semaphore.clone();
                     
-                    let mut source_results: Vec<String> = Vec::new();
-                    
-                    for source in sources.iter() {
-                        let source_name = source.name();
+                    async move {
+                        let _permit = semaphore.acquire().await.unwrap();
                         
-                        match tokio::time::timeout(
-                            Duration::from_secs(10),
-                            source.fetch_pools(&symbol)
-                        ).await {
-                            Ok(Ok(pools)) => {
-                                let pool_count = pools.len();
-                                
-                                let filtered: Vec<_> = pools.into_iter()
-                                    .filter(|p| filter.is_valid(p))
-                                    .collect();
-                                
-                                for pool in filtered {
-                                    let key = format!("{}:{}:{}", pool.source, pool.chain, pool.pool_address);
-                                    cache.insert(key, pool);
-                                    total_pools.fetch_add(1, Ordering::Relaxed);
+                        // Retry logic
+                        for attempt in 0..MAX_RETRIES {
+                            match tokio::time::timeout(
+                                Duration::from_secs(10),
+                                source.fetch_pools(&symbol)
+                            ).await {
+                                Ok(Ok(pools)) => return (symbol, Ok(pools)),
+                                Ok(Err(_)) | Err(_) => {
+                                    if attempt < MAX_RETRIES - 1 {
+                                        tokio::time::sleep(Duration::from_millis(500)).await;
+                                    }
                                 }
-                                successful.fetch_add(1, Ordering::Relaxed);
-                                
-                                if pool_count > 0 {
-                                    // 짧은 이름 사용
-                                    let short_name = match source_name {
-                                        "GeckoTerminal" => "gecko",
-                                        "DexScreener" => "dexs",
-                                        "Matcha" => "matcha",
-                                        "KyberSwap" => "kyber",
-                                        "OpenOcean" => "ocean",
-                                        "ParaSwap" => "para",
-                                        _ => source_name,
-                                    };
-                                    source_results.push(format!("{}:{}", short_name, pool_count));
-                                }
-                            }
-                            Ok(Err(_)) | Err(_) => {
-                                failed.fetch_add(1, Ordering::Relaxed);
                             }
                         }
+                        (symbol, Err(()))
                     }
+                })
+                .buffer_unordered(20)
+                .collect()
+                .await;
 
-                    pb.inc(1);
-                    
-                    // 두 줄 형식으로 출력
-                    let sources_info = if source_results.is_empty() {
-                        "❌ 없음".to_string()
-                    } else {
-                        format!("({})", source_results.join(", "))
-                    };
-                    println!("{}", symbol);
-                    println!("  {}", sources_info);
-                    
-                    pb.set_message(format!("총 {}개", total_pools.load(Ordering::Relaxed)));
+            // Process results
+            for (symbol, result) in results {
+                match result {
+                    Ok(pools) => {
+                        let filtered: Vec<_> = pools.into_iter()
+                            .filter(|p| self.filter.is_valid(p))
+                            .collect();
+                        
+                        for pool in filtered {
+                            let key = format!("{}:{}:{}", pool.source, pool.chain, pool.pool_address);
+                            self.cache.insert(key, pool);
+                            source_pools += 1;
+                        }
+                        successful.fetch_add(1, Ordering::Relaxed);
+                    }
+                    Err(_) => {
+                        source_failed += 1;
+                        failed.fetch_add(1, Ordering::Relaxed);
+                    }
                 }
-            })
-            .buffer_unordered(5)
-            .collect::<Vec<_>>()
-            .await;
+            }
 
-        pb_total.finish_with_message(format!("✓ {}개 풀 수집 완료", total_pools.load(Ordering::Relaxed)));
+            total_pools.fetch_add(source_pools, Ordering::Relaxed);
+            
+            let elapsed = start.elapsed();
+            println!("   ✓ {} - {}개 풀 ({} 실패) [{:.2}초]",
+                source_name, source_pools, source_failed, elapsed.as_secs_f64());
+        }
+
+        let total = total_pools.load(Ordering::Relaxed);
+        println!("\n─────────────────────────────────────────");
+        println!("✅ 완료: 총 {}개 풀 수집", total);
 
         CollectorResult {
-            total: total_pools.load(Ordering::Relaxed),
+            total,
             successful: successful.load(Ordering::Relaxed),
             failed: failed.load(Ordering::Relaxed),
         }
